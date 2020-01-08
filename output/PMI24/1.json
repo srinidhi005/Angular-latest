@@ -1,0 +1,232 @@
+{
+    "units": "millions",
+    "title": "consolidated statements of earnings",
+    "period": [
+        {
+            "asof": "december312017",
+            "statement": [
+                {
+                    "code": "",
+                    "transformed": "Accounts payable",
+                    "value": 2242000.0,
+                    "desc": "Accounts payable"
+                },
+                {
+                    "code": "",
+                    "transformed": "Accrued liabilities",
+                    "heading": "Accrued liabilities:",
+                    "total": {
+                        "code": "",
+                        "transformed": "Total current liabilities",
+                        "value": 15962000.0,
+                        "desc": "Total current liabilities"
+                    },
+                    "items": [
+                        {
+                            "code": "",
+                            "transformed": "Marketing and selling",
+                            "value": 708000.0,
+                            "desc": "Marketing and selling"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Taxes except income taxes",
+                            "value": 5324000.0,
+                            "desc": "Taxes except income taxes"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Employment costs",
+                            "value": 856000.0,
+                            "desc": "Employment costs"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Dividends payable",
+                            "value": 1669000.0,
+                            "desc": "Dividends payable"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Other",
+                            "value": 1346000.0,
+                            "desc": "Other"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Deferred income taxes",
+                            "value": 799000.0,
+                            "desc": "Deferred income taxes"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Employment costs",
+                            "value": 2271000.0,
+                            "desc": "Employment costs"
+                        }
+                    ],
+                    "total1": {
+                        "code": "",
+                        "transformed": "Total liabilities",
+                        "value": 53198000.0,
+                        "desc": "Total liabilities"
+                    }
+                },
+                {
+                    "items": [
+                        {
+                            "code": "",
+                            "transformed": "Common stock no par value shares issued in and",
+                            "value": "",
+                            "desc": "Common stock no par value -2109316331 shares issued in 2017 and 2016"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Additional paid in capital",
+                            "value": 1972000.0,
+                            "desc": "Additional paid-in capital"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Earnings reinvested in the business",
+                            "value": 29859000.0,
+                            "desc": "Earnings reinvested in the business"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Accumulated other comprehensive losses",
+                            "value": -8535000.0,
+                            "desc": "Accumulated other comprehensive losses"
+                        }
+                    ],
+                    "code": "",
+                    "transformed": "Stockholders deficit equity",
+                    "heading": "Stockholders\u2019 -Deficit Equity"
+                }
+            ]
+        },
+        {
+            "asof": "december312016",
+            "statement": [
+                {
+                    "code": "",
+                    "transformed": "Accounts payable",
+                    "value": 1666000.0,
+                    "desc": "Accounts payable"
+                },
+                {
+                    "code": "",
+                    "transformed": "Accrued liabilities",
+                    "heading": "Accrued liabilities:",
+                    "total": {
+                        "code": "",
+                        "transformed": "Total current liabilities",
+                        "value": 16467000.0,
+                        "desc": "Total current liabilities"
+                    },
+                    "items": [
+                        {
+                            "code": "",
+                            "transformed": "Marketing and selling",
+                            "value": 575000.0,
+                            "desc": "Marketing and selling"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Taxes except income taxes",
+                            "value": 6204000.0,
+                            "desc": "Taxes except income taxes"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Employment costs",
+                            "value": 800000.0,
+                            "desc": "Employment costs"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Dividends payable",
+                            "value": 1621000.0,
+                            "desc": "Dividends payable"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Other",
+                            "value": 1553000.0,
+                            "desc": "Other"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Deferred income taxes",
+                            "value": 1897000.0,
+                            "desc": "Deferred income taxes"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Employment costs",
+                            "value": 2800000.0,
+                            "desc": "Employment costs"
+                        }
+                    ],
+                    "total1": {
+                        "code": "",
+                        "transformed": "Total liabilities",
+                        "value": 47751000.0,
+                        "desc": "Total liabilities"
+                    }
+                },
+                {
+                    "items": [
+                        {
+                            "code": "",
+                            "transformed": "Common stock no par value shares issued in and",
+                            "value": "",
+                            "desc": "Common stock no par value -2109316331 shares issued in 2017 and 2016"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Additional paid in capital",
+                            "value": 1964000.0,
+                            "desc": "Additional paid-in capital"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Earnings reinvested in the business",
+                            "value": 30397000.0,
+                            "desc": "Earnings reinvested in the business"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Accumulated other comprehensive losses",
+                            "value": -9559000.0,
+                            "desc": "Accumulated other comprehensive losses"
+                        }
+                    ],
+                    "code": "",
+                    "transformed": "Stockholders deficit equity",
+                    "heading": "Stockholders\u2019 -Deficit Equity"
+                }
+            ]
+        },
+        {
+            "asof": "december312015",
+            "statement": [
+                {
+                    "items": [],
+                    "code": "",
+                    "transformed": "Accrued liabilities",
+                    "heading": "Accrued liabilities:"
+                },
+                {
+                    "items": [],
+                    "code": "",
+                    "transformed": "Stockholders deficit equity",
+                    "heading": "Stockholders\u2019 -Deficit Equity"
+                }
+            ]
+        }
+    ],
+    "currency": "USD",
+    "company": "",
+    "type": "statement_of_income"
+}

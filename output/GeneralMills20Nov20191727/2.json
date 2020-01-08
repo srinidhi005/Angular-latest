@@ -1,0 +1,631 @@
+{
+    "company": "general mills inc",
+    "title": "consolidated statements of cash flows",
+    "units": "millions",
+    "period": [
+        {
+            "asof": "may272018",
+            "statement": [
+                {
+                    "heading": "Cash Flows - Operating Activities",
+                    "transformed": "Cash flows operating activities",
+                    "items": [],
+                    "code": ""
+                },
+                {
+                    "heading": "Net earnings including earnings attributable to redeemable and",
+                    "transformed": "Net earnings including earnings attributable to redeemable and",
+                    "items": [
+                        {
+                            "transformed": "Noncontrolling interests",
+                            "desc": "noncontrolling interests",
+                            "code": "",
+                            "value": 2163000.0
+                        }
+                    ],
+                    "code": ""
+                },
+                {
+                    "heading": "Adjustments to reconcile net earnings to net cash provided by",
+                    "transformed": "Adjustments to reconcile net earnings to net cash provided by",
+                    "items": [],
+                    "code": ""
+                },
+                {
+                    "heading": "operating activities:",
+                    "transformed": "Operating activities",
+                    "items": [
+                        {
+                            "transformed": "Depreciation and amortization",
+                            "desc": "Depreciation and amortization",
+                            "code": "",
+                            "value": 618800.0
+                        },
+                        {
+                            "transformed": "After tax earnings from joint ventures",
+                            "desc": "After-tax earnings from joint ventures",
+                            "code": "",
+                            "value": -84700.0
+                        },
+                        {
+                            "transformed": "Distributions of earnings from joint ventures",
+                            "desc": "Distributions of earnings from joint ventures",
+                            "code": "",
+                            "value": 113200.0
+                        },
+                        {
+                            "transformed": "Stock based compensation",
+                            "desc": "Stock-based compensation",
+                            "code": "",
+                            "value": 77000.0
+                        },
+                        {
+                            "transformed": "Deferred income taxes",
+                            "desc": "Deferred income taxes",
+                            "code": "",
+                            "value": -504300.0
+                        },
+                        {
+                            "transformed": "Pension and other postretirement benefit plan contributions",
+                            "desc": "Pension and other postretirement benefit plan contributions",
+                            "code": "",
+                            "value": -31800.0
+                        },
+                        {
+                            "transformed": "Pension and other postretirement benefit plan costs",
+                            "desc": "Pension and other postretirement benefit plan costs",
+                            "code": "",
+                            "value": 4600.0
+                        },
+                        {
+                            "transformed": "Divestitures loss gain",
+                            "desc": "Divestitures loss -gain",
+                            "code": "",
+                            "value": "-"
+                        },
+                        {
+                            "transformed": "Restructuring impairment and other exit costs",
+                            "desc": "Restructuring impairment and other exit costs",
+                            "code": "",
+                            "value": 126000.0
+                        }
+                    ],
+                    "code": ""
+                },
+                {
+                    "heading": "Changes in current assets and liabilities excluding the effects of",
+                    "transformed": "Changes in current assets and liabilities excluding the effects of",
+                    "items": [
+                        {
+                            "transformed": "Acquisitions and divestitures",
+                            "desc": "acquisitions and divestitures",
+                            "code": "",
+                            "value": 542100.0
+                        },
+                        {
+                            "transformed": "Other net",
+                            "desc": "Other net",
+                            "code": "",
+                            "value": -182900.0
+                        },
+                        {
+                            "transformed": "Net cash provided by operating activities",
+                            "desc": "Net cash provided by operating activities",
+                            "code": "",
+                            "value": 2841000.0
+                        }
+                    ],
+                    "code": ""
+                },
+                {
+                    "heading": "Cash Flows - Investing Activities",
+                    "transformed": "Cash flows investing activities",
+                    "items": [
+                        {
+                            "transformed": "Purchases of land buildings and equipment",
+                            "desc": "Purchases of land buildings and equipment",
+                            "code": "",
+                            "value": -622700.0
+                        },
+                        {
+                            "transformed": "Acquisitions net of cash acquired",
+                            "desc": "Acquisitions net of cash acquired",
+                            "code": "",
+                            "value": -8035800.0
+                        },
+                        {
+                            "transformed": "Investments in affiliates net",
+                            "desc": "Investments in affiliates net",
+                            "code": "",
+                            "value": -17300.0
+                        },
+                        {
+                            "transformed": "Proceeds from disposal of land buildings and equipment",
+                            "desc": "Proceeds from disposal of land buildings and equipment",
+                            "code": "",
+                            "value": 1400.0
+                        },
+                        {
+                            "transformed": "Proceeds from divestitures",
+                            "desc": "Proceeds from divestitures",
+                            "code": "",
+                            "value": "-"
+                        },
+                        {
+                            "transformed": "Exchangeable note",
+                            "desc": "Exchangeable note",
+                            "code": "",
+                            "value": "-"
+                        },
+                        {
+                            "transformed": "Other net",
+                            "desc": "Other net",
+                            "code": "",
+                            "value": -11000.0
+                        },
+                        {
+                            "transformed": "Net cash provided used by investing activities",
+                            "desc": "Net cash provided -used by investing activities",
+                            "code": "",
+                            "value": -8685400.0
+                        }
+                    ],
+                    "code": ""
+                },
+                {
+                    "heading": "Cash Flows - Financing Activities",
+                    "transformed": "Cash flows financing activities",
+                    "items": [
+                        {
+                            "transformed": "Change in notes payable",
+                            "desc": "Change in notes payable",
+                            "code": "",
+                            "value": 327500.0
+                        },
+                        {
+                            "transformed": "Issuance of long term debt",
+                            "desc": "Issuance of long-term debt",
+                            "code": "",
+                            "value": 6550000.0
+                        },
+                        {
+                            "transformed": "Payment of long term debt",
+                            "desc": "Payment of long-term debt",
+                            "code": "",
+                            "value": -600100.0
+                        },
+                        {
+                            "transformed": "Proceeds from common stock issued on exercised options",
+                            "desc": "Proceeds from common stock issued on exercised options",
+                            "code": "",
+                            "value": 99300.0
+                        },
+                        {
+                            "transformed": "Proceeds from common stock issued",
+                            "desc": "Proceeds from common stock issued",
+                            "code": "",
+                            "value": 969900.0
+                        },
+                        {
+                            "transformed": "Purchases of common stock for treasury",
+                            "desc": "Purchases of common stock for treasury",
+                            "code": "",
+                            "value": -601600.0
+                        },
+                        {
+                            "transformed": "Dividends paid",
+                            "desc": "Dividends paid",
+                            "code": "",
+                            "value": -1139700.0
+                        },
+                        {
+                            "transformed": "Distributions to noncontrolling and redeemable interest holders",
+                            "desc": "Distributions to noncontrolling and redeemable interest holders",
+                            "code": "",
+                            "value": -51800.0
+                        },
+                        {
+                            "transformed": "Other net",
+                            "desc": "Other net",
+                            "code": "",
+                            "value": -108000.0
+                        },
+                        {
+                            "transformed": "Net cash provided used by financing activities",
+                            "desc": "Net cash provided -used by financing activities",
+                            "code": "",
+                            "value": 5445500.0
+                        }
+                    ],
+                    "code": ""
+                },
+                {
+                    "transformed": "Effect of exchange rate changes on cash and cash equivalents",
+                    "desc": "Effect of exchange rate changes on cash and cash equivalents",
+                    "code": "",
+                    "value": 31800.0
+                },
+                {
+                    "transformed": "Net change in cash",
+                    "desc": "Increase -decrease in cash and cash equivalents",
+                    "code": "AM_CF_CI",
+                    "value": -367100.0
+                },
+                {
+                    "transformed": "Cash beginning",
+                    "desc": "Cash and cash equivalents - beginning of year",
+                    "code": "AM_CF_BC",
+                    "value": 766100.0
+                },
+                {
+                    "transformed": "Cash ending",
+                    "desc": "Cash and cash equivalents - end of year",
+                    "code": "AM_CF_EC",
+                    "value": 399000.0
+                },
+                {
+                    "heading": "Cash Flow from Changes in Current Assets and Liabilities excluding",
+                    "transformed": "Cash flow from changes in current assets and liabilities excluding",
+                    "items": [],
+                    "code": ""
+                },
+                {
+                    "heading": "the effects of acquisitions and divestitures:",
+                    "transformed": "The effects of acquisitions and divestitures",
+                    "items": [
+                        {
+                            "transformed": "Accounts receivable",
+                            "desc": "Receivables",
+                            "code": "AM_BS_AR",
+                            "value": -122700.0
+                        },
+                        {
+                            "transformed": "Inventories",
+                            "desc": "Inventories",
+                            "code": "",
+                            "value": 15600.0
+                        },
+                        {
+                            "transformed": "Other current assets",
+                            "desc": "Prepaid expenses and other current assets",
+                            "code": "AM_BS_OCA",
+                            "value": -10700.0
+                        },
+                        {
+                            "transformed": "Accounts payable",
+                            "desc": "Accounts payable",
+                            "code": "",
+                            "value": 575300.0
+                        },
+                        {
+                            "transformed": "Other current liabilities",
+                            "desc": "Other current liabilities",
+                            "code": "",
+                            "value": 84600.0
+                        }
+                    ],
+                    "code": ""
+                },
+                {
+                    "transformed": "Changes in current assets and liabilities",
+                    "desc": "Changes in current assets and liabilities",
+                    "code": "",
+                    "value": 542100.0
+                }
+            ]
+        },
+        {
+            "asof": "may282017",
+            "statement": [
+                {
+                    "heading": "Cash Flows - Operating Activities",
+                    "transformed": "Cash flows operating activities",
+                    "items": [],
+                    "code": ""
+                },
+                {
+                    "heading": "Net earnings including earnings attributable to redeemable and",
+                    "transformed": "Net earnings including earnings attributable to redeemable and",
+                    "items": [
+                        {
+                            "transformed": "Noncontrolling interests",
+                            "desc": "noncontrolling interests",
+                            "code": "",
+                            "value": 1701100.0
+                        }
+                    ],
+                    "code": ""
+                },
+                {
+                    "heading": "Adjustments to reconcile net earnings to net cash provided by",
+                    "transformed": "Adjustments to reconcile net earnings to net cash provided by",
+                    "items": [],
+                    "code": ""
+                },
+                {
+                    "heading": "operating activities:",
+                    "transformed": "Operating activities",
+                    "items": [
+                        {
+                            "transformed": "Depreciation and amortization",
+                            "desc": "Depreciation and amortization",
+                            "code": "",
+                            "value": 603600.0
+                        },
+                        {
+                            "transformed": "After tax earnings from joint ventures",
+                            "desc": "After-tax earnings from joint ventures",
+                            "code": "",
+                            "value": -85000.0
+                        },
+                        {
+                            "transformed": "Distributions of earnings from joint ventures",
+                            "desc": "Distributions of earnings from joint ventures",
+                            "code": "",
+                            "value": 75600.0
+                        },
+                        {
+                            "transformed": "Stock based compensation",
+                            "desc": "Stock-based compensation",
+                            "code": "",
+                            "value": 95700.0
+                        },
+                        {
+                            "transformed": "Deferred income taxes",
+                            "desc": "Deferred income taxes",
+                            "code": "",
+                            "value": 183900.0
+                        },
+                        {
+                            "transformed": "Pension and other postretirement benefit plan contributions",
+                            "desc": "Pension and other postretirement benefit plan contributions",
+                            "code": "",
+                            "value": -45400.0
+                        },
+                        {
+                            "transformed": "Pension and other postretirement benefit plan costs",
+                            "desc": "Pension and other postretirement benefit plan costs",
+                            "code": "",
+                            "value": 35700.0
+                        },
+                        {
+                            "transformed": "Divestitures loss gain",
+                            "desc": "Divestitures loss -gain",
+                            "code": "",
+                            "value": 13500.0
+                        },
+                        {
+                            "transformed": "Restructuring impairment and other exit costs",
+                            "desc": "Restructuring impairment and other exit costs",
+                            "code": "",
+                            "value": 117000.0
+                        }
+                    ],
+                    "code": ""
+                },
+                {
+                    "heading": "Changes in current assets and liabilities excluding the effects of",
+                    "transformed": "Changes in current assets and liabilities excluding the effects of",
+                    "items": [
+                        {
+                            "transformed": "Acquisitions and divestitures",
+                            "desc": "acquisitions and divestitures",
+                            "code": "",
+                            "value": -194200.0
+                        },
+                        {
+                            "transformed": "Other net",
+                            "desc": "Other net",
+                            "code": "",
+                            "value": -86300.0
+                        },
+                        {
+                            "transformed": "Net cash provided by operating activities",
+                            "desc": "Net cash provided by operating activities",
+                            "code": "",
+                            "value": 2415200.0
+                        }
+                    ],
+                    "code": ""
+                },
+                {
+                    "heading": "Cash Flows - Investing Activities",
+                    "transformed": "Cash flows investing activities",
+                    "items": [
+                        {
+                            "transformed": "Purchases of land buildings and equipment",
+                            "desc": "Purchases of land buildings and equipment",
+                            "code": "",
+                            "value": -684400.0
+                        },
+                        {
+                            "transformed": "Acquisitions net of cash acquired",
+                            "desc": "Acquisitions net of cash acquired",
+                            "code": "",
+                            "value": "-"
+                        },
+                        {
+                            "transformed": "Investments in affiliates net",
+                            "desc": "Investments in affiliates net",
+                            "code": "",
+                            "value": 3300.0
+                        },
+                        {
+                            "transformed": "Proceeds from disposal of land buildings and equipment",
+                            "desc": "Proceeds from disposal of land buildings and equipment",
+                            "code": "",
+                            "value": 4200.0
+                        },
+                        {
+                            "transformed": "Proceeds from divestitures",
+                            "desc": "Proceeds from divestitures",
+                            "code": "",
+                            "value": 17500.0
+                        },
+                        {
+                            "transformed": "Exchangeable note",
+                            "desc": "Exchangeable note",
+                            "code": "",
+                            "value": 13000.0
+                        },
+                        {
+                            "transformed": "Other net",
+                            "desc": "Other net",
+                            "code": "",
+                            "value": -500.0
+                        },
+                        {
+                            "transformed": "Net cash provided used by investing activities",
+                            "desc": "Net cash provided -used by investing activities",
+                            "code": "",
+                            "value": -646900.0
+                        }
+                    ],
+                    "code": ""
+                },
+                {
+                    "heading": "Cash Flows - Financing Activities",
+                    "transformed": "Cash flows financing activities",
+                    "items": [
+                        {
+                            "transformed": "Change in notes payable",
+                            "desc": "Change in notes payable",
+                            "code": "",
+                            "value": 962400.0
+                        },
+                        {
+                            "transformed": "Issuance of long term debt",
+                            "desc": "Issuance of long-term debt",
+                            "code": "",
+                            "value": 1072100.0
+                        },
+                        {
+                            "transformed": "Payment of long term debt",
+                            "desc": "Payment of long-term debt",
+                            "code": "",
+                            "value": -1000000.0
+                        },
+                        {
+                            "transformed": "Proceeds from common stock issued on exercised options",
+                            "desc": "Proceeds from common stock issued on exercised options",
+                            "code": "",
+                            "value": 112600.0
+                        },
+                        {
+                            "transformed": "Proceeds from common stock issued",
+                            "desc": "Proceeds from common stock issued",
+                            "code": "",
+                            "value": "-"
+                        },
+                        {
+                            "transformed": "Purchases of common stock for treasury",
+                            "desc": "Purchases of common stock for treasury",
+                            "code": "",
+                            "value": -1651500.0
+                        },
+                        {
+                            "transformed": "Dividends paid",
+                            "desc": "Dividends paid",
+                            "code": "",
+                            "value": -1135100.0
+                        },
+                        {
+                            "transformed": "Distributions to noncontrolling and redeemable interest holders",
+                            "desc": "Distributions to noncontrolling and redeemable interest holders",
+                            "code": "",
+                            "value": -61000.0
+                        },
+                        {
+                            "transformed": "Other net",
+                            "desc": "Other net",
+                            "code": "",
+                            "value": -46900.0
+                        },
+                        {
+                            "transformed": "Net cash provided used by financing activities",
+                            "desc": "Net cash provided -used by financing activities",
+                            "code": "",
+                            "value": -1747400.0
+                        }
+                    ],
+                    "code": ""
+                },
+                {
+                    "transformed": "Effect of exchange rate changes on cash and cash equivalents",
+                    "desc": "Effect of exchange rate changes on cash and cash equivalents",
+                    "code": "",
+                    "value": -18500.0
+                },
+                {
+                    "transformed": "Net change in cash",
+                    "desc": "Increase -decrease in cash and cash equivalents",
+                    "code": "AM_CF_CI",
+                    "value": 2400.0
+                },
+                {
+                    "transformed": "Cash beginning",
+                    "desc": "Cash and cash equivalents - beginning of year",
+                    "code": "AM_CF_BC",
+                    "value": 763700.0
+                },
+                {
+                    "transformed": "Cash ending",
+                    "desc": "Cash and cash equivalents - end of year",
+                    "code": "AM_CF_EC",
+                    "value": 766100.0
+                },
+                {
+                    "heading": "Cash Flow from Changes in Current Assets and Liabilities excluding",
+                    "transformed": "Cash flow from changes in current assets and liabilities excluding",
+                    "items": [],
+                    "code": ""
+                },
+                {
+                    "heading": "the effects of acquisitions and divestitures:",
+                    "transformed": "The effects of acquisitions and divestitures",
+                    "items": [
+                        {
+                            "transformed": "Accounts receivable",
+                            "desc": "Receivables",
+                            "code": "AM_BS_AR",
+                            "value": -69200.0
+                        },
+                        {
+                            "transformed": "Inventories",
+                            "desc": "Inventories",
+                            "code": "",
+                            "value": -61500.0
+                        },
+                        {
+                            "transformed": "Other current assets",
+                            "desc": "Prepaid expenses and other current assets",
+                            "code": "AM_BS_OCA",
+                            "value": 16600.0
+                        },
+                        {
+                            "transformed": "Accounts payable",
+                            "desc": "Accounts payable",
+                            "code": "",
+                            "value": 99500.0
+                        },
+                        {
+                            "transformed": "Other current liabilities",
+                            "desc": "Other current liabilities",
+                            "code": "",
+                            "value": -179600.0
+                        }
+                    ],
+                    "code": ""
+                },
+                {
+                    "transformed": "Changes in current assets and liabilities",
+                    "desc": "Changes in current assets and liabilities",
+                    "code": "",
+                    "value": -194200.0
+                }
+            ]
+        }
+    ],
+    "currency": "USD",
+    "type": "cash_flow_statement"
+}

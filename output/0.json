@@ -1,0 +1,835 @@
+{
+    "title": "cash_flow_statement",
+    "type": "cash_flow_statement",
+    "company": "  TAPESTRY INC      \n",
+    "period": [
+        {
+            "asof": "30JUN2015",
+            "statement": [
+                {
+                    "heading": "INDIRECT OPERATING ACTIVITIES ",
+                    "code": "",
+                    "transformed": "Indirect operating activities",
+                    "items": []
+                },
+                {
+                    "desc": "Income Before Extraordinary Items ",
+                    "code": "",
+                    "transformed": "Income before extraordinary items",
+                    "value": 402.4
+                },
+                {
+                    "desc": "Depreciation and Amortizations ",
+                    "code": "",
+                    "transformed": "Depreciation and amortizations",
+                    "value": 191.8
+                },
+                {
+                    "desc": "Extraordinary Items and Disc Operations ",
+                    "code": "",
+                    "transformed": "Extraordinary items and disc operations",
+                    "value": 0.0
+                },
+                {
+                    "desc": "Deferred Taxes ",
+                    "code": "",
+                    "transformed": "Deferred taxes",
+                    "value": 21.5
+                },
+                {
+                    "heading": "Equity in Net Loss Earnings ",
+                    "code": "",
+                    "transformed": "Equity in net loss earnings",
+                    "items": [
+                        {
+                            "desc": "Sale of PPEq and Investments Loss Gain ",
+                            "code": "",
+                            "transformed": "Sale of ppeq and investments loss gain",
+                            "value": 0.0
+                        },
+                        {
+                            "desc": "Funds from Operations Other ",
+                            "code": "",
+                            "transformed": "Funds from operations other",
+                            "value": 152.7
+                        },
+                        {
+                            "desc": "Receivables Decrease Increase ",
+                            "code": "",
+                            "transformed": "Receivables decrease increase",
+                            "value": 300.0
+                        },
+                        {
+                            "desc": "Inventory Decrease Increase ",
+                            "code": "",
+                            "transformed": "Inventory decrease increase",
+                            "value": 29.2
+                        },
+                        {
+                            "desc": "Accounts P and Accrued Liabs Inc Dec ",
+                            "code": "",
+                            "transformed": "Accounts p and accrued liabs inc dec",
+                            "value": 127.6
+                        },
+                        {
+                            "desc": "Income Taxes Accrued Increase Decrease ",
+                            "code": "",
+                            "transformed": "Income taxes accrued increase decrease",
+                            "value": 0.0
+                        },
+                        {
+                            "desc": "Other Assets and Liabilities Net Change ",
+                            "code": "",
+                            "transformed": "Other assets and liabilities net change",
+                            "value": 11.9
+                        },
+                        {
+                            "desc": "Operating Actiities Net Cash Flow ",
+                            "code": "",
+                            "transformed": "Operating actiities net cash flow",
+                            "value": 937.4
+                        }
+                    ]
+                },
+                {
+                    "heading": "INVESTING ACTIVITIES ",
+                    "code": "",
+                    "transformed": "Investing activities",
+                    "items": [
+                        {
+                            "desc": "Investments Increase ",
+                            "code": "",
+                            "transformed": "Investments increase",
+                            "value": 188.7
+                        },
+                        {
+                            "desc": "Sale of Investments ",
+                            "code": "",
+                            "transformed": "Sale of investments",
+                            "value": 305.2
+                        }
+                    ]
+                },
+                {
+                    "heading": "Short term Investments Change ",
+                    "code": "",
+                    "transformed": "Short term investments change",
+                    "items": [
+                        {
+                            "desc": "Capital Expenditures ",
+                            "code": "",
+                            "transformed": "Capital expenditures",
+                            "value": 199.3
+                        },
+                        {
+                            "desc": "Sale of Property Plant and Equipment ",
+                            "code": "",
+                            "transformed": "Sale of property plant and equipment",
+                            "value": 0.0
+                        },
+                        {
+                            "desc": "Acquisitions ",
+                            "code": "",
+                            "transformed": "Acquisitions",
+                            "value": 519.6
+                        },
+                        {
+                            "desc": "Investing Activities Other ",
+                            "code": "",
+                            "transformed": "Investing activities other",
+                            "value": -10.5
+                        },
+                        {
+                            "desc": "Investing Activites Net Cash Flow ",
+                            "code": "",
+                            "transformed": "Investing activites net cash flow",
+                            "value": -612.9
+                        }
+                    ]
+                },
+                {
+                    "heading": "FINANCING ACTIVITIES ",
+                    "code": "",
+                    "transformed": "Financing activities",
+                    "items": [
+                        {
+                            "desc": "Sale of Common and Preferred Stock ",
+                            "code": "",
+                            "transformed": "Sale of common and preferred stock",
+                            "value": 36.5
+                        },
+                        {
+                            "desc": "Purchase of Common and Preferred Stock ",
+                            "code": "",
+                            "transformed": "Purchase of common and preferred stock",
+                            "value": 0.0
+                        },
+                        {
+                            "desc": "Cash Dividends ",
+                            "code": "",
+                            "transformed": "Cash dividends",
+                            "value": 371.8
+                        },
+                        {
+                            "desc": "Long Term Debt Issuance ",
+                            "code": "",
+                            "transformed": "Long term debt issuance",
+                            "value": 896.7
+                        },
+                        {
+                            "desc": "Long Term Debt Reduction ",
+                            "code": "",
+                            "transformed": "Long term debt reduction",
+                            "value": 500.0
+                        },
+                        {
+                            "desc": "Current Debt Changes ",
+                            "code": "",
+                            "transformed": "Current debt changes",
+                            "value": -140.0
+                        },
+                        {
+                            "desc": "Financing Activities Other ",
+                            "code": "",
+                            "transformed": "Financing activities other",
+                            "value": -26.0
+                        },
+                        {
+                            "desc": "Financing Activities Net Cash Flow ",
+                            "code": "",
+                            "transformed": "Financing activities net cash flow",
+                            "value": 389.3
+                        },
+                        {
+                            "desc": "Exchange Rate Effect ",
+                            "code": "",
+                            "transformed": "Exchange rate effect",
+                            "value": -13.9
+                        },
+                        {
+                            "desc": "Cash and Cash Equivalents Change ",
+                            "code": "",
+                            "transformed": "Cash and cash equivalents change",
+                            "value": 699.9
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "asof": "30JUN2016",
+            "statement": [
+                {
+                    "heading": "INDIRECT OPERATING ACTIVITIES ",
+                    "code": "",
+                    "transformed": "Indirect operating activities",
+                    "items": []
+                },
+                {
+                    "desc": "Income Before Extraordinary Items ",
+                    "code": "",
+                    "transformed": "Income before extraordinary items",
+                    "value": 460.5
+                },
+                {
+                    "desc": "Depreciation and Amortizations ",
+                    "code": "",
+                    "transformed": "Depreciation and amortizations",
+                    "value": 210.6
+                },
+                {
+                    "desc": "Extraordinary Items and Disc Operations ",
+                    "code": "",
+                    "transformed": "Extraordinary items and disc operations",
+                    "value": 0.0
+                },
+                {
+                    "desc": "Deferred Taxes ",
+                    "code": "",
+                    "transformed": "Deferred taxes",
+                    "value": -52.3
+                },
+                {
+                    "heading": "Equity in Net Loss Earnings ",
+                    "code": "",
+                    "transformed": "Equity in net loss earnings",
+                    "items": [
+                        {
+                            "desc": "Sale of PPEq and Investments Loss Gain ",
+                            "code": "",
+                            "transformed": "Sale of ppeq and investments loss gain",
+                            "value": 0.0
+                        },
+                        {
+                            "desc": "Funds from Operations Other ",
+                            "code": "",
+                            "transformed": "Funds from operations other",
+                            "value": 102.5
+                        },
+                        {
+                            "desc": "Receivables Decrease Increase ",
+                            "code": "",
+                            "transformed": "Receivables decrease increase",
+                            "value": -28.3
+                        },
+                        {
+                            "desc": "Inventory Decrease Increase ",
+                            "code": "",
+                            "transformed": "Inventory decrease increase",
+                            "value": 40.7
+                        },
+                        {
+                            "desc": "Accounts P and Accrued Liabs Inc Dec ",
+                            "code": "",
+                            "transformed": "Accounts p and accrued liabs inc dec",
+                            "value": -18.3
+                        },
+                        {
+                            "desc": "Income Taxes Accrued Increase Decrease ",
+                            "code": "",
+                            "transformed": "Income taxes accrued increase decrease",
+                            "value": 0.0
+                        },
+                        {
+                            "desc": "Other Assets and Liabilities Net Change ",
+                            "code": "",
+                            "transformed": "Other assets and liabilities net change",
+                            "value": 43.2
+                        },
+                        {
+                            "desc": "Operating Actiities Net Cash Flow ",
+                            "code": "",
+                            "transformed": "Operating actiities net cash flow",
+                            "value": 758.6
+                        }
+                    ]
+                },
+                {
+                    "heading": "INVESTING ACTIVITIES ",
+                    "code": "",
+                    "transformed": "Investing activities",
+                    "items": [
+                        {
+                            "desc": "Investments Increase ",
+                            "code": "",
+                            "transformed": "Investments increase",
+                            "value": 805.0
+                        },
+                        {
+                            "desc": "Sale of Investments ",
+                            "code": "",
+                            "transformed": "Sale of investments",
+                            "value": 425.9
+                        }
+                    ]
+                },
+                {
+                    "heading": "Short term Investments Change ",
+                    "code": "",
+                    "transformed": "Short term investments change",
+                    "items": [
+                        {
+                            "desc": "Capital Expenditures ",
+                            "code": "",
+                            "transformed": "Capital expenditures",
+                            "value": 396.4
+                        },
+                        {
+                            "desc": "Sale of Property Plant and Equipment ",
+                            "code": "",
+                            "transformed": "Sale of property plant and equipment",
+                            "value": 0.0
+                        },
+                        {
+                            "desc": "Acquisitions ",
+                            "code": "",
+                            "transformed": "Acquisitions",
+                            "value": 25.6
+                        },
+                        {
+                            "desc": "Investing Activities Other ",
+                            "code": "",
+                            "transformed": "Investing activities other",
+                            "value": -8.9
+                        },
+                        {
+                            "desc": "Investing Activites Net Cash Flow ",
+                            "code": "",
+                            "transformed": "Investing activites net cash flow",
+                            "value": -810.0
+                        }
+                    ]
+                },
+                {
+                    "heading": "FINANCING ACTIVITIES ",
+                    "code": "",
+                    "transformed": "Financing activities",
+                    "items": [
+                        {
+                            "desc": "Sale of Common and Preferred Stock ",
+                            "code": "",
+                            "transformed": "Sale of common and preferred stock",
+                            "value": 29.1
+                        },
+                        {
+                            "desc": "Purchase of Common and Preferred Stock ",
+                            "code": "",
+                            "transformed": "Purchase of common and preferred stock",
+                            "value": 0.0
+                        },
+                        {
+                            "desc": "Cash Dividends ",
+                            "code": "",
+                            "transformed": "Cash dividends",
+                            "value": 374.5
+                        },
+                        {
+                            "desc": "Long Term Debt Issuance ",
+                            "code": "",
+                            "transformed": "Long term debt issuance",
+                            "value": 0.0
+                        },
+                        {
+                            "desc": "Long Term Debt Reduction ",
+                            "code": "",
+                            "transformed": "Long term debt reduction",
+                            "value": 15.0
+                        },
+                        {
+                            "desc": "Financing Activities Other ",
+                            "code": "",
+                            "transformed": "Financing activities other",
+                            "value": -15.5
+                        },
+                        {
+                            "desc": "Financing Activities Net Cash Flow ",
+                            "code": "",
+                            "transformed": "Financing activities net cash flow",
+                            "value": -384.9
+                        },
+                        {
+                            "desc": "Exchange Rate Effect ",
+                            "code": "",
+                            "transformed": "Exchange rate effect",
+                            "value": 3.5
+                        },
+                        {
+                            "desc": "Cash and Cash Equivalents Change ",
+                            "code": "",
+                            "transformed": "Cash and cash equivalents change",
+                            "value": -432.8
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "asof": "30JUN2017",
+            "statement": [
+                {
+                    "heading": "INDIRECT OPERATING ACTIVITIES ",
+                    "code": "",
+                    "transformed": "Indirect operating activities",
+                    "items": []
+                },
+                {
+                    "desc": "Income Before Extraordinary Items ",
+                    "code": "",
+                    "transformed": "Income before extraordinary items",
+                    "value": 591.0
+                },
+                {
+                    "desc": "Depreciation and Amortizations ",
+                    "code": "",
+                    "transformed": "Depreciation and amortizations",
+                    "value": 212.8
+                },
+                {
+                    "desc": "Extraordinary Items and Disc Operations ",
+                    "code": "",
+                    "transformed": "Extraordinary items and disc operations",
+                    "value": 0.0
+                },
+                {
+                    "desc": "Deferred Taxes ",
+                    "code": "",
+                    "transformed": "Deferred taxes",
+                    "value": 78.0
+                },
+                {
+                    "heading": "Equity in Net Loss Earnings ",
+                    "code": "",
+                    "transformed": "Equity in net loss earnings",
+                    "items": [
+                        {
+                            "desc": "Sale of PPEq and Investments Loss Gain ",
+                            "code": "",
+                            "transformed": "Sale of ppeq and investments loss gain",
+                            "value": 0.0
+                        },
+                        {
+                            "desc": "Funds from Operations Other ",
+                            "code": "",
+                            "transformed": "Funds from operations other",
+                            "value": 68.5
+                        },
+                        {
+                            "desc": "Receivables Decrease Increase ",
+                            "code": "",
+                            "transformed": "Receivables decrease increase",
+                            "value": -29.4
+                        },
+                        {
+                            "desc": "Inventory Decrease Increase ",
+                            "code": "",
+                            "transformed": "Inventory decrease increase",
+                            "value": -20.0
+                        },
+                        {
+                            "desc": "Accounts P and Accrued Liabs Inc Dec ",
+                            "code": "",
+                            "transformed": "Accounts p and accrued liabs inc dec",
+                            "value": -41.7
+                        },
+                        {
+                            "desc": "Income Taxes Accrued Increase Decrease ",
+                            "code": "",
+                            "transformed": "Income taxes accrued increase decrease",
+                            "value": 0.0
+                        },
+                        {
+                            "desc": "Other Assets and Liabilities Net Change ",
+                            "code": "",
+                            "transformed": "Other assets and liabilities net change",
+                            "value": -5.4
+                        },
+                        {
+                            "desc": "Operating Actiities Net Cash Flow ",
+                            "code": "",
+                            "transformed": "Operating actiities net cash flow",
+                            "value": 853.8
+                        }
+                    ]
+                },
+                {
+                    "heading": "INVESTING ACTIVITIES ",
+                    "code": "",
+                    "transformed": "Investing activities",
+                    "items": [
+                        {
+                            "desc": "Investments Increase ",
+                            "code": "",
+                            "transformed": "Investments increase",
+                            "value": 523.5
+                        },
+                        {
+                            "desc": "Sale of Investments ",
+                            "code": "",
+                            "transformed": "Sale of investments",
+                            "value": 1271.8
+                        }
+                    ]
+                },
+                {
+                    "heading": "Short term Investments Change ",
+                    "code": "",
+                    "transformed": "Short term investments change",
+                    "items": [
+                        {
+                            "desc": "Capital Expenditures ",
+                            "code": "",
+                            "transformed": "Capital expenditures",
+                            "value": 283.1
+                        },
+                        {
+                            "desc": "Sale of Property Plant and Equipment ",
+                            "code": "",
+                            "transformed": "Sale of property plant and equipment",
+                            "value": 0.0
+                        },
+                        {
+                            "desc": "Acquisitions ",
+                            "code": "",
+                            "transformed": "Acquisitions",
+                            "value": 0.0
+                        },
+                        {
+                            "desc": "Investing Activities Other ",
+                            "code": "",
+                            "transformed": "Investing activities other",
+                            "value": 127.8
+                        },
+                        {
+                            "desc": "Investing Activites Net Cash Flow ",
+                            "code": "",
+                            "transformed": "Investing activites net cash flow",
+                            "value": 593.0
+                        }
+                    ]
+                },
+                {
+                    "heading": "FINANCING ACTIVITIES ",
+                    "code": "",
+                    "transformed": "Financing activities",
+                    "items": [
+                        {
+                            "desc": "Sale of Common and Preferred Stock ",
+                            "code": "",
+                            "transformed": "Sale of common and preferred stock",
+                            "value": 70.4
+                        },
+                        {
+                            "desc": "Purchase of Common and Preferred Stock ",
+                            "code": "",
+                            "transformed": "Purchase of common and preferred stock",
+                            "value": 21.5
+                        },
+                        {
+                            "desc": "Cash Dividends ",
+                            "code": "",
+                            "transformed": "Cash dividends",
+                            "value": 378.0
+                        },
+                        {
+                            "desc": "Long Term Debt Issuance ",
+                            "code": "",
+                            "transformed": "Long term debt issuance",
+                            "value": 997.2
+                        },
+                        {
+                            "desc": "Long Term Debt Reduction ",
+                            "code": "",
+                            "transformed": "Long term debt reduction",
+                            "value": 285.0
+                        },
+                        {
+                            "desc": "Financing Activities Other ",
+                            "code": "",
+                            "transformed": "Financing activities other",
+                            "value": -9.8
+                        },
+                        {
+                            "desc": "Financing Activities Net Cash Flow ",
+                            "code": "",
+                            "transformed": "Financing activities net cash flow",
+                            "value": 369.5
+                        },
+                        {
+                            "desc": "Exchange Rate Effect ",
+                            "code": "",
+                            "transformed": "Exchange rate effect",
+                            "value": -2.4
+                        },
+                        {
+                            "desc": "Cash and Cash Equivalents Change ",
+                            "code": "",
+                            "transformed": "Cash and cash equivalents change",
+                            "value": 1813.9
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "asof": "30JUN2018",
+            "statement": [
+                {
+                    "heading": "INDIRECT OPERATING ACTIVITIES ",
+                    "code": "",
+                    "transformed": "Indirect operating activities",
+                    "items": []
+                },
+                {
+                    "desc": "Income Before Extraordinary Items ",
+                    "code": "",
+                    "transformed": "Income before extraordinary items",
+                    "value": 397.5
+                },
+                {
+                    "desc": "Depreciation and Amortizations ",
+                    "code": "",
+                    "transformed": "Depreciation and amortizations",
+                    "value": 260.3
+                },
+                {
+                    "desc": "Extraordinary Items and Disc Operations ",
+                    "code": "",
+                    "transformed": "Extraordinary items and disc operations",
+                    "value": 0.0
+                },
+                {
+                    "desc": "Deferred Taxes ",
+                    "code": "",
+                    "transformed": "Deferred taxes",
+                    "value": -50.9
+                },
+                {
+                    "heading": "Equity in Net Loss Earnings ",
+                    "code": "",
+                    "transformed": "Equity in net loss earnings",
+                    "items": [
+                        {
+                            "desc": "Sale of PPEq and Investments Loss Gain ",
+                            "code": "",
+                            "transformed": "Sale of ppeq and investments loss gain",
+                            "value": 0.0
+                        },
+                        {
+                            "desc": "Funds from Operations Other ",
+                            "code": "",
+                            "transformed": "Funds from operations other",
+                            "value": 220.6
+                        },
+                        {
+                            "desc": "Receivables Decrease Increase ",
+                            "code": "",
+                            "transformed": "Receivables decrease increase",
+                            "value": -5.6
+                        },
+                        {
+                            "desc": "Inventory Decrease Increase ",
+                            "code": "",
+                            "transformed": "Inventory decrease increase",
+                            "value": 30.4
+                        },
+                        {
+                            "desc": "Accounts P and Accrued Liabs Inc Dec ",
+                            "code": "",
+                            "transformed": "Accounts p and accrued liabs inc dec",
+                            "value": -94.2
+                        },
+                        {
+                            "desc": "Income Taxes Accrued Increase Decrease ",
+                            "code": "",
+                            "transformed": "Income taxes accrued increase decrease",
+                            "value": 0.0
+                        },
+                        {
+                            "desc": "Other Assets and Liabilities Net Change ",
+                            "code": "",
+                            "transformed": "Other assets and liabilities net change",
+                            "value": 238.6
+                        },
+                        {
+                            "desc": "Operating Actiities Net Cash Flow ",
+                            "code": "",
+                            "transformed": "Operating actiities net cash flow",
+                            "value": 996.7
+                        }
+                    ]
+                },
+                {
+                    "heading": "INVESTING ACTIVITIES ",
+                    "code": "",
+                    "transformed": "Investing activities",
+                    "items": [
+                        {
+                            "desc": "Investments Increase ",
+                            "code": "",
+                            "transformed": "Investments increase",
+                            "value": 3.8
+                        },
+                        {
+                            "desc": "Sale of Investments ",
+                            "code": "",
+                            "transformed": "Sale of investments",
+                            "value": 482.2
+                        }
+                    ]
+                },
+                {
+                    "heading": "Short term Investments Change ",
+                    "code": "",
+                    "transformed": "Short term investments change",
+                    "items": [
+                        {
+                            "desc": "Capital Expenditures ",
+                            "code": "",
+                            "transformed": "Capital expenditures",
+                            "value": 267.4
+                        },
+                        {
+                            "desc": "Acquisitions ",
+                            "code": "",
+                            "transformed": "Acquisitions",
+                            "value": 2375.8
+                        },
+                        {
+                            "desc": "Investing Activities Other ",
+                            "code": "",
+                            "transformed": "Investing activities other",
+                            "value": 0.0
+                        },
+                        {
+                            "desc": "Investing Activites Net Cash Flow ",
+                            "code": "",
+                            "transformed": "Investing activites net cash flow",
+                            "value": -2164.8
+                        }
+                    ]
+                },
+                {
+                    "heading": "FINANCING ACTIVITIES ",
+                    "code": "",
+                    "transformed": "Financing activities",
+                    "items": [
+                        {
+                            "desc": "Sale of Common and Preferred Stock ",
+                            "code": "",
+                            "transformed": "Sale of common and preferred stock",
+                            "value": 165.7
+                        },
+                        {
+                            "desc": "Purchase of Common and Preferred Stock ",
+                            "code": "",
+                            "transformed": "Purchase of common and preferred stock",
+                            "value": 31.5
+                        },
+                        {
+                            "desc": "Cash Dividends ",
+                            "code": "",
+                            "transformed": "Cash dividends",
+                            "value": 384.1
+                        },
+                        {
+                            "desc": "Long Term Debt Issuance ",
+                            "code": "",
+                            "transformed": "Long term debt issuance",
+                            "value": 1100.0
+                        },
+                        {
+                            "desc": "Long Term Debt Reduction ",
+                            "code": "",
+                            "transformed": "Long term debt reduction",
+                            "value": 1100.0
+                        },
+                        {
+                            "desc": "Financing Activities Other ",
+                            "code": "",
+                            "transformed": "Financing activities other",
+                            "value": 0.0
+                        },
+                        {
+                            "desc": "Financing Activities Net Cash Flow ",
+                            "code": "",
+                            "transformed": "Financing activities net cash flow",
+                            "value": -249.9
+                        },
+                        {
+                            "desc": "Exchange Rate Effect ",
+                            "code": "",
+                            "transformed": "Exchange rate effect",
+                            "value": -11.5
+                        },
+                        {
+                            "desc": "Cash and Cash Equivalents Change ",
+                            "code": "",
+                            "transformed": "Cash and cash equivalents change",
+                            "value": -1429.5
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

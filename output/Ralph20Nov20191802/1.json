@@ -1,0 +1,408 @@
+{
+    "type": "statement_of_income",
+    "units": "millions",
+    "company": "ralph lauren corporation",
+    "period": [
+        {
+            "asof": "march312018",
+            "statement": [
+                {
+                    "code": "AM_IS_I",
+                    "desc": "Net revenues",
+                    "transformed": "Net revenue",
+                    "value": 6182300.0
+                },
+                {
+                    "code": "AM_IS_CORS",
+                    "desc": "Cost of goods sold",
+                    "transformed": "Cost of revenue",
+                    "value": -2430600.0
+                },
+                {
+                    "code": "AM_IS_GP",
+                    "desc": "Gross profit",
+                    "transformed": "Gross profit",
+                    "value": 3751700.0
+                },
+                {
+                    "code": "",
+                    "desc": "Selling general and administrative expenses",
+                    "transformed": "Selling general and administrative expenses",
+                    "value": -3095500.0
+                },
+                {
+                    "code": "",
+                    "desc": "Impairment of assets",
+                    "transformed": "Impairment of assets",
+                    "value": -50000.0
+                },
+                {
+                    "code": "",
+                    "desc": "Restructuring and other charges",
+                    "transformed": "Restructuring and other charges",
+                    "total": {
+                        "code": "",
+                        "desc": "Total other operating expenses net",
+                        "transformed": "Total other operating expenses net",
+                        "value": -3253500.0
+                    },
+                    "value": -108000.0
+                },
+                {
+                    "code": "AM_IS_NOI",
+                    "desc": "Operating income -loss",
+                    "transformed": "Operating income/loss",
+                    "value": 498200.0
+                },
+                {
+                    "code": "",
+                    "desc": "Interest expense",
+                    "transformed": "Interest expense",
+                    "value": -18200.0
+                },
+                {
+                    "code": "",
+                    "desc": "Interest income",
+                    "transformed": "Interest income",
+                    "value": 12300.0
+                },
+                {
+                    "code": "",
+                    "desc": "Other expense net",
+                    "transformed": "Other expense net",
+                    "value": -3100.0
+                },
+                {
+                    "code": "",
+                    "desc": "Income -loss before income taxes",
+                    "transformed": "Earnings before income taxes",
+                    "value": 489200.0
+                },
+                {
+                    "code": "",
+                    "desc": "Income tax benefit -provision",
+                    "transformed": "Income tax benefit provision",
+                    "value": -326400.0
+                },
+                {
+                    "code": "AM_BS_NI",
+                    "desc": "Net income -loss",
+                    "transformed": "Net income/loss",
+                    "value": 162800.0
+                },
+                {
+                    "items": [
+                        {
+                            "code": "",
+                            "desc": "Basic",
+                            "transformed": "Basic",
+                            "value": 1.99
+                        },
+                        {
+                            "code": "",
+                            "desc": "Diluted",
+                            "transformed": "Diluted",
+                            "value": 1.97
+                        }
+                    ],
+                    "code": "",
+                    "transformed": "Net income loss per common share",
+                    "heading": "Net income -loss per common share:"
+                },
+                {
+                    "items": [
+                        {
+                            "code": "",
+                            "desc": "Basic",
+                            "transformed": "Basic",
+                            "value": 81700.0
+                        },
+                        {
+                            "code": "",
+                            "desc": "Diluted",
+                            "transformed": "Diluted",
+                            "value": 82500.0
+                        }
+                    ],
+                    "code": "",
+                    "transformed": "Weighted average common shares outstanding",
+                    "heading": "Weighted average common shares outstanding:"
+                },
+                {
+                    "code": "",
+                    "desc": "Dividends declared per share",
+                    "transformed": "Dividends declared per share",
+                    "value": 2.0
+                }
+            ]
+        },
+        {
+            "asof": "april12017",
+            "statement": [
+                {
+                    "code": "AM_IS_I",
+                    "desc": "Net revenues",
+                    "transformed": "Net revenue",
+                    "value": 6652800.0
+                },
+                {
+                    "code": "AM_IS_CORS",
+                    "desc": "Cost of goods sold",
+                    "transformed": "Cost of revenue",
+                    "value": -3001700.0
+                },
+                {
+                    "code": "AM_IS_GP",
+                    "desc": "Gross profit",
+                    "transformed": "Gross profit",
+                    "value": 3651100.0
+                },
+                {
+                    "code": "",
+                    "desc": "Selling general and administrative expenses",
+                    "transformed": "Selling general and administrative expenses",
+                    "value": -3171000.0
+                },
+                {
+                    "code": "",
+                    "desc": "Impairment of assets",
+                    "transformed": "Impairment of assets",
+                    "value": -253800.0
+                },
+                {
+                    "code": "",
+                    "desc": "Restructuring and other charges",
+                    "transformed": "Restructuring and other charges",
+                    "total": {
+                        "code": "",
+                        "desc": "Total other operating expenses net",
+                        "transformed": "Total other operating expenses net",
+                        "value": -3743400.0
+                    },
+                    "value": -318600.0
+                },
+                {
+                    "code": "AM_IS_NOI",
+                    "desc": "Operating income -loss",
+                    "transformed": "Operating income/loss",
+                    "value": -92300.0
+                },
+                {
+                    "code": "",
+                    "desc": "Interest expense",
+                    "transformed": "Interest expense",
+                    "value": -12400.0
+                },
+                {
+                    "code": "",
+                    "desc": "Interest income",
+                    "transformed": "Interest income",
+                    "value": 7300.0
+                },
+                {
+                    "code": "",
+                    "desc": "Other expense net",
+                    "transformed": "Other expense net",
+                    "value": -7500.0
+                },
+                {
+                    "code": "",
+                    "desc": "Income -loss before income taxes",
+                    "transformed": "Earnings before income taxes",
+                    "value": -104900.0
+                },
+                {
+                    "code": "",
+                    "desc": "Income tax benefit -provision",
+                    "transformed": "Income tax benefit provision",
+                    "value": 5600.0
+                },
+                {
+                    "code": "AM_BS_NI",
+                    "desc": "Net income -loss",
+                    "transformed": "Net income/loss",
+                    "value": -99300.0
+                },
+                {
+                    "items": [
+                        {
+                            "code": "",
+                            "desc": "Basic",
+                            "transformed": "Basic",
+                            "value": -1.2
+                        },
+                        {
+                            "code": "",
+                            "desc": "Diluted",
+                            "transformed": "Diluted",
+                            "value": -1.2
+                        }
+                    ],
+                    "code": "",
+                    "transformed": "Net income loss per common share",
+                    "heading": "Net income -loss per common share:"
+                },
+                {
+                    "items": [
+                        {
+                            "code": "",
+                            "desc": "Basic",
+                            "transformed": "Basic",
+                            "value": 82700.0
+                        },
+                        {
+                            "code": "",
+                            "desc": "Diluted",
+                            "transformed": "Diluted",
+                            "value": 82700.0
+                        }
+                    ],
+                    "code": "",
+                    "transformed": "Weighted average common shares outstanding",
+                    "heading": "Weighted average common shares outstanding:"
+                },
+                {
+                    "code": "",
+                    "desc": "Dividends declared per share",
+                    "transformed": "Dividends declared per share",
+                    "value": 2.0
+                }
+            ]
+        },
+        {
+            "asof": "april22016",
+            "statement": [
+                {
+                    "code": "AM_IS_I",
+                    "desc": "Net revenues",
+                    "transformed": "Net revenue",
+                    "value": 7405200.0
+                },
+                {
+                    "code": "AM_IS_CORS",
+                    "desc": "Cost of goods sold",
+                    "transformed": "Cost of revenue",
+                    "value": -3218500.0
+                },
+                {
+                    "code": "AM_IS_GP",
+                    "desc": "Gross profit",
+                    "transformed": "Gross profit",
+                    "value": 4186700.0
+                },
+                {
+                    "code": "",
+                    "desc": "Selling general and administrative expenses",
+                    "transformed": "Selling general and administrative expenses",
+                    "value": -3412500.0
+                },
+                {
+                    "code": "",
+                    "desc": "Impairment of assets",
+                    "transformed": "Impairment of assets",
+                    "value": -48800.0
+                },
+                {
+                    "code": "",
+                    "desc": "Restructuring and other charges",
+                    "transformed": "Restructuring and other charges",
+                    "total": {
+                        "code": "",
+                        "desc": "Total other operating expenses net",
+                        "transformed": "Total other operating expenses net",
+                        "value": -3603900.0
+                    },
+                    "value": -142600.0
+                },
+                {
+                    "code": "AM_IS_NOI",
+                    "desc": "Operating income -loss",
+                    "transformed": "Operating income/loss",
+                    "value": 582800.0
+                },
+                {
+                    "code": "",
+                    "desc": "Interest expense",
+                    "transformed": "Interest expense",
+                    "value": -21000.0
+                },
+                {
+                    "code": "",
+                    "desc": "Interest income",
+                    "transformed": "Interest income",
+                    "value": 6300.0
+                },
+                {
+                    "code": "",
+                    "desc": "Other expense net",
+                    "transformed": "Other expense net",
+                    "value": -16300.0
+                },
+                {
+                    "code": "",
+                    "desc": "Income -loss before income taxes",
+                    "transformed": "Earnings before income taxes",
+                    "value": 551800.0
+                },
+                {
+                    "code": "",
+                    "desc": "Income tax benefit -provision",
+                    "transformed": "Income tax benefit provision",
+                    "value": -155400.0
+                },
+                {
+                    "code": "AM_BS_NI",
+                    "desc": "Net income -loss",
+                    "transformed": "Net income/loss",
+                    "value": 396400.0
+                },
+                {
+                    "items": [
+                        {
+                            "code": "",
+                            "desc": "Basic",
+                            "transformed": "Basic",
+                            "value": 4.65
+                        },
+                        {
+                            "code": "",
+                            "desc": "Diluted",
+                            "transformed": "Diluted",
+                            "value": 4.62
+                        }
+                    ],
+                    "code": "",
+                    "transformed": "Net income loss per common share",
+                    "heading": "Net income -loss per common share:"
+                },
+                {
+                    "items": [
+                        {
+                            "code": "",
+                            "desc": "Basic",
+                            "transformed": "Basic",
+                            "value": 85200.0
+                        },
+                        {
+                            "code": "",
+                            "desc": "Diluted",
+                            "transformed": "Diluted",
+                            "value": 85900.0
+                        }
+                    ],
+                    "code": "",
+                    "transformed": "Weighted average common shares outstanding",
+                    "heading": "Weighted average common shares outstanding:"
+                },
+                {
+                    "code": "",
+                    "desc": "Dividends declared per share",
+                    "transformed": "Dividends declared per share",
+                    "value": 2.0
+                }
+            ]
+        }
+    ],
+    "currency": "USD",
+    "title": "consolidated statements of operations"
+}

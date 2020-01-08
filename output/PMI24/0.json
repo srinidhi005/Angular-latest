@@ -1,0 +1,227 @@
+{
+    "units": "millions",
+    "title": "consolidated balance sheets",
+    "period": [
+        {
+            "asof": "december312017",
+            "statement": [
+                {
+                    "code": "AM_BS_BA",
+                    "transformed": "Cash equivalents",
+                    "value": 8447000.0,
+                    "desc": "Cash and cash equivalents"
+                },
+                {
+                    "code": "",
+                    "transformed": "Receivables less allowances of in and in",
+                    "value": 3738000.0,
+                    "desc": "Receivables -less allowances of 30 in 2017 and 42 in 2016"
+                },
+                {
+                    "items": [
+                        {
+                            "code": "",
+                            "transformed": "Leaf tobacco",
+                            "value": 2606000.0,
+                            "desc": "Leaf tobacco"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Other raw materials",
+                            "value": 1563000.0,
+                            "desc": "Other raw materials"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Finished product",
+                            "value": 4637000.0,
+                            "desc": "Finished product"
+                        },
+                        {
+                            "code": "AM_BS_OCA",
+                            "transformed": "Other current assets",
+                            "value": 603000.0,
+                            "desc": "Other current assets"
+                        }
+                    ],
+                    "code": "",
+                    "transformed": "Inventories",
+                    "total": {
+                        "code": "AM_BS_CA",
+                        "transformed": "Total current assets",
+                        "value": 21594000.0,
+                        "desc": "Total current assets"
+                    },
+                    "heading": "Inventories:"
+                },
+                {
+                    "items": [
+                        {
+                            "code": "",
+                            "transformed": "Land and land improvements",
+                            "value": 639000.0,
+                            "desc": "Land and land improvements"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Buildings and building equipment",
+                            "value": 3989000.0,
+                            "desc": "Buildings and building equipment"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Machinery and equipment",
+                            "value": 8976000.0,
+                            "desc": "Machinery and equipment"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Construction in progress",
+                            "value": 962000.0,
+                            "desc": "Construction in progress"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Less accumulated depreciation",
+                            "value": 7295000.0,
+                            "desc": "Less: accumulated depreciation"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Deferred income taxes",
+                            "value": 1007000.0,
+                            "desc": "Deferred income taxes"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Other assets",
+                            "value": 1924000.0,
+                            "desc": "Other assets"
+                        }
+                    ],
+                    "code": "",
+                    "transformed": "Property plant and equipment at cost",
+                    "total": {
+                        "code": "",
+                        "transformed": "Total assets",
+                        "value": 42968000.0,
+                        "desc": "Total Assets"
+                    },
+                    "heading": "Property plant and equipment at cost:"
+                }
+            ]
+        },
+        {
+            "asof": "december312016",
+            "statement": [
+                {
+                    "code": "AM_BS_BA",
+                    "transformed": "Cash equivalents",
+                    "value": 4239000.0,
+                    "desc": "Cash and cash equivalents"
+                },
+                {
+                    "code": "",
+                    "transformed": "Receivables less allowances of in and in",
+                    "value": 3499000.0,
+                    "desc": "Receivables -less allowances of 30 in 2017 and 42 in 2016"
+                },
+                {
+                    "items": [
+                        {
+                            "code": "",
+                            "transformed": "Leaf tobacco",
+                            "value": 2498000.0,
+                            "desc": "Leaf tobacco"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Other raw materials",
+                            "value": 1569000.0,
+                            "desc": "Other raw materials"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Finished product",
+                            "value": 4950000.0,
+                            "desc": "Finished product"
+                        },
+                        {
+                            "code": "AM_BS_OCA",
+                            "transformed": "Other current assets",
+                            "value": 853000.0,
+                            "desc": "Other current assets"
+                        }
+                    ],
+                    "code": "",
+                    "transformed": "Inventories",
+                    "total": {
+                        "code": "AM_BS_CA",
+                        "transformed": "Total current assets",
+                        "value": 17608000.0,
+                        "desc": "Total current assets"
+                    },
+                    "heading": "Inventories:"
+                },
+                {
+                    "items": [
+                        {
+                            "code": "",
+                            "transformed": "Land and land improvements",
+                            "value": 590000.0,
+                            "desc": "Land and land improvements"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Buildings and building equipment",
+                            "value": 3474000.0,
+                            "desc": "Buildings and building equipment"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Machinery and equipment",
+                            "value": 7366000.0,
+                            "desc": "Machinery and equipment"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Construction in progress",
+                            "value": 930000.0,
+                            "desc": "Construction in progress"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Less accumulated depreciation",
+                            "value": 6296000.0,
+                            "desc": "Less: accumulated depreciation"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Deferred income taxes",
+                            "value": 859000.0,
+                            "desc": "Deferred income taxes"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Other assets",
+                            "value": 1515000.0,
+                            "desc": "Other assets"
+                        }
+                    ],
+                    "code": "",
+                    "transformed": "Property plant and equipment at cost",
+                    "total": {
+                        "code": "",
+                        "transformed": "Total assets",
+                        "value": 36851000.0,
+                        "desc": "Total Assets"
+                    },
+                    "heading": "Property plant and equipment at cost:"
+                }
+            ]
+        }
+    ],
+    "currency": "USD",
+    "company": "",
+    "type": "Balance_sheet"
+}

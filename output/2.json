@@ -1,0 +1,459 @@
+{
+    "title": "statement_of_income",
+    "type": "statement_of_income",
+    "company": "  TAPESTRY INC      \n",
+    "period": [
+        {
+            "asof": "30JUN2015",
+            "statement": [
+                {
+                    "desc": "Sales Net ",
+                    "code": "",
+                    "transformed": "Sales net",
+                    "value": 4191.6
+                },
+                {
+                    "desc": " Cost of Goods Sold ",
+                    "code": "AM_IS_COGS",
+                    "transformed": "Cost of goods sold",
+                    "value": 1081.5
+                },
+                {
+                    "desc": "Gross Profit ",
+                    "code": "AM_IS_GP",
+                    "transformed": "Gross profit",
+                    "value": 3110.1
+                },
+                {
+                    "desc": " Selling General Admin Expenses ",
+                    "code": "",
+                    "transformed": "Selling general admin expenses",
+                    "value": 2129.8
+                },
+                {
+                    "desc": "Operating Income Before Depreciation ",
+                    "code": "",
+                    "transformed": "Operating income before depreciation",
+                    "value": 980.3
+                },
+                {
+                    "desc": " Depreciation Depletion Amortiz ",
+                    "code": "None",
+                    "transformed": "Depreciation and amortization",
+                    "value": 191.8
+                },
+                {
+                    "desc": "Operating Income After Depreciation ",
+                    "code": "",
+                    "transformed": "Operating income after depreciation",
+                    "value": 788.5
+                },
+                {
+                    "desc": " Interest Expense ",
+                    "code": "",
+                    "transformed": "Interest expense",
+                    "value": 11.9
+                },
+                {
+                    "desc": " Non Operating Income Expense ",
+                    "code": "",
+                    "transformed": "Non operating income expense",
+                    "value": 5.5
+                },
+                {
+                    "desc": " Special Items ",
+                    "code": "",
+                    "transformed": "Special items",
+                    "value": -170.5
+                },
+                {
+                    "total": {
+                        "desc": " Income Taxes Total ",
+                        "code": "None",
+                        "transformed": "Income tax",
+                        "value": 209.2
+                    },
+                    "desc": "Pretax Income ",
+                    "code": "",
+                    "transformed": "Pretax income",
+                    "value": 611.6
+                },
+                {
+                    "desc": " Minority Interest ",
+                    "code": "",
+                    "transformed": "Minority interest",
+                    "value": 0.0
+                },
+                {
+                    "desc": "Income Before EI DO ",
+                    "code": "",
+                    "transformed": "Income before ei do",
+                    "value": 402.4
+                },
+                {
+                    "desc": " Extraordinary Items ",
+                    "code": "",
+                    "transformed": "Extraordinary items",
+                    "value": 0.0
+                },
+                {
+                    "desc": " Discontinued Operations ",
+                    "code": "",
+                    "transformed": "Discontinued operations",
+                    "value": 0.0
+                },
+                {
+                    "desc": "Net Income Loss ",
+                    "code": "AM_BS_NI",
+                    "transformed": "Net income/loss",
+                    "value": 402.4
+                },
+                {
+                    "desc": "Income Before EI DO ",
+                    "code": "",
+                    "transformed": "Income before ei do",
+                    "value": 402.4
+                }
+            ]
+        },
+        {
+            "asof": "30JUN2016",
+            "statement": [
+                {
+                    "desc": "Sales Net ",
+                    "code": "",
+                    "transformed": "Sales net",
+                    "value": 4491.8
+                },
+                {
+                    "desc": " Cost of Goods Sold ",
+                    "code": "AM_IS_COGS",
+                    "transformed": "Cost of goods sold",
+                    "value": 1228.8
+                },
+                {
+                    "desc": "Gross Profit ",
+                    "code": "AM_IS_GP",
+                    "transformed": "Gross profit",
+                    "value": 3263.0
+                },
+                {
+                    "desc": " Selling General Admin Expenses ",
+                    "code": "",
+                    "transformed": "Selling general admin expenses",
+                    "value": 2275.8
+                },
+                {
+                    "desc": "Operating Income Before Depreciation ",
+                    "code": "",
+                    "transformed": "Operating income before depreciation",
+                    "value": 987.2
+                },
+                {
+                    "desc": " Depreciation Depletion Amortiz ",
+                    "code": "None",
+                    "transformed": "Depreciation and amortization",
+                    "value": 210.6
+                },
+                {
+                    "desc": "Operating Income After Depreciation ",
+                    "code": "",
+                    "transformed": "Operating income after depreciation",
+                    "value": 776.6
+                },
+                {
+                    "desc": " Interest Expense ",
+                    "code": "",
+                    "transformed": "Interest expense",
+                    "value": 32.9
+                },
+                {
+                    "desc": " Non Operating Income Expense ",
+                    "code": "",
+                    "transformed": "Non operating income expense",
+                    "value": 6.0
+                },
+                {
+                    "desc": " Special Items ",
+                    "code": "",
+                    "transformed": "Special items",
+                    "value": -123.1
+                },
+                {
+                    "total": {
+                        "desc": " Income Taxes Total ",
+                        "code": "None",
+                        "transformed": "Income tax",
+                        "value": 166.1
+                    },
+                    "desc": "Pretax Income ",
+                    "code": "",
+                    "transformed": "Pretax income",
+                    "value": 626.6
+                },
+                {
+                    "desc": " Minority Interest ",
+                    "code": "",
+                    "transformed": "Minority interest",
+                    "value": 0.0
+                },
+                {
+                    "desc": "Income Before EI DO ",
+                    "code": "",
+                    "transformed": "Income before ei do",
+                    "value": 460.5
+                },
+                {
+                    "desc": " Extraordinary Items ",
+                    "code": "",
+                    "transformed": "Extraordinary items",
+                    "value": 0.0
+                },
+                {
+                    "desc": " Discontinued Operations ",
+                    "code": "",
+                    "transformed": "Discontinued operations",
+                    "value": 0.0
+                },
+                {
+                    "desc": "Net Income Loss ",
+                    "code": "AM_BS_NI",
+                    "transformed": "Net income/loss",
+                    "value": 460.5
+                },
+                {
+                    "desc": "Income Before EI DO ",
+                    "code": "",
+                    "transformed": "Income before ei do",
+                    "value": 460.5
+                }
+            ]
+        },
+        {
+            "asof": "30JUN2017",
+            "statement": [
+                {
+                    "desc": "Sales Net ",
+                    "code": "",
+                    "transformed": "Sales net",
+                    "value": 4488.3
+                },
+                {
+                    "desc": " Cost of Goods Sold ",
+                    "code": "AM_IS_COGS",
+                    "transformed": "Cost of goods sold",
+                    "value": 1191.5
+                },
+                {
+                    "desc": "Gross Profit ",
+                    "code": "AM_IS_GP",
+                    "transformed": "Gross profit",
+                    "value": 3296.8
+                },
+                {
+                    "desc": " Selling General Admin Expenses ",
+                    "code": "",
+                    "transformed": "Selling general admin expenses",
+                    "value": 2271.4
+                },
+                {
+                    "desc": "Operating Income Before Depreciation ",
+                    "code": "",
+                    "transformed": "Operating income before depreciation",
+                    "value": 1025.4
+                },
+                {
+                    "desc": " Depreciation Depletion Amortiz ",
+                    "code": "None",
+                    "transformed": "Depreciation and amortization",
+                    "value": 212.8
+                },
+                {
+                    "desc": "Operating Income After Depreciation ",
+                    "code": "",
+                    "transformed": "Operating income after depreciation",
+                    "value": 812.6
+                },
+                {
+                    "desc": " Interest Expense ",
+                    "code": "",
+                    "transformed": "Interest expense",
+                    "value": 17.3
+                },
+                {
+                    "desc": " Non Operating Income Expense ",
+                    "code": "",
+                    "transformed": "Non operating income expense",
+                    "value": -1.6
+                },
+                {
+                    "desc": " Special Items ",
+                    "code": "",
+                    "transformed": "Special items",
+                    "value": -34.7
+                },
+                {
+                    "total": {
+                        "desc": " Income Taxes Total ",
+                        "code": "None",
+                        "transformed": "Income tax",
+                        "value": 168.0
+                    },
+                    "desc": "Pretax Income ",
+                    "code": "",
+                    "transformed": "Pretax income",
+                    "value": 759.0
+                },
+                {
+                    "desc": " Minority Interest ",
+                    "code": "",
+                    "transformed": "Minority interest",
+                    "value": 0.0
+                },
+                {
+                    "desc": "Income Before EI DO ",
+                    "code": "",
+                    "transformed": "Income before ei do",
+                    "value": 591.0
+                },
+                {
+                    "desc": " Extraordinary Items ",
+                    "code": "",
+                    "transformed": "Extraordinary items",
+                    "value": 0.0
+                },
+                {
+                    "desc": " Discontinued Operations ",
+                    "code": "",
+                    "transformed": "Discontinued operations",
+                    "value": 0.0
+                },
+                {
+                    "desc": "Net Income Loss ",
+                    "code": "AM_BS_NI",
+                    "transformed": "Net income/loss",
+                    "value": 591.0
+                },
+                {
+                    "desc": "Income Before EI DO ",
+                    "code": "",
+                    "transformed": "Income before ei do",
+                    "value": 591.0
+                }
+            ]
+        },
+        {
+            "asof": "30JUN2018",
+            "statement": [
+                {
+                    "desc": "Sales Net ",
+                    "code": "",
+                    "transformed": "Sales net",
+                    "value": 5880.0
+                },
+                {
+                    "desc": " Cost of Goods Sold ",
+                    "code": "AM_IS_COGS",
+                    "transformed": "Cost of goods sold",
+                    "value": 1649.4
+                },
+                {
+                    "desc": "Gross Profit ",
+                    "code": "AM_IS_GP",
+                    "transformed": "Gross profit",
+                    "value": 4230.6
+                },
+                {
+                    "desc": " Selling General Admin Expenses ",
+                    "code": "",
+                    "transformed": "Selling general admin expenses",
+                    "value": 2978.4
+                },
+                {
+                    "desc": "Operating Income Before Depreciation ",
+                    "code": "",
+                    "transformed": "Operating income before depreciation",
+                    "value": 1252.2
+                },
+                {
+                    "desc": " Depreciation Depletion Amortiz ",
+                    "code": "None",
+                    "transformed": "Depreciation and amortization",
+                    "value": 260.3
+                },
+                {
+                    "desc": "Operating Income After Depreciation ",
+                    "code": "",
+                    "transformed": "Operating income after depreciation",
+                    "value": 991.9
+                },
+                {
+                    "desc": " Interest Expense ",
+                    "code": "",
+                    "transformed": "Interest expense",
+                    "value": 86.3
+                },
+                {
+                    "desc": " Non Operating Income Expense ",
+                    "code": "",
+                    "transformed": "Non operating income expense",
+                    "value": 12.3
+                },
+                {
+                    "desc": " Special Items ",
+                    "code": "",
+                    "transformed": "Special items",
+                    "value": -321.1
+                },
+                {
+                    "total": {
+                        "desc": " Income Taxes Total ",
+                        "code": "None",
+                        "transformed": "Income tax",
+                        "value": 199.3
+                    },
+                    "desc": "Pretax Income ",
+                    "code": "",
+                    "transformed": "Pretax income",
+                    "value": 596.8
+                },
+                {
+                    "desc": " Minority Interest ",
+                    "code": "",
+                    "transformed": "Minority interest",
+                    "value": 0.0
+                },
+                {
+                    "desc": "Income Before EI DO ",
+                    "code": "",
+                    "transformed": "Income before ei do",
+                    "value": 397.5
+                },
+                {
+                    "desc": " Extraordinary Items ",
+                    "code": "",
+                    "transformed": "Extraordinary items",
+                    "value": 0.0
+                },
+                {
+                    "desc": " Discontinued Operations ",
+                    "code": "",
+                    "transformed": "Discontinued operations",
+                    "value": 0.0
+                },
+                {
+                    "desc": "Net Income Loss ",
+                    "code": "AM_BS_NI",
+                    "transformed": "Net income/loss",
+                    "value": 397.5
+                },
+                {
+                    "desc": "Income Before EI DO ",
+                    "code": "",
+                    "transformed": "Income before ei do",
+                    "value": 397.5
+                }
+            ]
+        }
+    ]
+}

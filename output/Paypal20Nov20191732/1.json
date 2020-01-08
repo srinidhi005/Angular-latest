@@ -1,0 +1,423 @@
+{
+    "company": "paypal holdings inc",
+    "units": "millions",
+    "period": [
+        {
+            "statement": [
+                {
+                    "transformed": "Net revenue",
+                    "code": "AM_IS_I",
+                    "value": 10842000.0,
+                    "desc": "Net revenues"
+                },
+                {
+                    "transformed": "Total operating expenses",
+                    "code": "AM_IS_E",
+                    "total": {
+                        "transformed": "Total operating expenses",
+                        "code": "AM_IS_E",
+                        "value": 9256000.0,
+                        "desc": "Total operating expenses"
+                    },
+                    "items": [
+                        {
+                            "transformed": "Transaction expense",
+                            "code": "",
+                            "value": 3346000.0,
+                            "desc": "Transaction expense"
+                        },
+                        {
+                            "transformed": "Transaction and loan losses",
+                            "code": "",
+                            "value": 1088000.0,
+                            "desc": "Transaction and loan losses"
+                        },
+                        {
+                            "transformed": "Customer support and operations",
+                            "code": "",
+                            "value": 1267000.0,
+                            "desc": "Customer support and operations"
+                        },
+                        {
+                            "transformed": "Sales and marketing",
+                            "code": "",
+                            "value": 969000.0,
+                            "desc": "Sales and marketing"
+                        },
+                        {
+                            "transformed": "Product development",
+                            "code": "",
+                            "value": 834000.0,
+                            "desc": "Product development"
+                        },
+                        {
+                            "transformed": "General and administrative",
+                            "code": "",
+                            "value": 1028000.0,
+                            "desc": "General and administrative"
+                        },
+                        {
+                            "transformed": "Depreciation and amortization",
+                            "code": "",
+                            "value": 724000.0,
+                            "desc": "Depreciation and amortization"
+                        },
+                        {
+                            "transformed": "Restructuring",
+                            "code": "",
+                            "value": "",
+                            "desc": "Restructuring"
+                        }
+                    ],
+                    "heading": "Operating expenses:"
+                },
+                {
+                    "transformed": "Operating income/loss",
+                    "code": "AM_IS_NOI",
+                    "value": 1586000.0,
+                    "desc": "Operating income"
+                },
+                {
+                    "transformed": "Other income expense net",
+                    "code": "",
+                    "value": 45000.0,
+                    "desc": "Other income -expense net"
+                },
+                {
+                    "transformed": "Income before income taxes",
+                    "code": "",
+                    "value": 1631000.0,
+                    "desc": "Income before income taxes"
+                },
+                {
+                    "transformed": "Provision for income taxes",
+                    "code": "",
+                    "value": 230000.0,
+                    "desc": "Income tax expense"
+                },
+                {
+                    "transformed": "Net income/loss",
+                    "code": "AM_BS_NI",
+                    "value": 1401000.0,
+                    "desc": "Net income"
+                },
+                {
+                    "transformed": "Net income per share",
+                    "code": "",
+                    "items": [],
+                    "heading": "Net income per share:"
+                },
+                {
+                    "transformed": "Basic",
+                    "code": "",
+                    "value": 1.16,
+                    "desc": "Basic"
+                },
+                {
+                    "transformed": "Diluted",
+                    "code": "",
+                    "value": 1.15,
+                    "desc": "Diluted"
+                },
+                {
+                    "transformed": "Weighted average shares",
+                    "code": "",
+                    "items": [],
+                    "heading": "Weighted average shares:"
+                },
+                {
+                    "transformed": "Basic",
+                    "code": "",
+                    "value": 1210000.0,
+                    "desc": "Basic"
+                },
+                {
+                    "transformed": "Diluted",
+                    "code": "",
+                    "value": 1218000.0,
+                    "desc": "Diluted"
+                }
+            ],
+            "asof": "december312016"
+        },
+        {
+            "statement": [
+                {
+                    "transformed": "Net revenue",
+                    "code": "AM_IS_I",
+                    "value": 9248000.0,
+                    "desc": "Net revenues"
+                },
+                {
+                    "transformed": "Total operating expenses",
+                    "code": "AM_IS_E",
+                    "total": {
+                        "transformed": "Total operating expenses",
+                        "code": "AM_IS_E",
+                        "value": 7787000.0,
+                        "desc": "Total operating expenses"
+                    },
+                    "items": [
+                        {
+                            "transformed": "Transaction expense",
+                            "code": "",
+                            "value": 2610000.0,
+                            "desc": "Transaction expense"
+                        },
+                        {
+                            "transformed": "Transaction and loan losses",
+                            "code": "",
+                            "value": 809000.0,
+                            "desc": "Transaction and loan losses"
+                        },
+                        {
+                            "transformed": "Customer support and operations",
+                            "code": "",
+                            "value": 1110000.0,
+                            "desc": "Customer support and operations"
+                        },
+                        {
+                            "transformed": "Sales and marketing",
+                            "code": "",
+                            "value": 937000.0,
+                            "desc": "Sales and marketing"
+                        },
+                        {
+                            "transformed": "Product development",
+                            "code": "",
+                            "value": 792000.0,
+                            "desc": "Product development"
+                        },
+                        {
+                            "transformed": "General and administrative",
+                            "code": "",
+                            "value": 873000.0,
+                            "desc": "General and administrative"
+                        },
+                        {
+                            "transformed": "Depreciation and amortization",
+                            "code": "",
+                            "value": 608000.0,
+                            "desc": "Depreciation and amortization"
+                        },
+                        {
+                            "transformed": "Restructuring",
+                            "code": "",
+                            "value": 48000.0,
+                            "desc": "Restructuring"
+                        }
+                    ],
+                    "heading": "Operating expenses:"
+                },
+                {
+                    "transformed": "Operating income/loss",
+                    "code": "AM_IS_NOI",
+                    "value": 1461000.0,
+                    "desc": "Operating income"
+                },
+                {
+                    "transformed": "Other income expense net",
+                    "code": "",
+                    "value": 27000.0,
+                    "desc": "Other income -expense net"
+                },
+                {
+                    "transformed": "Income before income taxes",
+                    "code": "",
+                    "value": 1488000.0,
+                    "desc": "Income before income taxes"
+                },
+                {
+                    "transformed": "Provision for income taxes",
+                    "code": "",
+                    "value": 260000.0,
+                    "desc": "Income tax expense"
+                },
+                {
+                    "transformed": "Net income/loss",
+                    "code": "AM_BS_NI",
+                    "value": 1228000.0,
+                    "desc": "Net income"
+                },
+                {
+                    "transformed": "Net income per share",
+                    "code": "",
+                    "items": [],
+                    "heading": "Net income per share:"
+                },
+                {
+                    "transformed": "Basic",
+                    "code": "",
+                    "value": 1.0,
+                    "desc": "Basic"
+                },
+                {
+                    "transformed": "Diluted",
+                    "code": "",
+                    "value": 1.0,
+                    "desc": "Diluted"
+                },
+                {
+                    "transformed": "Weighted average shares",
+                    "code": "",
+                    "items": [],
+                    "heading": "Weighted average shares:"
+                },
+                {
+                    "transformed": "Basic",
+                    "code": "",
+                    "value": 1222000.0,
+                    "desc": "Basic"
+                },
+                {
+                    "transformed": "Diluted",
+                    "code": "",
+                    "value": 1229000.0,
+                    "desc": "Diluted"
+                }
+            ],
+            "asof": "december312015"
+        },
+        {
+            "statement": [
+                {
+                    "transformed": "Net revenue",
+                    "code": "AM_IS_I",
+                    "value": 8025000.0,
+                    "desc": "Net revenues"
+                },
+                {
+                    "transformed": "Total operating expenses",
+                    "code": "AM_IS_E",
+                    "total": {
+                        "transformed": "Total operating expenses",
+                        "code": "AM_IS_E",
+                        "value": 6757000.0,
+                        "desc": "Total operating expenses"
+                    },
+                    "items": [
+                        {
+                            "transformed": "Transaction expense",
+                            "code": "",
+                            "value": 2170000.0,
+                            "desc": "Transaction expense"
+                        },
+                        {
+                            "transformed": "Transaction and loan losses",
+                            "code": "",
+                            "value": 646000.0,
+                            "desc": "Transaction and loan losses"
+                        },
+                        {
+                            "transformed": "Customer support and operations",
+                            "code": "",
+                            "value": 991000.0,
+                            "desc": "Customer support and operations"
+                        },
+                        {
+                            "transformed": "Sales and marketing",
+                            "code": "",
+                            "value": 954000.0,
+                            "desc": "Sales and marketing"
+                        },
+                        {
+                            "transformed": "Product development",
+                            "code": "",
+                            "value": 747000.0,
+                            "desc": "Product development"
+                        },
+                        {
+                            "transformed": "General and administrative",
+                            "code": "",
+                            "value": 733000.0,
+                            "desc": "General and administrative"
+                        },
+                        {
+                            "transformed": "Depreciation and amortization",
+                            "code": "",
+                            "value": 516000.0,
+                            "desc": "Depreciation and amortization"
+                        },
+                        {
+                            "transformed": "Restructuring",
+                            "code": "",
+                            "value": "",
+                            "desc": "Restructuring"
+                        }
+                    ],
+                    "heading": "Operating expenses:"
+                },
+                {
+                    "transformed": "Operating income/loss",
+                    "code": "AM_IS_NOI",
+                    "value": 1268000.0,
+                    "desc": "Operating income"
+                },
+                {
+                    "transformed": "Other income expense net",
+                    "code": "",
+                    "value": -7000.0,
+                    "desc": "Other income -expense net"
+                },
+                {
+                    "transformed": "Income before income taxes",
+                    "code": "",
+                    "value": 1261000.0,
+                    "desc": "Income before income taxes"
+                },
+                {
+                    "transformed": "Provision for income taxes",
+                    "code": "",
+                    "value": 842000.0,
+                    "desc": "Income tax expense"
+                },
+                {
+                    "transformed": "Net income/loss",
+                    "code": "AM_BS_NI",
+                    "value": 419000.0,
+                    "desc": "Net income"
+                },
+                {
+                    "transformed": "Net income per share",
+                    "code": "",
+                    "items": [],
+                    "heading": "Net income per share:"
+                },
+                {
+                    "transformed": "Basic",
+                    "code": "",
+                    "value": 0.34,
+                    "desc": "Basic"
+                },
+                {
+                    "transformed": "Diluted",
+                    "code": "",
+                    "value": 0.34,
+                    "desc": "Diluted"
+                },
+                {
+                    "transformed": "Weighted average shares",
+                    "code": "",
+                    "items": [],
+                    "heading": "Weighted average shares:"
+                },
+                {
+                    "transformed": "Basic",
+                    "code": "",
+                    "value": 1218000.0,
+                    "desc": "Basic"
+                },
+                {
+                    "transformed": "Diluted",
+                    "code": "",
+                    "value": 1224000.0,
+                    "desc": "Diluted"
+                }
+            ],
+            "asof": "december312014"
+        }
+    ],
+    "title": "consolidated statements of income",
+    "type": "statement_of_income",
+    "currency": "USD"
+}

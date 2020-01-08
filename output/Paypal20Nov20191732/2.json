@@ -1,0 +1,786 @@
+{
+    "company": "paypal holdings inc",
+    "units": "millions",
+    "period": [
+        {
+            "statement": [
+                {
+                    "transformed": "Cash flows from operating activities",
+                    "code": "",
+                    "items": [],
+                    "heading": "Cash flows from operating activities:"
+                },
+                {
+                    "transformed": "Net income/loss",
+                    "code": "AM_BS_NI",
+                    "value": 1401000.0,
+                    "desc": "Net income"
+                },
+                {
+                    "transformed": "Adjustments",
+                    "code": "",
+                    "items": [
+                        {
+                            "transformed": "Transaction and loan losses",
+                            "code": "",
+                            "value": 1088000.0,
+                            "desc": "Transaction and loan losses"
+                        },
+                        {
+                            "transformed": "Depreciation and amortization",
+                            "code": "",
+                            "value": 724000.0,
+                            "desc": "Depreciation and amortization"
+                        },
+                        {
+                            "transformed": "Stock based compensation",
+                            "code": "",
+                            "value": 438000.0,
+                            "desc": "Stock-based compensation"
+                        },
+                        {
+                            "transformed": "Deferred income taxes",
+                            "code": "",
+                            "value": 52000.0,
+                            "desc": "Deferred income taxes"
+                        },
+                        {
+                            "transformed": "Excess tax benefits from stock based compensation",
+                            "code": "",
+                            "value": -40000.0,
+                            "desc": "Excess tax benefits from stock-based compensation"
+                        },
+                        {
+                            "transformed": "Gain on sale of principal loans receivable held for sale net",
+                            "code": "",
+                            "value": -24000.0,
+                            "desc": "Gain on sale of principal loans receivable held for sale net"
+                        }
+                    ],
+                    "heading": "Adjustments:"
+                },
+                {
+                    "transformed": "Changes in assets and liabilities",
+                    "code": "",
+                    "items": [
+                        {
+                            "transformed": "Accounts receivable",
+                            "code": "AM_BS_AR",
+                            "value": -77000.0,
+                            "desc": "Accounts receivable"
+                        },
+                        {
+                            "transformed": "Receivable from ebay",
+                            "code": "",
+                            "value": "",
+                            "desc": "Receivable from eBay"
+                        },
+                        {
+                            "transformed": "Principal loans receivable held for sale net",
+                            "code": "",
+                            "value": 24000.0,
+                            "desc": "Principal loans receivable held for sale net"
+                        },
+                        {
+                            "transformed": "Transaction loss allowance for cash losses net",
+                            "code": "",
+                            "value": -643000.0,
+                            "desc": "Transaction loss allowance for cash losses net"
+                        },
+                        {
+                            "transformed": "Other current assets and non current assets",
+                            "code": "",
+                            "value": -145000.0,
+                            "desc": "Other current assets and non-current assets"
+                        },
+                        {
+                            "transformed": "Accounts payable",
+                            "code": "",
+                            "value": 11000.0,
+                            "desc": "Accounts payable"
+                        },
+                        {
+                            "transformed": "Payable to ebay",
+                            "code": "",
+                            "value": "",
+                            "desc": "Payable to eBay"
+                        },
+                        {
+                            "transformed": "Income taxes payable",
+                            "code": "",
+                            "value": 69000.0,
+                            "desc": "Income taxes payable"
+                        },
+                        {
+                            "transformed": "Other current liabilities and non current liabilities",
+                            "code": "",
+                            "value": 280000.0,
+                            "desc": "Other current liabilities and non-current liabilities"
+                        }
+                    ],
+                    "heading": "Changes in assets and liabilities:"
+                },
+                {
+                    "transformed": "Net cash provided by operating activities",
+                    "code": "",
+                    "value": 3158000.0,
+                    "desc": "Net cash provided by operating activities"
+                },
+                {
+                    "transformed": "Cash flows from investing activities",
+                    "code": "",
+                    "items": [],
+                    "heading": "Cash flows from investing activities:"
+                },
+                {
+                    "transformed": "Purchases of property and equipment",
+                    "code": "",
+                    "value": -669000.0,
+                    "desc": "Purchases of property and equipment"
+                },
+                {
+                    "transformed": "Proceeds from sales of property and equipment",
+                    "code": "",
+                    "value": "",
+                    "desc": "Proceeds from sales of property and equipment"
+                },
+                {
+                    "transformed": "Changes in principal loans receivable net",
+                    "code": "",
+                    "value": -1523000.0,
+                    "desc": "Changes in principal loans receivable net"
+                },
+                {
+                    "transformed": "Purchases of investments",
+                    "code": "",
+                    "value": -21041000.0,
+                    "desc": "Purchases of investments"
+                },
+                {
+                    "transformed": "Maturities and sales of investments",
+                    "code": "",
+                    "value": 18429000.0,
+                    "desc": "Maturities and sales of investments"
+                },
+                {
+                    "transformed": "Acquisitions net of cash acquired",
+                    "code": "",
+                    "value": -19000.0,
+                    "desc": "Acquisitions net of cash acquired"
+                },
+                {
+                    "transformed": "Funds receivable and customer accounts",
+                    "code": "",
+                    "value": -176000.0,
+                    "desc": "Funds receivable and customer accounts"
+                },
+                {
+                    "transformed": "Net cash used in investing activities",
+                    "code": "",
+                    "value": -4999000.0,
+                    "desc": "Net cash used in investing activities"
+                },
+                {
+                    "transformed": "Cash flows from financing activities",
+                    "code": "",
+                    "items": [],
+                    "heading": "Cash flows from financing activities:"
+                },
+                {
+                    "transformed": "Proceeds from issuance of common stock",
+                    "code": "",
+                    "value": 109000.0,
+                    "desc": "Proceeds from issuance of common stock"
+                },
+                {
+                    "transformed": "Purchases of treasury stock",
+                    "code": "",
+                    "value": -995000.0,
+                    "desc": "Purchases of treasury stock"
+                },
+                {
+                    "transformed": "Excess tax benefits from stock based compensation",
+                    "code": "",
+                    "value": 40000.0,
+                    "desc": "Excess tax benefits from stock-based compensation"
+                },
+                {
+                    "transformed": "Contribution from to ebay",
+                    "code": "",
+                    "value": "",
+                    "desc": "Contribution from -to eBay"
+                },
+                {
+                    "transformed": "Tax withholdings related to net share settlements of restricted stock units and restricted stock awards",
+                    "code": "",
+                    "value": -118000.0,
+                    "desc": "Tax withholdings related to net share settlements of restricted stock units and restricted stock awards"
+                },
+                {
+                    "transformed": "Borrowings repayments under financing arrangements",
+                    "code": "",
+                    "value": -21000.0,
+                    "desc": "Borrowings -repayments under financing arrangements"
+                },
+                {
+                    "transformed": "Funds payable and amounts due to customers",
+                    "code": "",
+                    "value": 3023000.0,
+                    "desc": "Funds payable and amounts due to customers"
+                },
+                {
+                    "transformed": "Net cash provided by financing activities",
+                    "code": "",
+                    "value": 2038000.0,
+                    "desc": "Net cash provided by financing activities"
+                },
+                {
+                    "transformed": "Effect of exchange rate changes on cash and cash equivalents",
+                    "code": "",
+                    "value": "",
+                    "desc": "Effect of exchange rate changes on cash and cash equivalents"
+                },
+                {
+                    "transformed": "Net change in cash",
+                    "code": "AM_CF_CI",
+                    "value": 197000.0,
+                    "desc": "Net increase -decrease in cash and cash equivalents"
+                },
+                {
+                    "transformed": "Cash beginning",
+                    "code": "AM_CF_BC",
+                    "value": 1393000.0,
+                    "desc": "Cash and cash equivalents at beginning of period"
+                },
+                {
+                    "transformed": "Cash ending",
+                    "code": "AM_CF_EC",
+                    "value": 1590000.0,
+                    "desc": "Cash and cash equivalents at end of period"
+                }
+            ],
+            "asof": "december312016"
+        },
+        {
+            "statement": [
+                {
+                    "transformed": "Cash flows from operating activities",
+                    "code": "",
+                    "items": [],
+                    "heading": "Cash flows from operating activities:"
+                },
+                {
+                    "transformed": "Net income/loss",
+                    "code": "AM_BS_NI",
+                    "value": 1228000.0,
+                    "desc": "Net income"
+                },
+                {
+                    "transformed": "Adjustments",
+                    "code": "",
+                    "items": [
+                        {
+                            "transformed": "Transaction and loan losses",
+                            "code": "",
+                            "value": 809000.0,
+                            "desc": "Transaction and loan losses"
+                        },
+                        {
+                            "transformed": "Depreciation and amortization",
+                            "code": "",
+                            "value": 608000.0,
+                            "desc": "Depreciation and amortization"
+                        },
+                        {
+                            "transformed": "Stock based compensation",
+                            "code": "",
+                            "value": 346000.0,
+                            "desc": "Stock-based compensation"
+                        },
+                        {
+                            "transformed": "Deferred income taxes",
+                            "code": "",
+                            "value": 127000.0,
+                            "desc": "Deferred income taxes"
+                        },
+                        {
+                            "transformed": "Excess tax benefits from stock based compensation",
+                            "code": "",
+                            "value": -26000.0,
+                            "desc": "Excess tax benefits from stock-based compensation"
+                        },
+                        {
+                            "transformed": "Gain on sale of principal loans receivable held for sale net",
+                            "code": "",
+                            "value": -40000.0,
+                            "desc": "Gain on sale of principal loans receivable held for sale net"
+                        }
+                    ],
+                    "heading": "Adjustments:"
+                },
+                {
+                    "transformed": "Changes in assets and liabilities",
+                    "code": "",
+                    "items": [
+                        {
+                            "transformed": "Accounts receivable",
+                            "code": "AM_BS_AR",
+                            "value": -22000.0,
+                            "desc": "Accounts receivable"
+                        },
+                        {
+                            "transformed": "Receivable from ebay",
+                            "code": "",
+                            "value": 121000.0,
+                            "desc": "Receivable from eBay"
+                        },
+                        {
+                            "transformed": "Principal loans receivable held for sale net",
+                            "code": "",
+                            "value": 14000.0,
+                            "desc": "Principal loans receivable held for sale net"
+                        },
+                        {
+                            "transformed": "Transaction loss allowance for cash losses net",
+                            "code": "",
+                            "value": -493000.0,
+                            "desc": "Transaction loss allowance for cash losses net"
+                        },
+                        {
+                            "transformed": "Other current assets and non current assets",
+                            "code": "",
+                            "value": -384000.0,
+                            "desc": "Other current assets and non-current assets"
+                        },
+                        {
+                            "transformed": "Accounts payable",
+                            "code": "",
+                            "value": 12000.0,
+                            "desc": "Accounts payable"
+                        },
+                        {
+                            "transformed": "Payable to ebay",
+                            "code": "",
+                            "value": -217000.0,
+                            "desc": "Payable to eBay"
+                        },
+                        {
+                            "transformed": "Income taxes payable",
+                            "code": "",
+                            "value": 40000.0,
+                            "desc": "Income taxes payable"
+                        },
+                        {
+                            "transformed": "Other current liabilities and non current liabilities",
+                            "code": "",
+                            "value": 423000.0,
+                            "desc": "Other current liabilities and non-current liabilities"
+                        }
+                    ],
+                    "heading": "Changes in assets and liabilities:"
+                },
+                {
+                    "transformed": "Net cash provided by operating activities",
+                    "code": "",
+                    "value": 2546000.0,
+                    "desc": "Net cash provided by operating activities"
+                },
+                {
+                    "transformed": "Cash flows from investing activities",
+                    "code": "",
+                    "items": [],
+                    "heading": "Cash flows from investing activities:"
+                },
+                {
+                    "transformed": "Purchases of property and equipment",
+                    "code": "",
+                    "value": -722000.0,
+                    "desc": "Purchases of property and equipment"
+                },
+                {
+                    "transformed": "Proceeds from sales of property and equipment",
+                    "code": "",
+                    "value": 26000.0,
+                    "desc": "Proceeds from sales of property and equipment"
+                },
+                {
+                    "transformed": "Changes in principal loans receivable net",
+                    "code": "",
+                    "value": -819000.0,
+                    "desc": "Changes in principal loans receivable net"
+                },
+                {
+                    "transformed": "Purchases of investments",
+                    "code": "",
+                    "value": -21626000.0,
+                    "desc": "Purchases of investments"
+                },
+                {
+                    "transformed": "Maturities and sales of investments",
+                    "code": "",
+                    "value": 16148000.0,
+                    "desc": "Maturities and sales of investments"
+                },
+                {
+                    "transformed": "Acquisitions net of cash acquired",
+                    "code": "",
+                    "value": -1225000.0,
+                    "desc": "Acquisitions net of cash acquired"
+                },
+                {
+                    "transformed": "Funds receivable and customer accounts",
+                    "code": "",
+                    "value": -395000.0,
+                    "desc": "Funds receivable and customer accounts"
+                },
+                {
+                    "transformed": "Net cash used in investing activities",
+                    "code": "",
+                    "value": -8038000.0,
+                    "desc": "Net cash used in investing activities"
+                },
+                {
+                    "transformed": "Cash flows from financing activities",
+                    "code": "",
+                    "items": [],
+                    "heading": "Cash flows from financing activities:"
+                },
+                {
+                    "transformed": "Proceeds from issuance of common stock",
+                    "code": "",
+                    "value": 75000.0,
+                    "desc": "Proceeds from issuance of common stock"
+                },
+                {
+                    "transformed": "Purchases of treasury stock",
+                    "code": "",
+                    "value": "",
+                    "desc": "Purchases of treasury stock"
+                },
+                {
+                    "transformed": "Excess tax benefits from stock based compensation",
+                    "code": "",
+                    "value": 26000.0,
+                    "desc": "Excess tax benefits from stock-based compensation"
+                },
+                {
+                    "transformed": "Contribution from to ebay",
+                    "code": "",
+                    "value": 3858000.0,
+                    "desc": "Contribution from -to eBay"
+                },
+                {
+                    "transformed": "Tax withholdings related to net share settlements of restricted stock units and restricted stock awards",
+                    "code": "",
+                    "value": -18000.0,
+                    "desc": "Tax withholdings related to net share settlements of restricted stock units and restricted stock awards"
+                },
+                {
+                    "transformed": "Borrowings repayments under financing arrangements",
+                    "code": "",
+                    "value": -862000.0,
+                    "desc": "Borrowings -repayments under financing arrangements"
+                },
+                {
+                    "transformed": "Funds payable and amounts due to customers",
+                    "code": "",
+                    "value": 1649000.0,
+                    "desc": "Funds payable and amounts due to customers"
+                },
+                {
+                    "transformed": "Net cash provided by financing activities",
+                    "code": "",
+                    "value": 4728000.0,
+                    "desc": "Net cash provided by financing activities"
+                },
+                {
+                    "transformed": "Effect of exchange rate changes on cash and cash equivalents",
+                    "code": "",
+                    "value": -44000.0,
+                    "desc": "Effect of exchange rate changes on cash and cash equivalents"
+                },
+                {
+                    "transformed": "Net change in cash",
+                    "code": "AM_CF_CI",
+                    "value": -808000.0,
+                    "desc": "Net increase -decrease in cash and cash equivalents"
+                },
+                {
+                    "transformed": "Cash beginning",
+                    "code": "AM_CF_BC",
+                    "value": 2201000.0,
+                    "desc": "Cash and cash equivalents at beginning of period"
+                },
+                {
+                    "transformed": "Cash ending",
+                    "code": "AM_CF_EC",
+                    "value": 1393000.0,
+                    "desc": "Cash and cash equivalents at end of period"
+                }
+            ],
+            "asof": "december312015"
+        },
+        {
+            "statement": [
+                {
+                    "transformed": "Cash flows from operating activities",
+                    "code": "",
+                    "items": [],
+                    "heading": "Cash flows from operating activities:"
+                },
+                {
+                    "transformed": "Net income/loss",
+                    "code": "AM_BS_NI",
+                    "value": 419000.0,
+                    "desc": "Net income"
+                },
+                {
+                    "transformed": "Adjustments",
+                    "code": "",
+                    "items": [
+                        {
+                            "transformed": "Transaction and loan losses",
+                            "code": "",
+                            "value": 646000.0,
+                            "desc": "Transaction and loan losses"
+                        },
+                        {
+                            "transformed": "Depreciation and amortization",
+                            "code": "",
+                            "value": 516000.0,
+                            "desc": "Depreciation and amortization"
+                        },
+                        {
+                            "transformed": "Stock based compensation",
+                            "code": "",
+                            "value": 299000.0,
+                            "desc": "Stock-based compensation"
+                        },
+                        {
+                            "transformed": "Deferred income taxes",
+                            "code": "",
+                            "value": 680000.0,
+                            "desc": "Deferred income taxes"
+                        },
+                        {
+                            "transformed": "Excess tax benefits from stock based compensation",
+                            "code": "",
+                            "value": -41000.0,
+                            "desc": "Excess tax benefits from stock-based compensation"
+                        },
+                        {
+                            "transformed": "Gain on sale of principal loans receivable held for sale net",
+                            "code": "",
+                            "value": "",
+                            "desc": "Gain on sale of principal loans receivable held for sale net"
+                        }
+                    ],
+                    "heading": "Adjustments:"
+                },
+                {
+                    "transformed": "Changes in assets and liabilities",
+                    "code": "",
+                    "items": [
+                        {
+                            "transformed": "Accounts receivable",
+                            "code": "AM_BS_AR",
+                            "value": -13000.0,
+                            "desc": "Accounts receivable"
+                        },
+                        {
+                            "transformed": "Receivable from ebay",
+                            "code": "",
+                            "value": -24000.0,
+                            "desc": "Receivable from eBay"
+                        },
+                        {
+                            "transformed": "Principal loans receivable held for sale net",
+                            "code": "",
+                            "value": "",
+                            "desc": "Principal loans receivable held for sale net"
+                        },
+                        {
+                            "transformed": "Transaction loss allowance for cash losses net",
+                            "code": "",
+                            "value": -414000.0,
+                            "desc": "Transaction loss allowance for cash losses net"
+                        },
+                        {
+                            "transformed": "Other current assets and non current assets",
+                            "code": "",
+                            "value": -38000.0,
+                            "desc": "Other current assets and non-current assets"
+                        },
+                        {
+                            "transformed": "Accounts payable",
+                            "code": "",
+                            "value": 42000.0,
+                            "desc": "Accounts payable"
+                        },
+                        {
+                            "transformed": "Payable to ebay",
+                            "code": "",
+                            "value": -2000.0,
+                            "desc": "Payable to eBay"
+                        },
+                        {
+                            "transformed": "Income taxes payable",
+                            "code": "",
+                            "value": 37000.0,
+                            "desc": "Income taxes payable"
+                        },
+                        {
+                            "transformed": "Other current liabilities and non current liabilities",
+                            "code": "",
+                            "value": 113000.0,
+                            "desc": "Other current liabilities and non-current liabilities"
+                        }
+                    ],
+                    "heading": "Changes in assets and liabilities:"
+                },
+                {
+                    "transformed": "Net cash provided by operating activities",
+                    "code": "",
+                    "value": 2220000.0,
+                    "desc": "Net cash provided by operating activities"
+                },
+                {
+                    "transformed": "Cash flows from investing activities",
+                    "code": "",
+                    "items": [],
+                    "heading": "Cash flows from investing activities:"
+                },
+                {
+                    "transformed": "Purchases of property and equipment",
+                    "code": "",
+                    "value": -492000.0,
+                    "desc": "Purchases of property and equipment"
+                },
+                {
+                    "transformed": "Proceeds from sales of property and equipment",
+                    "code": "",
+                    "value": "",
+                    "desc": "Proceeds from sales of property and equipment"
+                },
+                {
+                    "transformed": "Changes in principal loans receivable net",
+                    "code": "",
+                    "value": -1023000.0,
+                    "desc": "Changes in principal loans receivable net"
+                },
+                {
+                    "transformed": "Purchases of investments",
+                    "code": "",
+                    "value": -8744000.0,
+                    "desc": "Purchases of investments"
+                },
+                {
+                    "transformed": "Maturities and sales of investments",
+                    "code": "",
+                    "value": 7766000.0,
+                    "desc": "Maturities and sales of investments"
+                },
+                {
+                    "transformed": "Acquisitions net of cash acquired",
+                    "code": "",
+                    "value": -2000.0,
+                    "desc": "Acquisitions net of cash acquired"
+                },
+                {
+                    "transformed": "Funds receivable and customer accounts",
+                    "code": "",
+                    "value": -24000.0,
+                    "desc": "Funds receivable and customer accounts"
+                },
+                {
+                    "transformed": "Net cash used in investing activities",
+                    "code": "",
+                    "value": -2881000.0,
+                    "desc": "Net cash used in investing activities"
+                },
+                {
+                    "transformed": "Cash flows from financing activities",
+                    "code": "",
+                    "items": [],
+                    "heading": "Cash flows from financing activities:"
+                },
+                {
+                    "transformed": "Proceeds from issuance of common stock",
+                    "code": "",
+                    "value": "",
+                    "desc": "Proceeds from issuance of common stock"
+                },
+                {
+                    "transformed": "Purchases of treasury stock",
+                    "code": "",
+                    "value": "",
+                    "desc": "Purchases of treasury stock"
+                },
+                {
+                    "transformed": "Excess tax benefits from stock based compensation",
+                    "code": "",
+                    "value": 41000.0,
+                    "desc": "Excess tax benefits from stock-based compensation"
+                },
+                {
+                    "transformed": "Contribution from to ebay",
+                    "code": "",
+                    "value": -71000.0,
+                    "desc": "Contribution from -to eBay"
+                },
+                {
+                    "transformed": "Tax withholdings related to net share settlements of restricted stock units and restricted stock awards",
+                    "code": "",
+                    "value": "",
+                    "desc": "Tax withholdings related to net share settlements of restricted stock units and restricted stock awards"
+                },
+                {
+                    "transformed": "Borrowings repayments under financing arrangements",
+                    "code": "",
+                    "value": -21000.0,
+                    "desc": "Borrowings -repayments under financing arrangements"
+                },
+                {
+                    "transformed": "Funds payable and amounts due to customers",
+                    "code": "",
+                    "value": 1335000.0,
+                    "desc": "Funds payable and amounts due to customers"
+                },
+                {
+                    "transformed": "Net cash provided by financing activities",
+                    "code": "",
+                    "value": 1284000.0,
+                    "desc": "Net cash provided by financing activities"
+                },
+                {
+                    "transformed": "Effect of exchange rate changes on cash and cash equivalents",
+                    "code": "",
+                    "value": -26000.0,
+                    "desc": "Effect of exchange rate changes on cash and cash equivalents"
+                },
+                {
+                    "transformed": "Net change in cash",
+                    "code": "AM_CF_CI",
+                    "value": 597000.0,
+                    "desc": "Net increase -decrease in cash and cash equivalents"
+                },
+                {
+                    "transformed": "Cash beginning",
+                    "code": "AM_CF_BC",
+                    "value": 1604000.0,
+                    "desc": "Cash and cash equivalents at beginning of period"
+                },
+                {
+                    "transformed": "Cash ending",
+                    "code": "AM_CF_EC",
+                    "value": 2201000.0,
+                    "desc": "Cash and cash equivalents at end of period"
+                }
+            ],
+            "asof": "december312014"
+        }
+    ],
+    "title": "consolidated statements of cash flows",
+    "type": "cash_flow_statement",
+    "currency": "USD"
+}

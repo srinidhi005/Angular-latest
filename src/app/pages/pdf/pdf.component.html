@@ -1,0 +1,27 @@
+<div class="content">
+	<!--<div class="form-group">-->
+	`<div class="btn-group float-right" role="group">
+		<button  type="button" (click)="tableToExcel('myTable','RMI_Insights_Export')" class="btn btn-sm btn-primary rmiBtn" style="padding-left: 5px">
+			<i class="far fa-file-excel" style="
+				    padding-right: 5px;
+				    "></i>	Export to XLS
+		</button>  
+		<button  type="button" (click)="download()"  class="btn btn-sm btn-primary rmiBtn" >
+			<i class="far fa-file-pdf" style="
+				    padding-right: 5px;
+				    "></i> Export to PDF
+		</button>
+		<select type="button"  class="btn btn-sm btn-primary rmiBtn"  onchange="updateProjectionPdf()"  id="sel2" style="padding-left: 35px;" >
+		</select>
+		<button  type="button" onclick="visuals()"  class="btn btn-sm btn-primary rmiBtn" >
+			<i class="fa fa-chart-bar" style="
+				    padding-right: 5px;
+				    "></i> Visuals
+		</button>
+	</div>
+	<div class="mt-5 ml-3" style="padding-right:5px">
+		<table  id="myTable" border="1" >
+			<tr></tr>
+		</table>
+	</div>
+</div>

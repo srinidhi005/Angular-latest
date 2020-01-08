@@ -1,0 +1,399 @@
+{
+    "units": "millions",
+    "type": "Balance_sheet",
+    "period": [
+        {
+            "asof": "2018",
+            "statement": [
+                {
+                    "code": "",
+                    "transformed": "Current assets",
+                    "items": [
+                        {
+                            "code": "AM_BS_BA",
+                            "transformed": "Cash equivalents",
+                            "value": 316000.0,
+                            "desc": "Cash and equivalents"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Accounts and notes receivable net",
+                            "value": 2133000.0,
+                            "desc": "Accounts and notes receivable net -1"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Prepaid expenses and other",
+                            "value": 249000.0,
+                            "desc": "Prepaid expenses and other -1"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Assets held for sale",
+                            "value": 8000.0,
+                            "desc": "Assets held for sale"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Ppe(net)",
+                            "value": 1956000.0,
+                            "desc": "Property and equipment net"
+                        }
+                    ],
+                    "heading": "Current assets"
+                },
+                {
+                    "code": "",
+                    "transformed": "Intangible assets",
+                    "items": [
+                        {
+                            "code": "",
+                            "transformed": "Brands",
+                            "value": 5790000.0,
+                            "desc": "Brands"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Contract acquisition costs and other",
+                            "value": 2590000.0,
+                            "desc": "Contract acquisition costs and other -1"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Goodwill",
+                            "value": 9039000.0,
+                            "desc": "Goodwill"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Equity method investments",
+                            "value": 732000.0,
+                            "desc": "Equity method investments -1"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Deferred tax assets",
+                            "value": 171000.0,
+                            "desc": "Deferred tax assets"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Other noncurrent assets",
+                            "value": 587000.0,
+                            "desc": "Other noncurrent assets -1"
+                        }
+                    ],
+                    "heading": "Intangible assets"
+                },
+                {
+                    "code": "",
+                    "transformed": "Liabilities and shareholders equity",
+                    "items": [],
+                    "heading": "LIABILITIES AND SHAREHOLDERS\u2019 EQUITY"
+                },
+                {
+                    "code": "",
+                    "transformed": "Current liabilities",
+                    "items": [
+                        {
+                            "code": "",
+                            "transformed": "Current portion of long term debt",
+                            "value": 833000.0,
+                            "desc": "Current portion of long-term debt"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Accounts payable",
+                            "value": 767000.0,
+                            "desc": "Accounts payable -1"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Accrued payroll and benefits",
+                            "value": 1345000.0,
+                            "desc": "Accrued payroll and benefits"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Liability for guest loyalty program",
+                            "value": 2529000.0,
+                            "desc": "Liability for guest loyalty program"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Accrued expenses and other",
+                            "value": 963000.0,
+                            "desc": "Accrued expenses and other -1"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Long term debt",
+                            "value": 8514000.0,
+                            "desc": "Long-term debt"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Liability for guest loyalty program",
+                            "value": 2932000.0,
+                            "desc": "Liability for guest loyalty program"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Deferred tax liabilities",
+                            "value": 485000.0,
+                            "desc": "Deferred tax liabilities -1"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Deferred revenue",
+                            "value": 731000.0,
+                            "desc": "Deferred revenue"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Other noncurrent liabilities",
+                            "value": 2372000.0,
+                            "desc": "Other noncurrent liabilities -1"
+                        }
+                    ],
+                    "heading": "Current liabilities"
+                },
+                {
+                    "code": "AM_BS_E",
+                    "transformed": "Shareholders equity",
+                    "items": [
+                        {
+                            "code": "",
+                            "transformed": "Class a common stock",
+                            "value": 5000.0,
+                            "desc": "Class A Common Stock"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Additional paid in capital",
+                            "value": 5814000.0,
+                            "desc": "Additional paid-in-capital"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Retained earnings",
+                            "value": 8982000.0,
+                            "desc": "Retained earnings"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Treasury stock at cost",
+                            "value": -12185000.0,
+                            "desc": "Treasury stock at cost"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Accumulated other comprehensive loss",
+                            "value": -391000.0,
+                            "desc": "Accumulated other comprehensive loss"
+                        }
+                    ],
+                    "heading": "Shareholders\u2019 equity"
+                }
+            ]
+        },
+        {
+            "asof": "2017",
+            "statement": [
+                {
+                    "code": "",
+                    "transformed": "Current assets",
+                    "items": [
+                        {
+                            "code": "AM_BS_BA",
+                            "transformed": "Cash equivalents",
+                            "value": 383000.0,
+                            "desc": "Cash and equivalents"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Accounts and notes receivable net",
+                            "value": 1973000.0,
+                            "desc": "Accounts and notes receivable net -1"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Prepaid expenses and other",
+                            "value": 235000.0,
+                            "desc": "Prepaid expenses and other -1"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Assets held for sale",
+                            "value": 149000.0,
+                            "desc": "Assets held for sale"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Ppe(net)",
+                            "value": 1793000.0,
+                            "desc": "Property and equipment net"
+                        }
+                    ],
+                    "heading": "Current assets"
+                },
+                {
+                    "code": "",
+                    "transformed": "Intangible assets",
+                    "items": [
+                        {
+                            "code": "",
+                            "transformed": "Brands",
+                            "value": 5922000.0,
+                            "desc": "Brands"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Contract acquisition costs and other",
+                            "value": 2622000.0,
+                            "desc": "Contract acquisition costs and other -1"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Goodwill",
+                            "value": 9207000.0,
+                            "desc": "Goodwill"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Equity method investments",
+                            "value": 734000.0,
+                            "desc": "Equity method investments -1"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Deferred tax assets",
+                            "value": 93000.0,
+                            "desc": "Deferred tax assets"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Other noncurrent assets",
+                            "value": 593000.0,
+                            "desc": "Other noncurrent assets -1"
+                        }
+                    ],
+                    "heading": "Intangible assets"
+                },
+                {
+                    "code": "",
+                    "transformed": "Liabilities and shareholders equity",
+                    "items": [],
+                    "heading": "LIABILITIES AND SHAREHOLDERS\u2019 EQUITY"
+                },
+                {
+                    "code": "",
+                    "transformed": "Current liabilities",
+                    "items": [
+                        {
+                            "code": "",
+                            "transformed": "Current portion of long term debt",
+                            "value": 398000.0,
+                            "desc": "Current portion of long-term debt"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Accounts payable",
+                            "value": 783000.0,
+                            "desc": "Accounts payable -1"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Accrued payroll and benefits",
+                            "value": 1214000.0,
+                            "desc": "Accrued payroll and benefits"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Liability for guest loyalty program",
+                            "value": 2121000.0,
+                            "desc": "Liability for guest loyalty program"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Accrued expenses and other",
+                            "value": 1291000.0,
+                            "desc": "Accrued expenses and other -1"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Long term debt",
+                            "value": 7840000.0,
+                            "desc": "Long-term debt"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Liability for guest loyalty program",
+                            "value": 2819000.0,
+                            "desc": "Liability for guest loyalty program"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Deferred tax liabilities",
+                            "value": 605000.0,
+                            "desc": "Deferred tax liabilities -1"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Deferred revenue",
+                            "value": 583000.0,
+                            "desc": "Deferred revenue"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Other noncurrent liabilities",
+                            "value": 2610000.0,
+                            "desc": "Other noncurrent liabilities -1"
+                        }
+                    ],
+                    "heading": "Current liabilities"
+                },
+                {
+                    "code": "AM_BS_E",
+                    "transformed": "Shareholders equity",
+                    "items": [
+                        {
+                            "code": "",
+                            "transformed": "Class a common stock",
+                            "value": 5000.0,
+                            "desc": "Class A Common Stock"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Additional paid in capital",
+                            "value": 5770000.0,
+                            "desc": "Additional paid-in-capital"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Retained earnings",
+                            "value": 7242000.0,
+                            "desc": "Retained earnings"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Treasury stock at cost",
+                            "value": -9418000.0,
+                            "desc": "Treasury stock at cost"
+                        },
+                        {
+                            "code": "",
+                            "transformed": "Accumulated other comprehensive loss",
+                            "value": -17000.0,
+                            "desc": "Accumulated other comprehensive loss"
+                        }
+                    ],
+                    "heading": "Shareholders\u2019 equity"
+                }
+            ]
+        }
+    ],
+    "title": "consolidated balance sheets",
+    "currency": "USD",
+    "company": "marriott international inc"
+}

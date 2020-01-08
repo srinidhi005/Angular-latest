@@ -1,0 +1,131 @@
+{
+    "units": "millions",
+    "currency": "USD",
+    "type": "statement_of_income",
+    "period": [
+        {
+            "asof": "2018",
+            "statement": [
+                {
+                    "code": "AM_IS_I",
+                    "value": 15740400.0,
+                    "desc": "Net sales",
+                    "transformed": "Net revenue"
+                },
+                {
+                    "code": "AM_IS_CORS",
+                    "value": 10312900.0,
+                    "desc": "Cost of sales",
+                    "transformed": "Cost of revenue"
+                },
+                {
+                    "code": "",
+                    "value": 2752600.0,
+                    "desc": "Selling general and administrative expenses",
+                    "transformed": "Selling general and administrative expenses"
+                },
+                {
+                    "code": "",
+                    "value": "-",
+                    "desc": "Divestitures loss -gain",
+                    "transformed": "Divestitures loss gain"
+                },
+                {
+                    "code": "",
+                    "value": 165600.0,
+                    "desc": "Restructuring impairment and other exit costs",
+                    "transformed": "Restructuring impairment and other exit costs"
+                },
+                {
+                    "code": "AM_IS_NOI",
+                    "value": 2509300.0,
+                    "desc": "Operating profit",
+                    "transformed": "Operating income/loss"
+                },
+                {
+                    "code": "",
+                    "value": 373700.0,
+                    "desc": "Interest net",
+                    "transformed": "Interest net"
+                },
+                {
+                    "code": "",
+                    "heading": "Earnings before income taxes and after-tax earnings",
+                    "items": [
+                        {
+                            "code": "",
+                            "value": 2135600.0,
+                            "desc": "from joint ventures",
+                            "transformed": "From joint ventures"
+                        }
+                    ],
+                    "transformed": "Earnings before income taxes and after tax earnings"
+                },
+                {
+                    "code": "",
+                    "value": 57300.0,
+                    "desc": "Income taxes",
+                    "transformed": "Income taxes"
+                },
+                {
+                    "code": "",
+                    "value": 84700.0,
+                    "desc": "After-tax earnings from joint ventures",
+                    "transformed": "After tax earnings from joint ventures"
+                },
+                {
+                    "code": "",
+                    "heading": "Net earnings including earnings attributable to",
+                    "items": [
+                        {
+                            "code": "",
+                            "value": 2163000.0,
+                            "desc": "redeemable and noncontrolling interests",
+                            "transformed": "Redeemable and noncontrolling interests"
+                        }
+                    ],
+                    "transformed": "Net earnings including earnings attributable to"
+                },
+                {
+                    "code": "",
+                    "heading": "Net earnings attributable to redeemable and",
+                    "items": [
+                        {
+                            "code": "",
+                            "value": 32000.0,
+                            "desc": "noncontrolling interests",
+                            "transformed": "Noncontrolling interests"
+                        }
+                    ],
+                    "transformed": "Net earnings attributable to redeemable and"
+                },
+                {
+                    "code": "",
+                    "value": 2131000.0,
+                    "desc": "Net earnings attributable to General Mills",
+                    "transformed": "Net earnings attributable to general mills"
+                },
+                {
+                    "code": "",
+                    "value": 3.69,
+                    "desc": "Earnings per share - basic",
+                    "transformed": "Earnings per share basic"
+                },
+                {
+                    "code": "",
+                    "value": 3.64,
+                    "desc": "Earnings per share - diluted",
+                    "transformed": "Earnings per share diluted"
+                },
+                {
+                    "code": "",
+                    "value": 1.96,
+                    "desc": "Dividends per share",
+                    "transformed": "Dividends per share"
+                }
+            ]
+        }
+    ],
+    "company": "general mills inc",
+    "title": "consolidated statements of earnings"
+}

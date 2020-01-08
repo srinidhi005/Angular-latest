@@ -1,0 +1,342 @@
+{
+    "title": "consolidated statements of operations",
+    "units": "millions",
+    "type": "statement_of_income",
+    "period": [
+        {
+            "statement": [
+                {
+                    "desc": "Sales of products",
+                    "value": 83204000.0,
+                    "code": "",
+                    "transformed": "Sales of products"
+                },
+                {
+                    "desc": "Sales of services",
+                    "value": 10188000.0,
+                    "code": "",
+                    "transformed": "Sales of services"
+                },
+                {
+                    "desc": "Total revenues",
+                    "value": 93392000.0,
+                    "code": "AM_IS_I",
+                    "transformed": "Net revenue"
+                },
+                {
+                    "desc": "Cost of products",
+                    "value": "-68365-72713-73446",
+                    "code": "",
+                    "transformed": "Cost of products"
+                },
+                {
+                    "desc": "Cost of services",
+                    "value": -7631000.0,
+                    "code": "",
+                    "transformed": "Cost of services"
+                },
+                {
+                    "desc": "Boeing Capital interest expense",
+                    "value": -70000.0,
+                    "code": "",
+                    "transformed": "Boeing capital interest expense"
+                },
+                {
+                    "desc": "Total costs and expenses",
+                    "value": "-76066-80790-82088",
+                    "code": "",
+                    "transformed": "Total costs and expenses"
+                },
+                {
+                    "desc": "Income from operating investments net",
+                    "value": 204000.0,
+                    "code": "",
+                    "transformed": "Income from operating investments net"
+                },
+                {
+                    "desc": "General and administrative expense",
+                    "value": -4094000.0,
+                    "code": "",
+                    "transformed": "General and administrative expense"
+                },
+                {
+                    "desc": "Research and development expense net",
+                    "value": -3179000.0,
+                    "code": "",
+                    "transformed": "Research and development expense net"
+                },
+                {
+                    "desc": "Gain/-loss on dispositions net",
+                    "value": 21000.0,
+                    "code": "",
+                    "transformed": "Gain loss on dispositions net"
+                },
+                {
+                    "desc": "Earnings from operations",
+                    "value": 10278000.0,
+                    "code": "",
+                    "transformed": "Earnings from operations"
+                },
+                {
+                    "desc": "Other income/-loss net",
+                    "value": 129000.0,
+                    "code": "",
+                    "transformed": "Other income loss net"
+                },
+                {
+                    "desc": "Interest and debt expense",
+                    "value": -360000.0,
+                    "code": "",
+                    "transformed": "Interest and debt expense"
+                },
+                {
+                    "desc": "Earnings before income taxes",
+                    "value": 10047000.0,
+                    "code": "",
+                    "transformed": "Earnings before income taxes"
+                },
+                {
+                    "desc": "Income tax expense",
+                    "value": -1850000.0,
+                    "code": "",
+                    "transformed": "Provision for income taxes"
+                },
+                {
+                    "desc": "Net earnings",
+                    "value": 8197000.0,
+                    "code": "",
+                    "transformed": "Net earnings"
+                },
+                {
+                    "desc": "Basic earnings per share",
+                    "value": 13.6,
+                    "code": "",
+                    "transformed": "Basic earnings per share"
+                },
+                {
+                    "desc": "Diluted earnings per share",
+                    "value": 13.43,
+                    "code": "",
+                    "transformed": "Diluted earnings per share"
+                }
+            ],
+            "asof": "december312017"
+        },
+        {
+            "statement": [
+                {
+                    "desc": "Sales of products",
+                    "value": 84399000.0,
+                    "code": "",
+                    "transformed": "Sales of products"
+                },
+                {
+                    "desc": "Sales of services",
+                    "value": 10172000.0,
+                    "code": "",
+                    "transformed": "Sales of services"
+                },
+                {
+                    "desc": "Total revenues",
+                    "value": 94571000.0,
+                    "code": "AM_IS_I",
+                    "transformed": "Net revenue"
+                },
+                {
+                    "desc": "Cost of services",
+                    "value": -8018000.0,
+                    "code": "",
+                    "transformed": "Cost of services"
+                },
+                {
+                    "desc": "Boeing Capital interest expense",
+                    "value": -59000.0,
+                    "code": "",
+                    "transformed": "Boeing capital interest expense"
+                },
+                {
+                    "desc": "Income from operating investments net",
+                    "value": 303000.0,
+                    "code": "",
+                    "transformed": "Income from operating investments net"
+                },
+                {
+                    "desc": "General and administrative expense",
+                    "value": -3616000.0,
+                    "code": "",
+                    "transformed": "General and administrative expense"
+                },
+                {
+                    "desc": "Research and development expense net",
+                    "value": -4627000.0,
+                    "code": "",
+                    "transformed": "Research and development expense net"
+                },
+                {
+                    "desc": "Gain/-loss on dispositions net",
+                    "value": -7000.0,
+                    "code": "",
+                    "transformed": "Gain loss on dispositions net"
+                },
+                {
+                    "desc": "Earnings from operations",
+                    "value": 5834000.0,
+                    "code": "",
+                    "transformed": "Earnings from operations"
+                },
+                {
+                    "desc": "Other income/-loss net",
+                    "value": 40000.0,
+                    "code": "",
+                    "transformed": "Other income loss net"
+                },
+                {
+                    "desc": "Interest and debt expense",
+                    "value": -306000.0,
+                    "code": "",
+                    "transformed": "Interest and debt expense"
+                },
+                {
+                    "desc": "Earnings before income taxes",
+                    "value": 5568000.0,
+                    "code": "",
+                    "transformed": "Earnings before income taxes"
+                },
+                {
+                    "desc": "Income tax expense",
+                    "value": -673000.0,
+                    "code": "",
+                    "transformed": "Provision for income taxes"
+                },
+                {
+                    "desc": "Net earnings",
+                    "value": 4895000.0,
+                    "code": "",
+                    "transformed": "Net earnings"
+                },
+                {
+                    "desc": "Basic earnings per share",
+                    "value": 7.7,
+                    "code": "",
+                    "transformed": "Basic earnings per share"
+                },
+                {
+                    "desc": "Diluted earnings per share",
+                    "value": 7.61,
+                    "code": "",
+                    "transformed": "Diluted earnings per share"
+                }
+            ],
+            "asof": "december312016"
+        },
+        {
+            "statement": [
+                {
+                    "desc": "Sales of products",
+                    "value": 85255000.0,
+                    "code": "",
+                    "transformed": "Sales of products"
+                },
+                {
+                    "desc": "Sales of services",
+                    "value": 10859000.0,
+                    "code": "",
+                    "transformed": "Sales of services"
+                },
+                {
+                    "desc": "Total revenues",
+                    "value": 96114000.0,
+                    "code": "AM_IS_I",
+                    "transformed": "Net revenue"
+                },
+                {
+                    "desc": "Cost of services",
+                    "value": -8578000.0,
+                    "code": "",
+                    "transformed": "Cost of services"
+                },
+                {
+                    "desc": "Boeing Capital interest expense",
+                    "value": -64000.0,
+                    "code": "",
+                    "transformed": "Boeing capital interest expense"
+                },
+                {
+                    "desc": "Income from operating investments net",
+                    "value": 274000.0,
+                    "code": "",
+                    "transformed": "Income from operating investments net"
+                },
+                {
+                    "desc": "General and administrative expense",
+                    "value": -3525000.0,
+                    "code": "",
+                    "transformed": "General and administrative expense"
+                },
+                {
+                    "desc": "Research and development expense net",
+                    "value": -3331000.0,
+                    "code": "",
+                    "transformed": "Research and development expense net"
+                },
+                {
+                    "desc": "Gain/-loss on dispositions net",
+                    "value": -1000.0,
+                    "code": "",
+                    "transformed": "Gain loss on dispositions net"
+                },
+                {
+                    "desc": "Earnings from operations",
+                    "value": 7443000.0,
+                    "code": "",
+                    "transformed": "Earnings from operations"
+                },
+                {
+                    "desc": "Other income/-loss net",
+                    "value": -13000.0,
+                    "code": "",
+                    "transformed": "Other income loss net"
+                },
+                {
+                    "desc": "Interest and debt expense",
+                    "value": -275000.0,
+                    "code": "",
+                    "transformed": "Interest and debt expense"
+                },
+                {
+                    "desc": "Earnings before income taxes",
+                    "value": 7155000.0,
+                    "code": "",
+                    "transformed": "Earnings before income taxes"
+                },
+                {
+                    "desc": "Income tax expense",
+                    "value": -1979000.0,
+                    "code": "",
+                    "transformed": "Provision for income taxes"
+                },
+                {
+                    "desc": "Net earnings",
+                    "value": 5176000.0,
+                    "code": "",
+                    "transformed": "Net earnings"
+                },
+                {
+                    "desc": "Basic earnings per share",
+                    "value": 7.52,
+                    "code": "",
+                    "transformed": "Basic earnings per share"
+                },
+                {
+                    "desc": "Diluted earnings per share",
+                    "value": 7.44,
+                    "code": "",
+                    "transformed": "Diluted earnings per share"
+                }
+            ],
+            "asof": "december312015"
+        }
+    ],
+    "company": "the boeing company",
+    "currency": "USD"
+}

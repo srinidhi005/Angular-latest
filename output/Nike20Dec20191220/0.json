@@ -1,0 +1,297 @@
+{
+    "currency": "USD",
+    "title": "consolidated statements of income",
+    "period": [
+        {
+            "statement": [
+                {
+                    "transformed": "Net revenue",
+                    "value": 36397000.0,
+                    "desc": "Revenues",
+                    "code": "AM_IS_I"
+                },
+                {
+                    "transformed": "Cost of revenue",
+                    "value": 20441000.0,
+                    "desc": "Cost of sales",
+                    "code": "AM_IS_CORS"
+                },
+                {
+                    "transformed": "Gross profit",
+                    "value": 15956000.0,
+                    "desc": "Gross profit",
+                    "code": "AM_IS_GP"
+                },
+                {
+                    "transformed": "Demand creation expense",
+                    "value": 3577000.0,
+                    "desc": "Demand creation expense",
+                    "code": ""
+                },
+                {
+                    "transformed": "Operating overhead expense",
+                    "value": 7934000.0,
+                    "desc": "Operating overhead expense",
+                    "code": ""
+                },
+                {
+                    "transformed": "Total selling and administrative expense",
+                    "value": 11511000.0,
+                    "desc": "Total selling and administrative expense",
+                    "code": ""
+                },
+                {
+                    "transformed": "Interest expense income net",
+                    "value": 54000.0,
+                    "desc": "Interest expense -income net",
+                    "code": ""
+                },
+                {
+                    "transformed": "Other expense income net",
+                    "value": 66000.0,
+                    "desc": "Other expense -income net",
+                    "code": ""
+                },
+                {
+                    "transformed": "Income before income taxes",
+                    "value": 4325000.0,
+                    "desc": "Income before income taxes",
+                    "code": ""
+                },
+                {
+                    "transformed": "Provision for income taxes",
+                    "value": 2392000.0,
+                    "desc": "Income tax expense",
+                    "code": ""
+                },
+                {
+                    "transformed": "Net income/loss",
+                    "value": 1933000.0,
+                    "desc": "NET INCOME",
+                    "code": "AM_BS_NI"
+                },
+                {
+                    "transformed": "Earnings per common share",
+                    "code": "",
+                    "items": [
+                        {
+                            "transformed": "Basic",
+                            "value": 1.19,
+                            "desc": "Basic",
+                            "code": ""
+                        },
+                        {
+                            "transformed": "Diluted",
+                            "value": 1.17,
+                            "desc": "Diluted",
+                            "code": ""
+                        },
+                        {
+                            "transformed": "Dividends declared per common share",
+                            "value": 0.78,
+                            "desc": "Dividends declared per common share",
+                            "code": ""
+                        }
+                    ],
+                    "heading": "Earnings per common share:"
+                }
+            ],
+            "asof": "may312018"
+        },
+        {
+            "statement": [
+                {
+                    "transformed": "Net revenue",
+                    "value": 34350000.0,
+                    "desc": "Revenues",
+                    "code": "AM_IS_I"
+                },
+                {
+                    "transformed": "Cost of revenue",
+                    "value": 19038000.0,
+                    "desc": "Cost of sales",
+                    "code": "AM_IS_CORS"
+                },
+                {
+                    "transformed": "Gross profit",
+                    "value": 15312000.0,
+                    "desc": "Gross profit",
+                    "code": "AM_IS_GP"
+                },
+                {
+                    "transformed": "Demand creation expense",
+                    "value": 3341000.0,
+                    "desc": "Demand creation expense",
+                    "code": ""
+                },
+                {
+                    "transformed": "Operating overhead expense",
+                    "value": 7222000.0,
+                    "desc": "Operating overhead expense",
+                    "code": ""
+                },
+                {
+                    "transformed": "Total selling and administrative expense",
+                    "value": 10563000.0,
+                    "desc": "Total selling and administrative expense",
+                    "code": ""
+                },
+                {
+                    "transformed": "Interest expense income net",
+                    "value": 59000.0,
+                    "desc": "Interest expense -income net",
+                    "code": ""
+                },
+                {
+                    "transformed": "Other expense income net",
+                    "value": -196000.0,
+                    "desc": "Other expense -income net",
+                    "code": ""
+                },
+                {
+                    "transformed": "Income before income taxes",
+                    "value": 4886000.0,
+                    "desc": "Income before income taxes",
+                    "code": ""
+                },
+                {
+                    "transformed": "Provision for income taxes",
+                    "value": 646000.0,
+                    "desc": "Income tax expense",
+                    "code": ""
+                },
+                {
+                    "transformed": "Net income/loss",
+                    "value": 4240000.0,
+                    "desc": "NET INCOME",
+                    "code": "AM_BS_NI"
+                },
+                {
+                    "transformed": "Earnings per common share",
+                    "code": "",
+                    "items": [
+                        {
+                            "transformed": "Basic",
+                            "value": 2.56,
+                            "desc": "Basic",
+                            "code": ""
+                        },
+                        {
+                            "transformed": "Diluted",
+                            "value": 2.51,
+                            "desc": "Diluted",
+                            "code": ""
+                        },
+                        {
+                            "transformed": "Dividends declared per common share",
+                            "value": 0.7,
+                            "desc": "Dividends declared per common share",
+                            "code": ""
+                        }
+                    ],
+                    "heading": "Earnings per common share:"
+                }
+            ],
+            "asof": "may312017"
+        },
+        {
+            "statement": [
+                {
+                    "transformed": "Net revenue",
+                    "value": 32376000.0,
+                    "desc": "Revenues",
+                    "code": "AM_IS_I"
+                },
+                {
+                    "transformed": "Cost of revenue",
+                    "value": 17405000.0,
+                    "desc": "Cost of sales",
+                    "code": "AM_IS_CORS"
+                },
+                {
+                    "transformed": "Gross profit",
+                    "value": 14971000.0,
+                    "desc": "Gross profit",
+                    "code": "AM_IS_GP"
+                },
+                {
+                    "transformed": "Demand creation expense",
+                    "value": 3278000.0,
+                    "desc": "Demand creation expense",
+                    "code": ""
+                },
+                {
+                    "transformed": "Operating overhead expense",
+                    "value": 7191000.0,
+                    "desc": "Operating overhead expense",
+                    "code": ""
+                },
+                {
+                    "transformed": "Total selling and administrative expense",
+                    "value": 10469000.0,
+                    "desc": "Total selling and administrative expense",
+                    "code": ""
+                },
+                {
+                    "transformed": "Interest expense income net",
+                    "value": 19000.0,
+                    "desc": "Interest expense -income net",
+                    "code": ""
+                },
+                {
+                    "transformed": "Other expense income net",
+                    "value": -140000.0,
+                    "desc": "Other expense -income net",
+                    "code": ""
+                },
+                {
+                    "transformed": "Income before income taxes",
+                    "value": 4623000.0,
+                    "desc": "Income before income taxes",
+                    "code": ""
+                },
+                {
+                    "transformed": "Provision for income taxes",
+                    "value": 863000.0,
+                    "desc": "Income tax expense",
+                    "code": ""
+                },
+                {
+                    "transformed": "Net income/loss",
+                    "value": 3760000.0,
+                    "desc": "NET INCOME",
+                    "code": "AM_BS_NI"
+                },
+                {
+                    "transformed": "Earnings per common share",
+                    "code": "",
+                    "items": [
+                        {
+                            "transformed": "Basic",
+                            "value": 2.21,
+                            "desc": "Basic",
+                            "code": ""
+                        },
+                        {
+                            "transformed": "Diluted",
+                            "value": 2.16,
+                            "desc": "Diluted",
+                            "code": ""
+                        },
+                        {
+                            "transformed": "Dividends declared per common share",
+                            "value": 0.62,
+                            "desc": "Dividends declared per common share",
+                            "code": ""
+                        }
+                    ],
+                    "heading": "Earnings per common share:"
+                }
+            ],
+            "asof": "may312016"
+        }
+    ],
+    "units": "millions",
+    "company": "nike inc",
+    "type": "statement_of_income"
+}

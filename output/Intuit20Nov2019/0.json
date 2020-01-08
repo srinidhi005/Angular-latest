@@ -1,0 +1,627 @@
+{
+    "currency": "USD",
+    "period": [
+        {
+            "asof": "july312018",
+            "statement": [
+                {
+                    "items": [
+                        {
+                            "value": 2018.0,
+                            "desc": "-In millions except per share amounts",
+                            "code": "",
+                            "transformed": "In millions except per share amounts"
+                        }
+                    ],
+                    "code": "",
+                    "heading": "CONSOLIDATED STATEMENTS OF OPERATIONS",
+                    "transformed": "Consolidated statements of operations"
+                },
+                {
+                    "items": [
+                        {
+                            "value": 1462000.0,
+                            "desc": "Product",
+                            "code": "",
+                            "transformed": "Product"
+                        },
+                        {
+                            "value": 4502000.0,
+                            "desc": "Service and other",
+                            "code": "",
+                            "transformed": "Service and other"
+                        },
+                        {
+                            "value": 5964000.0,
+                            "desc": "Total net revenue",
+                            "code": "",
+                            "transformed": "Total net revenue"
+                        }
+                    ],
+                    "code": "AM_IS_I",
+                    "heading": "Net revenue:",
+                    "transformed": "Net revenue"
+                },
+                {
+                    "items": [],
+                    "code": "",
+                    "heading": "Costs and expenses:",
+                    "transformed": "Costs and expenses"
+                },
+                {
+                    "items": [
+                        {
+                            "value": 112000.0,
+                            "desc": "Cost of product revenue",
+                            "code": "",
+                            "transformed": "Cost of product revenue"
+                        },
+                        {
+                            "value": 850000.0,
+                            "desc": "Cost of service and other revenue",
+                            "code": "",
+                            "transformed": "Cost of service and other revenue"
+                        },
+                        {
+                            "value": 15000.0,
+                            "desc": "Amortization of acquired technology",
+                            "code": "",
+                            "transformed": "Amortization of acquired technology"
+                        },
+                        {
+                            "value": 1634000.0,
+                            "desc": "Selling and marketing",
+                            "code": "",
+                            "transformed": "Selling and marketing"
+                        },
+                        {
+                            "value": 1186000.0,
+                            "desc": "Research and development",
+                            "code": "",
+                            "transformed": "Research and development"
+                        },
+                        {
+                            "value": 664000.0,
+                            "desc": "General and administrative",
+                            "code": "",
+                            "transformed": "General and administrative"
+                        },
+                        {
+                            "value": 6000.0,
+                            "desc": "Amortization of other acquired intangible assets",
+                            "code": "",
+                            "transformed": "Amortization of other acquired intangible assets"
+                        },
+                        {
+                            "value": 4467000.0,
+                            "desc": "Total costs and expenses",
+                            "code": "",
+                            "transformed": "Total costs and expenses"
+                        },
+                        {
+                            "value": 1497000.0,
+                            "desc": "Operating income from continuing operations",
+                            "code": "",
+                            "transformed": "Operating income from continuing operations"
+                        },
+                        {
+                            "value": -20000.0,
+                            "desc": "Interest expense",
+                            "code": "",
+                            "transformed": "Interest expense"
+                        },
+                        {
+                            "value": 26000.0,
+                            "desc": "Interest and other income -expense net",
+                            "code": "",
+                            "transformed": "Interest and other income expense net"
+                        },
+                        {
+                            "value": 1503000.0,
+                            "desc": "Income from continuing operations before income taxes",
+                            "code": "",
+                            "transformed": "Income from continuing operations before income taxes"
+                        },
+                        {
+                            "value": 292000.0,
+                            "desc": "Income tax provision",
+                            "code": "",
+                            "transformed": "Income tax provision"
+                        },
+                        {
+                            "value": 1211000.0,
+                            "desc": "Net income from continuing operations",
+                            "code": "",
+                            "transformed": "Net income from continuing operations"
+                        },
+                        {
+                            "value": "",
+                            "desc": "Net income from discontinued operations",
+                            "code": "",
+                            "transformed": "Net income from discontinued operations"
+                        },
+                        {
+                            "value": 1211000.0,
+                            "desc": "Net income",
+                            "code": "AM_BS_NI",
+                            "transformed": "Net income/loss"
+                        },
+                        {
+                            "value": 4.72,
+                            "desc": "Basic net income per share from continuing operations",
+                            "code": "",
+                            "transformed": "Basic net income per share from continuing operations"
+                        },
+                        {
+                            "value": "",
+                            "desc": "Basic net income per share from discontinued operations",
+                            "code": "",
+                            "transformed": "Basic net income per share from discontinued operations"
+                        },
+                        {
+                            "value": 4.72,
+                            "desc": "Basic net income per share",
+                            "code": "",
+                            "transformed": "Basic net income per share"
+                        },
+                        {
+                            "value": 256.0,
+                            "desc": "Shares used in basic per share calculations",
+                            "code": "",
+                            "transformed": "Shares used in basic per share calculations"
+                        },
+                        {
+                            "value": 4.64,
+                            "desc": "Diluted net income per share from continuing operations",
+                            "code": "",
+                            "transformed": "Diluted net income per share from continuing operations"
+                        },
+                        {
+                            "value": "",
+                            "desc": "Diluted net income per share from discontinued operations",
+                            "code": "",
+                            "transformed": "Diluted net income per share from discontinued operations"
+                        },
+                        {
+                            "value": 4.64,
+                            "desc": "Diluted net income per share",
+                            "code": "",
+                            "transformed": "Diluted net income per share"
+                        },
+                        {
+                            "value": 261.0,
+                            "desc": "Shares used in diluted per share calculations",
+                            "code": "",
+                            "transformed": "Shares used in diluted per share calculations"
+                        },
+                        {
+                            "value": 1.56,
+                            "desc": "Cash dividends declared per common share",
+                            "code": "",
+                            "transformed": "Cash dividends declared per common share"
+                        }
+                    ],
+                    "code": "AM_IS_CORS",
+                    "heading": "Cost of revenue:",
+                    "transformed": "Cost of revenue"
+                }
+            ]
+        },
+        {
+            "asof": "july312017",
+            "statement": [
+                {
+                    "items": [
+                        {
+                            "value": 2017.0,
+                            "desc": "-In millions except per share amounts",
+                            "code": "",
+                            "transformed": "In millions except per share amounts"
+                        }
+                    ],
+                    "code": "",
+                    "heading": "CONSOLIDATED STATEMENTS OF OPERATIONS",
+                    "transformed": "Consolidated statements of operations"
+                },
+                {
+                    "items": [
+                        {
+                            "value": 1376000.0,
+                            "desc": "Product",
+                            "code": "",
+                            "transformed": "Product"
+                        },
+                        {
+                            "value": 3801000.0,
+                            "desc": "Service and other",
+                            "code": "",
+                            "transformed": "Service and other"
+                        },
+                        {
+                            "value": 5177000.0,
+                            "desc": "Total net revenue",
+                            "code": "",
+                            "transformed": "Total net revenue"
+                        }
+                    ],
+                    "code": "AM_IS_I",
+                    "heading": "Net revenue:",
+                    "transformed": "Net revenue"
+                },
+                {
+                    "items": [],
+                    "code": "",
+                    "heading": "Costs and expenses:",
+                    "transformed": "Costs and expenses"
+                },
+                {
+                    "items": [
+                        {
+                            "value": 120000.0,
+                            "desc": "Cost of product revenue",
+                            "code": "",
+                            "transformed": "Cost of product revenue"
+                        },
+                        {
+                            "value": 677000.0,
+                            "desc": "Cost of service and other revenue",
+                            "code": "",
+                            "transformed": "Cost of service and other revenue"
+                        },
+                        {
+                            "value": 12000.0,
+                            "desc": "Amortization of acquired technology",
+                            "code": "",
+                            "transformed": "Amortization of acquired technology"
+                        },
+                        {
+                            "value": 1420000.0,
+                            "desc": "Selling and marketing",
+                            "code": "",
+                            "transformed": "Selling and marketing"
+                        },
+                        {
+                            "value": 998000.0,
+                            "desc": "Research and development",
+                            "code": "",
+                            "transformed": "Research and development"
+                        },
+                        {
+                            "value": 553000.0,
+                            "desc": "General and administrative",
+                            "code": "",
+                            "transformed": "General and administrative"
+                        },
+                        {
+                            "value": 2000.0,
+                            "desc": "Amortization of other acquired intangible assets",
+                            "code": "",
+                            "transformed": "Amortization of other acquired intangible assets"
+                        },
+                        {
+                            "value": 3782000.0,
+                            "desc": "Total costs and expenses",
+                            "code": "",
+                            "transformed": "Total costs and expenses"
+                        },
+                        {
+                            "value": 1395000.0,
+                            "desc": "Operating income from continuing operations",
+                            "code": "",
+                            "transformed": "Operating income from continuing operations"
+                        },
+                        {
+                            "value": -31000.0,
+                            "desc": "Interest expense",
+                            "code": "",
+                            "transformed": "Interest expense"
+                        },
+                        {
+                            "value": 3000.0,
+                            "desc": "Interest and other income -expense net",
+                            "code": "",
+                            "transformed": "Interest and other income expense net"
+                        },
+                        {
+                            "value": 1367000.0,
+                            "desc": "Income from continuing operations before income taxes",
+                            "code": "",
+                            "transformed": "Income from continuing operations before income taxes"
+                        },
+                        {
+                            "value": 396000.0,
+                            "desc": "Income tax provision",
+                            "code": "",
+                            "transformed": "Income tax provision"
+                        },
+                        {
+                            "value": 971000.0,
+                            "desc": "Net income from continuing operations",
+                            "code": "",
+                            "transformed": "Net income from continuing operations"
+                        },
+                        {
+                            "value": "",
+                            "desc": "Net income from discontinued operations",
+                            "code": "",
+                            "transformed": "Net income from discontinued operations"
+                        },
+                        {
+                            "value": 971000.0,
+                            "desc": "Net income",
+                            "code": "AM_BS_NI",
+                            "transformed": "Net income/loss"
+                        },
+                        {
+                            "value": 3.78,
+                            "desc": "Basic net income per share from continuing operations",
+                            "code": "",
+                            "transformed": "Basic net income per share from continuing operations"
+                        },
+                        {
+                            "value": "",
+                            "desc": "Basic net income per share from discontinued operations",
+                            "code": "",
+                            "transformed": "Basic net income per share from discontinued operations"
+                        },
+                        {
+                            "value": 3.78,
+                            "desc": "Basic net income per share",
+                            "code": "",
+                            "transformed": "Basic net income per share"
+                        },
+                        {
+                            "value": 257.0,
+                            "desc": "Shares used in basic per share calculations",
+                            "code": "",
+                            "transformed": "Shares used in basic per share calculations"
+                        },
+                        {
+                            "value": 3.72,
+                            "desc": "Diluted net income per share from continuing operations",
+                            "code": "",
+                            "transformed": "Diluted net income per share from continuing operations"
+                        },
+                        {
+                            "value": "",
+                            "desc": "Diluted net income per share from discontinued operations",
+                            "code": "",
+                            "transformed": "Diluted net income per share from discontinued operations"
+                        },
+                        {
+                            "value": 3.72,
+                            "desc": "Diluted net income per share",
+                            "code": "",
+                            "transformed": "Diluted net income per share"
+                        },
+                        {
+                            "value": 261.0,
+                            "desc": "Shares used in diluted per share calculations",
+                            "code": "",
+                            "transformed": "Shares used in diluted per share calculations"
+                        },
+                        {
+                            "value": 1.36,
+                            "desc": "Cash dividends declared per common share",
+                            "code": "",
+                            "transformed": "Cash dividends declared per common share"
+                        }
+                    ],
+                    "code": "AM_IS_CORS",
+                    "heading": "Cost of revenue:",
+                    "transformed": "Cost of revenue"
+                }
+            ]
+        },
+        {
+            "asof": "july312016",
+            "statement": [
+                {
+                    "items": [
+                        {
+                            "value": 2016.0,
+                            "desc": "-In millions except per share amounts",
+                            "code": "",
+                            "transformed": "In millions except per share amounts"
+                        }
+                    ],
+                    "code": "",
+                    "heading": "CONSOLIDATED STATEMENTS OF OPERATIONS",
+                    "transformed": "Consolidated statements of operations"
+                },
+                {
+                    "items": [
+                        {
+                            "value": 1289000.0,
+                            "desc": "Product",
+                            "code": "",
+                            "transformed": "Product"
+                        },
+                        {
+                            "value": 3405000.0,
+                            "desc": "Service and other",
+                            "code": "",
+                            "transformed": "Service and other"
+                        },
+                        {
+                            "value": 4694000.0,
+                            "desc": "Total net revenue",
+                            "code": "",
+                            "transformed": "Total net revenue"
+                        }
+                    ],
+                    "code": "AM_IS_I",
+                    "heading": "Net revenue:",
+                    "transformed": "Net revenue"
+                },
+                {
+                    "items": [],
+                    "code": "",
+                    "heading": "Costs and expenses:",
+                    "transformed": "Costs and expenses"
+                },
+                {
+                    "items": [
+                        {
+                            "value": 131000.0,
+                            "desc": "Cost of product revenue",
+                            "code": "",
+                            "transformed": "Cost of product revenue"
+                        },
+                        {
+                            "value": 599000.0,
+                            "desc": "Cost of service and other revenue",
+                            "code": "",
+                            "transformed": "Cost of service and other revenue"
+                        },
+                        {
+                            "value": 22000.0,
+                            "desc": "Amortization of acquired technology",
+                            "code": "",
+                            "transformed": "Amortization of acquired technology"
+                        },
+                        {
+                            "value": 1289000.0,
+                            "desc": "Selling and marketing",
+                            "code": "",
+                            "transformed": "Selling and marketing"
+                        },
+                        {
+                            "value": 881000.0,
+                            "desc": "Research and development",
+                            "code": "",
+                            "transformed": "Research and development"
+                        },
+                        {
+                            "value": 518000.0,
+                            "desc": "General and administrative",
+                            "code": "",
+                            "transformed": "General and administrative"
+                        },
+                        {
+                            "value": 12000.0,
+                            "desc": "Amortization of other acquired intangible assets",
+                            "code": "",
+                            "transformed": "Amortization of other acquired intangible assets"
+                        },
+                        {
+                            "value": 3452000.0,
+                            "desc": "Total costs and expenses",
+                            "code": "",
+                            "transformed": "Total costs and expenses"
+                        },
+                        {
+                            "value": 1242000.0,
+                            "desc": "Operating income from continuing operations",
+                            "code": "",
+                            "transformed": "Operating income from continuing operations"
+                        },
+                        {
+                            "value": -35000.0,
+                            "desc": "Interest expense",
+                            "code": "",
+                            "transformed": "Interest expense"
+                        },
+                        {
+                            "value": -4000.0,
+                            "desc": "Interest and other income -expense net",
+                            "code": "",
+                            "transformed": "Interest and other income expense net"
+                        },
+                        {
+                            "value": 1203000.0,
+                            "desc": "Income from continuing operations before income taxes",
+                            "code": "",
+                            "transformed": "Income from continuing operations before income taxes"
+                        },
+                        {
+                            "value": 397000.0,
+                            "desc": "Income tax provision",
+                            "code": "",
+                            "transformed": "Income tax provision"
+                        },
+                        {
+                            "value": 806000.0,
+                            "desc": "Net income from continuing operations",
+                            "code": "",
+                            "transformed": "Net income from continuing operations"
+                        },
+                        {
+                            "value": 173000.0,
+                            "desc": "Net income from discontinued operations",
+                            "code": "",
+                            "transformed": "Net income from discontinued operations"
+                        },
+                        {
+                            "value": 979000.0,
+                            "desc": "Net income",
+                            "code": "AM_BS_NI",
+                            "transformed": "Net income/loss"
+                        },
+                        {
+                            "value": 3.08,
+                            "desc": "Basic net income per share from continuing operations",
+                            "code": "",
+                            "transformed": "Basic net income per share from continuing operations"
+                        },
+                        {
+                            "value": 0.65,
+                            "desc": "Basic net income per share from discontinued operations",
+                            "code": "",
+                            "transformed": "Basic net income per share from discontinued operations"
+                        },
+                        {
+                            "value": 3.73,
+                            "desc": "Basic net income per share",
+                            "code": "",
+                            "transformed": "Basic net income per share"
+                        },
+                        {
+                            "value": 262.0,
+                            "desc": "Shares used in basic per share calculations",
+                            "code": "",
+                            "transformed": "Shares used in basic per share calculations"
+                        },
+                        {
+                            "value": 3.04,
+                            "desc": "Diluted net income per share from continuing operations",
+                            "code": "",
+                            "transformed": "Diluted net income per share from continuing operations"
+                        },
+                        {
+                            "value": 0.65,
+                            "desc": "Diluted net income per share from discontinued operations",
+                            "code": "",
+                            "transformed": "Diluted net income per share from discontinued operations"
+                        },
+                        {
+                            "value": 3.69,
+                            "desc": "Diluted net income per share",
+                            "code": "",
+                            "transformed": "Diluted net income per share"
+                        },
+                        {
+                            "value": 265.0,
+                            "desc": "Shares used in diluted per share calculations",
+                            "code": "",
+                            "transformed": "Shares used in diluted per share calculations"
+                        },
+                        {
+                            "value": 1.2,
+                            "desc": "Cash dividends declared per common share",
+                            "code": "",
+                            "transformed": "Cash dividends declared per common share"
+                        }
+                    ],
+                    "code": "AM_IS_CORS",
+                    "heading": "Cost of revenue:",
+                    "transformed": "Cost of revenue"
+                }
+            ]
+        }
+    ],
+    "company": "intuit inc",
+    "type": "statement_of_income",
+    "title": "consolidated statements of operations",
+    "units": "millions"
+}

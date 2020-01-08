@@ -1,0 +1,40 @@
+.main-panel {
+  
+
+  .content {
+    padding: 60px 10px 1px 230px;
+    min-height:100vh;
+    background-color:#d3e5eb;
+  }
+}
+@media screen and (max-width: 768px){
+  .main-panel .content {
+      padding-left: 15px;
+      padding-right: 15px;
+      background-color:#d3e5eb;
+  }
+}
+.logo-img{
+  width: 42px;
+  height: 42px;
+  display: block;
+
+  position: absolute;
+  
+    img{
+        width: 100px;
+        height: 40px;
+    }
+}
+
+@media screen and (max-width: 991px){
+  .main-panel {
+      .content {
+      padding-left: 30px !important;
+      background-color:#d3e5eb;
+    }
+  }
+  .fixed-plugin .dropdown-toggle:after{
+    display: none;
+  }
+}

@@ -1,0 +1,276 @@
+{
+    "units": "millions",
+    "title": "consolidated statements of cash flows",
+    "period": [
+        {
+            "asof": "december312017",
+            "statement": [
+                {
+                    "code": "AM_IS_CORS",
+                    "transformed": "Cost of revenue",
+                    "value": 10432000.0,
+                    "desc": "Cost of sales"
+                },
+                {
+                    "code": "",
+                    "transformed": "Excise taxes on products",
+                    "value": 49350000.0,
+                    "desc": "Excise taxes on products"
+                },
+                {
+                    "code": "AM_IS_GP",
+                    "transformed": "Gross profit",
+                    "value": 18316000.0,
+                    "desc": "Gross profit"
+                },
+                {
+                    "code": "",
+                    "transformed": "Marketing administration and research costs",
+                    "value": 6725000.0,
+                    "desc": "Marketing administration and research costs"
+                },
+                {
+                    "code": "",
+                    "transformed": "Asset impairment and exit costs",
+                    "value": "",
+                    "desc": "Asset impairment and exit costs"
+                },
+                {
+                    "code": "",
+                    "transformed": "Amortization of intangibles",
+                    "value": 88000.0,
+                    "desc": "Amortization of intangibles"
+                },
+                {
+                    "code": "AM_IS_NOI",
+                    "transformed": "Operating income/loss",
+                    "value": 11503000.0,
+                    "desc": "Operating income"
+                },
+                {
+                    "code": "",
+                    "transformed": "Earnings before income taxes",
+                    "value": 10589000.0,
+                    "desc": "Earnings before income taxes"
+                },
+                {
+                    "code": "",
+                    "transformed": "Equity income loss in unconsolidated subsidiaries net",
+                    "value": -59000.0,
+                    "desc": "Equity -income/loss in unconsolidated subsidiaries net"
+                },
+                {
+                    "code": "",
+                    "transformed": "Net earnings",
+                    "value": 6341000.0,
+                    "desc": "Net earnings"
+                },
+                {
+                    "code": "",
+                    "transformed": "Net earnings attributable to noncontrolling interests",
+                    "value": 306000.0,
+                    "desc": "Net earnings attributable to noncontrolling interests"
+                },
+                {
+                    "code": "",
+                    "transformed": "Net earnings attributable to pmi",
+                    "value": 6035000.0,
+                    "desc": "Net earnings attributable to PMI"
+                },
+                {
+                    "code": "",
+                    "transformed": "Basic earnings per share",
+                    "value": 3.88,
+                    "desc": "Basic earnings per share"
+                },
+                {
+                    "code": "",
+                    "transformed": "Diluted earnings per share",
+                    "value": 3.88,
+                    "desc": "Diluted earnings per share"
+                }
+            ]
+        },
+        {
+            "asof": "december312016",
+            "statement": [
+                {
+                    "code": "AM_IS_CORS",
+                    "transformed": "Cost of revenue",
+                    "value": 9391000.0,
+                    "desc": "Cost of sales"
+                },
+                {
+                    "code": "",
+                    "transformed": "Excise taxes on products",
+                    "value": 48268000.0,
+                    "desc": "Excise taxes on products"
+                },
+                {
+                    "code": "AM_IS_GP",
+                    "transformed": "Gross profit",
+                    "value": 17294000.0,
+                    "desc": "Gross profit"
+                },
+                {
+                    "code": "",
+                    "transformed": "Marketing administration and research costs",
+                    "value": 6405000.0,
+                    "desc": "Marketing administration and research costs"
+                },
+                {
+                    "code": "",
+                    "transformed": "Asset impairment and exit costs",
+                    "value": "",
+                    "desc": "Asset impairment and exit costs"
+                },
+                {
+                    "code": "",
+                    "transformed": "Amortization of intangibles",
+                    "value": 74000.0,
+                    "desc": "Amortization of intangibles"
+                },
+                {
+                    "code": "AM_IS_NOI",
+                    "transformed": "Operating income/loss",
+                    "value": 10815000.0,
+                    "desc": "Operating income"
+                },
+                {
+                    "code": "",
+                    "transformed": "Earnings before income taxes",
+                    "value": 9924000.0,
+                    "desc": "Earnings before income taxes"
+                },
+                {
+                    "code": "",
+                    "transformed": "Equity income loss in unconsolidated subsidiaries net",
+                    "value": -94000.0,
+                    "desc": "Equity -income/loss in unconsolidated subsidiaries net"
+                },
+                {
+                    "code": "",
+                    "transformed": "Net earnings",
+                    "value": 7250000.0,
+                    "desc": "Net earnings"
+                },
+                {
+                    "code": "",
+                    "transformed": "Net earnings attributable to noncontrolling interests",
+                    "value": 283000.0,
+                    "desc": "Net earnings attributable to noncontrolling interests"
+                },
+                {
+                    "code": "",
+                    "transformed": "Net earnings attributable to pmi",
+                    "value": 6967000.0,
+                    "desc": "Net earnings attributable to PMI"
+                },
+                {
+                    "code": "",
+                    "transformed": "Basic earnings per share",
+                    "value": 4.48,
+                    "desc": "Basic earnings per share"
+                },
+                {
+                    "code": "",
+                    "transformed": "Diluted earnings per share",
+                    "value": 4.48,
+                    "desc": "Diluted earnings per share"
+                }
+            ]
+        },
+        {
+            "asof": "december312015",
+            "statement": [
+                {
+                    "code": "AM_IS_CORS",
+                    "transformed": "Cost of revenue",
+                    "value": 9365000.0,
+                    "desc": "Cost of sales"
+                },
+                {
+                    "code": "",
+                    "transformed": "Excise taxes on products",
+                    "value": 47114000.0,
+                    "desc": "Excise taxes on products"
+                },
+                {
+                    "code": "AM_IS_GP",
+                    "transformed": "Gross profit",
+                    "value": 17429000.0,
+                    "desc": "Gross profit"
+                },
+                {
+                    "code": "",
+                    "transformed": "Marketing administration and research costs",
+                    "value": 6656000.0,
+                    "desc": "Marketing administration and research costs"
+                },
+                {
+                    "code": "",
+                    "transformed": "Asset impairment and exit costs",
+                    "value": 68000.0,
+                    "desc": "Asset impairment and exit costs"
+                },
+                {
+                    "code": "",
+                    "transformed": "Amortization of intangibles",
+                    "value": 82000.0,
+                    "desc": "Amortization of intangibles"
+                },
+                {
+                    "code": "AM_IS_NOI",
+                    "transformed": "Operating income/loss",
+                    "value": 10623000.0,
+                    "desc": "Operating income"
+                },
+                {
+                    "code": "",
+                    "transformed": "Earnings before income taxes",
+                    "value": 9615000.0,
+                    "desc": "Earnings before income taxes"
+                },
+                {
+                    "code": "",
+                    "transformed": "Equity income loss in unconsolidated subsidiaries net",
+                    "value": -105000.0,
+                    "desc": "Equity -income/loss in unconsolidated subsidiaries net"
+                },
+                {
+                    "code": "",
+                    "transformed": "Net earnings",
+                    "value": 7032000.0,
+                    "desc": "Net earnings"
+                },
+                {
+                    "code": "",
+                    "transformed": "Net earnings attributable to noncontrolling interests",
+                    "value": 159000.0,
+                    "desc": "Net earnings attributable to noncontrolling interests"
+                },
+                {
+                    "code": "",
+                    "transformed": "Net earnings attributable to pmi",
+                    "value": 6873000.0,
+                    "desc": "Net earnings attributable to PMI"
+                },
+                {
+                    "code": "",
+                    "transformed": "Basic earnings per share",
+                    "value": 4.42,
+                    "desc": "Basic earnings per share"
+                },
+                {
+                    "code": "",
+                    "transformed": "Diluted earnings per share",
+                    "value": 4.42,
+                    "desc": "Diluted earnings per share"
+                }
+            ]
+        }
+    ],
+    "currency": "USD",
+    "company": "",
+    "type": "cash_flow_statement"
+}

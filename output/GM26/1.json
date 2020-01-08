@@ -1,0 +1,438 @@
+{
+    "period": [
+        {
+            "asof": "2018",
+            "statement": [
+                {
+                    "items": [
+                        {
+                            "code": "AM_BS_BA",
+                            "value": 399000.0,
+                            "transformed": "Cash equivalents",
+                            "desc": "Cash and cash equivalents"
+                        },
+                        {
+                            "code": "AM_BS_AR",
+                            "value": 1684200.0,
+                            "transformed": "Accounts receivable",
+                            "desc": "Receivables"
+                        },
+                        {
+                            "code": "",
+                            "value": 1642200.0,
+                            "transformed": "Inventories",
+                            "desc": "Inventories"
+                        },
+                        {
+                            "code": "AM_BS_OCA",
+                            "value": 398300.0,
+                            "transformed": "Other current assets",
+                            "desc": "Prepaid expenses and other current assets"
+                        }
+                    ],
+                    "total": {
+                        "code": "AM_BS_CA",
+                        "value": 4123700.0,
+                        "transformed": "Total current assets",
+                        "desc": "Total current assets"
+                    },
+                    "heading": "Current assets:",
+                    "code": "",
+                    "transformed": "Current assets"
+                },
+                {
+                    "code": "",
+                    "value": 4047200.0,
+                    "transformed": "Land buildings and equipment",
+                    "desc": "Land buildings and equipment"
+                },
+                {
+                    "code": "",
+                    "value": 14065000.0,
+                    "transformed": "Goodwill",
+                    "desc": "Goodwill"
+                },
+                {
+                    "code": "",
+                    "value": 7445100.0,
+                    "transformed": "Intangible assets",
+                    "desc": "Other intangible assets"
+                },
+                {
+                    "code": "",
+                    "value": 943000.0,
+                    "total": {
+                        "code": "",
+                        "value": 30624000.0,
+                        "transformed": "Total assets",
+                        "desc": "Total assets"
+                    },
+                    "transformed": "Other assets",
+                    "desc": "Other assets"
+                },
+                {
+                    "items": [],
+                    "heading": "LIABILITIES AND EQUITY",
+                    "code": "",
+                    "transformed": "Liabilities and equity"
+                },
+                {
+                    "items": [
+                        {
+                            "code": "",
+                            "value": 2746200.0,
+                            "transformed": "Accounts payable",
+                            "desc": "Accounts payable"
+                        },
+                        {
+                            "code": "",
+                            "value": 1600100.0,
+                            "transformed": "Current portion of long term debt",
+                            "desc": "Current portion of long-term debt"
+                        },
+                        {
+                            "code": "",
+                            "value": 1445800.0,
+                            "transformed": "Other current liabilities",
+                            "desc": "Other current liabilities"
+                        }
+                    ],
+                    "total": {
+                        "code": "",
+                        "value": 7341900.0,
+                        "transformed": "Total current liabilities",
+                        "desc": "Total current liabilities"
+                    },
+                    "heading": "Current liabilities:",
+                    "code": "",
+                    "transformed": "Current liabilities"
+                },
+                {
+                    "code": "",
+                    "value": 12668700.0,
+                    "transformed": "Long term debt",
+                    "desc": "Long-term debt"
+                },
+                {
+                    "code": "",
+                    "value": 2003800.0,
+                    "transformed": "Deferred income taxes",
+                    "desc": "Deferred income taxes"
+                },
+                {
+                    "code": "",
+                    "value": 1341000.0,
+                    "total": {
+                        "code": "",
+                        "value": 23355400.0,
+                        "transformed": "Total liabilities",
+                        "desc": "Total liabilities"
+                    },
+                    "transformed": "Other liabilities",
+                    "desc": "Other liabilities"
+                },
+                {
+                    "code": "",
+                    "value": 776200.0,
+                    "transformed": "Redeemable interest",
+                    "desc": "Redeemable interest"
+                },
+                {
+                    "items": [
+                        {
+                            "code": "",
+                            "value": 75.5,
+                            "transformed": "Common stock shares issued par value",
+                            "desc": "Common stock 754.6 shares issued 0.10 par value"
+                        },
+                        {
+                            "code": "",
+                            "value": 1202500.0,
+                            "transformed": "Additional paid in capital",
+                            "desc": "Additional paid-in capital"
+                        },
+                        {
+                            "code": "",
+                            "value": 14459600.0,
+                            "transformed": "Retained earnings",
+                            "desc": "Retained earnings"
+                        },
+                        {
+                            "code": "",
+                            "value": -7167500.0,
+                            "transformed": "Common stock in treasury at cost shares of and",
+                            "desc": "Common stock in treasury at cost shares of 161.5 and 177.7"
+                        },
+                        {
+                            "code": "",
+                            "value": -2429000.0,
+                            "transformed": "Accumulated other comprehensive loss",
+                            "desc": "Accumulated other comprehensive loss"
+                        }
+                    ],
+                    "total": {
+                        "code": "",
+                        "value": 6141100.0,
+                        "transformed": "Total stockholders equity",
+                        "desc": "Total stockholders\u2019 equity"
+                    },
+                    "heading": "Stockholders\u2019 equity:",
+                    "code": "AM_BS_E",
+                    "transformed": "Shareholders equity"
+                },
+                {
+                    "desc": "Noncontrolling interests",
+                    "value": 351300.0,
+                    "total1": {
+                        "code": "",
+                        "value": 30624000.0,
+                        "transformed": "Total liabilities and equity",
+                        "desc": "Total liabilities and equity"
+                    },
+                    "total": {
+                        "code": "",
+                        "value": 6492400.0,
+                        "transformed": "Total equity",
+                        "desc": "Total equity"
+                    },
+                    "transformed": "Noncontrolling interests",
+                    "code": ""
+                }
+            ]
+        },
+        {
+            "asof": "2017",
+            "statement": [
+                {
+                    "items": [
+                        {
+                            "code": "AM_BS_BA",
+                            "value": 766100.0,
+                            "transformed": "Cash equivalents",
+                            "desc": "Cash and cash equivalents"
+                        },
+                        {
+                            "code": "AM_BS_AR",
+                            "value": 1430100.0,
+                            "transformed": "Accounts receivable",
+                            "desc": "Receivables"
+                        },
+                        {
+                            "code": "",
+                            "value": 1483600.0,
+                            "transformed": "Inventories",
+                            "desc": "Inventories"
+                        },
+                        {
+                            "code": "AM_BS_OCA",
+                            "value": 381600.0,
+                            "transformed": "Other current assets",
+                            "desc": "Prepaid expenses and other current assets"
+                        }
+                    ],
+                    "total": {
+                        "code": "AM_BS_CA",
+                        "value": 4061400.0,
+                        "transformed": "Total current assets",
+                        "desc": "Total current assets"
+                    },
+                    "heading": "Current assets:",
+                    "code": "",
+                    "transformed": "Current assets"
+                },
+                {
+                    "code": "",
+                    "value": 3687700.0,
+                    "transformed": "Land buildings and equipment",
+                    "desc": "Land buildings and equipment"
+                },
+                {
+                    "code": "",
+                    "value": 8747200.0,
+                    "transformed": "Goodwill",
+                    "desc": "Goodwill"
+                },
+                {
+                    "code": "",
+                    "value": 4530400.0,
+                    "transformed": "Intangible assets",
+                    "desc": "Other intangible assets"
+                },
+                {
+                    "code": "",
+                    "value": 785900.0,
+                    "total": {
+                        "code": "",
+                        "value": 21812600.0,
+                        "transformed": "Total assets",
+                        "desc": "Total assets"
+                    },
+                    "transformed": "Other assets",
+                    "desc": "Other assets"
+                },
+                {
+                    "items": [],
+                    "heading": "LIABILITIES AND EQUITY",
+                    "code": "",
+                    "transformed": "Liabilities and equity"
+                },
+                {
+                    "items": [
+                        {
+                            "code": "",
+                            "value": 2119800.0,
+                            "transformed": "Accounts payable",
+                            "desc": "Accounts payable"
+                        },
+                        {
+                            "code": "",
+                            "value": 604700.0,
+                            "transformed": "Current portion of long term debt",
+                            "desc": "Current portion of long-term debt"
+                        },
+                        {
+                            "code": "",
+                            "value": 1372200.0,
+                            "transformed": "Other current liabilities",
+                            "desc": "Other current liabilities"
+                        }
+                    ],
+                    "total": {
+                        "code": "",
+                        "value": 5330800.0,
+                        "transformed": "Total current liabilities",
+                        "desc": "Total current liabilities"
+                    },
+                    "heading": "Current liabilities:",
+                    "code": "",
+                    "transformed": "Current liabilities"
+                },
+                {
+                    "code": "",
+                    "value": 7642900.0,
+                    "transformed": "Long term debt",
+                    "desc": "Long-term debt"
+                },
+                {
+                    "code": "",
+                    "value": 1719400.0,
+                    "transformed": "Deferred income taxes",
+                    "desc": "Deferred income taxes"
+                },
+                {
+                    "code": "",
+                    "value": 1523100.0,
+                    "total": {
+                        "code": "",
+                        "value": 16216200.0,
+                        "transformed": "Total liabilities",
+                        "desc": "Total liabilities"
+                    },
+                    "transformed": "Other liabilities",
+                    "desc": "Other liabilities"
+                },
+                {
+                    "code": "",
+                    "value": 910900.0,
+                    "transformed": "Redeemable interest",
+                    "desc": "Redeemable interest"
+                },
+                {
+                    "items": [
+                        {
+                            "code": "",
+                            "value": 75.5,
+                            "transformed": "Common stock shares issued par value",
+                            "desc": "Common stock 754.6 shares issued 0.10 par value"
+                        },
+                        {
+                            "code": "",
+                            "value": 1120900.0,
+                            "transformed": "Additional paid in capital",
+                            "desc": "Additional paid-in capital"
+                        },
+                        {
+                            "code": "",
+                            "value": 13138900.0,
+                            "transformed": "Retained earnings",
+                            "desc": "Retained earnings"
+                        },
+                        {
+                            "code": "",
+                            "value": -7762900.0,
+                            "transformed": "Common stock in treasury at cost shares of and",
+                            "desc": "Common stock in treasury at cost shares of 161.5 and 177.7"
+                        },
+                        {
+                            "code": "",
+                            "value": -2244500.0,
+                            "transformed": "Accumulated other comprehensive loss",
+                            "desc": "Accumulated other comprehensive loss"
+                        }
+                    ],
+                    "total": {
+                        "code": "",
+                        "value": 4327900.0,
+                        "transformed": "Total stockholders equity",
+                        "desc": "Total stockholders\u2019 equity"
+                    },
+                    "heading": "Stockholders\u2019 equity:",
+                    "code": "AM_BS_E",
+                    "transformed": "Shareholders equity"
+                },
+                {
+                    "desc": "Noncontrolling interests",
+                    "value": 357600.0,
+                    "total1": {
+                        "code": "",
+                        "value": 21812600.0,
+                        "transformed": "Total liabilities and equity",
+                        "desc": "Total liabilities and equity"
+                    },
+                    "total": {
+                        "code": "",
+                        "value": 4685500.0,
+                        "transformed": "Total equity",
+                        "desc": "Total equity"
+                    },
+                    "transformed": "Noncontrolling interests",
+                    "code": ""
+                }
+            ]
+        },
+        {
+            "asof": "2016",
+            "statement": [
+                {
+                    "items": [],
+                    "heading": "Current assets:",
+                    "code": "",
+                    "transformed": "Current assets"
+                },
+                {
+                    "items": [],
+                    "heading": "LIABILITIES AND EQUITY",
+                    "code": "",
+                    "transformed": "Liabilities and equity"
+                },
+                {
+                    "items": [],
+                    "heading": "Current liabilities:",
+                    "code": "",
+                    "transformed": "Current liabilities"
+                },
+                {
+                    "items": [],
+                    "heading": "Stockholders\u2019 equity:",
+                    "code": "AM_BS_E",
+                    "transformed": "Shareholders equity"
+                }
+            ]
+        }
+    ],
+    "currency": "USD",
+    "type": "Balance_sheet",
+    "units": "millions",
+    "company": "general mills inc",
+    "title": "consolidated balance sheets"
+}

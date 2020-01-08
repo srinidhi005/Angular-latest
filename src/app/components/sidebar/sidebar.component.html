@@ -1,0 +1,89 @@
+
+<div class="sidebar-wrapper">
+ 
+
+          <ul class="nav-dropdown-items nav">
+          <li class="nav-item">
+
+               <!-- DASHBOARD -->
+
+            <a class="nav-link nav-dropdown-toggle" routerLinkActive="active" 
+           [routerLink]="['/dashboard']">
+           <i class="fas fa-desktop"></i> <h5 class="mt-1"> Dashboard</h5></a>
+              </li>
+
+            <!-- SOURCE -->
+
+           <li class="nav-item">
+            <a class="nav-link" routerLinkActive="active" 
+           [routerLink]="['/source']">
+           <i class="fas fa-download"></i> <h5 class="mt-1 pl-5">Source</h5></a>
+           </li>
+
+         <!-- STATEMENT -->
+
+         <li class="nav-item">
+           <a class="nav-link " routerLinkActive="active" 
+             [routerLink]="['/statement']">
+             <i  class="tim-icons icon-paper" ></i> <h5 class="ml-4 mt-1">Statements</h5></a>
+              </li>
+
+           <!-- Group -->
+
+          <li class="nav-item">
+              <div class="accordion" id="accordionExample">
+              
+                    <a class="btn btn-link d-flex" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false">
+                        <i class="tim-icons icon-chart-pie-36 pl-3"> </i>  <h5 class="pl-2 pt-2">Monthly Budget</h5>
+                      <span class="ml-3 mt-2"></span></a>
+                <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+                  
+                    <li> <a class="nav-link pb-0" routerLinkActive="active" 
+                      [routerLink]="['/AdjustAssumption']">
+                     <h5 class="pl-5">AdjustAssumption</h5></a></li>
+                    <li> <a class="nav-link  pb-0" routerLinkActive="active" 
+                      [routerLink]="['/Actuals']">
+                    <h5 class="pl-5">Actuals</h5></a></li>
+                    <li> <a class="nav-link" routerLinkActive="active" 
+                      [routerLink]="['/TargetvActual']">
+                    <h5 class="pl-5">Target v/s Actuals</h5></a></li>
+                  
+                </div>
+                <a class="btn btn-link d-flex" data-toggle="collapse show" data-target="#collapseTwo" aria-expanded="true">
+                    <i class="tim-icons icon-coins pl-3"></i>  <h5 class="pl-2 pt-2">Financial Planning</h5>
+                  <span class="ml-3 mt-2"></span></a>
+                  <div id="collapseTwo" class="collapse show" aria-labelledby="headingTwo" data-parent="#accordionExample">
+                  
+                      <li id="scenario1" style="display: none;"> <a id="scenarioa1" href="" class="nav-link pb-0" 
+                       >
+                       <h5 class="pl-4">Scenario 1</h5></a></li>
+                       <li id="scenario2" style="display: none;"> <a id="scenarioa2" href="" class="nav-link pb-0" 
+                        >
+                       <h5 class="pl-4">Scenario 2</h5></a></li>
+                       <li id="scenario3" style="display: none;"> <a id="scenarioa3" href="" class="nav-link pb-0"
+                      >
+                       <h5 class="pl-4">Scenario 3</h5></a></li>
+                       <li id="scenario4" style="display: none;"> <a id="scenarioa4" href="" class="nav-link pb-0"
+                        >
+                       <h5 class="pl-4">Scenario 4</h5></a></li>
+                  </div>
+                  <!-- <li class="nav-item">
+                      <a class="nav-link " routerLinkActive="active" 
+                        [routerLink]="['/login']">
+                        <i  class="tim-icons icon-paper" ></i> <h5 class="ml-4 mt-1">Login</h5></a>
+                         </li> -->
+                         
+                            <!-- <li class="nav-item"><a href="#" class="nav-link " id="scenario1" style="display:none"> Scenario One</a></li>
+                      <li><a href="/finan" id="scenario2" style="display:none"> Scenario Two</a></li>
+                      <li><a href="/finan" id="scenario3" style="display:none"> Scenario Three</a></li>
+                      <li><a href="/finan" id="scenario4" style="display:none"> Scenario Four</a></li> -->
+                          
+                        
+            </div>
+          </li>
+        
+
+       
+         </ul>
+        
+     </div>

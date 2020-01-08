@@ -1,0 +1,357 @@
+{
+    "units": "thousands",
+    "period": [
+        {
+            "statement": [
+                {
+                    "value": 265595.0,
+                    "desc": "Net sales",
+                    "code": "AM_IS_I",
+                    "transformed": "Net revenue"
+                },
+                {
+                    "value": 163756.0,
+                    "desc": "Cost of sales",
+                    "code": "AM_IS_CORS",
+                    "transformed": "Cost of revenue"
+                },
+                {
+                    "value": 101839.0,
+                    "desc": "Gross margin",
+                    "code": "AM_IS_GP",
+                    "transformed": "Gross profit"
+                },
+                {
+                    "items": [
+                        {
+                            "value": 14236.0,
+                            "desc": "Research and development",
+                            "code": "",
+                            "transformed": "Research and development"
+                        },
+                        {
+                            "value": 16705.0,
+                            "desc": "Selling general and administrative",
+                            "code": "",
+                            "transformed": "Selling general and administrative"
+                        },
+                        {
+                            "value": 30941.0,
+                            "desc": "Total operating expenses",
+                            "code": "AM_IS_E",
+                            "transformed": "Total operating expenses"
+                        },
+                        {
+                            "value": 70898.0,
+                            "desc": "Operating income",
+                            "code": "AM_IS_NOI",
+                            "transformed": "Operating income/loss"
+                        },
+                        {
+                            "value": 2005.0,
+                            "desc": "Other income/-expense net",
+                            "code": "",
+                            "transformed": "Other income expense net"
+                        },
+                        {
+                            "value": 72903.0,
+                            "desc": "Income before provision for income taxes",
+                            "code": "",
+                            "transformed": "Earnings before income taxes"
+                        },
+                        {
+                            "value": 13372.0,
+                            "desc": "Provision for income taxes",
+                            "code": "",
+                            "transformed": "Provision for income taxes"
+                        },
+                        {
+                            "value": 59531.0,
+                            "desc": "Net income",
+                            "code": "AM_BS_NI",
+                            "transformed": "Net income/loss"
+                        }
+                    ],
+                    "code": "AM_IS_E",
+                    "heading": "Operating expenses:",
+                    "transformed": "Total operating expenses"
+                },
+                {
+                    "items": [
+                        {
+                            "value": 12.01,
+                            "desc": "Basic",
+                            "code": "",
+                            "transformed": "Basic"
+                        },
+                        {
+                            "value": 11.91,
+                            "desc": "Diluted",
+                            "code": "",
+                            "transformed": "Diluted"
+                        }
+                    ],
+                    "code": "",
+                    "heading": "Earnings per share:",
+                    "transformed": "Earnings per share"
+                },
+                {
+                    "items": [
+                        {
+                            "value": 4955377.0,
+                            "desc": "Basic",
+                            "code": "",
+                            "transformed": "Basic"
+                        },
+                        {
+                            "value": 5000109.0,
+                            "desc": "Diluted",
+                            "code": "",
+                            "transformed": "Diluted"
+                        }
+                    ],
+                    "code": "",
+                    "heading": "Shares used in computing earnings per share:",
+                    "transformed": "Shares used in computing earnings per share"
+                }
+            ],
+            "asof": "september292018"
+        },
+        {
+            "statement": [
+                {
+                    "value": 229234.0,
+                    "desc": "Net sales",
+                    "code": "AM_IS_I",
+                    "transformed": "Net revenue"
+                },
+                {
+                    "value": 141048.0,
+                    "desc": "Cost of sales",
+                    "code": "AM_IS_CORS",
+                    "transformed": "Cost of revenue"
+                },
+                {
+                    "value": 88186.0,
+                    "desc": "Gross margin",
+                    "code": "AM_IS_GP",
+                    "transformed": "Gross profit"
+                },
+                {
+                    "items": [
+                        {
+                            "value": 11581.0,
+                            "desc": "Research and development",
+                            "code": "",
+                            "transformed": "Research and development"
+                        },
+                        {
+                            "value": 15261.0,
+                            "desc": "Selling general and administrative",
+                            "code": "",
+                            "transformed": "Selling general and administrative"
+                        },
+                        {
+                            "value": 26842.0,
+                            "desc": "Total operating expenses",
+                            "code": "AM_IS_E",
+                            "transformed": "Total operating expenses"
+                        },
+                        {
+                            "value": 61344.0,
+                            "desc": "Operating income",
+                            "code": "AM_IS_NOI",
+                            "transformed": "Operating income/loss"
+                        },
+                        {
+                            "value": 2745.0,
+                            "desc": "Other income/-expense net",
+                            "code": "",
+                            "transformed": "Other income expense net"
+                        },
+                        {
+                            "value": 64089.0,
+                            "desc": "Income before provision for income taxes",
+                            "code": "",
+                            "transformed": "Earnings before income taxes"
+                        },
+                        {
+                            "value": 15738.0,
+                            "desc": "Provision for income taxes",
+                            "code": "",
+                            "transformed": "Provision for income taxes"
+                        },
+                        {
+                            "value": 48351.0,
+                            "desc": "Net income",
+                            "code": "AM_BS_NI",
+                            "transformed": "Net income/loss"
+                        }
+                    ],
+                    "code": "AM_IS_E",
+                    "heading": "Operating expenses:",
+                    "transformed": "Total operating expenses"
+                },
+                {
+                    "items": [
+                        {
+                            "value": 9.27,
+                            "desc": "Basic",
+                            "code": "",
+                            "transformed": "Basic"
+                        },
+                        {
+                            "value": 9.21,
+                            "desc": "Diluted",
+                            "code": "",
+                            "transformed": "Diluted"
+                        }
+                    ],
+                    "code": "",
+                    "heading": "Earnings per share:",
+                    "transformed": "Earnings per share"
+                },
+                {
+                    "items": [
+                        {
+                            "value": 5217242.0,
+                            "desc": "Basic",
+                            "code": "",
+                            "transformed": "Basic"
+                        },
+                        {
+                            "value": 5251692.0,
+                            "desc": "Diluted",
+                            "code": "",
+                            "transformed": "Diluted"
+                        }
+                    ],
+                    "code": "",
+                    "heading": "Shares used in computing earnings per share:",
+                    "transformed": "Shares used in computing earnings per share"
+                }
+            ],
+            "asof": "september302017"
+        },
+        {
+            "statement": [
+                {
+                    "value": 215639.0,
+                    "desc": "Net sales",
+                    "code": "AM_IS_I",
+                    "transformed": "Net revenue"
+                },
+                {
+                    "value": 131376.0,
+                    "desc": "Cost of sales",
+                    "code": "AM_IS_CORS",
+                    "transformed": "Cost of revenue"
+                },
+                {
+                    "value": 84263.0,
+                    "desc": "Gross margin",
+                    "code": "AM_IS_GP",
+                    "transformed": "Gross profit"
+                },
+                {
+                    "items": [
+                        {
+                            "value": 10045.0,
+                            "desc": "Research and development",
+                            "code": "",
+                            "transformed": "Research and development"
+                        },
+                        {
+                            "value": 14194.0,
+                            "desc": "Selling general and administrative",
+                            "code": "",
+                            "transformed": "Selling general and administrative"
+                        },
+                        {
+                            "value": 24239.0,
+                            "desc": "Total operating expenses",
+                            "code": "AM_IS_E",
+                            "transformed": "Total operating expenses"
+                        },
+                        {
+                            "value": 60024.0,
+                            "desc": "Operating income",
+                            "code": "AM_IS_NOI",
+                            "transformed": "Operating income/loss"
+                        },
+                        {
+                            "value": 1348.0,
+                            "desc": "Other income/-expense net",
+                            "code": "",
+                            "transformed": "Other income expense net"
+                        },
+                        {
+                            "value": 61372.0,
+                            "desc": "Income before provision for income taxes",
+                            "code": "",
+                            "transformed": "Earnings before income taxes"
+                        },
+                        {
+                            "value": 15685.0,
+                            "desc": "Provision for income taxes",
+                            "code": "",
+                            "transformed": "Provision for income taxes"
+                        },
+                        {
+                            "value": 45687.0,
+                            "desc": "Net income",
+                            "code": "AM_BS_NI",
+                            "transformed": "Net income/loss"
+                        }
+                    ],
+                    "code": "AM_IS_E",
+                    "heading": "Operating expenses:",
+                    "transformed": "Total operating expenses"
+                },
+                {
+                    "items": [
+                        {
+                            "value": 8.35,
+                            "desc": "Basic",
+                            "code": "",
+                            "transformed": "Basic"
+                        },
+                        {
+                            "value": 8.31,
+                            "desc": "Diluted",
+                            "code": "",
+                            "transformed": "Diluted"
+                        }
+                    ],
+                    "code": "",
+                    "heading": "Earnings per share:",
+                    "transformed": "Earnings per share"
+                },
+                {
+                    "items": [
+                        {
+                            "value": 5470820.0,
+                            "desc": "Basic",
+                            "code": "",
+                            "transformed": "Basic"
+                        },
+                        {
+                            "value": 5500281.0,
+                            "desc": "Diluted",
+                            "code": "",
+                            "transformed": "Diluted"
+                        }
+                    ],
+                    "code": "",
+                    "heading": "Shares used in computing earnings per share:",
+                    "transformed": "Shares used in computing earnings per share"
+                }
+            ],
+            "asof": "september242016"
+        }
+    ],
+    "type": "statement_of_income",
+    "title": "consolidated statements of operations",
+    "currency": "USD",
+    "company": "apple inc"
+}

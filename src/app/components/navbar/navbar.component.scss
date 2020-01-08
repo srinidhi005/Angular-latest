@@ -1,0 +1,65 @@
+.logo{
+    position: relative;
+      padding: .4rem .4rem;
+      
+    z-index: 4;
+
+    a.logo-mini,
+    a.logo-normal{
+        // @extend .animation-transition-general;
+    }
+
+    a.logo-mini{
+       
+        float: left;
+        width: 34px;
+        text-align: center;
+        
+        margin-right: 12px;
+    }
+
+    a.logo-normal{
+        display: block;
+       
+        // @include transform-translate-x(0px);
+    }
+
+    &:after{
+        content: '';
+        position: absolute;
+        bottom: 0;
+        right: 15px;
+        height: 1px;
+        width: calc(100% - 30px);
+        // background: $opacity-5;
+
+    }
+
+    p{
+        float: left;
+        font-size: 20px;
+        margin: 10px 10px;
+        
+        line-height: 20px;
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    }
+
+    .simple-text{
+        text-transform: uppercase;
+         padding: .5rem 0;
+        display: block;
+        white-space: nowrap;
+       
+        text-decoration: none;
+        font-weight: normal;
+        line-height: 30px;
+        overflow: hidden;
+    }
+}
+
+.logo{
+    a.logo-normal{
+        
+        // @include transform-translate-x(-25px);
+    }
+}

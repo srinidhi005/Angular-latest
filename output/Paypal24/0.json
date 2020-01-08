@@ -1,0 +1,407 @@
+{
+    "title": "consolidated balance sheets",
+    "type": "Balance_sheet",
+    "units": "millions",
+    "company": "paypal holdings inc",
+    "currency": "USD",
+    "period": [
+        {
+            "asof": "december312016",
+            "statement": [
+                {
+                    "code": "",
+                    "heading": "ASSETS",
+                    "items": [],
+                    "transformed": "Assets"
+                },
+                {
+                    "total": {
+                        "desc": "Total current assets",
+                        "code": "AM_BS_CA",
+                        "value": 25733000.0,
+                        "transformed": "Total current assets"
+                    },
+                    "code": "",
+                    "heading": "Current assets:",
+                    "items": [
+                        {
+                            "desc": "Cash and cash equivalents",
+                            "code": "AM_BS_BA",
+                            "value": 1590000.0,
+                            "transformed": "Cash equivalents"
+                        },
+                        {
+                            "desc": "Short-term investments",
+                            "code": "",
+                            "value": 3385000.0,
+                            "transformed": "Short term investments"
+                        },
+                        {
+                            "desc": "Accounts receivable net",
+                            "code": "AM_BS_AR",
+                            "value": 214000.0,
+                            "transformed": "Accounts receivable"
+                        },
+                        {
+                            "desc": "Loans and interest receivable net of allowances of 339 in 2016 and 233 in 2015",
+                            "code": "",
+                            "value": 5348000.0,
+                            "transformed": "Loans and interest receivable net of allowances of in and in"
+                        },
+                        {
+                            "desc": "Funds receivable and customer accounts",
+                            "code": "",
+                            "value": 14363000.0,
+                            "transformed": "Funds receivable and customer accounts"
+                        },
+                        {
+                            "desc": "Prepaid expenses and other current assets",
+                            "code": "AM_BS_OCA",
+                            "value": 833000.0,
+                            "transformed": "Other current assets"
+                        }
+                    ],
+                    "transformed": "Current assets"
+                },
+                {
+                    "desc": "Long-term investments",
+                    "code": "",
+                    "value": 1539000.0,
+                    "transformed": "Long term investments"
+                },
+                {
+                    "desc": "Property and equipment net",
+                    "code": "",
+                    "value": 1482000.0,
+                    "transformed": "Ppe(net)"
+                },
+                {
+                    "desc": "Goodwill",
+                    "code": "",
+                    "value": 4059000.0,
+                    "transformed": "Goodwill"
+                },
+                {
+                    "desc": "Intangible assets net",
+                    "code": "",
+                    "value": 211000.0,
+                    "transformed": "Intangible assets"
+                },
+                {
+                    "desc": "Other assets",
+                    "code": "",
+                    "total": {
+                        "desc": "Total assets",
+                        "code": "",
+                        "value": 33103000.0,
+                        "transformed": "Total assets"
+                    },
+                    "value": 79000.0,
+                    "transformed": "Other assets"
+                },
+                {
+                    "code": "",
+                    "heading": "LIABILITIES AND EQUITY",
+                    "items": [],
+                    "transformed": "Liabilities and equity"
+                },
+                {
+                    "total": {
+                        "desc": "Total current liabilities",
+                        "code": "",
+                        "value": 16878000.0,
+                        "transformed": "Total current liabilities"
+                    },
+                    "code": "",
+                    "heading": "Current liabilities:",
+                    "items": [
+                        {
+                            "desc": "Accounts payable",
+                            "code": "",
+                            "value": 192000.0,
+                            "transformed": "Accounts payable"
+                        },
+                        {
+                            "desc": "Funds payable and amounts due to customers",
+                            "code": "",
+                            "value": 15163000.0,
+                            "transformed": "Funds payable and amounts due to customers"
+                        },
+                        {
+                            "desc": "Accrued expenses and other current liabilities",
+                            "code": "",
+                            "value": 1459000.0,
+                            "transformed": "Accrued expenses and other current liabilities"
+                        },
+                        {
+                            "desc": "Income taxes payable",
+                            "code": "",
+                            "value": 64000.0,
+                            "transformed": "Income taxes payable"
+                        }
+                    ],
+                    "transformed": "Current liabilities"
+                },
+                {
+                    "desc": "Deferred tax liability and other long-term liabilities",
+                    "code": "",
+                    "total": {
+                        "desc": "Total liabilities",
+                        "code": "",
+                        "value": 18391000.0,
+                        "transformed": "Total liabilities"
+                    },
+                    "value": 1513000.0,
+                    "transformed": "Deferred tax liability and other long term liabilities"
+                },
+                {
+                    "code": "AM_BS_E",
+                    "heading": "Equity:",
+                    "items": [],
+                    "transformed": "Shareholders equity"
+                },
+                {
+                    "desc": "Common stock 0.0001 par value; 4000 shares authorized; 1207 and 1224 outstanding",
+                    "code": "",
+                    "value": "",
+                    "transformed": "Common stock par value shares authorized and outstanding"
+                },
+                {
+                    "desc": "Treasury stock at cost 27 shares as of December 31 2016",
+                    "code": "",
+                    "value": -995000.0,
+                    "transformed": "Treasury stock at cost shares as of december"
+                },
+                {
+                    "desc": "Additional paid-in-capital",
+                    "code": "",
+                    "value": 13579000.0,
+                    "transformed": "Additional paid in capital"
+                },
+                {
+                    "desc": "Retained earnings",
+                    "code": "",
+                    "value": 2069000.0,
+                    "transformed": "Retained earnings"
+                },
+                {
+                    "code": "",
+                    "value": 59000.0,
+                    "total": {
+                        "desc": "Total equity",
+                        "code": "",
+                        "value": 14712000.0,
+                        "transformed": "Total equity"
+                    },
+                    "desc": "Accumulated other comprehensive income -loss",
+                    "total1": {
+                        "desc": "Total liabilities and equity",
+                        "code": "",
+                        "value": 33103000.0,
+                        "transformed": "Total liabilities and equity"
+                    },
+                    "transformed": "Accumulated other comprehensive income loss"
+                }
+            ]
+        },
+        {
+            "asof": "december312015",
+            "statement": [
+                {
+                    "code": "",
+                    "heading": "ASSETS",
+                    "items": [],
+                    "transformed": "Assets"
+                },
+                {
+                    "total": {
+                        "desc": "Total current assets",
+                        "code": "AM_BS_CA",
+                        "value": 20648000.0,
+                        "transformed": "Total current assets"
+                    },
+                    "code": "",
+                    "heading": "Current assets:",
+                    "items": [
+                        {
+                            "desc": "Cash and cash equivalents",
+                            "code": "AM_BS_BA",
+                            "value": 1393000.0,
+                            "transformed": "Cash equivalents"
+                        },
+                        {
+                            "desc": "Short-term investments",
+                            "code": "",
+                            "value": 2018000.0,
+                            "transformed": "Short term investments"
+                        },
+                        {
+                            "desc": "Accounts receivable net",
+                            "code": "AM_BS_AR",
+                            "value": 137000.0,
+                            "transformed": "Accounts receivable"
+                        },
+                        {
+                            "desc": "Loans and interest receivable net of allowances of 339 in 2016 and 233 in 2015",
+                            "code": "",
+                            "value": 4184000.0,
+                            "transformed": "Loans and interest receivable net of allowances of in and in"
+                        },
+                        {
+                            "desc": "Funds receivable and customer accounts",
+                            "code": "",
+                            "value": 12261000.0,
+                            "transformed": "Funds receivable and customer accounts"
+                        },
+                        {
+                            "desc": "Prepaid expenses and other current assets",
+                            "code": "AM_BS_OCA",
+                            "value": 655000.0,
+                            "transformed": "Other current assets"
+                        }
+                    ],
+                    "transformed": "Current assets"
+                },
+                {
+                    "desc": "Long-term investments",
+                    "code": "",
+                    "value": 2348000.0,
+                    "transformed": "Long term investments"
+                },
+                {
+                    "desc": "Property and equipment net",
+                    "code": "",
+                    "value": 1344000.0,
+                    "transformed": "Ppe(net)"
+                },
+                {
+                    "desc": "Goodwill",
+                    "code": "",
+                    "value": 4069000.0,
+                    "transformed": "Goodwill"
+                },
+                {
+                    "desc": "Intangible assets net",
+                    "code": "",
+                    "value": 358000.0,
+                    "transformed": "Intangible assets"
+                },
+                {
+                    "desc": "Other assets",
+                    "code": "",
+                    "total": {
+                        "desc": "Total assets",
+                        "code": "",
+                        "value": 28881000.0,
+                        "transformed": "Total assets"
+                    },
+                    "value": 114000.0,
+                    "transformed": "Other assets"
+                },
+                {
+                    "code": "",
+                    "heading": "LIABILITIES AND EQUITY",
+                    "items": [],
+                    "transformed": "Liabilities and equity"
+                },
+                {
+                    "total": {
+                        "desc": "Total current liabilities",
+                        "code": "",
+                        "value": 13617000.0,
+                        "transformed": "Total current liabilities"
+                    },
+                    "code": "",
+                    "heading": "Current liabilities:",
+                    "items": [
+                        {
+                            "desc": "Accounts payable",
+                            "code": "",
+                            "value": 145000.0,
+                            "transformed": "Accounts payable"
+                        },
+                        {
+                            "desc": "Funds payable and amounts due to customers",
+                            "code": "",
+                            "value": 12261000.0,
+                            "transformed": "Funds payable and amounts due to customers"
+                        },
+                        {
+                            "desc": "Accrued expenses and other current liabilities",
+                            "code": "",
+                            "value": 1179000.0,
+                            "transformed": "Accrued expenses and other current liabilities"
+                        },
+                        {
+                            "desc": "Income taxes payable",
+                            "code": "",
+                            "value": 32000.0,
+                            "transformed": "Income taxes payable"
+                        }
+                    ],
+                    "transformed": "Current liabilities"
+                },
+                {
+                    "desc": "Deferred tax liability and other long-term liabilities",
+                    "code": "",
+                    "total": {
+                        "desc": "Total liabilities",
+                        "code": "",
+                        "value": 15122000.0,
+                        "transformed": "Total liabilities"
+                    },
+                    "value": 1505000.0,
+                    "transformed": "Deferred tax liability and other long term liabilities"
+                },
+                {
+                    "code": "AM_BS_E",
+                    "heading": "Equity:",
+                    "items": [],
+                    "transformed": "Shareholders equity"
+                },
+                {
+                    "desc": "Common stock 0.0001 par value; 4000 shares authorized; 1207 and 1224 outstanding",
+                    "code": "",
+                    "value": "",
+                    "transformed": "Common stock par value shares authorized and outstanding"
+                },
+                {
+                    "desc": "Treasury stock at cost 27 shares as of December 31 2016",
+                    "code": "",
+                    "value": "",
+                    "transformed": "Treasury stock at cost shares as of december"
+                },
+                {
+                    "desc": "Additional paid-in-capital",
+                    "code": "",
+                    "value": 13100000.0,
+                    "transformed": "Additional paid in capital"
+                },
+                {
+                    "desc": "Retained earnings",
+                    "code": "",
+                    "value": 668000.0,
+                    "transformed": "Retained earnings"
+                },
+                {
+                    "code": "",
+                    "value": -9000.0,
+                    "total": {
+                        "desc": "Total equity",
+                        "code": "",
+                        "value": 13759000.0,
+                        "transformed": "Total equity"
+                    },
+                    "desc": "Accumulated other comprehensive income -loss",
+                    "total1": {
+                        "desc": "Total liabilities and equity",
+                        "code": "",
+                        "value": 28881000.0,
+                        "transformed": "Total liabilities and equity"
+                    },
+                    "transformed": "Accumulated other comprehensive income loss"
+                }
+            ]
+        }
+    ]
+}

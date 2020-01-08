@@ -1,0 +1,648 @@
+{
+    "type": "cash_flow_statement",
+    "period": [
+        {
+            "asof": "2018",
+            "statement": [
+                {
+                    "transformed": "Operating activities",
+                    "items": [
+                        {
+                            "value": 1907000.0,
+                            "desc": "Net income",
+                            "code": "AM_BS_NI",
+                            "transformed": "Net income/loss"
+                        }
+                    ],
+                    "heading": "OPERATING ACTIVITIES",
+                    "code": ""
+                },
+                {
+                    "transformed": "Adjustments to reconcile to cash provided by operating activities",
+                    "items": [
+                        {
+                            "value": 284000.0,
+                            "desc": "Depreciation amortization and other",
+                            "code": "",
+                            "transformed": "Depreciation amortization and other"
+                        },
+                        {
+                            "value": 184000.0,
+                            "desc": "Share-based compensation",
+                            "code": "",
+                            "transformed": "Share based compensation"
+                        },
+                        {
+                            "value": -239000.0,
+                            "desc": "Income taxes",
+                            "code": "",
+                            "transformed": "Income taxes"
+                        },
+                        {
+                            "value": 520000.0,
+                            "desc": "Liability for guest loyalty program",
+                            "code": "",
+                            "transformed": "Liability for guest loyalty program"
+                        },
+                        {
+                            "value": -152000.0,
+                            "desc": "Contract acquisition costs",
+                            "code": "",
+                            "transformed": "Contract acquisition costs"
+                        },
+                        {
+                            "value": 16000.0,
+                            "desc": "Merger-related charges",
+                            "code": "",
+                            "transformed": "Merger related charges"
+                        },
+                        {
+                            "value": -76000.0,
+                            "desc": "Working capital changes",
+                            "code": "",
+                            "transformed": "Working capital changes"
+                        },
+                        {
+                            "value": -194000.0,
+                            "desc": "-Gain loss on asset dispositions",
+                            "code": "",
+                            "transformed": "Gain loss on asset dispositions"
+                        },
+                        {
+                            "value": 107000.0,
+                            "desc": "Other",
+                            "code": "",
+                            "transformed": "Other"
+                        },
+                        {
+                            "value": 2357000.0,
+                            "desc": "Net cash provided by operating activities",
+                            "code": "",
+                            "transformed": "Net cash provided by operating activities"
+                        }
+                    ],
+                    "heading": "Adjustments to reconcile to cash provided by operating activities:",
+                    "code": ""
+                },
+                {
+                    "transformed": "Investing activities",
+                    "items": [
+                        {
+                            "value": "",
+                            "desc": "Acquisition of a business net of cash acquired",
+                            "code": "",
+                            "transformed": "Acquisition of a business net of cash acquired"
+                        },
+                        {
+                            "value": -556000.0,
+                            "desc": "Capital expenditures",
+                            "code": "",
+                            "transformed": "Capital expenditures"
+                        },
+                        {
+                            "value": 479000.0,
+                            "desc": "Dispositions",
+                            "code": "",
+                            "transformed": "Dispositions"
+                        },
+                        {
+                            "value": -13000.0,
+                            "desc": "Loan advances",
+                            "code": "",
+                            "transformed": "Loan advances"
+                        },
+                        {
+                            "value": 48000.0,
+                            "desc": "Loan collections",
+                            "code": "",
+                            "transformed": "Loan collections"
+                        },
+                        {
+                            "value": -10000.0,
+                            "desc": "Other",
+                            "code": "",
+                            "transformed": "Other"
+                        },
+                        {
+                            "value": -52000.0,
+                            "desc": "Net cash -used in provided by investing activities",
+                            "code": "",
+                            "transformed": "Net cash used in provided by investing activities"
+                        }
+                    ],
+                    "heading": "INVESTING ACTIVITIES",
+                    "code": ""
+                },
+                {
+                    "transformed": "Financing activities",
+                    "items": [
+                        {
+                            "value": -129000.0,
+                            "desc": "Commercial paper/Credit Facility net",
+                            "code": "",
+                            "transformed": "Commercial paper credit facility net"
+                        },
+                        {
+                            "value": 1646000.0,
+                            "desc": "Issuance of long-term debt",
+                            "code": "",
+                            "transformed": "Issuance of long term debt"
+                        },
+                        {
+                            "value": -397000.0,
+                            "desc": "Repayment of long-term debt",
+                            "code": "",
+                            "transformed": "Repayment of long term debt"
+                        },
+                        {
+                            "value": 4000.0,
+                            "desc": "Issuance of Class A Common Stock",
+                            "code": "",
+                            "transformed": "Issuance of class a common stock"
+                        },
+                        {
+                            "value": -543000.0,
+                            "desc": "Dividends paid",
+                            "code": "",
+                            "transformed": "Dividends paid"
+                        },
+                        {
+                            "value": -2850000.0,
+                            "desc": "Purchase of treasury stock",
+                            "code": "",
+                            "transformed": "Purchase of treasury stock"
+                        },
+                        {
+                            "value": -105000.0,
+                            "desc": "Share-based compensation withholding taxes",
+                            "code": "",
+                            "transformed": "Share based compensation withholding taxes"
+                        },
+                        {
+                            "value": "",
+                            "desc": "Other",
+                            "code": "",
+                            "transformed": "Other"
+                        },
+                        {
+                            "value": -2374000.0,
+                            "desc": "Net cash -used in provided by financing activities",
+                            "code": "",
+                            "transformed": "Net cash used in provided by financing activities"
+                        },
+                        {
+                            "value": -69000.0,
+                            "desc": "DECREASE IN CASH CASH EQUIVALENTS AND RESTRICTED CASH",
+                            "code": "",
+                            "transformed": "Decrease in cash cash equivalents and restricted cash"
+                        },
+                        {
+                            "value": 429000.0,
+                            "desc": "CASH CASH EQUIVALENTS AND RESTRICTED CASH beginning of period -1",
+                            "code": "",
+                            "transformed": "Cash cash equivalents and restricted cash beginning of period"
+                        },
+                        {
+                            "value": 360000.0,
+                            "desc": "CASH CASH EQUIVALENTS AND RESTRICTED CASH end of period -1",
+                            "code": "",
+                            "transformed": "Cash cash equivalents and restricted cash end of period"
+                        }
+                    ],
+                    "heading": "FINANCING ACTIVITIES",
+                    "code": ""
+                }
+            ]
+        },
+        {
+            "asof": "2017",
+            "statement": [
+                {
+                    "transformed": "Operating activities",
+                    "items": [
+                        {
+                            "value": 1459000.0,
+                            "desc": "Net income",
+                            "code": "AM_BS_NI",
+                            "transformed": "Net income/loss"
+                        }
+                    ],
+                    "heading": "OPERATING ACTIVITIES",
+                    "code": ""
+                },
+                {
+                    "transformed": "Adjustments to reconcile to cash provided by operating activities",
+                    "items": [
+                        {
+                            "value": 279000.0,
+                            "desc": "Depreciation amortization and other",
+                            "code": "",
+                            "transformed": "Depreciation amortization and other"
+                        },
+                        {
+                            "value": 181000.0,
+                            "desc": "Share-based compensation",
+                            "code": "",
+                            "transformed": "Share based compensation"
+                        },
+                        {
+                            "value": 887000.0,
+                            "desc": "Income taxes",
+                            "code": "",
+                            "transformed": "Income taxes"
+                        },
+                        {
+                            "value": 298000.0,
+                            "desc": "Liability for guest loyalty program",
+                            "code": "",
+                            "transformed": "Liability for guest loyalty program"
+                        },
+                        {
+                            "value": -185000.0,
+                            "desc": "Contract acquisition costs",
+                            "code": "",
+                            "transformed": "Contract acquisition costs"
+                        },
+                        {
+                            "value": -124000.0,
+                            "desc": "Merger-related charges",
+                            "code": "",
+                            "transformed": "Merger related charges"
+                        },
+                        {
+                            "value": -30000.0,
+                            "desc": "Working capital changes",
+                            "code": "",
+                            "transformed": "Working capital changes"
+                        },
+                        {
+                            "value": -687000.0,
+                            "desc": "-Gain loss on asset dispositions",
+                            "code": "",
+                            "transformed": "Gain loss on asset dispositions"
+                        },
+                        {
+                            "value": 149000.0,
+                            "desc": "Other",
+                            "code": "",
+                            "transformed": "Other"
+                        },
+                        {
+                            "value": 2227000.0,
+                            "desc": "Net cash provided by operating activities",
+                            "code": "",
+                            "transformed": "Net cash provided by operating activities"
+                        }
+                    ],
+                    "heading": "Adjustments to reconcile to cash provided by operating activities:",
+                    "code": ""
+                },
+                {
+                    "transformed": "Investing activities",
+                    "items": [
+                        {
+                            "value": "",
+                            "desc": "Acquisition of a business net of cash acquired",
+                            "code": "",
+                            "transformed": "Acquisition of a business net of cash acquired"
+                        },
+                        {
+                            "value": -240000.0,
+                            "desc": "Capital expenditures",
+                            "code": "",
+                            "transformed": "Capital expenditures"
+                        },
+                        {
+                            "value": 1418000.0,
+                            "desc": "Dispositions",
+                            "code": "",
+                            "transformed": "Dispositions"
+                        },
+                        {
+                            "value": -93000.0,
+                            "desc": "Loan advances",
+                            "code": "",
+                            "transformed": "Loan advances"
+                        },
+                        {
+                            "value": 187000.0,
+                            "desc": "Loan collections",
+                            "code": "",
+                            "transformed": "Loan collections"
+                        },
+                        {
+                            "value": -61000.0,
+                            "desc": "Other",
+                            "code": "",
+                            "transformed": "Other"
+                        },
+                        {
+                            "value": 1211000.0,
+                            "desc": "Net cash -used in provided by investing activities",
+                            "code": "",
+                            "transformed": "Net cash used in provided by investing activities"
+                        }
+                    ],
+                    "heading": "INVESTING ACTIVITIES",
+                    "code": ""
+                },
+                {
+                    "transformed": "Financing activities",
+                    "items": [
+                        {
+                            "value": 60000.0,
+                            "desc": "Commercial paper/Credit Facility net",
+                            "code": "",
+                            "transformed": "Commercial paper credit facility net"
+                        },
+                        {
+                            "value": "",
+                            "desc": "Issuance of long-term debt",
+                            "code": "",
+                            "transformed": "Issuance of long term debt"
+                        },
+                        {
+                            "value": -310000.0,
+                            "desc": "Repayment of long-term debt",
+                            "code": "",
+                            "transformed": "Repayment of long term debt"
+                        },
+                        {
+                            "value": 6000.0,
+                            "desc": "Issuance of Class A Common Stock",
+                            "code": "",
+                            "transformed": "Issuance of class a common stock"
+                        },
+                        {
+                            "value": -482000.0,
+                            "desc": "Dividends paid",
+                            "code": "",
+                            "transformed": "Dividends paid"
+                        },
+                        {
+                            "value": -3013000.0,
+                            "desc": "Purchase of treasury stock",
+                            "code": "",
+                            "transformed": "Purchase of treasury stock"
+                        },
+                        {
+                            "value": -157000.0,
+                            "desc": "Share-based compensation withholding taxes",
+                            "code": "",
+                            "transformed": "Share based compensation withholding taxes"
+                        },
+                        {
+                            "value": "",
+                            "desc": "Other",
+                            "code": "",
+                            "transformed": "Other"
+                        },
+                        {
+                            "value": -3896000.0,
+                            "desc": "Net cash -used in provided by financing activities",
+                            "code": "",
+                            "transformed": "Net cash used in provided by financing activities"
+                        },
+                        {
+                            "value": -458000.0,
+                            "desc": "DECREASE IN CASH CASH EQUIVALENTS AND RESTRICTED CASH",
+                            "code": "",
+                            "transformed": "Decrease in cash cash equivalents and restricted cash"
+                        },
+                        {
+                            "value": 887000.0,
+                            "desc": "CASH CASH EQUIVALENTS AND RESTRICTED CASH beginning of period -1",
+                            "code": "",
+                            "transformed": "Cash cash equivalents and restricted cash beginning of period"
+                        },
+                        {
+                            "value": 429000.0,
+                            "desc": "CASH CASH EQUIVALENTS AND RESTRICTED CASH end of period -1",
+                            "code": "",
+                            "transformed": "Cash cash equivalents and restricted cash end of period"
+                        }
+                    ],
+                    "heading": "FINANCING ACTIVITIES",
+                    "code": ""
+                }
+            ]
+        },
+        {
+            "asof": "2016",
+            "statement": [
+                {
+                    "transformed": "Operating activities",
+                    "items": [
+                        {
+                            "value": 808000.0,
+                            "desc": "Net income",
+                            "code": "AM_BS_NI",
+                            "transformed": "Net income/loss"
+                        }
+                    ],
+                    "heading": "OPERATING ACTIVITIES",
+                    "code": ""
+                },
+                {
+                    "transformed": "Adjustments to reconcile to cash provided by operating activities",
+                    "items": [
+                        {
+                            "value": 159000.0,
+                            "desc": "Depreciation amortization and other",
+                            "code": "",
+                            "transformed": "Depreciation amortization and other"
+                        },
+                        {
+                            "value": 212000.0,
+                            "desc": "Share-based compensation",
+                            "code": "",
+                            "transformed": "Share based compensation"
+                        },
+                        {
+                            "value": 103000.0,
+                            "desc": "Income taxes",
+                            "code": "",
+                            "transformed": "Income taxes"
+                        },
+                        {
+                            "value": 221000.0,
+                            "desc": "Liability for guest loyalty program",
+                            "code": "",
+                            "transformed": "Liability for guest loyalty program"
+                        },
+                        {
+                            "value": -76000.0,
+                            "desc": "Contract acquisition costs",
+                            "code": "",
+                            "transformed": "Contract acquisition costs"
+                        },
+                        {
+                            "value": 209000.0,
+                            "desc": "Merger-related charges",
+                            "code": "",
+                            "transformed": "Merger related charges"
+                        },
+                        {
+                            "value": -106000.0,
+                            "desc": "Working capital changes",
+                            "code": "",
+                            "transformed": "Working capital changes"
+                        },
+                        {
+                            "value": 1000.0,
+                            "desc": "-Gain loss on asset dispositions",
+                            "code": "",
+                            "transformed": "Gain loss on asset dispositions"
+                        },
+                        {
+                            "value": 88000.0,
+                            "desc": "Other",
+                            "code": "",
+                            "transformed": "Other"
+                        },
+                        {
+                            "value": 1619000.0,
+                            "desc": "Net cash provided by operating activities",
+                            "code": "",
+                            "transformed": "Net cash provided by operating activities"
+                        }
+                    ],
+                    "heading": "Adjustments to reconcile to cash provided by operating activities:",
+                    "code": ""
+                },
+                {
+                    "transformed": "Investing activities",
+                    "items": [
+                        {
+                            "value": -2392000.0,
+                            "desc": "Acquisition of a business net of cash acquired",
+                            "code": "",
+                            "transformed": "Acquisition of a business net of cash acquired"
+                        },
+                        {
+                            "value": -199000.0,
+                            "desc": "Capital expenditures",
+                            "code": "",
+                            "transformed": "Capital expenditures"
+                        },
+                        {
+                            "value": 211000.0,
+                            "desc": "Dispositions",
+                            "code": "",
+                            "transformed": "Dispositions"
+                        },
+                        {
+                            "value": -32000.0,
+                            "desc": "Loan advances",
+                            "code": "",
+                            "transformed": "Loan advances"
+                        },
+                        {
+                            "value": 67000.0,
+                            "desc": "Loan collections",
+                            "code": "",
+                            "transformed": "Loan collections"
+                        },
+                        {
+                            "value": -1000.0,
+                            "desc": "Other",
+                            "code": "",
+                            "transformed": "Other"
+                        },
+                        {
+                            "value": -2346000.0,
+                            "desc": "Net cash -used in provided by investing activities",
+                            "code": "",
+                            "transformed": "Net cash used in provided by investing activities"
+                        }
+                    ],
+                    "heading": "INVESTING ACTIVITIES",
+                    "code": ""
+                },
+                {
+                    "transformed": "Financing activities",
+                    "items": [
+                        {
+                            "value": 1373000.0,
+                            "desc": "Commercial paper/Credit Facility net",
+                            "code": "",
+                            "transformed": "Commercial paper credit facility net"
+                        },
+                        {
+                            "value": 1482000.0,
+                            "desc": "Issuance of long-term debt",
+                            "code": "",
+                            "transformed": "Issuance of long term debt"
+                        },
+                        {
+                            "value": -326000.0,
+                            "desc": "Repayment of long-term debt",
+                            "code": "",
+                            "transformed": "Repayment of long term debt"
+                        },
+                        {
+                            "value": 34000.0,
+                            "desc": "Issuance of Class A Common Stock",
+                            "code": "",
+                            "transformed": "Issuance of class a common stock"
+                        },
+                        {
+                            "value": -374000.0,
+                            "desc": "Dividends paid",
+                            "code": "",
+                            "transformed": "Dividends paid"
+                        },
+                        {
+                            "value": -568000.0,
+                            "desc": "Purchase of treasury stock",
+                            "code": "",
+                            "transformed": "Purchase of treasury stock"
+                        },
+                        {
+                            "value": -100000.0,
+                            "desc": "Share-based compensation withholding taxes",
+                            "code": "",
+                            "transformed": "Share based compensation withholding taxes"
+                        },
+                        {
+                            "value": -24000.0,
+                            "desc": "Other",
+                            "code": "",
+                            "transformed": "Other"
+                        },
+                        {
+                            "value": 1497000.0,
+                            "desc": "Net cash -used in provided by financing activities",
+                            "code": "",
+                            "transformed": "Net cash used in provided by financing activities"
+                        },
+                        {
+                            "value": 770000.0,
+                            "desc": "DECREASE IN CASH CASH EQUIVALENTS AND RESTRICTED CASH",
+                            "code": "",
+                            "transformed": "Decrease in cash cash equivalents and restricted cash"
+                        },
+                        {
+                            "value": 117000.0,
+                            "desc": "CASH CASH EQUIVALENTS AND RESTRICTED CASH beginning of period -1",
+                            "code": "",
+                            "transformed": "Cash cash equivalents and restricted cash beginning of period"
+                        },
+                        {
+                            "value": 887000.0,
+                            "desc": "CASH CASH EQUIVALENTS AND RESTRICTED CASH end of period -1",
+                            "code": "",
+                            "transformed": "Cash cash equivalents and restricted cash end of period"
+                        }
+                    ],
+                    "heading": "FINANCING ACTIVITIES",
+                    "code": ""
+                }
+            ]
+        }
+    ],
+    "company": "marriott international inc",
+    "currency": "USD",
+    "units": "millions",
+    "title": "consolidated statements of cash flows"
+}

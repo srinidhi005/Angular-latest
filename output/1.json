@@ -1,0 +1,987 @@
+{
+    "title": "Balance_sheet",
+    "type": "Balance_sheet",
+    "company": "  TAPESTRY INC      \n",
+    "period": [
+        {
+            "asof": "30JUN2015",
+            "statement": [
+                {
+                    "heading": "ASSETS ",
+                    "code": "",
+                    "transformed": "Assets",
+                    "items": []
+                },
+                {
+                    "code": "AM_BS_BA",
+                    "value": 1525.8,
+                    "total": {
+                        "desc": " Receivables Total Net ",
+                        "code": "",
+                        "transformed": "Receivables total net",
+                        "value": 219.5
+                    },
+                    "desc": " Cash Equivalents ",
+                    "transformed": "Cash equivalents",
+                    "total1": {
+                        "desc": " Inventories Total ",
+                        "code": "None",
+                        "transformed": "Inventories",
+                        "value": 485.1
+                    }
+                },
+                {
+                    "desc": " Prepaid Expenses ",
+                    "code": "AM_BS_OCA",
+                    "transformed": "Other current assets",
+                    "value": 73.1
+                },
+                {
+                    "total": {
+                        "desc": "Current Assets Total ",
+                        "code": "AM_BS_CA",
+                        "transformed": "Total current assets",
+                        "value": 2506.5
+                    },
+                    "desc": " Current Assets Other ",
+                    "code": "AM_BS_OCA",
+                    "transformed": "Other current assets",
+                    "value": 203.0
+                },
+                {
+                    "desc": " Plant Property Equip Gross ",
+                    "code": "",
+                    "transformed": "Plant property equip gross",
+                    "value": 1573.6
+                },
+                {
+                    "desc": " Accumulated Depreciation ",
+                    "code": "",
+                    "transformed": "Accumulated depreciation",
+                    "value": 841.0
+                },
+                {
+                    "desc": "Plant Property Equip Net ",
+                    "code": "",
+                    "transformed": "Plant property equip net",
+                    "value": 732.6
+                },
+                {
+                    "desc": " Investments at Equity ",
+                    "code": "",
+                    "transformed": "Investments at equity",
+                    "value": 320.2
+                },
+                {
+                    "desc": " Investments and Advances Other ",
+                    "code": "",
+                    "transformed": "Investments and advances other",
+                    "value": 85.8
+                },
+                {
+                    "desc": " Intangibles ",
+                    "code": "",
+                    "transformed": "Intangibles",
+                    "value": 794.1
+                },
+                {
+                    "desc": " Deferred Charges ",
+                    "code": "",
+                    "transformed": "Deferred charges",
+                    "value": 0.0
+                },
+                {
+                    "total": {
+                        "desc": "TOTAL ASSETS ",
+                        "code": "",
+                        "transformed": "Total assets",
+                        "value": 4666.9
+                    },
+                    "desc": " Assets Other ",
+                    "code": "",
+                    "transformed": "Assets other",
+                    "value": 227.7
+                },
+                {
+                    "heading": "LIABILITIES ",
+                    "code": "",
+                    "transformed": "Liabilities",
+                    "items": []
+                },
+                {
+                    "desc": " Accounts Payable ",
+                    "code": "",
+                    "transformed": "Accounts payable",
+                    "value": 222.8
+                },
+                {
+                    "desc": " Notes Payable ",
+                    "code": "",
+                    "transformed": "Notes payable",
+                    "value": 0.0
+                },
+                {
+                    "desc": " Accrued Expenses ",
+                    "code": "",
+                    "transformed": "Accrued expenses",
+                    "value": 507.3
+                },
+                {
+                    "desc": " Taxes Payable ",
+                    "code": "",
+                    "transformed": "Taxes payable",
+                    "value": 0.0
+                },
+                {
+                    "desc": " Debt Long Term Due In One Year ",
+                    "code": "",
+                    "transformed": "Debt long term due in one year",
+                    "value": 11.3
+                },
+                {
+                    "total": {
+                        "desc": "Total Current Liabilities ",
+                        "code": "",
+                        "transformed": "Total current liabilities",
+                        "value": 834.7
+                    },
+                    "desc": " Other Current Liabilities ",
+                    "code": "",
+                    "transformed": "Other current liabilities",
+                    "value": 93.3
+                },
+                {
+                    "desc": " Long Term Debt ",
+                    "code": "",
+                    "transformed": "Long term debt",
+                    "value": 879.1
+                },
+                {
+                    "desc": " Deferred Taxes Balance Sheet ",
+                    "code": "",
+                    "transformed": "Deferred taxes balance sheet",
+                    "value": 60.0
+                },
+                {
+                    "desc": " Investment Tax Credit ",
+                    "code": "",
+                    "transformed": "Investment tax credit",
+                    "value": 0.0
+                },
+                {
+                    "desc": " Liabilities Other ",
+                    "code": "",
+                    "transformed": "Liabilities other",
+                    "value": 403.2
+                },
+                {
+                    "total": {
+                        "desc": "TOTAL LIABILITIES ",
+                        "code": "",
+                        "transformed": "Total liabilities",
+                        "value": 2177.0
+                    },
+                    "desc": " Noncontrolling Interest Redeemable ",
+                    "code": "",
+                    "transformed": "Noncontrolling interest redeemable",
+                    "value": 0.0
+                },
+                {
+                    "heading": "SHAREHOLDERS EQUITY ",
+                    "code": "AM_BS_E",
+                    "transformed": "Shareholders equity",
+                    "items": []
+                },
+                {
+                    "desc": " Preferred Stock ",
+                    "code": "",
+                    "transformed": "Preferred stock",
+                    "value": 0.0
+                },
+                {
+                    "desc": " Common Stock ",
+                    "code": "",
+                    "transformed": "Common stock",
+                    "value": 2.8
+                },
+                {
+                    "desc": " Capital Surplus ",
+                    "code": "",
+                    "transformed": "Capital surplus",
+                    "value": 2754.4
+                },
+                {
+                    "desc": " Retained Earnings Net Other ",
+                    "code": "",
+                    "transformed": "Retained earnings net other",
+                    "value": -267.3
+                },
+                {
+                    "desc": " Less Treasury Stock ",
+                    "code": "",
+                    "transformed": "Less treasury stock",
+                    "value": 0.0
+                },
+                {
+                    "desc": "Shareholders Equity Parent ",
+                    "code": "",
+                    "transformed": "Shareholders equity parent",
+                    "value": 2489.9
+                },
+                {
+                    "code": "",
+                    "value": 0.0,
+                    "total": {
+                        "desc": "TOTAL SHAREHOLDERS EQUITY ",
+                        "code": "",
+                        "transformed": "Total shareholders equity",
+                        "value": 2489.9
+                    },
+                    "desc": "Noncontrolling Interest Nonredeemable ",
+                    "transformed": "Noncontrolling interest nonredeemable",
+                    "total1": {
+                        "desc": "TOTAL LIABILITIES AND EQUITY ",
+                        "code": "",
+                        "transformed": "Total liabilities and equity",
+                        "value": 4666.9
+                    }
+                }
+            ]
+        },
+        {
+            "asof": "30JUN2016",
+            "statement": [
+                {
+                    "heading": "ASSETS ",
+                    "code": "",
+                    "transformed": "Assets",
+                    "items": []
+                },
+                {
+                    "code": "AM_BS_BA",
+                    "value": 1319.4,
+                    "total": {
+                        "desc": " Receivables Total Net ",
+                        "code": "",
+                        "transformed": "Receivables total net",
+                        "value": 245.2
+                    },
+                    "desc": " Cash Equivalents ",
+                    "transformed": "Cash equivalents",
+                    "total1": {
+                        "desc": " Inventories Total ",
+                        "code": "None",
+                        "transformed": "Inventories",
+                        "value": 459.2
+                    }
+                },
+                {
+                    "desc": " Prepaid Expenses ",
+                    "code": "AM_BS_OCA",
+                    "transformed": "Other current assets",
+                    "value": 58.0
+                },
+                {
+                    "total": {
+                        "desc": "Current Assets Total ",
+                        "code": "AM_BS_CA",
+                        "transformed": "Total current assets",
+                        "value": 2172.9
+                    },
+                    "desc": " Current Assets Other ",
+                    "code": "AM_BS_OCA",
+                    "transformed": "Other current assets",
+                    "value": 91.1
+                },
+                {
+                    "desc": " Plant Property Equip Gross ",
+                    "code": "",
+                    "transformed": "Plant property equip gross",
+                    "value": 1781.3
+                },
+                {
+                    "desc": " Accumulated Depreciation ",
+                    "code": "",
+                    "transformed": "Accumulated depreciation",
+                    "value": 861.8
+                },
+                {
+                    "desc": "Plant Property Equip Net ",
+                    "code": "",
+                    "transformed": "Plant property equip net",
+                    "value": 919.5
+                },
+                {
+                    "desc": " Investments at Equity ",
+                    "code": "",
+                    "transformed": "Investments at equity",
+                    "value": 460.5
+                },
+                {
+                    "desc": " Investments and Advances Other ",
+                    "code": "",
+                    "transformed": "Investments and advances other",
+                    "value": 98.1
+                },
+                {
+                    "desc": " Intangibles ",
+                    "code": "",
+                    "transformed": "Intangibles",
+                    "value": 849.2
+                },
+                {
+                    "desc": " Deferred Charges ",
+                    "code": "",
+                    "transformed": "Deferred charges",
+                    "value": 0.0
+                },
+                {
+                    "total": {
+                        "desc": "TOTAL ASSETS ",
+                        "code": "",
+                        "transformed": "Total assets",
+                        "value": 4892.7
+                    },
+                    "desc": " Assets Other ",
+                    "code": "",
+                    "transformed": "Assets other",
+                    "value": 392.5
+                },
+                {
+                    "heading": "LIABILITIES ",
+                    "code": "",
+                    "transformed": "Liabilities",
+                    "items": []
+                },
+                {
+                    "desc": " Accounts Payable ",
+                    "code": "",
+                    "transformed": "Accounts payable",
+                    "value": 186.7
+                },
+                {
+                    "desc": " Notes Payable ",
+                    "code": "",
+                    "transformed": "Notes payable",
+                    "value": 0.0
+                },
+                {
+                    "desc": " Accrued Expenses ",
+                    "code": "",
+                    "transformed": "Accrued expenses",
+                    "value": 531.1
+                },
+                {
+                    "desc": " Taxes Payable ",
+                    "code": "",
+                    "transformed": "Taxes payable",
+                    "value": 0.0
+                },
+                {
+                    "desc": " Debt Long Term Due In One Year ",
+                    "code": "",
+                    "transformed": "Debt long term due in one year",
+                    "value": 15.0
+                },
+                {
+                    "total": {
+                        "desc": "Total Current Liabilities ",
+                        "code": "",
+                        "transformed": "Total current liabilities",
+                        "value": 826.7
+                    },
+                    "desc": " Other Current Liabilities ",
+                    "code": "",
+                    "transformed": "Other current liabilities",
+                    "value": 93.9
+                },
+                {
+                    "desc": " Long Term Debt ",
+                    "code": "",
+                    "transformed": "Long term debt",
+                    "value": 861.2
+                },
+                {
+                    "desc": " Deferred Taxes Balance Sheet ",
+                    "code": "",
+                    "transformed": "Deferred taxes balance sheet",
+                    "value": 57.3
+                },
+                {
+                    "desc": " Investment Tax Credit ",
+                    "code": "",
+                    "transformed": "Investment tax credit",
+                    "value": 0.0
+                },
+                {
+                    "desc": " Liabilities Other ",
+                    "code": "",
+                    "transformed": "Liabilities other",
+                    "value": 464.6
+                },
+                {
+                    "total": {
+                        "desc": "TOTAL LIABILITIES ",
+                        "code": "",
+                        "transformed": "Total liabilities",
+                        "value": 2209.8
+                    },
+                    "desc": " Noncontrolling Interest Redeemable ",
+                    "code": "",
+                    "transformed": "Noncontrolling interest redeemable",
+                    "value": 0.0
+                },
+                {
+                    "heading": "SHAREHOLDERS EQUITY ",
+                    "code": "AM_BS_E",
+                    "transformed": "Shareholders equity",
+                    "items": []
+                },
+                {
+                    "desc": " Preferred Stock ",
+                    "code": "",
+                    "transformed": "Preferred stock",
+                    "value": 0.0
+                },
+                {
+                    "desc": " Common Stock ",
+                    "code": "",
+                    "transformed": "Common stock",
+                    "value": 2.8
+                },
+                {
+                    "desc": " Capital Surplus ",
+                    "code": "",
+                    "transformed": "Capital surplus",
+                    "value": 2857.1
+                },
+                {
+                    "desc": " Retained Earnings Net Other ",
+                    "code": "",
+                    "transformed": "Retained earnings net other",
+                    "value": -177.0
+                },
+                {
+                    "desc": " Less Treasury Stock ",
+                    "code": "",
+                    "transformed": "Less treasury stock",
+                    "value": 0.0
+                },
+                {
+                    "desc": "Shareholders Equity Parent ",
+                    "code": "",
+                    "transformed": "Shareholders equity parent",
+                    "value": 2682.9
+                },
+                {
+                    "code": "",
+                    "value": 0.0,
+                    "total": {
+                        "desc": "TOTAL SHAREHOLDERS EQUITY ",
+                        "code": "",
+                        "transformed": "Total shareholders equity",
+                        "value": 2682.9
+                    },
+                    "desc": "Noncontrolling Interest Nonredeemable ",
+                    "transformed": "Noncontrolling interest nonredeemable",
+                    "total1": {
+                        "desc": "TOTAL LIABILITIES AND EQUITY ",
+                        "code": "",
+                        "transformed": "Total liabilities and equity",
+                        "value": 4892.7
+                    }
+                }
+            ]
+        },
+        {
+            "asof": "30JUN2017",
+            "statement": [
+                {
+                    "heading": "ASSETS ",
+                    "code": "",
+                    "transformed": "Assets",
+                    "items": []
+                },
+                {
+                    "code": "AM_BS_BA",
+                    "value": 3083.6,
+                    "total": {
+                        "desc": " Receivables Total Net ",
+                        "code": "",
+                        "transformed": "Receivables total net",
+                        "value": 309.5
+                    },
+                    "desc": " Cash Equivalents ",
+                    "transformed": "Cash equivalents",
+                    "total1": {
+                        "desc": " Inventories Total ",
+                        "code": "None",
+                        "transformed": "Inventories",
+                        "value": 469.7
+                    }
+                },
+                {
+                    "desc": " Prepaid Expenses ",
+                    "code": "AM_BS_OCA",
+                    "transformed": "Other current assets",
+                    "value": 58.6
+                },
+                {
+                    "total": {
+                        "desc": "Current Assets Total ",
+                        "code": "AM_BS_CA",
+                        "transformed": "Total current assets",
+                        "value": 3953.3
+                    },
+                    "desc": " Current Assets Other ",
+                    "code": "AM_BS_OCA",
+                    "transformed": "Other current assets",
+                    "value": 31.9
+                },
+                {
+                    "desc": " Plant Property Equip Gross ",
+                    "code": "",
+                    "transformed": "Plant property equip gross",
+                    "value": 1489.5
+                },
+                {
+                    "desc": " Accumulated Depreciation ",
+                    "code": "",
+                    "transformed": "Accumulated depreciation",
+                    "value": 798.1
+                },
+                {
+                    "desc": "Plant Property Equip Net ",
+                    "code": "",
+                    "transformed": "Plant property equip net",
+                    "value": 691.4
+                },
+                {
+                    "desc": " Investments at Equity ",
+                    "code": "",
+                    "transformed": "Investments at equity",
+                    "value": 0.0
+                },
+                {
+                    "desc": " Investments and Advances Other ",
+                    "code": "",
+                    "transformed": "Investments and advances other",
+                    "value": 75.1
+                },
+                {
+                    "desc": " Intangibles ",
+                    "code": "",
+                    "transformed": "Intangibles",
+                    "value": 821.3
+                },
+                {
+                    "desc": " Deferred Charges ",
+                    "code": "",
+                    "transformed": "Deferred charges",
+                    "value": 0.0
+                },
+                {
+                    "total": {
+                        "desc": "TOTAL ASSETS ",
+                        "code": "",
+                        "transformed": "Total assets",
+                        "value": 5831.6
+                    },
+                    "desc": " Assets Other ",
+                    "code": "",
+                    "transformed": "Assets other",
+                    "value": 290.5
+                },
+                {
+                    "heading": "LIABILITIES ",
+                    "code": "",
+                    "transformed": "Liabilities",
+                    "items": []
+                },
+                {
+                    "desc": " Accounts Payable ",
+                    "code": "",
+                    "transformed": "Accounts payable",
+                    "value": 194.6
+                },
+                {
+                    "desc": " Notes Payable ",
+                    "code": "",
+                    "transformed": "Notes payable",
+                    "value": 0.0
+                },
+                {
+                    "desc": " Accrued Expenses ",
+                    "code": "",
+                    "transformed": "Accrued expenses",
+                    "value": 464.1
+                },
+                {
+                    "desc": " Taxes Payable ",
+                    "code": "",
+                    "transformed": "Taxes payable",
+                    "value": 0.0
+                },
+                {
+                    "desc": " Debt Long Term Due In One Year ",
+                    "code": "",
+                    "transformed": "Debt long term due in one year",
+                    "value": 0.0
+                },
+                {
+                    "total": {
+                        "desc": "Total Current Liabilities ",
+                        "code": "",
+                        "transformed": "Total current liabilities",
+                        "value": 753.8
+                    },
+                    "desc": " Other Current Liabilities ",
+                    "code": "",
+                    "transformed": "Other current liabilities",
+                    "value": 95.1
+                },
+                {
+                    "desc": " Long Term Debt ",
+                    "code": "",
+                    "transformed": "Long term debt",
+                    "value": 1579.5
+                },
+                {
+                    "desc": " Deferred Taxes Balance Sheet ",
+                    "code": "",
+                    "transformed": "Deferred taxes balance sheet",
+                    "value": 63.3
+                },
+                {
+                    "desc": " Investment Tax Credit ",
+                    "code": "",
+                    "transformed": "Investment tax credit",
+                    "value": 0.0
+                },
+                {
+                    "desc": " Liabilities Other ",
+                    "code": "",
+                    "transformed": "Liabilities other",
+                    "value": 433.1
+                },
+                {
+                    "total": {
+                        "desc": "TOTAL LIABILITIES ",
+                        "code": "",
+                        "transformed": "Total liabilities",
+                        "value": 2829.7
+                    },
+                    "desc": " Noncontrolling Interest Redeemable ",
+                    "code": "",
+                    "transformed": "Noncontrolling interest redeemable",
+                    "value": 0.0
+                },
+                {
+                    "heading": "SHAREHOLDERS EQUITY ",
+                    "code": "AM_BS_E",
+                    "transformed": "Shareholders equity",
+                    "items": []
+                },
+                {
+                    "desc": " Preferred Stock ",
+                    "code": "",
+                    "transformed": "Preferred stock",
+                    "value": 0.0
+                },
+                {
+                    "desc": " Common Stock ",
+                    "code": "",
+                    "transformed": "Common stock",
+                    "value": 2.8
+                },
+                {
+                    "desc": " Capital Surplus ",
+                    "code": "",
+                    "transformed": "Capital surplus",
+                    "value": 2978.3
+                },
+                {
+                    "desc": " Retained Earnings Net Other ",
+                    "code": "",
+                    "transformed": "Retained earnings net other",
+                    "value": 20.8
+                },
+                {
+                    "desc": " Less Treasury Stock ",
+                    "code": "",
+                    "transformed": "Less treasury stock",
+                    "value": 0.0
+                },
+                {
+                    "desc": "Shareholders Equity Parent ",
+                    "code": "",
+                    "transformed": "Shareholders equity parent",
+                    "value": 3001.9
+                },
+                {
+                    "code": "",
+                    "value": 0.0,
+                    "total": {
+                        "desc": "TOTAL SHAREHOLDERS EQUITY ",
+                        "code": "",
+                        "transformed": "Total shareholders equity",
+                        "value": 3001.9
+                    },
+                    "desc": "Noncontrolling Interest Nonredeemable ",
+                    "transformed": "Noncontrolling interest nonredeemable",
+                    "total1": {
+                        "desc": "TOTAL LIABILITIES AND EQUITY ",
+                        "code": "",
+                        "transformed": "Total liabilities and equity",
+                        "value": 5831.6
+                    }
+                }
+            ]
+        },
+        {
+            "asof": "30JUN2018",
+            "statement": [
+                {
+                    "heading": "ASSETS ",
+                    "code": "",
+                    "transformed": "Assets",
+                    "items": []
+                },
+                {
+                    "code": "AM_BS_BA",
+                    "value": 1250.0,
+                    "total": {
+                        "desc": " Receivables Total Net ",
+                        "code": "",
+                        "transformed": "Receivables total net",
+                        "value": 339.9
+                    },
+                    "desc": " Cash Equivalents ",
+                    "transformed": "Cash equivalents",
+                    "total1": {
+                        "desc": " Inventories Total ",
+                        "code": "None",
+                        "transformed": "Inventories",
+                        "value": 673.8
+                    }
+                },
+                {
+                    "desc": " Prepaid Expenses ",
+                    "code": "AM_BS_OCA",
+                    "transformed": "Other current assets",
+                    "value": 82.6
+                },
+                {
+                    "total": {
+                        "desc": "Current Assets Total ",
+                        "code": "AM_BS_CA",
+                        "transformed": "Total current assets",
+                        "value": 2432.6
+                    },
+                    "desc": " Current Assets Other ",
+                    "code": "AM_BS_OCA",
+                    "transformed": "Other current assets",
+                    "value": 86.3
+                },
+                {
+                    "desc": " Plant Property Equip Gross ",
+                    "code": "",
+                    "transformed": "Plant property equip gross",
+                    "value": 1839.8
+                },
+                {
+                    "desc": " Accumulated Depreciation ",
+                    "code": "",
+                    "transformed": "Accumulated depreciation",
+                    "value": 954.4
+                },
+                {
+                    "desc": "Plant Property Equip Net ",
+                    "code": "",
+                    "transformed": "Plant property equip net",
+                    "value": 885.4
+                },
+                {
+                    "desc": " Investments at Equity ",
+                    "code": "",
+                    "transformed": "Investments at equity",
+                    "value": 0.0
+                },
+                {
+                    "desc": " Investments and Advances Other ",
+                    "code": "",
+                    "transformed": "Investments and advances other",
+                    "value": 0.0
+                },
+                {
+                    "desc": " Intangibles ",
+                    "code": "",
+                    "transformed": "Intangibles",
+                    "value": 3217.2
+                },
+                {
+                    "desc": " Deferred Charges ",
+                    "code": "",
+                    "transformed": "Deferred charges",
+                    "value": 0.0
+                },
+                {
+                    "total": {
+                        "desc": "TOTAL ASSETS ",
+                        "code": "",
+                        "transformed": "Total assets",
+                        "value": 6678.3
+                    },
+                    "desc": " Assets Other ",
+                    "code": "",
+                    "transformed": "Assets other",
+                    "value": 143.1
+                },
+                {
+                    "heading": "LIABILITIES ",
+                    "code": "",
+                    "transformed": "Liabilities",
+                    "items": []
+                },
+                {
+                    "desc": " Accounts Payable ",
+                    "code": "",
+                    "transformed": "Accounts payable",
+                    "value": 264.3
+                },
+                {
+                    "desc": " Notes Payable ",
+                    "code": "",
+                    "transformed": "Notes payable",
+                    "value": 0.0
+                },
+                {
+                    "desc": " Accrued Expenses ",
+                    "code": "",
+                    "transformed": "Accrued expenses",
+                    "value": 576.0
+                },
+                {
+                    "desc": " Taxes Payable ",
+                    "code": "",
+                    "transformed": "Taxes payable",
+                    "value": 0.0
+                },
+                {
+                    "desc": " Debt Long Term Due In One Year ",
+                    "code": "",
+                    "transformed": "Debt long term due in one year",
+                    "value": 700.0
+                },
+                {
+                    "total": {
+                        "desc": "Total Current Liabilities ",
+                        "code": "",
+                        "transformed": "Total current liabilities",
+                        "value": 938.2
+                    },
+                    "desc": " Other Current Liabilities ",
+                    "code": "",
+                    "transformed": "Other current liabilities",
+                    "value": 97.2
+                },
+                {
+                    "desc": " Long Term Debt ",
+                    "code": "",
+                    "transformed": "Long term debt",
+                    "value": 1599.9
+                },
+                {
+                    "desc": " Deferred Taxes Balance Sheet ",
+                    "code": "",
+                    "transformed": "Deferred taxes balance sheet",
+                    "value": 206.2
+                },
+                {
+                    "desc": " Investment Tax Credit ",
+                    "code": "",
+                    "transformed": "Investment tax credit",
+                    "value": 0.0
+                },
+                {
+                    "desc": " Liabilities Other ",
+                    "code": "",
+                    "transformed": "Liabilities other",
+                    "value": 689.4
+                },
+                {
+                    "total": {
+                        "desc": "TOTAL LIABILITIES ",
+                        "code": "",
+                        "transformed": "Total liabilities",
+                        "value": 3433.7
+                    },
+                    "desc": " Noncontrolling Interest Redeemable ",
+                    "code": "",
+                    "transformed": "Noncontrolling interest redeemable",
+                    "value": 0.0
+                },
+                {
+                    "heading": "SHAREHOLDERS EQUITY ",
+                    "code": "AM_BS_E",
+                    "transformed": "Shareholders equity",
+                    "items": []
+                },
+                {
+                    "desc": " Preferred Stock ",
+                    "code": "",
+                    "transformed": "Preferred stock",
+                    "value": 0.0
+                },
+                {
+                    "desc": " Common Stock ",
+                    "code": "",
+                    "transformed": "Common stock",
+                    "value": 2.9
+                },
+                {
+                    "desc": " Capital Surplus ",
+                    "code": "",
+                    "transformed": "Capital surplus",
+                    "value": 3205.5
+                },
+                {
+                    "desc": " Retained Earnings Net Other ",
+                    "code": "",
+                    "transformed": "Retained earnings net other",
+                    "value": 36.2
+                },
+                {
+                    "desc": " Less Treasury Stock ",
+                    "code": "",
+                    "transformed": "Less treasury stock",
+                    "value": 0.0
+                },
+                {
+                    "desc": "Shareholders Equity Parent ",
+                    "code": "",
+                    "transformed": "Shareholders equity parent",
+                    "value": 3244.6
+                },
+                {
+                    "code": "",
+                    "value": 0.0,
+                    "total": {
+                        "desc": "TOTAL SHAREHOLDERS EQUITY ",
+                        "code": "",
+                        "transformed": "Total shareholders equity",
+                        "value": 3244.6
+                    },
+                    "desc": "Noncontrolling Interest Nonredeemable ",
+                    "transformed": "Noncontrolling interest nonredeemable",
+                    "total1": {
+                        "desc": "TOTAL LIABILITIES AND EQUITY ",
+                        "code": "",
+                        "transformed": "Total liabilities and equity",
+                        "value": 6678.3
+                    }
+                }
+            ]
+        }
+    ]
+}

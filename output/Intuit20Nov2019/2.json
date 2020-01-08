@@ -1,0 +1,42 @@
+{
+    "currency": "USD",
+    "period": [
+        {
+            "asof": "july312018",
+            "statement": [
+                {
+                    "items": [],
+                    "code": "",
+                    "heading": "CONSOLIDATED STATEMENTS OF STOCKHOLDERS\u2019 EQUITY",
+                    "transformed": "Consolidated statements of stockholders equity"
+                }
+            ]
+        },
+        {
+            "asof": "july312017",
+            "statement": [
+                {
+                    "items": [],
+                    "code": "",
+                    "heading": "CONSOLIDATED STATEMENTS OF STOCKHOLDERS\u2019 EQUITY",
+                    "transformed": "Consolidated statements of stockholders equity"
+                }
+            ]
+        },
+        {
+            "asof": "july312016",
+            "statement": [
+                {
+                    "items": [],
+                    "code": "",
+                    "heading": "CONSOLIDATED STATEMENTS OF STOCKHOLDERS\u2019 EQUITY",
+                    "transformed": "Consolidated statements of stockholders equity"
+                }
+            ]
+        }
+    ],
+    "company": "intuit inc",
+    "type": "cash_flow_statement",
+    "title": "consolidated statements of cash flows",
+    "units": "millions"
+}

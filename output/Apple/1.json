@@ -1,0 +1,297 @@
+{
+    "units": "thousands",
+    "period": [
+        {
+            "statement": [
+                {
+                    "value": 59531.0,
+                    "desc": "Net income",
+                    "code": "AM_BS_NI",
+                    "transformed": "Net income/loss"
+                },
+                {
+                    "items": [],
+                    "code": "",
+                    "heading": "Other comprehensive income/-loss:",
+                    "transformed": "Other comprehensive income loss"
+                },
+                {
+                    "items": [
+                        {
+                            "value": -525.0,
+                            "desc": "and 8 respectively",
+                            "code": "",
+                            "transformed": "And respectively"
+                        }
+                    ],
+                    "code": "",
+                    "heading": "Change in foreign currency translation net of tax effects of -1 -77",
+                    "transformed": "Change in foreign currency translation net of tax effects of"
+                },
+                {
+                    "items": [],
+                    "code": "",
+                    "heading": "Change in unrealized gains/losses on derivative instruments:",
+                    "transformed": "Change in unrealized gains losses on derivative instruments"
+                },
+                {
+                    "items": [
+                        {
+                            "value": 523.0,
+                            "desc": "-149 -478 and -7 respectively",
+                            "code": "",
+                            "transformed": "And respectively"
+                        }
+                    ],
+                    "code": "",
+                    "heading": "Change in fair value of derivatives net of tax benefit/-expense of",
+                    "transformed": "Change in fair value of derivatives net of tax benefit expense of"
+                },
+                {
+                    "items": [],
+                    "code": "",
+                    "heading": "Adjustment for net -gains/losses realized and included in net",
+                    "transformed": "Adjustment for net gains losses realized and included in net"
+                },
+                {
+                    "items": [
+                        {
+                            "value": 382.0,
+                            "desc": "respectively",
+                            "code": "",
+                            "transformed": "Respectively"
+                        }
+                    ],
+                    "code": "",
+                    "heading": "income net of tax expense/-benefit of -104 475 and 131",
+                    "transformed": "Income net of tax expense benefit of and"
+                },
+                {
+                    "items": [
+                        {
+                            "value": 905.0,
+                            "desc": "instruments net of tax",
+                            "code": "",
+                            "transformed": "Instruments net of tax"
+                        }
+                    ],
+                    "code": "",
+                    "heading": "Total change in unrealized gains/losses on derivative",
+                    "transformed": "Total change in unrealized gains losses on derivative"
+                },
+                {
+                    "items": [],
+                    "code": "",
+                    "heading": "Change in unrealized gains/losses on marketable securities:",
+                    "transformed": "Change in unrealized gains losses on marketable securities"
+                },
+                {
+                    "items": [
+                        {
+                            "value": -3407.0,
+                            "desc": "benefit/-expense of 1156 425 and -863 respectively",
+                            "code": "",
+                            "transformed": "Benefit expense of and respectively"
+                        }
+                    ],
+                    "code": "",
+                    "heading": "Change in fair value of marketable securities net of tax",
+                    "transformed": "Change in fair value of marketable securities net of tax"
+                },
+                {
+                    "items": [],
+                    "code": "",
+                    "heading": "Adjustment for net -gains/losses realized and included in net",
+                    "transformed": "Adjustment for net gains losses realized and included in net"
+                },
+                {
+                    "items": [
+                        {
+                            "value": 1.0,
+                            "desc": "respectively",
+                            "code": "",
+                            "transformed": "Respectively"
+                        }
+                    ],
+                    "code": "",
+                    "heading": "income net of tax expense/-benefit of 21 35 and -31",
+                    "transformed": "Income net of tax expense benefit of and"
+                },
+                {
+                    "code": "",
+                    "items": [
+                        {
+                            "value": -3406.0,
+                            "desc": "securities net of tax",
+                            "code": "",
+                            "transformed": "Securities net of tax"
+                        }
+                    ],
+                    "total1": {
+                        "value": 56505.0,
+                        "desc": "Total comprehensive income",
+                        "code": "",
+                        "transformed": "Total comprehensive income"
+                    },
+                    "total": {
+                        "value": -3026.0,
+                        "desc": "Total other comprehensive income/-loss",
+                        "code": "",
+                        "transformed": "Total other comprehensive income loss"
+                    },
+                    "heading": "Total change in unrealized gains/losses on marketable",
+                    "transformed": "Total change in unrealized gains losses on marketable"
+                }
+            ],
+            "asof": "september292018"
+        },
+        {
+            "statement": [
+                {
+                    "value": 48351.0,
+                    "desc": "Net income",
+                    "code": "AM_BS_NI",
+                    "transformed": "Net income/loss"
+                },
+                {
+                    "items": [],
+                    "code": "",
+                    "heading": "Other comprehensive income/-loss:",
+                    "transformed": "Other comprehensive income loss"
+                },
+                {
+                    "items": [
+                        {
+                            "value": 224.0,
+                            "desc": "and 8 respectively",
+                            "code": "",
+                            "transformed": "And respectively"
+                        }
+                    ],
+                    "code": "",
+                    "heading": "Change in foreign currency translation net of tax effects of -1 -77",
+                    "transformed": "Change in foreign currency translation net of tax effects of"
+                },
+                {
+                    "items": [],
+                    "code": "",
+                    "heading": "Change in unrealized gains/losses on derivative instruments:",
+                    "transformed": "Change in unrealized gains losses on derivative instruments"
+                },
+                {
+                    "items": [
+                        {
+                            "value": 1315.0,
+                            "desc": "-149 -478 and -7 respectively",
+                            "code": "",
+                            "transformed": "And respectively"
+                        }
+                    ],
+                    "code": "",
+                    "heading": "Change in fair value of derivatives net of tax benefit/-expense of",
+                    "transformed": "Change in fair value of derivatives net of tax benefit expense of"
+                },
+                {
+                    "items": [],
+                    "code": "",
+                    "heading": "Adjustment for net -gains/losses realized and included in net",
+                    "transformed": "Adjustment for net gains losses realized and included in net"
+                },
+                {
+                    "items": [
+                        {
+                            "value": -1477.0,
+                            "desc": "respectively",
+                            "code": "",
+                            "transformed": "Respectively"
+                        }
+                    ],
+                    "code": "",
+                    "heading": "income net of tax expense/-benefit of -104 475 and 131",
+                    "transformed": "Income net of tax expense benefit of and"
+                },
+                {
+                    "items": [
+                        {
+                            "value": -162.0,
+                            "desc": "instruments net of tax",
+                            "code": "",
+                            "transformed": "Instruments net of tax"
+                        }
+                    ],
+                    "code": "",
+                    "heading": "Total change in unrealized gains/losses on derivative",
+                    "transformed": "Total change in unrealized gains losses on derivative"
+                },
+                {
+                    "items": [],
+                    "code": "",
+                    "heading": "Change in unrealized gains/losses on marketable securities:",
+                    "transformed": "Change in unrealized gains losses on marketable securities"
+                },
+                {
+                    "items": [
+                        {
+                            "value": -782.0,
+                            "desc": "benefit/-expense of 1156 425 and -863 respectively",
+                            "code": "",
+                            "transformed": "Benefit expense of and respectively"
+                        }
+                    ],
+                    "code": "",
+                    "heading": "Change in fair value of marketable securities net of tax",
+                    "transformed": "Change in fair value of marketable securities net of tax"
+                },
+                {
+                    "items": [],
+                    "code": "",
+                    "heading": "Adjustment for net -gains/losses realized and included in net",
+                    "transformed": "Adjustment for net gains losses realized and included in net"
+                },
+                {
+                    "items": [
+                        {
+                            "value": -64.0,
+                            "desc": "respectively",
+                            "code": "",
+                            "transformed": "Respectively"
+                        }
+                    ],
+                    "code": "",
+                    "heading": "income net of tax expense/-benefit of 21 35 and -31",
+                    "transformed": "Income net of tax expense benefit of and"
+                },
+                {
+                    "code": "",
+                    "items": [
+                        {
+                            "value": -846.0,
+                            "desc": "securities net of tax",
+                            "code": "",
+                            "transformed": "Securities net of tax"
+                        }
+                    ],
+                    "total1": {
+                        "value": 47567.0,
+                        "desc": "Total comprehensive income",
+                        "code": "",
+                        "transformed": "Total comprehensive income"
+                    },
+                    "total": {
+                        "value": -784.0,
+                        "desc": "Total other comprehensive income/-loss",
+                        "code": "",
+                        "transformed": "Total other comprehensive income loss"
+                    },
+                    "heading": "Total change in unrealized gains/losses on marketable",
+                    "transformed": "Total change in unrealized gains losses on marketable"
+                }
+            ],
+            "asof": "september302017"
+        }
+    ],
+    "type": "Balance_sheet",
+    "title": "consolidated balance sheets",
+    "currency": "USD",
+    "company": "apple inc"
+}

@@ -1,0 +1,496 @@
+{
+    "units": "thousands",
+    "type": "cash_flow_statement",
+    "company": "apple inc",
+    "currency": "USD",
+    "period": [
+        {
+            "statement": [
+                {
+                    "total": {
+                        "desc": "Total current assets",
+                        "code": "AM_BS_CA",
+                        "value": 131339.0,
+                        "transformed": "Total current assets"
+                    },
+                    "code": "",
+                    "items": [
+                        {
+                            "desc": "Cash and cash equivalents",
+                            "code": "AM_BS_BA",
+                            "value": 25913.0,
+                            "transformed": "Cash equivalents"
+                        },
+                        {
+                            "desc": "Marketable securities",
+                            "code": "AM_BS_BA",
+                            "value": 40388.0,
+                            "transformed": "Cash equivalents"
+                        },
+                        {
+                            "desc": "Accounts receivable net",
+                            "code": "AM_BS_AR",
+                            "value": 23186.0,
+                            "transformed": "Accounts receivable"
+                        },
+                        {
+                            "desc": "Inventories",
+                            "code": "",
+                            "value": 3956.0,
+                            "transformed": "Inventories"
+                        },
+                        {
+                            "desc": "Vendor non-trade receivables",
+                            "code": "",
+                            "value": 25809.0,
+                            "transformed": "Vendor non trade receivables"
+                        },
+                        {
+                            "desc": "Other current assets",
+                            "code": "AM_BS_OCA",
+                            "value": 12087.0,
+                            "transformed": "Other current assets"
+                        }
+                    ],
+                    "transformed": "Current assets",
+                    "heading": "Current assets:"
+                },
+                {
+                    "total": {
+                        "desc": "Total non-current assets",
+                        "code": "",
+                        "value": 234386.0,
+                        "transformed": "Total non current assets"
+                    },
+                    "code": "",
+                    "items": [
+                        {
+                            "desc": "Marketable securities",
+                            "code": "AM_BS_BA",
+                            "value": 170799.0,
+                            "transformed": "Cash equivalents"
+                        },
+                        {
+                            "desc": "Property plant and equipment net",
+                            "code": "",
+                            "value": 41304.0,
+                            "transformed": "Ppe(net)"
+                        },
+                        {
+                            "desc": "Other non-current assets",
+                            "code": "",
+                            "value": 22283.0,
+                            "transformed": "Other non current assets"
+                        }
+                    ],
+                    "transformed": "Non current assets",
+                    "heading": "Non-current assets:",
+                    "total1": {
+                        "desc": "Total assets",
+                        "code": "",
+                        "value": 365725.0,
+                        "transformed": "Total assets"
+                    }
+                },
+                {
+                    "total": {
+                        "desc": "Total current liabilities",
+                        "code": "",
+                        "value": 116866.0,
+                        "transformed": "Total current liabilities"
+                    },
+                    "code": "",
+                    "items": [
+                        {
+                            "desc": "Accounts payable",
+                            "code": "",
+                            "value": 55888.0,
+                            "transformed": "Accounts payable"
+                        },
+                        {
+                            "desc": "Other current liabilities",
+                            "code": "",
+                            "value": 32687.0,
+                            "transformed": "Other current liabilities"
+                        },
+                        {
+                            "desc": "Deferred revenue",
+                            "code": "",
+                            "value": 7543.0,
+                            "transformed": "Deferred revenue"
+                        },
+                        {
+                            "desc": "Commercial paper",
+                            "code": "",
+                            "value": 11964.0,
+                            "transformed": "Commercial paper"
+                        },
+                        {
+                            "desc": "Term debt",
+                            "code": "",
+                            "value": 8784.0,
+                            "transformed": "Term debt"
+                        }
+                    ],
+                    "transformed": "Current liabilities",
+                    "heading": "Current liabilities:"
+                },
+                {
+                    "total": {
+                        "desc": "Total non-current liabilities",
+                        "code": "",
+                        "value": 141712.0,
+                        "transformed": "Total non current liabilities"
+                    },
+                    "code": "",
+                    "items": [
+                        {
+                            "desc": "Deferred revenue",
+                            "code": "",
+                            "value": 2797.0,
+                            "transformed": "Deferred revenue"
+                        },
+                        {
+                            "desc": "Term debt",
+                            "code": "",
+                            "value": 93735.0,
+                            "transformed": "Term debt"
+                        },
+                        {
+                            "desc": "Other non-current liabilities",
+                            "code": "",
+                            "value": 45180.0,
+                            "transformed": "Other non current liabilities"
+                        }
+                    ],
+                    "transformed": "Non current liabilities",
+                    "heading": "Non-current liabilities:",
+                    "total1": {
+                        "desc": "Total liabilities",
+                        "code": "",
+                        "value": 258578.0,
+                        "transformed": "Total liabilities"
+                    }
+                },
+                {
+                    "code": "",
+                    "items": [],
+                    "transformed": "Commitments and contingencies",
+                    "heading": "Commitments and contingencies"
+                },
+                {
+                    "code": "AM_BS_E",
+                    "items": [],
+                    "transformed": "Shareholders equity",
+                    "heading": "Shareholders\u2019 equity:"
+                },
+                {
+                    "total": {
+                        "desc": "Total shareholders\u2019 equity",
+                        "code": "",
+                        "value": 107147.0,
+                        "transformed": "Total shareholders equity"
+                    },
+                    "code": "",
+                    "items": [
+                        {
+                            "desc": "authorized; 4754986 and 5126201 shares issued and outstanding respectively",
+                            "code": "",
+                            "value": 40201.0,
+                            "transformed": "Authorized and shares issued and outstanding respectively"
+                        },
+                        {
+                            "desc": "Retained earnings",
+                            "code": "",
+                            "value": 70400.0,
+                            "transformed": "Retained earnings"
+                        },
+                        {
+                            "desc": "Accumulated other comprehensive income/-loss",
+                            "code": "",
+                            "value": -3454.0,
+                            "transformed": "Accumulated other comprehensive income loss"
+                        }
+                    ],
+                    "transformed": "Common stock and additional paid in capital par value shares",
+                    "heading": "Common stock and additional paid-in capital 0.00001 par value: 12600000 shares",
+                    "total1": {
+                        "desc": "Total liabilities and shareholders\u2019 equity",
+                        "code": "",
+                        "value": 365725.0,
+                        "transformed": "Total liabilities and shareholders equity"
+                    }
+                }
+            ],
+            "asof": "september292018"
+        },
+        {
+            "statement": [
+                {
+                    "total": {
+                        "desc": "Total current assets",
+                        "code": "AM_BS_CA",
+                        "value": 128645.0,
+                        "transformed": "Total current assets"
+                    },
+                    "code": "",
+                    "items": [
+                        {
+                            "desc": "Cash and cash equivalents",
+                            "code": "AM_BS_BA",
+                            "value": 20289.0,
+                            "transformed": "Cash equivalents"
+                        },
+                        {
+                            "desc": "Marketable securities",
+                            "code": "AM_BS_BA",
+                            "value": 53892.0,
+                            "transformed": "Cash equivalents"
+                        },
+                        {
+                            "desc": "Accounts receivable net",
+                            "code": "AM_BS_AR",
+                            "value": 17874.0,
+                            "transformed": "Accounts receivable"
+                        },
+                        {
+                            "desc": "Inventories",
+                            "code": "",
+                            "value": 4855.0,
+                            "transformed": "Inventories"
+                        },
+                        {
+                            "desc": "Vendor non-trade receivables",
+                            "code": "",
+                            "value": 17799.0,
+                            "transformed": "Vendor non trade receivables"
+                        },
+                        {
+                            "desc": "Other current assets",
+                            "code": "AM_BS_OCA",
+                            "value": 13936.0,
+                            "transformed": "Other current assets"
+                        }
+                    ],
+                    "transformed": "Current assets",
+                    "heading": "Current assets:"
+                },
+                {
+                    "total": {
+                        "desc": "Total non-current assets",
+                        "code": "",
+                        "value": 246674.0,
+                        "transformed": "Total non current assets"
+                    },
+                    "code": "",
+                    "items": [
+                        {
+                            "desc": "Marketable securities",
+                            "code": "AM_BS_BA",
+                            "value": 194714.0,
+                            "transformed": "Cash equivalents"
+                        },
+                        {
+                            "desc": "Property plant and equipment net",
+                            "code": "",
+                            "value": 33783.0,
+                            "transformed": "Ppe(net)"
+                        },
+                        {
+                            "desc": "Other non-current assets",
+                            "code": "",
+                            "value": 18177.0,
+                            "transformed": "Other non current assets"
+                        }
+                    ],
+                    "transformed": "Non current assets",
+                    "heading": "Non-current assets:",
+                    "total1": {
+                        "desc": "Total assets",
+                        "code": "",
+                        "value": 375319.0,
+                        "transformed": "Total assets"
+                    }
+                },
+                {
+                    "total": {
+                        "desc": "Total current liabilities",
+                        "code": "",
+                        "value": 100814.0,
+                        "transformed": "Total current liabilities"
+                    },
+                    "code": "",
+                    "items": [
+                        {
+                            "desc": "Accounts payable",
+                            "code": "",
+                            "value": 44242.0,
+                            "transformed": "Accounts payable"
+                        },
+                        {
+                            "desc": "Other current liabilities",
+                            "code": "",
+                            "value": 30551.0,
+                            "transformed": "Other current liabilities"
+                        },
+                        {
+                            "desc": "Deferred revenue",
+                            "code": "",
+                            "value": 7548.0,
+                            "transformed": "Deferred revenue"
+                        },
+                        {
+                            "desc": "Commercial paper",
+                            "code": "",
+                            "value": 11977.0,
+                            "transformed": "Commercial paper"
+                        },
+                        {
+                            "desc": "Term debt",
+                            "code": "",
+                            "value": 6496.0,
+                            "transformed": "Term debt"
+                        }
+                    ],
+                    "transformed": "Current liabilities",
+                    "heading": "Current liabilities:"
+                },
+                {
+                    "total": {
+                        "desc": "Total non-current liabilities",
+                        "code": "",
+                        "value": 140458.0,
+                        "transformed": "Total non current liabilities"
+                    },
+                    "code": "",
+                    "items": [
+                        {
+                            "desc": "Deferred revenue",
+                            "code": "",
+                            "value": 2836.0,
+                            "transformed": "Deferred revenue"
+                        },
+                        {
+                            "desc": "Term debt",
+                            "code": "",
+                            "value": 97207.0,
+                            "transformed": "Term debt"
+                        },
+                        {
+                            "desc": "Other non-current liabilities",
+                            "code": "",
+                            "value": 40415.0,
+                            "transformed": "Other non current liabilities"
+                        }
+                    ],
+                    "transformed": "Non current liabilities",
+                    "heading": "Non-current liabilities:",
+                    "total1": {
+                        "desc": "Total liabilities",
+                        "code": "",
+                        "value": 241272.0,
+                        "transformed": "Total liabilities"
+                    }
+                },
+                {
+                    "code": "",
+                    "items": [],
+                    "transformed": "Commitments and contingencies",
+                    "heading": "Commitments and contingencies"
+                },
+                {
+                    "code": "AM_BS_E",
+                    "items": [],
+                    "transformed": "Shareholders equity",
+                    "heading": "Shareholders\u2019 equity:"
+                },
+                {
+                    "total": {
+                        "desc": "Total shareholders\u2019 equity",
+                        "code": "",
+                        "value": 134047.0,
+                        "transformed": "Total shareholders equity"
+                    },
+                    "code": "",
+                    "items": [
+                        {
+                            "desc": "authorized; 4754986 and 5126201 shares issued and outstanding respectively",
+                            "code": "",
+                            "value": 35867.0,
+                            "transformed": "Authorized and shares issued and outstanding respectively"
+                        },
+                        {
+                            "desc": "Retained earnings",
+                            "code": "",
+                            "value": 98330.0,
+                            "transformed": "Retained earnings"
+                        },
+                        {
+                            "desc": "Accumulated other comprehensive income/-loss",
+                            "code": "",
+                            "value": -150.0,
+                            "transformed": "Accumulated other comprehensive income loss"
+                        }
+                    ],
+                    "transformed": "Common stock and additional paid in capital par value shares",
+                    "heading": "Common stock and additional paid-in capital 0.00001 par value: 12600000 shares",
+                    "total1": {
+                        "desc": "Total liabilities and shareholders\u2019 equity",
+                        "code": "",
+                        "value": 375319.0,
+                        "transformed": "Total liabilities and shareholders equity"
+                    }
+                }
+            ],
+            "asof": "september302017"
+        },
+        {
+            "statement": [
+                {
+                    "code": "",
+                    "items": [],
+                    "transformed": "Current assets",
+                    "heading": "Current assets:"
+                },
+                {
+                    "code": "",
+                    "items": [],
+                    "transformed": "Non current assets",
+                    "heading": "Non-current assets:"
+                },
+                {
+                    "code": "",
+                    "items": [],
+                    "transformed": "Current liabilities",
+                    "heading": "Current liabilities:"
+                },
+                {
+                    "code": "",
+                    "items": [],
+                    "transformed": "Non current liabilities",
+                    "heading": "Non-current liabilities:"
+                },
+                {
+                    "code": "",
+                    "items": [],
+                    "transformed": "Commitments and contingencies",
+                    "heading": "Commitments and contingencies"
+                },
+                {
+                    "code": "AM_BS_E",
+                    "items": [],
+                    "transformed": "Shareholders equity",
+                    "heading": "Shareholders\u2019 equity:"
+                },
+                {
+                    "code": "",
+                    "items": [],
+                    "transformed": "Common stock and additional paid in capital par value shares",
+                    "heading": "Common stock and additional paid-in capital 0.00001 par value: 12600000 shares"
+                }
+            ],
+            "asof": "september242016"
+        }
+    ],
+    "title": "consolidated statements of cash flows"
+}

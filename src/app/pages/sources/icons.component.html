@@ -1,0 +1,156 @@
+<style>
+select,option{
+  color:black;
+}
+  .alert{
+	        display: none;
+			  }
+    .myAlert-top{
+
+	      top: 2px;
+
+		        width: 100%;
+    }
+    .myAlert-tops{
+
+	    top: 2px;
+
+		    width: 100%;
+    }
+
+
+    .cover-spin {
+	        position:fixed;
+			    width:100%;
+				        left:0;right:0;top:0;bottom:0;
+						    background-color: rgba(255,255,255,0.7);
+							        z-index:9999;
+									    display:none;
+    }
+
+    @-webkit-keyframes spin {
+	    	from {-webkit-transform:rotate(0deg);}
+			to {-webkit-transform:rotate(360deg);}
+    }
+
+    @keyframes spin {
+	    	from {transform:rotate(0deg);}
+			to {transform:rotate(360deg);}
+    }
+
+    .cover-spin::after {
+	        content:'';
+			    display:block;
+				        position:absolute;
+						    left:48%;top:40%;
+							        width:40px;height:40px;
+									    border-style:solid;
+										        border-color:black;
+												    border-top-color:transparent;
+													        border-width: 4px;
+															    border-radius:50%;
+																        -webkit-animation: spin .8s linear infinite;
+																		    animation: spin .8s linear infinite;
+    }
+
+</style>
+
+
+
+<div class=" content">
+
+        <div id="errorDiv"class="myAlert-top alert alert-warning">
+            <span id="errorText"></span>
+        </div>
+        <div id="successDiv"class="myAlert-top alert alert-success">
+            <span id="successText"></span>
+        </div>
+
+
+    <div class=" row">
+                  <div class=" col-md-12">
+        <div class=" btn-group btn-group-toggle float-right">
+ <div class="container">
+  <!-- Button to Open the Modal -->
+
+  <button type="button" class="btn btn-sm btn-primary float-right rmiBtn" style="width: 204px !important;" data-toggle="modal" data-target="#myModal" id="modalPopUpId">
+	 <i class="fas fa-file-upload"></i>   Import New Statement
+  </button>
+
+  <!-- The Modal -->
+  <div class="modal mt-5" id="myModal">
+    <div class="modal-dialog">
+      <div class="modal-content">
+
+        <!-- Modal Header -->
+        <div class="modal-header" style="background-color: #164A5B; padding:15px 15px 0 150px;">
+		<h4 class="modal-title pb-3 pt-0" style="color:white;"><i class="fas fa-file-upload"></i>Import New Statement</h4>
+	  
+          <button type="button" style="padding-top:5px" class="close" data-dismiss="modal">&times;</button>
+        </div>
+
+        <!-- Modal body -->
+        <div class="modal-body">
+         <div class="form-group" >
+
+           
+             <input _ngcontent-xip-c7="" class="form-control  mb-2" id="company" onblur="validate()" onfocus="if (this.value == ' Enter Company Name' ) {this.value = '';}" onkeypress="allowAlphaNumeric(event)" style="color:black;" type="text" placeholder=" Enter Company Name">             
+
+
+          <select class="form-control  mb-2" id="period" style="color:black;" onchange="validate()">
+          <option selected disabled value="" style="font-style: italic;">Select Financial Statement Duration</option>
+         <option value="M">Monthly </option>
+        <option value="Q">Quarterly</option>
+        <option value="Y">Yearly</option>
+        </select>
+         <select class="form-control mb-2" id="statementtype" style="color:black;" onchange="validate()" >
+          <option selected disabled value="" style="font-style: italic;">Select Statement Type</option>
+          <option>Income Statement</option>
+        <option>Balance Sheet</option>
+        <option>Cash Flow Statement</option>
+          <option>All Statements</option>
+
+
+        </select>
+        <select class="form-control" id="industry" style="color:black;" onchange="validate()">
+          <option selected disabled value="" style="font-style: italic;">Select Industry</option>
+        <option>Communications</option>
+        <option>Consumer & Retail</option>
+        <option>Distribution & Logistics</option>
+        <option>Energy & Natural Resources</option>
+        <option>Entertainment & Media</option>
+        <option>Financial Institutions & Sponsors</option>
+        <option>Food & Beverage</option>
+        <option>General Services</option>
+        <option>Healthcare</option>
+        <option>Hospitality</option>
+        <option>Industrials</option>
+        <option>Power, Infrastructure & Utilities</option>
+        <option>Real Estate</option>
+        <option>Technology</option>
+        <option>Telecommunications</option>
+        <option>Transportation</option>
+        </select>
+
+        </div>
+        </div>
+        <div class="file-upload-wrapper"  style="width: 500px;padding-left: 160px;font-style: italic;">
+          <input type="file" class="btn btn-success" value="Drag and drop files here" id="inputfilenow" onchange="validate()" class="file-upload" />
+        </div>
+        <!-- Modal footer -->
+        <div class="modal-footer"  style="text-align:-webkit-center;padding-left:160px" >
+                 <!--<button type="button" class="btn btn-success" data-dismiss="modal" style="text-align:center;">Start Import</button>-->
+          <button  class="btn btn-success"  onclick="importupload(event)" id="startImportBtn" style=" width: 170px;text-align: center;" >Start Import</button>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+ </div>
+</div>
+
+
+        </div>
+	   <div class="cover-spin"></div>
+  </div>

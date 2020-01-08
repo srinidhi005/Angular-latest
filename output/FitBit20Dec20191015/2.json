@@ -1,0 +1,864 @@
+{
+    "period": [
+        {
+            "statement": [
+                {
+                    "code": "",
+                    "heading": "Cash Flows from Operating Activities",
+                    "transformed": "Cash flows from operating activities",
+                    "items": []
+                },
+                {
+                    "value": -277192.0,
+                    "code": "AM_BS_NI",
+                    "transformed": "Net income/loss",
+                    "desc": "Net income -loss"
+                },
+                {
+                    "code": "",
+                    "heading": "Adjustments to reconcile net income -loss to net cash provided by operating activities:",
+                    "transformed": "Adjustments to reconcile net income loss to net cash provided by operating activities",
+                    "items": [
+                        {
+                            "value": 7893.0,
+                            "code": "",
+                            "transformed": "Provision for doubtful accounts",
+                            "desc": "Provision for doubtful accounts"
+                        },
+                        {
+                            "value": 14833.0,
+                            "code": "",
+                            "transformed": "Provision for excess and obsolete inventory",
+                            "desc": "Provision for excess and obsolete inventory"
+                        },
+                        {
+                            "value": 39971.0,
+                            "code": "",
+                            "transformed": "Depreciation",
+                            "desc": "Depreciation"
+                        },
+                        {
+                            "value": 5722.0,
+                            "code": "",
+                            "transformed": "Amortization of intangible assets",
+                            "desc": "Amortization of intangible assets"
+                        },
+                        {
+                            "value": 5250.0,
+                            "code": "",
+                            "transformed": "Accelerated depreciation of property and equipment",
+                            "desc": "Accelerated depreciation of property and equipment"
+                        },
+                        {
+                            "value": 951.0,
+                            "code": "",
+                            "transformed": "Amortization of issuance costs and discount on debt",
+                            "desc": "Amortization of issuance costs and discount on debt"
+                        },
+                        {
+                            "value": 91581.0,
+                            "code": "",
+                            "transformed": "Stock based compensation",
+                            "desc": "Stock-based compensation"
+                        },
+                        {
+                            "value": 173906.0,
+                            "code": "",
+                            "transformed": "Deferred income taxes",
+                            "desc": "Deferred income taxes"
+                        },
+                        {
+                            "value": "",
+                            "code": "",
+                            "transformed": "Revaluation of redeemable convertible preferred stock warrant liability",
+                            "desc": "Revaluation of redeemable convertible preferred stock warrant liability"
+                        },
+                        {
+                            "value": "",
+                            "code": "",
+                            "transformed": "Change in contingent consideration",
+                            "desc": "Change in contingent consideration"
+                        },
+                        {
+                            "value": 216.0,
+                            "code": "",
+                            "transformed": "Other",
+                            "desc": "Other"
+                        }
+                    ]
+                },
+                {
+                    "code": "",
+                    "heading": "Changes in operating assets and liabilities net of acquisitions:",
+                    "transformed": "Changes in operating assets and liabilities net of acquisitions",
+                    "items": [
+                        {
+                            "value": 63784.0,
+                            "code": "AM_BS_AR",
+                            "transformed": "Accounts receivable",
+                            "desc": "Accounts receivable"
+                        },
+                        {
+                            "value": 92129.0,
+                            "code": "",
+                            "transformed": "Inventories",
+                            "desc": "Inventories"
+                        },
+                        {
+                            "value": -113111.0,
+                            "code": "",
+                            "transformed": "Prepaid expenses and other assets",
+                            "desc": "Prepaid expenses and other assets"
+                        },
+                        {
+                            "value": -789.0,
+                            "code": "",
+                            "transformed": "Fitbit force recall reserve",
+                            "desc": "Fitbit Force recall reserve"
+                        },
+                        {
+                            "value": -86115.0,
+                            "code": "",
+                            "transformed": "Accounts payable",
+                            "desc": "Accounts payable"
+                        },
+                        {
+                            "value": 56172.0,
+                            "code": "",
+                            "transformed": "Accrued liabilities and other liabilities",
+                            "desc": "Accrued liabilities and other liabilities"
+                        },
+                        {
+                            "value": -7472.0,
+                            "code": "",
+                            "transformed": "Deferred revenue",
+                            "desc": "Deferred revenue"
+                        },
+                        {
+                            "value": -3488.0,
+                            "code": "",
+                            "transformed": "Income taxes payable",
+                            "desc": "Income taxes payable"
+                        },
+                        {
+                            "value": 64241.0,
+                            "code": "",
+                            "transformed": "Net cash provided by operating activities",
+                            "desc": "Net cash provided by operating activities"
+                        }
+                    ]
+                },
+                {
+                    "code": "",
+                    "heading": "Cash Flows from Investing Activities",
+                    "transformed": "Cash flows from investing activities",
+                    "items": [
+                        {
+                            "value": -89160.0,
+                            "code": "",
+                            "transformed": "Purchase of property and equipment",
+                            "desc": "Purchase of property and equipment"
+                        },
+                        {
+                            "value": -597933.0,
+                            "code": "",
+                            "transformed": "Purchase of marketable securities",
+                            "desc": "Purchase of marketable securities"
+                        },
+                        {
+                            "value": 42406.0,
+                            "code": "",
+                            "transformed": "Sales of marketable securities",
+                            "desc": "Sales of marketable securities"
+                        },
+                        {
+                            "value": 622525.0,
+                            "code": "",
+                            "transformed": "Maturities of marketable securities",
+                            "desc": "Maturities of marketable securities"
+                        },
+                        {
+                            "value": -556.0,
+                            "code": "",
+                            "transformed": "Acquisitions net of cash acquired",
+                            "desc": "Acquisitions net of cash acquired"
+                        },
+                        {
+                            "value": -6000.0,
+                            "code": "",
+                            "transformed": "Equity investment",
+                            "desc": "Equity investment"
+                        },
+                        {
+                            "value": -28718.0,
+                            "code": "",
+                            "transformed": "Net cash used in investing activities",
+                            "desc": "Net cash used in investing activities"
+                        }
+                    ]
+                },
+                {
+                    "code": "",
+                    "heading": "Cash Flows from Financing Activities",
+                    "transformed": "Cash flows from financing activities",
+                    "items": [
+                        {
+                            "value": "",
+                            "code": "",
+                            "transformed": "Payment of offering costs",
+                            "desc": "Payment of offering costs"
+                        },
+                        {
+                            "value": 19011.0,
+                            "code": "",
+                            "transformed": "Proceeds from issuance of common stock",
+                            "desc": "Proceeds from issuance of common stock"
+                        },
+                        {
+                            "value": -14376.0,
+                            "code": "",
+                            "transformed": "Taxes paid related to net share settlement of restricted stock units",
+                            "desc": "Taxes paid related to net share settlement of restricted stock units"
+                        },
+                        {
+                            "value": "",
+                            "code": "",
+                            "transformed": "Proceeds from public offerings net of underwriting discounts and commissions",
+                            "desc": "Proceeds from public offerings net of underwriting discounts and commissions"
+                        },
+                        {
+                            "value": "",
+                            "code": "",
+                            "transformed": "Proceeds from issuance of debt and revolving credit facility",
+                            "desc": "Proceeds from issuance of debt and revolving credit facility"
+                        },
+                        {
+                            "value": "",
+                            "code": "",
+                            "transformed": "Repayment of debt",
+                            "desc": "Repayment of debt"
+                        },
+                        {
+                            "value": "",
+                            "code": "",
+                            "transformed": "Payment of issuance costs",
+                            "desc": "Payment of issuance costs"
+                        },
+                        {
+                            "value": 4635.0,
+                            "code": "",
+                            "transformed": "Net cash provided by financing activities",
+                            "desc": "Net cash provided by financing activities"
+                        }
+                    ]
+                },
+                {
+                    "value": 40158.0,
+                    "code": "AM_CF_CI",
+                    "transformed": "Net change in cash",
+                    "desc": "Net increase -decrease in cash and cash equivalents"
+                },
+                {
+                    "value": 488.0,
+                    "code": "",
+                    "transformed": "Effect of exchange rates on cash and cash equivalents",
+                    "desc": "Effect of exchange rates on cash and cash equivalents"
+                },
+                {
+                    "value": 301320.0,
+                    "code": "AM_CF_BC",
+                    "transformed": "Cash beginning",
+                    "desc": "Cash and cash equivalents at beginning of period"
+                },
+                {
+                    "value": 341966.0,
+                    "code": "AM_CF_EC",
+                    "transformed": "Cash ending",
+                    "desc": "Cash and cash equivalents at end of period"
+                },
+                {
+                    "code": "",
+                    "heading": "Supplemental Disclosure",
+                    "transformed": "Supplemental disclosure",
+                    "items": []
+                }
+            ],
+            "asof": "december312017"
+        },
+        {
+            "statement": [
+                {
+                    "code": "",
+                    "heading": "Cash Flows from Operating Activities",
+                    "transformed": "Cash flows from operating activities",
+                    "items": []
+                },
+                {
+                    "value": -102777.0,
+                    "code": "AM_BS_NI",
+                    "transformed": "Net income/loss",
+                    "desc": "Net income -loss"
+                },
+                {
+                    "code": "",
+                    "heading": "Adjustments to reconcile net income -loss to net cash provided by operating activities:",
+                    "transformed": "Adjustments to reconcile net income loss to net cash provided by operating activities",
+                    "items": [
+                        {
+                            "value": 339.0,
+                            "code": "",
+                            "transformed": "Provision for doubtful accounts",
+                            "desc": "Provision for doubtful accounts"
+                        },
+                        {
+                            "value": 4993.0,
+                            "code": "",
+                            "transformed": "Provision for excess and obsolete inventory",
+                            "desc": "Provision for excess and obsolete inventory"
+                        },
+                        {
+                            "value": 36046.0,
+                            "code": "",
+                            "transformed": "Depreciation",
+                            "desc": "Depreciation"
+                        },
+                        {
+                            "value": 2087.0,
+                            "code": "",
+                            "transformed": "Amortization of intangible assets",
+                            "desc": "Amortization of intangible assets"
+                        },
+                        {
+                            "value": 19805.0,
+                            "code": "",
+                            "transformed": "Accelerated depreciation of property and equipment",
+                            "desc": "Accelerated depreciation of property and equipment"
+                        },
+                        {
+                            "value": 466.0,
+                            "code": "",
+                            "transformed": "Amortization of issuance costs and discount on debt",
+                            "desc": "Amortization of issuance costs and discount on debt"
+                        },
+                        {
+                            "value": 79432.0,
+                            "code": "",
+                            "transformed": "Stock based compensation",
+                            "desc": "Stock-based compensation"
+                        },
+                        {
+                            "value": -100434.0,
+                            "code": "",
+                            "transformed": "Deferred income taxes",
+                            "desc": "Deferred income taxes"
+                        },
+                        {
+                            "value": "",
+                            "code": "",
+                            "transformed": "Revaluation of redeemable convertible preferred stock warrant liability",
+                            "desc": "Revaluation of redeemable convertible preferred stock warrant liability"
+                        },
+                        {
+                            "value": "",
+                            "code": "",
+                            "transformed": "Change in contingent consideration",
+                            "desc": "Change in contingent consideration"
+                        },
+                        {
+                            "value": -423.0,
+                            "code": "",
+                            "transformed": "Other",
+                            "desc": "Other"
+                        }
+                    ]
+                },
+                {
+                    "code": "",
+                    "heading": "Changes in operating assets and liabilities net of acquisitions:",
+                    "transformed": "Changes in operating assets and liabilities net of acquisitions",
+                    "items": [
+                        {
+                            "value": -8701.0,
+                            "code": "AM_BS_AR",
+                            "transformed": "Accounts receivable",
+                            "desc": "Accounts receivable"
+                        },
+                        {
+                            "value": -61975.0,
+                            "code": "",
+                            "transformed": "Inventories",
+                            "desc": "Inventories"
+                        },
+                        {
+                            "value": -37876.0,
+                            "code": "",
+                            "transformed": "Prepaid expenses and other assets",
+                            "desc": "Prepaid expenses and other assets"
+                        },
+                        {
+                            "value": -3869.0,
+                            "code": "",
+                            "transformed": "Fitbit force recall reserve",
+                            "desc": "Fitbit Force recall reserve"
+                        },
+                        {
+                            "value": 45654.0,
+                            "code": "",
+                            "transformed": "Accounts payable",
+                            "desc": "Accounts payable"
+                        },
+                        {
+                            "value": 213361.0,
+                            "code": "",
+                            "transformed": "Accrued liabilities and other liabilities",
+                            "desc": "Accrued liabilities and other liabilities"
+                        },
+                        {
+                            "value": 5456.0,
+                            "code": "",
+                            "transformed": "Deferred revenue",
+                            "desc": "Deferred revenue"
+                        },
+                        {
+                            "value": 47136.0,
+                            "code": "",
+                            "transformed": "Income taxes payable",
+                            "desc": "Income taxes payable"
+                        },
+                        {
+                            "value": 138720.0,
+                            "code": "",
+                            "transformed": "Net cash provided by operating activities",
+                            "desc": "Net cash provided by operating activities"
+                        }
+                    ]
+                },
+                {
+                    "code": "",
+                    "heading": "Cash Flows from Investing Activities",
+                    "transformed": "Cash flows from investing activities",
+                    "items": [
+                        {
+                            "value": -78640.0,
+                            "code": "",
+                            "transformed": "Purchase of property and equipment",
+                            "desc": "Purchase of property and equipment"
+                        },
+                        {
+                            "value": -638055.0,
+                            "code": "",
+                            "transformed": "Purchase of marketable securities",
+                            "desc": "Purchase of marketable securities"
+                        },
+                        {
+                            "value": 46511.0,
+                            "code": "",
+                            "transformed": "Sales of marketable securities",
+                            "desc": "Sales of marketable securities"
+                        },
+                        {
+                            "value": 315774.0,
+                            "code": "",
+                            "transformed": "Maturities of marketable securities",
+                            "desc": "Maturities of marketable securities"
+                        },
+                        {
+                            "value": -38256.0,
+                            "code": "",
+                            "transformed": "Acquisitions net of cash acquired",
+                            "desc": "Acquisitions net of cash acquired"
+                        },
+                        {
+                            "value": "",
+                            "code": "",
+                            "transformed": "Equity investment",
+                            "desc": "Equity investment"
+                        },
+                        {
+                            "value": -392666.0,
+                            "code": "",
+                            "transformed": "Net cash used in investing activities",
+                            "desc": "Net cash used in investing activities"
+                        }
+                    ]
+                },
+                {
+                    "code": "",
+                    "heading": "Cash Flows from Financing Activities",
+                    "transformed": "Cash flows from financing activities",
+                    "items": [
+                        {
+                            "value": -1236.0,
+                            "code": "",
+                            "transformed": "Payment of offering costs",
+                            "desc": "Payment of offering costs"
+                        },
+                        {
+                            "value": 25969.0,
+                            "code": "",
+                            "transformed": "Proceeds from issuance of common stock",
+                            "desc": "Proceeds from issuance of common stock"
+                        },
+                        {
+                            "value": -4939.0,
+                            "code": "",
+                            "transformed": "Taxes paid related to net share settlement of restricted stock units",
+                            "desc": "Taxes paid related to net share settlement of restricted stock units"
+                        },
+                        {
+                            "value": "",
+                            "code": "",
+                            "transformed": "Proceeds from public offerings net of underwriting discounts and commissions",
+                            "desc": "Proceeds from public offerings net of underwriting discounts and commissions"
+                        },
+                        {
+                            "value": "",
+                            "code": "",
+                            "transformed": "Proceeds from issuance of debt and revolving credit facility",
+                            "desc": "Proceeds from issuance of debt and revolving credit facility"
+                        },
+                        {
+                            "value": "",
+                            "code": "",
+                            "transformed": "Repayment of debt",
+                            "desc": "Repayment of debt"
+                        },
+                        {
+                            "value": "",
+                            "code": "",
+                            "transformed": "Payment of issuance costs",
+                            "desc": "Payment of issuance costs"
+                        },
+                        {
+                            "value": 19794.0,
+                            "code": "",
+                            "transformed": "Net cash provided by financing activities",
+                            "desc": "Net cash provided by financing activities"
+                        }
+                    ]
+                },
+                {
+                    "value": -234152.0,
+                    "code": "AM_CF_CI",
+                    "transformed": "Net change in cash",
+                    "desc": "Net increase -decrease in cash and cash equivalents"
+                },
+                {
+                    "value": -374.0,
+                    "code": "",
+                    "transformed": "Effect of exchange rates on cash and cash equivalents",
+                    "desc": "Effect of exchange rates on cash and cash equivalents"
+                },
+                {
+                    "value": 535846.0,
+                    "code": "AM_CF_BC",
+                    "transformed": "Cash beginning",
+                    "desc": "Cash and cash equivalents at beginning of period"
+                },
+                {
+                    "value": 301320.0,
+                    "code": "AM_CF_EC",
+                    "transformed": "Cash ending",
+                    "desc": "Cash and cash equivalents at end of period"
+                },
+                {
+                    "code": "",
+                    "heading": "Supplemental Disclosure",
+                    "transformed": "Supplemental disclosure",
+                    "items": []
+                }
+            ],
+            "asof": "december312016"
+        },
+        {
+            "statement": [
+                {
+                    "code": "",
+                    "heading": "Cash Flows from Operating Activities",
+                    "transformed": "Cash flows from operating activities",
+                    "items": []
+                },
+                {
+                    "value": 175677.0,
+                    "code": "AM_BS_NI",
+                    "transformed": "Net income/loss",
+                    "desc": "Net income -loss"
+                },
+                {
+                    "code": "",
+                    "heading": "Adjustments to reconcile net income -loss to net cash provided by operating activities:",
+                    "transformed": "Adjustments to reconcile net income loss to net cash provided by operating activities",
+                    "items": [
+                        {
+                            "value": 1115.0,
+                            "code": "",
+                            "transformed": "Provision for doubtful accounts",
+                            "desc": "Provision for doubtful accounts"
+                        },
+                        {
+                            "value": 5060.0,
+                            "code": "",
+                            "transformed": "Provision for excess and obsolete inventory",
+                            "desc": "Provision for excess and obsolete inventory"
+                        },
+                        {
+                            "value": 19405.0,
+                            "code": "",
+                            "transformed": "Depreciation",
+                            "desc": "Depreciation"
+                        },
+                        {
+                            "value": 1702.0,
+                            "code": "",
+                            "transformed": "Amortization of intangible assets",
+                            "desc": "Amortization of intangible assets"
+                        },
+                        {
+                            "value": 1206.0,
+                            "code": "",
+                            "transformed": "Accelerated depreciation of property and equipment",
+                            "desc": "Accelerated depreciation of property and equipment"
+                        },
+                        {
+                            "value": 961.0,
+                            "code": "",
+                            "transformed": "Amortization of issuance costs and discount on debt",
+                            "desc": "Amortization of issuance costs and discount on debt"
+                        },
+                        {
+                            "value": 41024.0,
+                            "code": "",
+                            "transformed": "Stock based compensation",
+                            "desc": "Stock-based compensation"
+                        },
+                        {
+                            "value": -42538.0,
+                            "code": "",
+                            "transformed": "Deferred income taxes",
+                            "desc": "Deferred income taxes"
+                        },
+                        {
+                            "value": 56655.0,
+                            "code": "",
+                            "transformed": "Revaluation of redeemable convertible preferred stock warrant liability",
+                            "desc": "Revaluation of redeemable convertible preferred stock warrant liability"
+                        },
+                        {
+                            "value": -7704.0,
+                            "code": "",
+                            "transformed": "Change in contingent consideration",
+                            "desc": "Change in contingent consideration"
+                        },
+                        {
+                            "value": -263.0,
+                            "code": "",
+                            "transformed": "Other",
+                            "desc": "Other"
+                        }
+                    ]
+                },
+                {
+                    "code": "",
+                    "heading": "Changes in operating assets and liabilities net of acquisitions:",
+                    "transformed": "Changes in operating assets and liabilities net of acquisitions",
+                    "items": [
+                        {
+                            "value": -231100.0,
+                            "code": "AM_BS_AR",
+                            "transformed": "Accounts receivable",
+                            "desc": "Accounts receivable"
+                        },
+                        {
+                            "value": -68108.0,
+                            "code": "",
+                            "transformed": "Inventories",
+                            "desc": "Inventories"
+                        },
+                        {
+                            "value": -29215.0,
+                            "code": "",
+                            "transformed": "Prepaid expenses and other assets",
+                            "desc": "Prepaid expenses and other assets"
+                        },
+                        {
+                            "value": -17354.0,
+                            "code": "",
+                            "transformed": "Fitbit force recall reserve",
+                            "desc": "Fitbit Force recall reserve"
+                        },
+                        {
+                            "value": 56759.0,
+                            "code": "",
+                            "transformed": "Accounts payable",
+                            "desc": "Accounts payable"
+                        },
+                        {
+                            "value": 138748.0,
+                            "code": "",
+                            "transformed": "Accrued liabilities and other liabilities",
+                            "desc": "Accrued liabilities and other liabilities"
+                        },
+                        {
+                            "value": 34891.0,
+                            "code": "",
+                            "transformed": "Deferred revenue",
+                            "desc": "Deferred revenue"
+                        },
+                        {
+                            "value": 4336.0,
+                            "code": "",
+                            "transformed": "Income taxes payable",
+                            "desc": "Income taxes payable"
+                        },
+                        {
+                            "value": 141257.0,
+                            "code": "",
+                            "transformed": "Net cash provided by operating activities",
+                            "desc": "Net cash provided by operating activities"
+                        }
+                    ]
+                },
+                {
+                    "code": "",
+                    "heading": "Cash Flows from Investing Activities",
+                    "transformed": "Cash flows from investing activities",
+                    "items": [
+                        {
+                            "value": -30566.0,
+                            "code": "",
+                            "transformed": "Purchase of property and equipment",
+                            "desc": "Purchase of property and equipment"
+                        },
+                        {
+                            "value": -230935.0,
+                            "code": "",
+                            "transformed": "Purchase of marketable securities",
+                            "desc": "Purchase of marketable securities"
+                        },
+                        {
+                            "value": 58011.0,
+                            "code": "",
+                            "transformed": "Sales of marketable securities",
+                            "desc": "Sales of marketable securities"
+                        },
+                        {
+                            "value": 44500.0,
+                            "code": "",
+                            "transformed": "Maturities of marketable securities",
+                            "desc": "Maturities of marketable securities"
+                        },
+                        {
+                            "value": -11037.0,
+                            "code": "",
+                            "transformed": "Acquisitions net of cash acquired",
+                            "desc": "Acquisitions net of cash acquired"
+                        },
+                        {
+                            "value": "",
+                            "code": "",
+                            "transformed": "Equity investment",
+                            "desc": "Equity investment"
+                        },
+                        {
+                            "value": -170027.0,
+                            "code": "",
+                            "transformed": "Net cash used in investing activities",
+                            "desc": "Net cash used in investing activities"
+                        }
+                    ]
+                },
+                {
+                    "code": "",
+                    "heading": "Cash Flows from Financing Activities",
+                    "transformed": "Cash flows from financing activities",
+                    "items": [
+                        {
+                            "value": -5089.0,
+                            "code": "",
+                            "transformed": "Payment of offering costs",
+                            "desc": "Payment of offering costs"
+                        },
+                        {
+                            "value": 4018.0,
+                            "code": "",
+                            "transformed": "Proceeds from issuance of common stock",
+                            "desc": "Proceeds from issuance of common stock"
+                        },
+                        {
+                            "value": "",
+                            "code": "",
+                            "transformed": "Taxes paid related to net share settlement of restricted stock units",
+                            "desc": "Taxes paid related to net share settlement of restricted stock units"
+                        },
+                        {
+                            "value": 505275.0,
+                            "code": "",
+                            "transformed": "Proceeds from public offerings net of underwriting discounts and commissions",
+                            "desc": "Proceeds from public offerings net of underwriting discounts and commissions"
+                        },
+                        {
+                            "value": 160000.0,
+                            "code": "",
+                            "transformed": "Proceeds from issuance of debt and revolving credit facility",
+                            "desc": "Proceeds from issuance of debt and revolving credit facility"
+                        },
+                        {
+                            "value": -294503.0,
+                            "code": "",
+                            "transformed": "Repayment of debt",
+                            "desc": "Repayment of debt"
+                        },
+                        {
+                            "value": -748.0,
+                            "code": "",
+                            "transformed": "Payment of issuance costs",
+                            "desc": "Payment of issuance costs"
+                        },
+                        {
+                            "value": 368953.0,
+                            "code": "",
+                            "transformed": "Net cash provided by financing activities",
+                            "desc": "Net cash provided by financing activities"
+                        }
+                    ]
+                },
+                {
+                    "value": 340183.0,
+                    "code": "AM_CF_CI",
+                    "transformed": "Net change in cash",
+                    "desc": "Net increase -decrease in cash and cash equivalents"
+                },
+                {
+                    "value": 37.0,
+                    "code": "",
+                    "transformed": "Effect of exchange rates on cash and cash equivalents",
+                    "desc": "Effect of exchange rates on cash and cash equivalents"
+                },
+                {
+                    "value": 195626.0,
+                    "code": "AM_CF_BC",
+                    "transformed": "Cash beginning",
+                    "desc": "Cash and cash equivalents at beginning of period"
+                },
+                {
+                    "value": 535846.0,
+                    "code": "AM_CF_EC",
+                    "transformed": "Cash ending",
+                    "desc": "Cash and cash equivalents at end of period"
+                },
+                {
+                    "code": "",
+                    "heading": "Supplemental Disclosure",
+                    "transformed": "Supplemental disclosure",
+                    "items": []
+                }
+            ],
+            "asof": "december312015"
+        }
+    ],
+    "company": "fitbit inc",
+    "currency": "USD",
+    "type": "cash_flow_statement",
+    "units": "thousands",
+    "title": "consolidated statements of cash flows"
+}

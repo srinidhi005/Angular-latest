@@ -1,0 +1,330 @@
+<style>
+input, label{
+    color:black;
+    }
+    .intl-tel-input {
+  display: table-cell;
+}
+.intl-tel-input .selected-flag {
+  z-index: 4;
+}
+.intl-tel-input .country-list {
+  z-index: 5;
+}
+</style>
+<div class=" content">
+  
+    <div class=" row">
+      <div class=" col-md-8">
+        <div class=" card">
+          
+          <div class=" card-body">
+            <form>
+                <h4>Personal Details</h4>
+               
+              <div class=" row">
+                  <div class=" col-md-6 pr-md-1">
+                      <div class=" form-group">
+                        <label > User Name </label>
+                        <input
+                          class=" form-control" 
+                          placeholder="User Name"
+                          type="text"
+                          
+                        />
+                      </div>
+                    </div>
+                <div class=" col-md-6 pl-md-1">
+                    <div class=" form-group">
+                        <label for="exampleInputEmail1"> Email  </label>
+                        <input
+                          class=" form-control" 
+                          placeholder="name@email.com"
+                      type="email"
+                        />
+                      </div>
+                </div>
+              </div>
+              <div class=" row">
+                <div class=" col-md-6 pr-md-1">
+                  <div class=" form-group">
+                    <label> First Name </label>
+                    <input
+                      class=" form-control" 
+                      placeholder="First Name"
+                      type="text"
+                      
+                    />
+                  </div>
+                </div>
+                <div class=" col-md-6 pl-md-1">
+                  <div class=" form-group">
+                    <label> Last Name </label>
+                    <input
+                      class=" form-control" 
+                      placeholder="Last Name"
+                      type="text"
+                      
+                    />
+                  </div>
+                </div>
+              </div>
+             
+              <div class=" row">
+                  <div class=" col-md-6 pr-md-1">
+                    <div class=" form-group">
+                      <label> Password </label>
+                      <input
+                        class=" form-control" 
+                        placeholder="Password"
+                        type="password"
+                        
+                      />
+                    </div>
+                  </div>
+                  <div class=" col-md-6 pl-md-1">
+                    <div class=" form-group">
+                      <label> Confirm Password </label>
+                      <input
+                        class=" form-control" 
+                        placeholder="Confirm Password"
+                        type="password"
+                        
+                      />
+                    </div>
+                  </div>
+                </div>
+                  <div class="row">
+                  <div class=" col-md-12 ">
+                      <label> Contact Number </label>
+                        <div class="form-group">
+                           
+                            <input class="pr-3" type="tel" class="form-control" value="" placeholder="Mobile number" id="telnumber-field" required>
+                            
+                          </div>
+                    </div>
+                  </div>
+             
+                <br>
+                <h4>Company Information</h4>
+                <div class=" row">
+                    <div class=" col-md-12">
+                      <div class=" form-group">
+                        <label> Company </label>
+                        <input
+                          class=" form-control" 
+                          placeholder="Company Name"
+                          type="text"                         
+                        />
+                      </div>
+                    </div>
+                  </div>
+                  <div class=" row">
+                      <div class=" col-md-12">
+                        <div class=" form-group">
+                          <label> Title </label>
+                          <select class="form-control" style="color:black;" >
+                              <option selected disabled value="" style="font-style: italic;">Title</option>
+                            <option>Owner / Partner</option>
+                            <option>Executive Management</option> 
+                            <option>Board Member</option>
+                            <option>Non-Executive Management</option>
+                            <option>Finance & Accounting</option>
+                            <option>Other</option>
+                            </select>
+                        </div>
+                      </div>
+                    </div>
+                    <div class=" row">
+                        <div class=" col-md-12">
+                          <div class=" form-group">
+                            <label> Address </label>
+                            <input
+                              class=" form-control" 
+                              placeholder="Company Address"
+                              type="text"
+                              
+                            />
+                          </div>
+                        </div>
+                      </div>
+
+                      <div class=" row">
+                        <div class=" col-md-6 pr-md-1">
+                          <div class=" form-group">
+                            <label> City </label>
+                            <input
+                              class=" form-control" style="color:black"
+                              placeholder="City"
+                              type="text"
+                             
+                            />
+                          </div>
+                        </div>
+                        <div class=" col-md-6 px-md-1">
+                          <div class=" form-group">
+                            <label> State </label>
+                            <input
+                              class=" form-control" style="color:black"
+                              placeholder="State"
+                              type="text"                           
+                            />
+                          </div>
+                        </div>
+                       
+                      </div>
+                      <div class=" row">
+                          <div class=" col-md-6 pr-md-1">
+                            <div class=" form-group">
+                              <label> Country </label>
+                              <input
+                                class=" form-control" style="color:black"
+                                placeholder="Country"
+                                type="text"
+                               
+                              />
+                            </div>
+                          </div>
+                          <div class=" col-md-6 px-md-1">
+                            <div class=" form-group">
+                              <label> Zip Code </label>
+                              <input
+                                class=" form-control" style="color:black"
+                                placeholder="Zip Code"
+                                type="number"                           
+                              />
+                            </div>
+                          </div>
+                         
+                        </div>
+                      <div class=" row">
+                          <div class=" col-md-12">
+                            <div class=" form-group">
+                              <label> Industry </label>
+                              <select class="form-control" style="color:black;" >
+                                  <option selected disabled value="" style="font-style: italic;">Select Industry</option>
+                                <option>Communications</option>
+                                <option>Consumer & Retail</option> 
+                                <option>Distribution & Logistics</option>
+                                <option>Energy & Natural Resources</option>
+                                <option>Entertainment & Media</option>
+                                <option>Financial Institutions & Sponsors</option>
+                                <option>Food & Beverage</option>
+                                <option>General Services</option>
+                                <option>Healthcare</option>
+                                <option>Hospitality</option>
+                                <option>Industrials</option>
+                                <option>Power, Infrastructure & Utilities</option>
+                                <option>Real Estate</option>
+                                <option>Technology</option>
+                                <option>Telecommunications</option>
+                                <option>Transportation</option>
+                                </select>
+                            </div>
+                          </div>
+                        </div>
+                        <div class=" row">
+                            <div class=" col-md-6">
+                              <div class=" form-group">
+                                <label> Geography </label>
+                                <select class="form-control"  style="color:black;" >
+                                    <option selected disabled value="" style="font-style: italic;">Geography</option>
+                                  <option>APAC</option>
+                                  <option>EMEA</option> 
+                                  <option>LATAM</option>    
+                                  <option>NA</option>                              
+                                  </select>
+                              </div>
+                            </div>
+                            <div class=" col-md-6">
+                                <div class=" form-group">
+                                  <label> Company Size </label>
+                                  <select class="form-control"  style="color:black;" >
+                                      <option selected disabled value="" style="font-style: italic;">Company Size</option>
+                                    <option> 1 - 10 </option>
+                                    <option> 11 - 100 </option>
+                                    <option>101 - 1000</option> 
+                                    <option>10001 - 10,000</option> 
+                                    <option>10,000 +</option>                                   
+                                    </select>
+                                </div>
+                              </div>
+                          </div>
+                          <div class=" row">
+                              <div class=" col-md-6">
+                                <div class=" form-group">
+                                  <label> Capatialization </label>
+                                  <select class="form-control"  style="color:black;" >
+                                      <option selected disabled value="" style="font-style: italic;">Capatialization</option>
+                                    <option>USD 1 M +</option>
+                                    <option>USD 10 M +</option> 
+                                    <option>USD 100 M +</option>                                 
+                                    </select>
+                                </div>
+                              </div>
+                              <div class=" col-md-6">
+                                  <div class=" form-group">
+                                    <label> Revenue </label>
+                                    <select class="form-control"  style="color:black;" >
+                                        <option selected disabled value="" style="font-style: italic;">Revenue </option>
+                                      <option> Above USD 1 M </option>
+                                      <option> Above USD 10 M</option> 
+                                      <option> Above USD 50 M</option> 
+                                      <option> Above USD 100 M</option>                                   
+                                      </select>
+                                  </div>
+                                </div>
+                            </div>
+                          
+            </form>
+          </div>
+          <div class=" card-footer">
+             <!--<button type="button" class="btn btn-success" data-dismiss="modal" style="text-align:center;">Start Import</button>-->
+            <button class=" btn btn-fill btn-success" type="submit" style="text-align:center;">Save</button>
+            <button class=" btn btn-fill btn-danger"  type="reset" style="text-align:center;float:right;">Cancel</button>
+          </div>
+        </div>
+      </div>
+      <div class=" col-md-4">
+        <div class=" card card-user">
+          <div class=" card-body">
+            <p class=" card-text"></p>
+            <div class=" author">
+              <div class=" block block-one"></div>
+              <div class=" block block-two"></div>
+              <div class=" block block-three"></div>
+              <div class=" block block-four"></div>
+              <a href="javascript:void(0)">
+                <img alt="..." class=" avatar" src="assets/img/emilyz.jpg" />
+  
+                <h5 class=" title">Profile</h5>
+              </a>
+             
+            </div>
+           
+          </div>
+         
+        </div>
+        <div class=" card card-user">
+            <div class=" card-body">
+              <p class=" card-text"></p>
+              <div class=" author">
+                <div class=" block block-one"></div>
+                <div class=" block block-two"></div>
+                <div class=" block block-three"></div>
+                <div class=" block block-four"></div>
+                <a href="javascript:void(0)">
+                  <img alt="..." class=" avatar" src="assets/img/emilyz.jpg" alt="Companylogo" />
+    
+                  <h5 class=" title">Company</h5>
+                </a>
+               
+              </div>
+              
+            </div>
+           
+          </div>
+      </div>
+      
+    </div>
+  </div>
