@@ -3,6 +3,8 @@ module.exports = (sequelize, DataTypes) => {
   const statement = sequelize.define('statement', {
     company: DataTypes.STRING,
     period: DataTypes.STRING,
+   // industry:DataTypes.STRING,
+    //statementtype:DataTypes.STRING,
     status: DataTypes.STRING,
     companyUUID: DataTypes.STRING,
     documentUUID: DataTypes.STRING,

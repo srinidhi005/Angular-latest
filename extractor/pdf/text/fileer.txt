@@ -1,44 +1,40 @@
-Cash provided by operations:
-Net income                                                                                                                      1933           4240            3760
-Adjustments to reconcile net income to net cash provided by operations:
- Depreciation                                                                                                                      747               706                649
- Deferred income taxes                                                                                                             647              -273                -80
- Stock-based compensation                                                                                                          218               215                236
- Amortization and other                                                                                                              27               10                  13
- Net foreign currency adjustments                                                                                                   -99            -117                 98
-Changes in certain working capital components and other assets and liabilities:
- Decrease -increase in accounts receivable                                                                                         187             -426                 60
- -Increase in inventories                                                                                                         -255            -231               -590
- Decrease -increase in prepaid expenses and other current and non-current assets                                                    35             -120               -161
- Increase -decrease in accounts payable accrued liabilities and other current and
- non-current liabilities                                                                                                         1515             -158             -586
-Cash provided by operations                                                                                                      4955            3846             3399
-Cash provided -used by investing activities:
- Purchases of short-term investments                                                                                            -4783           -5928           -5367
- Maturities of short-term investments                                                                                            3613             3623             2924
- Sales of short-term investments                                                                                                 2496             2423             2386
- Investments in reverse repurchase agreements                                                                                        —                 —               150
- Additions to property plant and equipment                                                                                     -1028           -1105           -1143
- Disposals of property plant and equipment                                                                                           3                13               10
- Other investing activities                                                                                                         -25              -34               6
-Cash provided -used by investing activities                                                                                       276            -1008           -1034
-Cash used by financing activities:
- Net proceeds from long-term debt issuance                                                                                           —             1482               981
- Long-term debt payments including current portion                                                                                   -6             -44            -106
- Increase -decrease in notes payable                                                                                                13              327                -67
- Payments on capital lease and other financing obligations                                                                          -23              -17                -7
- Proceeds from exercise of stock options and other stock issuances                                                                 733               489               507
- Repurchase of common stock                                                                                                     -4254           -3223           -3238
- Dividends — common and preferred                                                                                               -1243           -1133           -1022
- Tax payments for net share settlement of equity awards                                                                             -55              -29              -22
-Cash used by financing activities                                                                                               -4835           -2148           -2974
-Effect of exchange rate changes on cash and equivalents                                                                              45               -20            -105
-Net increase -decrease in cash and equivalents                                                                                    441               670              -714
-Cash and equivalents beginning of year                                                                                          3808             3138             3852
-CASH AND EQUIVALENTS END OF YEAR                                                                                               4249            3808            3138
-Supplemental disclosure of cash flow information:
+Cash flows from operating activities
+Net earnings                                                                                                  15297       1300      16540
+Adjustments to reconcile net earnings to cash flows from operating activities:
+  Depreciation and amortization of property and intangibles                                                     6929       5642       3754
+  Stock based compensation                                                                                        978         962         878
+  Asset write-downs                                                                                             1258         795         283
+  Gain on sale of assets/businesses                                                                            -1217     -1307       -563
+  Deferred tax provision                                                                                       -1016      2406        -341
+  Accounts receivable allowances                                                                                  -31         17         -11
+Changes in assets and liabilities net of effects from acquisitions and divestitures:
+  Increase in accounts receivable                                                                              -1185       -633     -1065
+  -Increase/Decrease in inventories                                                                             -644        581        -249
+  Increase in accounts payable and accrued liabilities                                                          3951       2725         656
+  Increase in other current and non-current assets                                                               -275       -411       -529
+  -Decrease/Increase in other current and non-current liabilities                                             -1844      8979        -586
+Net cash flows from operating activities                                                                       22201      21056      18767
+Cash flows from investing activities
+Additions to property plant and equipment                                                                     -3670     -3279     -3226
+Proceeds from the disposal of assets/businesses net                                                            3203       1832       1267
+Purchases of investments                                                                                       -5626     -6153    -33950
+Sales of investments                                                                                            4289      28117      35780
+Other -primarily intangibles                                                                                    -464       -234       -123
+Net cash used by investing activities                                                                          -3167    -14868     -4761
+Cash flows from financing activities
+Dividends to shareholders                                                                                      -9494     -8943     -8621
+Repurchase of common stock                                                                                     -5868     -6358     -8979
+Proceeds from short-term debt                                                                                      80         869         111
+Retirement of short-term debt                                                                                  -2479     -1330     -2017
+Proceeds from long-term debt net of issuance costs                                                                 5       8992      12004
+Retirement of long-term debt                                                                                   -1555     -1777     -2223
+Proceeds from the exercise of stock options/employee withholding tax on stock awards net                         949       1062       1189
+Other                                                                                                            -148       -188        -15
+Net cash used by financing activities                                                                         -18510     -7673     -8551
+Effect of exchange rate changes on cash and cash equivalents                                                     -241        337        -215
+Increase/-Decrease in cash and cash equivalents                                                                  283      -1148      5240
+Supplemental cash flow data
 Cash paid during the year for:
- Interest net of capitalized interest                                                                                            125              98                 70
- Income taxes                                                                                                                      529              703                 748
-Non-cash additions to property plant and equipment                                                                                294              266                 252
-Dividends declared and not paid                                                                                                    320              300                 271
+  Interest                                                                                                     1049         960         730
+  Interest net of amount capitalized                                                                             963         866         628
+  Income taxes                                                                                                  4570       3312       2843

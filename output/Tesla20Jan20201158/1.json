@@ -1,0 +1,708 @@
+{
+    "type": "statement_of_income",
+    "currency": "USD",
+    "company": "tesla inc",
+    "title": "consolidated statements of operations",
+    "period": [
+        {
+            "statement": [
+                {
+                    "total1": {
+                        "desc": "Total revenues",
+                        "value": 11758751.0,
+                        "code": "AM_IS_I",
+                        "transformed": "Net revenue"
+                    },
+                    "heading": "Revenues",
+                    "items": [
+                        {
+                            "desc": "Automotive sales",
+                            "value": 8534752.0,
+                            "code": "",
+                            "transformed": "Automotive sales"
+                        },
+                        {
+                            "desc": "Automotive leasing",
+                            "value": 1106548.0,
+                            "code": "",
+                            "transformed": "Automotive leasing"
+                        },
+                        {
+                            "desc": "Energy generation and storage",
+                            "value": 1116266.0,
+                            "code": "",
+                            "transformed": "Energy generation and storage"
+                        },
+                        {
+                            "desc": "Services and other",
+                            "value": 1001185.0,
+                            "code": "",
+                            "transformed": "Services and other"
+                        }
+                    ],
+                    "transformed": "Net revenue",
+                    "total": {
+                        "desc": "Total automotive revenues",
+                        "value": 9641300.0,
+                        "code": "",
+                        "transformed": "Total automotive revenues"
+                    },
+                    "code": "AM_IS_I"
+                },
+                {
+                    "total1": {
+                        "desc": "Total cost of revenues",
+                        "value": 9536264.0,
+                        "code": "AM_IS_CORS",
+                        "transformed": "Cost of revenue"
+                    },
+                    "heading": "Cost of revenues",
+                    "items": [
+                        {
+                            "desc": "Automotive sales",
+                            "value": 6724480.0,
+                            "code": "",
+                            "transformed": "Automotive sales"
+                        },
+                        {
+                            "desc": "Automotive leasing",
+                            "value": 708224.0,
+                            "code": "",
+                            "transformed": "Automotive leasing"
+                        },
+                        {
+                            "desc": "Energy generation and storage",
+                            "value": 874538.0,
+                            "code": "",
+                            "transformed": "Energy generation and storage"
+                        },
+                        {
+                            "desc": "Services and other",
+                            "value": 1229022.0,
+                            "code": "",
+                            "transformed": "Services and other"
+                        }
+                    ],
+                    "transformed": "Cost of revenue",
+                    "total": {
+                        "desc": "Total automotive cost of revenues",
+                        "value": 7432704.0,
+                        "code": "",
+                        "transformed": "Total automotive cost of revenues"
+                    },
+                    "code": "AM_IS_CORS"
+                },
+                {
+                    "desc": "Gross profit",
+                    "value": 2222487.0,
+                    "code": "AM_IS_GP",
+                    "transformed": "Gross profit"
+                },
+                {
+                    "total": {
+                        "desc": "Total operating expenses",
+                        "value": 3854573.0,
+                        "code": "AM_IS_E",
+                        "transformed": "Total operating expenses"
+                    },
+                    "heading": "Operating expenses",
+                    "items": [
+                        {
+                            "desc": "Research and development",
+                            "value": 1378073.0,
+                            "code": "",
+                            "transformed": "Research and development"
+                        },
+                        {
+                            "desc": "Selling general and administrative",
+                            "value": 2476500.0,
+                            "code": "",
+                            "transformed": "Selling general and administrative"
+                        }
+                    ],
+                    "code": "AM_IS_E",
+                    "transformed": "Total operating expenses"
+                },
+                {
+                    "desc": "Loss from operations",
+                    "value": -1632086.0,
+                    "code": "AM_IS_NOI",
+                    "transformed": "Operating income/loss"
+                },
+                {
+                    "desc": "Interest income",
+                    "value": 19686.0,
+                    "code": "",
+                    "transformed": "Interest income"
+                },
+                {
+                    "desc": "Interest expense",
+                    "value": -471259.0,
+                    "code": "",
+                    "transformed": "Interest expense"
+                },
+                {
+                    "desc": "Other -expense income net",
+                    "value": -125373.0,
+                    "code": "",
+                    "transformed": "Other expense income net"
+                },
+                {
+                    "desc": "Loss before income taxes",
+                    "value": -2209032.0,
+                    "code": "",
+                    "transformed": "Earnings before income taxes"
+                },
+                {
+                    "desc": "Provision for income taxes",
+                    "value": 31546.0,
+                    "code": "",
+                    "transformed": "Provision for income taxes"
+                },
+                {
+                    "desc": "Net loss",
+                    "value": -2240578.0,
+                    "code": "AM_BS_NI",
+                    "transformed": "Net income/loss"
+                },
+                {
+                    "heading": "Net loss attributable to noncontrolling interests and",
+                    "items": [
+                        {
+                            "desc": "redeemable noncontrolling interests in subsidiaries",
+                            "value": -279178.0,
+                            "code": "",
+                            "transformed": "Redeemable noncontrolling interests in subsidiaries"
+                        }
+                    ],
+                    "code": "",
+                    "transformed": "Net loss attributable to noncontrolling interests and"
+                },
+                {
+                    "desc": "Net loss attributable to common stockholders",
+                    "value": -1961400.0,
+                    "code": "",
+                    "transformed": "Net loss attributable to common stockholders"
+                },
+                {
+                    "heading": "Net loss per share of common stock attributable",
+                    "items": [],
+                    "code": "",
+                    "transformed": "Net loss per share of common stock attributable"
+                },
+                {
+                    "heading": "to common stockholders",
+                    "items": [
+                        {
+                            "desc": "Basic",
+                            "value": -11.83,
+                            "code": "",
+                            "transformed": "Basic"
+                        },
+                        {
+                            "desc": "Diluted",
+                            "value": -11.83,
+                            "code": "",
+                            "transformed": "Diluted"
+                        }
+                    ],
+                    "code": "",
+                    "transformed": "To common stockholders"
+                },
+                {
+                    "heading": "Weighted average shares used in computing net loss",
+                    "items": [],
+                    "code": "",
+                    "transformed": "Weighted average shares used in computing net loss"
+                },
+                {
+                    "heading": "per share of common stock",
+                    "items": [
+                        {
+                            "desc": "Basic",
+                            "value": 165758.0,
+                            "code": "",
+                            "transformed": "Basic"
+                        },
+                        {
+                            "desc": "Diluted",
+                            "value": 165758.0,
+                            "code": "",
+                            "transformed": "Diluted"
+                        }
+                    ],
+                    "code": "",
+                    "transformed": "Per share of common stock"
+                }
+            ],
+            "asof": "december312017"
+        },
+        {
+            "statement": [
+                {
+                    "total1": {
+                        "desc": "Total revenues",
+                        "value": 7000132.0,
+                        "code": "AM_IS_I",
+                        "transformed": "Net revenue"
+                    },
+                    "heading": "Revenues",
+                    "items": [
+                        {
+                            "desc": "Automotive sales",
+                            "value": 5589007.0,
+                            "code": "",
+                            "transformed": "Automotive sales"
+                        },
+                        {
+                            "desc": "Automotive leasing",
+                            "value": 761759.0,
+                            "code": "",
+                            "transformed": "Automotive leasing"
+                        },
+                        {
+                            "desc": "Energy generation and storage",
+                            "value": 181394.0,
+                            "code": "",
+                            "transformed": "Energy generation and storage"
+                        },
+                        {
+                            "desc": "Services and other",
+                            "value": 467972.0,
+                            "code": "",
+                            "transformed": "Services and other"
+                        }
+                    ],
+                    "transformed": "Net revenue",
+                    "total": {
+                        "desc": "Total automotive revenues",
+                        "value": 6350766.0,
+                        "code": "",
+                        "transformed": "Total automotive revenues"
+                    },
+                    "code": "AM_IS_I"
+                },
+                {
+                    "total1": {
+                        "desc": "Total cost of revenues",
+                        "value": 5400875.0,
+                        "code": "AM_IS_CORS",
+                        "transformed": "Cost of revenue"
+                    },
+                    "heading": "Cost of revenues",
+                    "items": [
+                        {
+                            "desc": "Automotive sales",
+                            "value": 4268087.0,
+                            "code": "",
+                            "transformed": "Automotive sales"
+                        },
+                        {
+                            "desc": "Automotive leasing",
+                            "value": 481994.0,
+                            "code": "",
+                            "transformed": "Automotive leasing"
+                        },
+                        {
+                            "desc": "Energy generation and storage",
+                            "value": 178332.0,
+                            "code": "",
+                            "transformed": "Energy generation and storage"
+                        },
+                        {
+                            "desc": "Services and other",
+                            "value": 472462.0,
+                            "code": "",
+                            "transformed": "Services and other"
+                        }
+                    ],
+                    "transformed": "Cost of revenue",
+                    "total": {
+                        "desc": "Total automotive cost of revenues",
+                        "value": 4750081.0,
+                        "code": "",
+                        "transformed": "Total automotive cost of revenues"
+                    },
+                    "code": "AM_IS_CORS"
+                },
+                {
+                    "desc": "Gross profit",
+                    "value": 1599257.0,
+                    "code": "AM_IS_GP",
+                    "transformed": "Gross profit"
+                },
+                {
+                    "total": {
+                        "desc": "Total operating expenses",
+                        "value": 2266597.0,
+                        "code": "AM_IS_E",
+                        "transformed": "Total operating expenses"
+                    },
+                    "heading": "Operating expenses",
+                    "items": [
+                        {
+                            "desc": "Research and development",
+                            "value": 834408.0,
+                            "code": "",
+                            "transformed": "Research and development"
+                        },
+                        {
+                            "desc": "Selling general and administrative",
+                            "value": 1432189.0,
+                            "code": "",
+                            "transformed": "Selling general and administrative"
+                        }
+                    ],
+                    "code": "AM_IS_E",
+                    "transformed": "Total operating expenses"
+                },
+                {
+                    "desc": "Loss from operations",
+                    "value": -667340.0,
+                    "code": "AM_IS_NOI",
+                    "transformed": "Operating income/loss"
+                },
+                {
+                    "desc": "Interest income",
+                    "value": 8530.0,
+                    "code": "",
+                    "transformed": "Interest income"
+                },
+                {
+                    "desc": "Interest expense",
+                    "value": -198810.0,
+                    "code": "",
+                    "transformed": "Interest expense"
+                },
+                {
+                    "desc": "Other -expense income net",
+                    "value": 111272.0,
+                    "code": "",
+                    "transformed": "Other expense income net"
+                },
+                {
+                    "desc": "Loss before income taxes",
+                    "value": -746348.0,
+                    "code": "",
+                    "transformed": "Earnings before income taxes"
+                },
+                {
+                    "desc": "Provision for income taxes",
+                    "value": 26698.0,
+                    "code": "",
+                    "transformed": "Provision for income taxes"
+                },
+                {
+                    "desc": "Net loss",
+                    "value": -773046.0,
+                    "code": "AM_BS_NI",
+                    "transformed": "Net income/loss"
+                },
+                {
+                    "heading": "Net loss attributable to noncontrolling interests and",
+                    "items": [
+                        {
+                            "desc": "redeemable noncontrolling interests in subsidiaries",
+                            "value": -98132.0,
+                            "code": "",
+                            "transformed": "Redeemable noncontrolling interests in subsidiaries"
+                        }
+                    ],
+                    "code": "",
+                    "transformed": "Net loss attributable to noncontrolling interests and"
+                },
+                {
+                    "desc": "Net loss attributable to common stockholders",
+                    "value": -674914.0,
+                    "code": "",
+                    "transformed": "Net loss attributable to common stockholders"
+                },
+                {
+                    "heading": "Net loss per share of common stock attributable",
+                    "items": [],
+                    "code": "",
+                    "transformed": "Net loss per share of common stock attributable"
+                },
+                {
+                    "heading": "to common stockholders",
+                    "items": [
+                        {
+                            "desc": "Basic",
+                            "value": -4.68,
+                            "code": "",
+                            "transformed": "Basic"
+                        },
+                        {
+                            "desc": "Diluted",
+                            "value": -4.68,
+                            "code": "",
+                            "transformed": "Diluted"
+                        }
+                    ],
+                    "code": "",
+                    "transformed": "To common stockholders"
+                },
+                {
+                    "heading": "Weighted average shares used in computing net loss",
+                    "items": [],
+                    "code": "",
+                    "transformed": "Weighted average shares used in computing net loss"
+                },
+                {
+                    "heading": "per share of common stock",
+                    "items": [
+                        {
+                            "desc": "Basic",
+                            "value": 144212.0,
+                            "code": "",
+                            "transformed": "Basic"
+                        },
+                        {
+                            "desc": "Diluted",
+                            "value": 144212.0,
+                            "code": "",
+                            "transformed": "Diluted"
+                        }
+                    ],
+                    "code": "",
+                    "transformed": "Per share of common stock"
+                }
+            ],
+            "asof": "december312016"
+        },
+        {
+            "statement": [
+                {
+                    "total1": {
+                        "desc": "Total revenues",
+                        "value": 4046025.0,
+                        "code": "AM_IS_I",
+                        "transformed": "Net revenue"
+                    },
+                    "heading": "Revenues",
+                    "items": [
+                        {
+                            "desc": "Automotive sales",
+                            "value": 3431587.0,
+                            "code": "",
+                            "transformed": "Automotive sales"
+                        },
+                        {
+                            "desc": "Automotive leasing",
+                            "value": 309386.0,
+                            "code": "",
+                            "transformed": "Automotive leasing"
+                        },
+                        {
+                            "desc": "Energy generation and storage",
+                            "value": 14477.0,
+                            "code": "",
+                            "transformed": "Energy generation and storage"
+                        },
+                        {
+                            "desc": "Services and other",
+                            "value": 290575.0,
+                            "code": "",
+                            "transformed": "Services and other"
+                        }
+                    ],
+                    "transformed": "Net revenue",
+                    "total": {
+                        "desc": "Total automotive revenues",
+                        "value": 3740973.0,
+                        "code": "",
+                        "transformed": "Total automotive revenues"
+                    },
+                    "code": "AM_IS_I"
+                },
+                {
+                    "total1": {
+                        "desc": "Total cost of revenues",
+                        "value": 3122522.0,
+                        "code": "AM_IS_CORS",
+                        "transformed": "Cost of revenue"
+                    },
+                    "heading": "Cost of revenues",
+                    "items": [
+                        {
+                            "desc": "Automotive sales",
+                            "value": 2639926.0,
+                            "code": "",
+                            "transformed": "Automotive sales"
+                        },
+                        {
+                            "desc": "Automotive leasing",
+                            "value": 183376.0,
+                            "code": "",
+                            "transformed": "Automotive leasing"
+                        },
+                        {
+                            "desc": "Energy generation and storage",
+                            "value": 12287.0,
+                            "code": "",
+                            "transformed": "Energy generation and storage"
+                        },
+                        {
+                            "desc": "Services and other",
+                            "value": 286933.0,
+                            "code": "",
+                            "transformed": "Services and other"
+                        }
+                    ],
+                    "transformed": "Cost of revenue",
+                    "total": {
+                        "desc": "Total automotive cost of revenues",
+                        "value": 2823302.0,
+                        "code": "",
+                        "transformed": "Total automotive cost of revenues"
+                    },
+                    "code": "AM_IS_CORS"
+                },
+                {
+                    "desc": "Gross profit",
+                    "value": 923503.0,
+                    "code": "AM_IS_GP",
+                    "transformed": "Gross profit"
+                },
+                {
+                    "total": {
+                        "desc": "Total operating expenses",
+                        "value": 1640132.0,
+                        "code": "AM_IS_E",
+                        "transformed": "Total operating expenses"
+                    },
+                    "heading": "Operating expenses",
+                    "items": [
+                        {
+                            "desc": "Research and development",
+                            "value": 717900.0,
+                            "code": "",
+                            "transformed": "Research and development"
+                        },
+                        {
+                            "desc": "Selling general and administrative",
+                            "value": 922232.0,
+                            "code": "",
+                            "transformed": "Selling general and administrative"
+                        }
+                    ],
+                    "code": "AM_IS_E",
+                    "transformed": "Total operating expenses"
+                },
+                {
+                    "desc": "Loss from operations",
+                    "value": -716629.0,
+                    "code": "AM_IS_NOI",
+                    "transformed": "Operating income/loss"
+                },
+                {
+                    "desc": "Interest income",
+                    "value": 1508.0,
+                    "code": "",
+                    "transformed": "Interest income"
+                },
+                {
+                    "desc": "Interest expense",
+                    "value": -118851.0,
+                    "code": "",
+                    "transformed": "Interest expense"
+                },
+                {
+                    "desc": "Other -expense income net",
+                    "value": -41652.0,
+                    "code": "",
+                    "transformed": "Other expense income net"
+                },
+                {
+                    "desc": "Loss before income taxes",
+                    "value": -875624.0,
+                    "code": "",
+                    "transformed": "Earnings before income taxes"
+                },
+                {
+                    "desc": "Provision for income taxes",
+                    "value": 13039.0,
+                    "code": "",
+                    "transformed": "Provision for income taxes"
+                },
+                {
+                    "desc": "Net loss",
+                    "value": -888663.0,
+                    "code": "AM_BS_NI",
+                    "transformed": "Net income/loss"
+                },
+                {
+                    "heading": "Net loss attributable to noncontrolling interests and",
+                    "items": [
+                        {
+                            "desc": "redeemable noncontrolling interests in subsidiaries",
+                            "value": "",
+                            "code": "",
+                            "transformed": "Redeemable noncontrolling interests in subsidiaries"
+                        }
+                    ],
+                    "code": "",
+                    "transformed": "Net loss attributable to noncontrolling interests and"
+                },
+                {
+                    "desc": "Net loss attributable to common stockholders",
+                    "value": -888663.0,
+                    "code": "",
+                    "transformed": "Net loss attributable to common stockholders"
+                },
+                {
+                    "heading": "Net loss per share of common stock attributable",
+                    "items": [],
+                    "code": "",
+                    "transformed": "Net loss per share of common stock attributable"
+                },
+                {
+                    "heading": "to common stockholders",
+                    "items": [
+                        {
+                            "desc": "Basic",
+                            "value": -6.93,
+                            "code": "",
+                            "transformed": "Basic"
+                        },
+                        {
+                            "desc": "Diluted",
+                            "value": -6.93,
+                            "code": "",
+                            "transformed": "Diluted"
+                        }
+                    ],
+                    "code": "",
+                    "transformed": "To common stockholders"
+                },
+                {
+                    "heading": "Weighted average shares used in computing net loss",
+                    "items": [],
+                    "code": "",
+                    "transformed": "Weighted average shares used in computing net loss"
+                },
+                {
+                    "heading": "per share of common stock",
+                    "items": [
+                        {
+                            "desc": "Basic",
+                            "value": 128202.0,
+                            "code": "",
+                            "transformed": "Basic"
+                        },
+                        {
+                            "desc": "Diluted",
+                            "value": 128202.0,
+                            "code": "",
+                            "transformed": "Diluted"
+                        }
+                    ],
+                    "code": "",
+                    "transformed": "Per share of common stock"
+                }
+            ],
+            "asof": "december312015"
+        }
+    ],
+    "units": "thousands"
+}

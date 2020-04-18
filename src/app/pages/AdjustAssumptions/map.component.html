@@ -1,1 +1,221 @@
-<div class="content"><h1>Adjust Assumptions</h1></div>
+<style>
+    .card{
+        height:340px !important;
+    }
+
+    .tab-pane{
+        padding: 0% 3% !important;    
+    }
+    
+    .cover-spin {
+	        position:fixed;
+			    width:100%;
+				        left:0;right:0;top:0;bottom:0;
+						    background-color: rgba(255,255,255,0.7);
+							        z-index:9999;
+									    display:none;
+    }
+    
+    
+    
+    
+
+    @-webkit-keyframes spin {
+	    	from {-webkit-transform:rotate(0deg);}
+			to {-webkit-transform:rotate(360deg);}
+    }
+
+    @keyframes spin {
+	    	from {transform:rotate(0deg);}
+			to {transform:rotate(360deg);}
+    }
+
+    .cover-spin::after {
+	        content:'';
+			    display:block;
+				        position:absolute;
+						    left:48%;top:40%;
+							        width:40px;height:40px;
+									    border-style:solid;
+										        border-color:black;
+												    border-top-color:transparent;
+													        border-width: 4px;
+															    border-radius:50%;
+																        -webkit-animation: spin .8s linear infinite;
+																		    animation: spin .8s linear infinite;
+    }
+    
+    .card-title{
+        
+    background-image: linear-gradient(to bottom left, #344675, #263148, #344675);
+    color: #fff !important;
+    padding: 10px;
+        
+    }
+    th{
+        border: none;
+        width: 10%;
+        color:#000;
+    }
+
+
+</style>  
+<div class="cover-spin"></div>
+<div class=" content">
+<!--<select type="button"  class="btn btn-sm btn-primary rmiBtn"  onchange="updateProjectionPdf()"  id="sel2" style="padding-left: 35px;" >
+		</select>-->
+  <!-- <div class=" card-body">
+    <div class=" chart-area"><canvas id="chartBig1"> </canvas></div>
+  </div>   -->
+    
+<div class="row">
+    <div class="col-lg-6"></div>
+    <div class="col-lg-6">
+		<div class="btn-group float-right" role="group" >
+			<select id="sel2Demo" class="btn btn-sm btn-primary rmiBtn" style="float:right;padding: 3px">
+				<option> scenario 1 </option>
+				<option> scenario 2 </option>
+				<option> scenario 3 </option>
+				<option> scenario 4 </option>
+			</select> 			
+			<select id="sel1Demo" class="btn btn-sm btn-primary rmiBtn" style="float:right;padding: 3px">
+				<option> 2020 </option>
+				<option> 2021 </option>
+				<option> 2022 </option>
+				<option> 2023 </option>
+			</select>
+		</div>
+	</div>
+</div>
+  <div class=" row">
+    <!-- <div class=" col-lg-4">
+      <div class=" card card-chart">
+        <div class=" card-header">
+          <h5 class=" card-category">Total Revenue</h5>
+          <h3 class=" card-title">
+            <i class=" tim-icons icon-bell-55 text-danger-states"> </i> 763,215
+          </h3>
+        </div>
+        <div class=" card-body">
+          <div class=" chart-area"><canvas id="chartLineRed"> </canvas></div>
+        </div>
+      </div>
+    </div>  -->
+      
+
+    <div class=" col-lg-6">
+      <div class=" card card-chart">
+        <div class=" card-header">
+          <h4 class=" card-title">Total Revenue</h4>
+        </div>
+        <div class=" card-body">
+          <div class="tab-content">
+            <div role="tabpanel" class="tab-pane fade in active show" id="visual">
+              <div class=" chart-area" #totalRevenue></div>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </div>
+    <div class=" col-lg-6">
+      <div class=" card card-chart">
+        <div class=" card-header">
+          <h4 class=" card-title">Gross Profit</h4>
+        </div>
+        <div class=" card-body">
+
+          <div class="tab-content">
+			<div role="tabpanel" class="tab-pane fade in active show" id="visual1">
+              <div class=" chart-area" #grossProfit></div>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </div>
+    <div class=" col-lg-6">
+      <div class=" card card-chart">
+        <div class=" card-header">
+          <h4 class=" card-title">EBIT</h4>
+          
+        </div>
+        <div class=" card-body">
+
+          <div class="tab-content">
+
+            <div role="tabpanel" class="tab-pane fade in active show" id="visual4">
+              <div class=" chart-area" #ebit></div>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </div>
+    <div class=" col-lg-6">
+      <div class=" card card-chart">
+        <div class=" card-header">
+          <h4 class=" card-title">EBITDA</h4>
+          
+        </div>
+        <div class=" card-body">
+
+          <div class="tab-content">
+
+           
+            <div role="tabpanel" class="tab-pane fade in active show" id="visual3">
+              <div class=" chart-area" #ebitda></div>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </div>
+    <div class=" col-lg-6">
+      <div class=" card card-chart">
+        <div class=" card-header">
+          <h4 class=" card-title">EBT</h4>
+          
+        </div>
+        <div class=" card-body">
+
+          <div class="tab-content">
+
+           
+            <div role="tabpanel" class="tab-pane fade in active show" id="visual5">
+              <div class=" chart-area" #ebt></div>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </div>
+    <div class=" col-lg-6">
+      <div class=" card card-chart">
+        <div class=" card-header">
+          <h4 class=" card-title">Net Income</h4>
+          
+        </div>
+        <div class=" card-body">
+
+          <div class="tab-content">
+           
+            <div role="tabpanel" class="tab-pane fade in active show" id="visual2">
+              <div class=" chart-area" #netIncome></div>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </div>
+
+
+  </div>
+
+</div>

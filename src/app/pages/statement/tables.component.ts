@@ -13,7 +13,7 @@ export class TablesComponent implements OnInit{
   constructor() {}
 
   ngOnInit() {
-
+$(".cover-spin").show();
 	
  function GTF(companyName){
  window.location.href="http://34.67.197.111/#/FinancialModel?companyname="+companyName+"&scenario=1";
@@ -36,17 +36,21 @@ export class TablesComponent implements OnInit{
             "processData": false,
     
         success: function (data) {
+		$(".cover-spin").hide();
         var resData = JSON.parse(data);
         var index;
         var htmlTable = '';
         
         /*statements = [{id:439,company:"Nike-1",period:"Y",username:"user",created_at:"16-10-2019 05:57",filename:"2.Public.Fitbit.pdf"},
         {"id":449,company:"Nike-1",period:"Y",username:"user",created_at:"16-10-2019 05:57",filename:"2.Public.Fitbit.pdf"}
-        ];*/
+	];*/
+
+	let industry_arr=["Communications","Consumer & Retail","Distribution & Logistics","Energy & Natural Resources","Entertainment & Media","Financial Institutions & Sponsors","Food & Beverage","General Services","Healthcare","Hospitality","Industrials","Power, Infrastructure & Utilities","Real Estate","Technology","Telecommunications","Transportation"];
+
     
         for (index = 0; index < resData.length; index++) {
             var obj=resData;
-	    $("#dtBasicExample tr:last").after('<tr style="color:black"><td> '+ obj[index].id + '</td> <td style="color:black">'+'<a href="#/FinancialModel?companyname='+ obj[index].company +'##&scenario=1"  onclick="GTF('+obj[index].company+')" style="color:black;">'+ obj[index].company +'</a>' + '</td> <td> '+ obj[index].period  + '</td> <td> '+ obj[index].username  +' </td> <td> '+ obj[index].created_at  +' </td><td> '+ obj[index].filename  + '</td>  </tr>');
+	    $("#dtBasicExample tr:last").after('<tr style="color:black" ><td> '+ obj[index].uid + '</td> <td style="color:black;text-align:left">'+'<a href="#/FinancialModel?companyname='+ obj[index].companyname +'##&scenario=1"  onclick="GTF('+obj[index].companyname+')" style="color:black a:hover{text-decoration: underline; color:#164a5b; } text-align:left">'+ obj[index].companyname +'</a>' + '</td> <td style="text-align:left"> '+ obj[index].company  + '</td> <td style="text-align:left"> '+ industry_arr[obj[index].industry]  +' </td> <td style="text-align:left"> '+ obj[index].filename  +' </td><td style="text-align:left"> '+ obj[index].createdon + '</td><td style="text-align:left">'+obj[index].createdby+'</td>  </tr>');
         }
          
                                       }

@@ -68,7 +68,7 @@ let actualsInput = {
 				);
 			yearsArray.push(resObject[j].asof);
 			}
-				 console.log(actualObj);
+			//	 console.log(actualObj);
 	});
 }
 
@@ -138,7 +138,7 @@ loadData(scenario);
 					}
 					updateProjection(actualObj);
 					appendTotable();
-					console.log("Actual OBJ:",actualObj);
+					//console.log("Actual OBJ:",actualObj);
 					
 	
 	});

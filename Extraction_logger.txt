@@ -1,0 +1,14 @@
+
+name 'company' is not defined
+list index out of range
+list index out of range
+name 'company' is not defined
+list index out of range
+name 'company' is not defined
+list index out of range
+list index out of range
+name 'company' is not defined
+2020-03-19 18:48:56
+
+local variable 'found' referenced before assignment
+

@@ -27,8 +27,8 @@ module.exports = function(passport) {
 	
 	router.post('/login', passport.authenticate('local', { failureRedirect: '/login'}),
     function(req, res) {  
-      console.log(req.user)
-    console.log(req.session)
+    //  console.log(req.user)
+    //console.log(req.session)
     res.status(200).json({status: "SUCCESS"});          
       console.log("hello");        
             if (req.body.remember) {
@@ -73,7 +73,7 @@ module.exports = function(passport) {
   router.get('/logout', function(req, res, next) {
     req.session.destroy(function(err){
       if (err) {
-        console.log(err)
+      //  console.log(err)
         res.status(500).send({status: "Server Error"})
       } else {
         res.status(302).redirect('/')

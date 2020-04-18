@@ -1,0 +1,447 @@
+{
+    "period": [
+        {
+            "statement": [
+                {
+                    "code": "",
+                    "heading": "Assets",
+                    "transformed": "Assets",
+                    "items": []
+                },
+                {
+                    "code": "",
+                    "heading": "Current assets:",
+                    "transformed": "Current assets",
+                    "items": [
+                        {
+                            "desc": "Cash and cash equivalents",
+                            "code": "AM_BS_BA",
+                            "value": 3308000.0,
+                            "transformed": "Cash equivalents"
+                        }
+                    ]
+                },
+                {
+                    "total1": {
+                        "desc": "Total assets",
+                        "code": "",
+                        "value": 16713000.0,
+                        "transformed": "Total assets"
+                    },
+                    "transformed": "Accounts receivable",
+                    "total": {
+                        "desc": "Total current assets",
+                        "code": "AM_BS_CA",
+                        "value": 4972000.0,
+                        "transformed": "Total current assets"
+                    },
+                    "items": [
+                        {
+                            "desc": "respectively",
+                            "code": "",
+                            "value": 641000.0,
+                            "transformed": "Respectively"
+                        },
+                        {
+                            "desc": "Inventories net",
+                            "code": "",
+                            "value": 174000.0,
+                            "transformed": "Inventories net"
+                        },
+                        {
+                            "desc": "Software development",
+                            "code": "",
+                            "value": 348000.0,
+                            "transformed": "Software development"
+                        },
+                        {
+                            "desc": "Other current assets",
+                            "code": "AM_BS_OCA",
+                            "value": 501000.0,
+                            "transformed": "Other current assets"
+                        },
+                        {
+                            "desc": "Software development",
+                            "code": "",
+                            "value": 174000.0,
+                            "transformed": "Software development"
+                        },
+                        {
+                            "desc": "Property and equipment net",
+                            "code": "",
+                            "value": 281000.0,
+                            "transformed": "Ppe(net)"
+                        },
+                        {
+                            "desc": "Deferred income taxes net",
+                            "code": "",
+                            "value": 243000.0,
+                            "transformed": "Deferred income taxes net"
+                        },
+                        {
+                            "desc": "Other assets",
+                            "code": "",
+                            "value": 454000.0,
+                            "transformed": "Other assets"
+                        },
+                        {
+                            "desc": "Intangible assets net",
+                            "code": "",
+                            "value": 826000.0,
+                            "transformed": "Intangible assets"
+                        },
+                        {
+                            "desc": "Goodwill",
+                            "code": "",
+                            "value": 9763000.0,
+                            "transformed": "Goodwill"
+                        }
+                    ],
+                    "code": "AM_BS_AR",
+                    "heading": "Accounts receivable net of allowances of 119 and 279 at September 30 2018 and December 31 2017"
+                },
+                {
+                    "code": "",
+                    "heading": "Liabilities and Shareholders\u2019 Equity",
+                    "transformed": "Liabilities and shareholders equity",
+                    "items": []
+                },
+                {
+                    "total1": {
+                        "desc": "Total liabilities",
+                        "code": "",
+                        "value": 6054000.0,
+                        "transformed": "Total liabilities"
+                    },
+                    "transformed": "Current liabilities",
+                    "total": {
+                        "desc": "Total current liabilities",
+                        "code": "",
+                        "value": 2382000.0,
+                        "transformed": "Total current liabilities"
+                    },
+                    "items": [
+                        {
+                            "desc": "Accounts payable",
+                            "code": "",
+                            "value": 312000.0,
+                            "transformed": "Accounts payable"
+                        },
+                        {
+                            "desc": "Deferred revenues",
+                            "code": "",
+                            "value": 1017000.0,
+                            "transformed": "Deferred revenues"
+                        },
+                        {
+                            "desc": "Accrued expenses and other liabilities",
+                            "code": "",
+                            "value": 1053000.0,
+                            "transformed": "Accrued expenses and other liabilities"
+                        },
+                        {
+                            "desc": "Long-term debt net",
+                            "code": "",
+                            "value": 2670000.0,
+                            "transformed": "Long term debt net"
+                        },
+                        {
+                            "desc": "Deferred income taxes net",
+                            "code": "",
+                            "value": 11000.0,
+                            "transformed": "Deferred income taxes net"
+                        },
+                        {
+                            "desc": "Other liabilities",
+                            "code": "",
+                            "value": 991000.0,
+                            "transformed": "Other liabilities"
+                        }
+                    ],
+                    "code": "",
+                    "heading": "Current liabilities:"
+                },
+                {
+                    "code": "AM_BS_E",
+                    "heading": "Shareholders\u2019 equity:",
+                    "transformed": "Shareholders equity",
+                    "items": []
+                },
+                {
+                    "total1": {
+                        "desc": "Total liabilities and shareholders\u2019 equity",
+                        "code": "",
+                        "value": 16713.0,
+                        "transformed": "Total liabilities and shareholders equity"
+                    },
+                    "transformed": "Common stock par value shares authorized and",
+                    "total": {
+                        "desc": "Total shareholders\u2019 equity",
+                        "code": "",
+                        "value": 10659.0,
+                        "transformed": "Total shareholders equity"
+                    },
+                    "items": [
+                        {
+                            "desc": "shares issued at September 30 2018 and December 31 2017 respectively",
+                            "code": "",
+                            "value": "",
+                            "transformed": "Shares issued at september and december respectively"
+                        },
+                        {
+                            "desc": "Additional paid-in capital",
+                            "code": "",
+                            "value": 10928.0,
+                            "transformed": "Additional paid in capital"
+                        },
+                        {
+                            "desc": "Less: Treasury stock at cost 428676471 shares at September 30 2018 and December 31 2017",
+                            "code": "",
+                            "value": -5563.0,
+                            "transformed": "Less treasury stock at cost shares at september and december"
+                        },
+                        {
+                            "desc": "Retained earnings",
+                            "code": "",
+                            "value": 5907.0,
+                            "transformed": "Retained earnings"
+                        },
+                        {
+                            "desc": "Accumulated other comprehensive loss",
+                            "code": "",
+                            "value": -613.0,
+                            "transformed": "Accumulated other comprehensive loss"
+                        }
+                    ],
+                    "code": "",
+                    "heading": "Common stock 0.000001 par value 2400000000 shares authorized 1191665508 and 1186181666"
+                }
+            ],
+            "asof": "september302018"
+        },
+        {
+            "statement": [
+                {
+                    "code": "",
+                    "heading": "Assets",
+                    "transformed": "Assets",
+                    "items": []
+                },
+                {
+                    "code": "",
+                    "heading": "Current assets:",
+                    "transformed": "Current assets",
+                    "items": [
+                        {
+                            "desc": "Cash and cash equivalents",
+                            "code": "AM_BS_BA",
+                            "value": 4713000.0,
+                            "transformed": "Cash equivalents"
+                        }
+                    ]
+                },
+                {
+                    "total1": {
+                        "desc": "Total assets",
+                        "code": "",
+                        "value": 18668000.0,
+                        "transformed": "Total assets"
+                    },
+                    "transformed": "Accounts receivable",
+                    "total": {
+                        "desc": "Total current assets",
+                        "code": "AM_BS_CA",
+                        "value": 6520000.0,
+                        "transformed": "Total current assets"
+                    },
+                    "items": [
+                        {
+                            "desc": "respectively",
+                            "code": "",
+                            "value": 918000.0,
+                            "transformed": "Respectively"
+                        },
+                        {
+                            "desc": "Inventories net",
+                            "code": "",
+                            "value": 46000.0,
+                            "transformed": "Inventories net"
+                        },
+                        {
+                            "desc": "Software development",
+                            "code": "",
+                            "value": 367000.0,
+                            "transformed": "Software development"
+                        },
+                        {
+                            "desc": "Other current assets",
+                            "code": "AM_BS_OCA",
+                            "value": 476000.0,
+                            "transformed": "Other current assets"
+                        },
+                        {
+                            "desc": "Software development",
+                            "code": "",
+                            "value": 86000.0,
+                            "transformed": "Software development"
+                        },
+                        {
+                            "desc": "Property and equipment net",
+                            "code": "",
+                            "value": 294000.0,
+                            "transformed": "Ppe(net)"
+                        },
+                        {
+                            "desc": "Deferred income taxes net",
+                            "code": "",
+                            "value": 459000.0,
+                            "transformed": "Deferred income taxes net"
+                        },
+                        {
+                            "desc": "Other assets",
+                            "code": "",
+                            "value": 440000.0,
+                            "transformed": "Other assets"
+                        },
+                        {
+                            "desc": "Intangible assets net",
+                            "code": "",
+                            "value": 1106000.0,
+                            "transformed": "Intangible assets"
+                        },
+                        {
+                            "desc": "Goodwill",
+                            "code": "",
+                            "value": 9763000.0,
+                            "transformed": "Goodwill"
+                        }
+                    ],
+                    "code": "AM_BS_AR",
+                    "heading": "Accounts receivable net of allowances of 119 and 279 at September 30 2018 and December 31 2017"
+                },
+                {
+                    "code": "",
+                    "heading": "Liabilities and Shareholders\u2019 Equity",
+                    "transformed": "Liabilities and shareholders equity",
+                    "items": []
+                },
+                {
+                    "total1": {
+                        "desc": "Total liabilities",
+                        "code": "",
+                        "value": 9206000.0,
+                        "transformed": "Total liabilities"
+                    },
+                    "transformed": "Current liabilities",
+                    "total": {
+                        "desc": "Total current liabilities",
+                        "code": "",
+                        "value": 3663000.0,
+                        "transformed": "Total current liabilities"
+                    },
+                    "items": [
+                        {
+                            "desc": "Accounts payable",
+                            "code": "",
+                            "value": 323000.0,
+                            "transformed": "Accounts payable"
+                        },
+                        {
+                            "desc": "Deferred revenues",
+                            "code": "",
+                            "value": 1929000.0,
+                            "transformed": "Deferred revenues"
+                        },
+                        {
+                            "desc": "Accrued expenses and other liabilities",
+                            "code": "",
+                            "value": 1411000.0,
+                            "transformed": "Accrued expenses and other liabilities"
+                        },
+                        {
+                            "desc": "Long-term debt net",
+                            "code": "",
+                            "value": 4390000.0,
+                            "transformed": "Long term debt net"
+                        },
+                        {
+                            "desc": "Deferred income taxes net",
+                            "code": "",
+                            "value": 21000.0,
+                            "transformed": "Deferred income taxes net"
+                        },
+                        {
+                            "desc": "Other liabilities",
+                            "code": "",
+                            "value": 1132000.0,
+                            "transformed": "Other liabilities"
+                        }
+                    ],
+                    "code": "",
+                    "heading": "Current liabilities:"
+                },
+                {
+                    "code": "AM_BS_E",
+                    "heading": "Shareholders\u2019 equity:",
+                    "transformed": "Shareholders equity",
+                    "items": []
+                },
+                {
+                    "total1": {
+                        "desc": "Total liabilities and shareholders\u2019 equity",
+                        "code": "",
+                        "value": 18668.0,
+                        "transformed": "Total liabilities and shareholders equity"
+                    },
+                    "transformed": "Common stock par value shares authorized and",
+                    "total": {
+                        "desc": "Total shareholders\u2019 equity",
+                        "code": "",
+                        "value": 9462.0,
+                        "transformed": "Total shareholders equity"
+                    },
+                    "items": [
+                        {
+                            "desc": "shares issued at September 30 2018 and December 31 2017 respectively",
+                            "code": "",
+                            "value": "",
+                            "transformed": "Shares issued at september and december respectively"
+                        },
+                        {
+                            "desc": "Additional paid-in capital",
+                            "code": "",
+                            "value": 10747.0,
+                            "transformed": "Additional paid in capital"
+                        },
+                        {
+                            "desc": "Less: Treasury stock at cost 428676471 shares at September 30 2018 and December 31 2017",
+                            "code": "",
+                            "value": -5563.0,
+                            "transformed": "Less treasury stock at cost shares at september and december"
+                        },
+                        {
+                            "desc": "Retained earnings",
+                            "code": "",
+                            "value": 4916.0,
+                            "transformed": "Retained earnings"
+                        },
+                        {
+                            "desc": "Accumulated other comprehensive loss",
+                            "code": "",
+                            "value": -638.0,
+                            "transformed": "Accumulated other comprehensive loss"
+                        }
+                    ],
+                    "code": "",
+                    "heading": "Common stock 0.000001 par value 2400000000 shares authorized 1191665508 and 1186181666"
+                }
+            ],
+            "asof": "december312017"
+        }
+    ],
+    "title": "consolidated balance sheets",
+    "currency": "USD",
+    "type": "Balance_sheet",
+    "company": "activision blizzard inc",
+    "units": "millions"
+}

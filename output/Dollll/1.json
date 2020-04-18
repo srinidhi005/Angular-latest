@@ -1,0 +1,336 @@
+{
+    "units": "thousands",
+    "company": "dollar general corporation",
+    "title": "consolidated statements of income",
+    "type": "statement_of_income",
+    "currency": "USD",
+    "period": [
+        {
+            "asof": "february12019",
+            "statement": [
+                {
+                    "value": 25625043.0,
+                    "desc": "Net sales",
+                    "transformed": "Net revenue",
+                    "code": "AM_IS_I"
+                },
+                {
+                    "value": 17821173.0,
+                    "desc": "Cost of goods sold",
+                    "transformed": "Cost of revenue",
+                    "code": "AM_IS_CORS"
+                },
+                {
+                    "value": 7803870.0,
+                    "desc": "Gross profit",
+                    "transformed": "Gross profit",
+                    "code": "AM_IS_GP"
+                },
+                {
+                    "value": 5687564.0,
+                    "desc": "Selling general and administrative expenses",
+                    "transformed": "Selling general and administrative expenses",
+                    "code": ""
+                },
+                {
+                    "value": 2116306.0,
+                    "desc": "Operating profit",
+                    "transformed": "Operating income/loss",
+                    "code": "AM_IS_NOI"
+                },
+                {
+                    "value": 99871.0,
+                    "desc": "Interest expense",
+                    "transformed": "Interest expense",
+                    "code": ""
+                },
+                {
+                    "value": 1019.0,
+                    "desc": "Other -income expense",
+                    "transformed": "Other income expense",
+                    "code": ""
+                },
+                {
+                    "value": 2015416.0,
+                    "desc": "Income before income taxes",
+                    "transformed": "Income before income taxes",
+                    "code": ""
+                },
+                {
+                    "value": 425944.0,
+                    "desc": "Income tax expense",
+                    "transformed": "Provision for income taxes",
+                    "code": ""
+                },
+                {
+                    "value": 1589472.0,
+                    "desc": "Net income",
+                    "transformed": "Net income/loss",
+                    "code": "AM_BS_NI"
+                },
+                {
+                    "heading": "Earnings per share:",
+                    "transformed": "Earnings per share",
+                    "code": "",
+                    "items": [
+                        {
+                            "value": 5.99,
+                            "desc": "Basic",
+                            "transformed": "Basic",
+                            "code": ""
+                        },
+                        {
+                            "value": 5.97,
+                            "desc": "Diluted",
+                            "transformed": "Diluted",
+                            "code": ""
+                        }
+                    ]
+                },
+                {
+                    "heading": "Weighted average shares outstanding:",
+                    "transformed": "Weighted average shares outstanding",
+                    "code": "",
+                    "items": [
+                        {
+                            "value": 265155.0,
+                            "desc": "Basic",
+                            "transformed": "Basic",
+                            "code": ""
+                        },
+                        {
+                            "value": 266105.0,
+                            "desc": "Diluted",
+                            "transformed": "Diluted",
+                            "code": ""
+                        }
+                    ]
+                },
+                {
+                    "value": 1.16,
+                    "desc": "Dividends per share",
+                    "transformed": "Dividends per share",
+                    "code": ""
+                }
+            ]
+        },
+        {
+            "asof": "february22018",
+            "statement": [
+                {
+                    "value": 23470967.0,
+                    "desc": "Net sales",
+                    "transformed": "Net revenue",
+                    "code": "AM_IS_I"
+                },
+                {
+                    "value": 16249608.0,
+                    "desc": "Cost of goods sold",
+                    "transformed": "Cost of revenue",
+                    "code": "AM_IS_CORS"
+                },
+                {
+                    "value": 7221359.0,
+                    "desc": "Gross profit",
+                    "transformed": "Gross profit",
+                    "code": "AM_IS_GP"
+                },
+                {
+                    "value": 5213541.0,
+                    "desc": "Selling general and administrative expenses",
+                    "transformed": "Selling general and administrative expenses",
+                    "code": ""
+                },
+                {
+                    "value": 2007818.0,
+                    "desc": "Operating profit",
+                    "transformed": "Operating income/loss",
+                    "code": "AM_IS_NOI"
+                },
+                {
+                    "value": 97036.0,
+                    "desc": "Interest expense",
+                    "transformed": "Interest expense",
+                    "code": ""
+                },
+                {
+                    "value": 3502.0,
+                    "desc": "Other -income expense",
+                    "transformed": "Other income expense",
+                    "code": ""
+                },
+                {
+                    "value": 1907280.0,
+                    "desc": "Income before income taxes",
+                    "transformed": "Income before income taxes",
+                    "code": ""
+                },
+                {
+                    "value": 368320.0,
+                    "desc": "Income tax expense",
+                    "transformed": "Provision for income taxes",
+                    "code": ""
+                },
+                {
+                    "value": 1538960.0,
+                    "desc": "Net income",
+                    "transformed": "Net income/loss",
+                    "code": "AM_BS_NI"
+                },
+                {
+                    "heading": "Earnings per share:",
+                    "transformed": "Earnings per share",
+                    "code": "",
+                    "items": [
+                        {
+                            "value": 5.64,
+                            "desc": "Basic",
+                            "transformed": "Basic",
+                            "code": ""
+                        },
+                        {
+                            "value": 5.63,
+                            "desc": "Diluted",
+                            "transformed": "Diluted",
+                            "code": ""
+                        }
+                    ]
+                },
+                {
+                    "heading": "Weighted average shares outstanding:",
+                    "transformed": "Weighted average shares outstanding",
+                    "code": "",
+                    "items": [
+                        {
+                            "value": 272751.0,
+                            "desc": "Basic",
+                            "transformed": "Basic",
+                            "code": ""
+                        },
+                        {
+                            "value": 273362.0,
+                            "desc": "Diluted",
+                            "transformed": "Diluted",
+                            "code": ""
+                        }
+                    ]
+                },
+                {
+                    "value": 1.04,
+                    "desc": "Dividends per share",
+                    "transformed": "Dividends per share",
+                    "code": ""
+                }
+            ]
+        },
+        {
+            "asof": "february32017",
+            "statement": [
+                {
+                    "value": 21986598.0,
+                    "desc": "Net sales",
+                    "transformed": "Net revenue",
+                    "code": "AM_IS_I"
+                },
+                {
+                    "value": 15203960.0,
+                    "desc": "Cost of goods sold",
+                    "transformed": "Cost of revenue",
+                    "code": "AM_IS_CORS"
+                },
+                {
+                    "value": 6782638.0,
+                    "desc": "Gross profit",
+                    "transformed": "Gross profit",
+                    "code": "AM_IS_GP"
+                },
+                {
+                    "value": 4719189.0,
+                    "desc": "Selling general and administrative expenses",
+                    "transformed": "Selling general and administrative expenses",
+                    "code": ""
+                },
+                {
+                    "value": 2063449.0,
+                    "desc": "Operating profit",
+                    "transformed": "Operating income/loss",
+                    "code": "AM_IS_NOI"
+                },
+                {
+                    "value": 97821.0,
+                    "desc": "Interest expense",
+                    "transformed": "Interest expense",
+                    "code": ""
+                },
+                {
+                    "value": "",
+                    "desc": "Other -income expense",
+                    "transformed": "Other income expense",
+                    "code": ""
+                },
+                {
+                    "value": 1965628.0,
+                    "desc": "Income before income taxes",
+                    "transformed": "Income before income taxes",
+                    "code": ""
+                },
+                {
+                    "value": 714495.0,
+                    "desc": "Income tax expense",
+                    "transformed": "Provision for income taxes",
+                    "code": ""
+                },
+                {
+                    "value": 1251133.0,
+                    "desc": "Net income",
+                    "transformed": "Net income/loss",
+                    "code": "AM_BS_NI"
+                },
+                {
+                    "heading": "Earnings per share:",
+                    "transformed": "Earnings per share",
+                    "code": "",
+                    "items": [
+                        {
+                            "value": 4.45,
+                            "desc": "Basic",
+                            "transformed": "Basic",
+                            "code": ""
+                        },
+                        {
+                            "value": 4.43,
+                            "desc": "Diluted",
+                            "transformed": "Diluted",
+                            "code": ""
+                        }
+                    ]
+                },
+                {
+                    "heading": "Weighted average shares outstanding:",
+                    "transformed": "Weighted average shares outstanding",
+                    "code": "",
+                    "items": [
+                        {
+                            "value": 281317.0,
+                            "desc": "Basic",
+                            "transformed": "Basic",
+                            "code": ""
+                        },
+                        {
+                            "value": 282261.0,
+                            "desc": "Diluted",
+                            "transformed": "Diluted",
+                            "code": ""
+                        }
+                    ]
+                },
+                {
+                    "value": 1.0,
+                    "desc": "Dividends per share",
+                    "transformed": "Dividends per share",
+                    "code": ""
+                }
+            ]
+        }
+    ]
+}

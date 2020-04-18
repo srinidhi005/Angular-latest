@@ -1,0 +1,333 @@
+17:16:53.361 INFO  chandru 
+17:17:00.656 INFO  chandru 
+17:22:24.091 INFO  chandru 
+17:22:55.012 INFO  file uploading level 0uploads/1.Public_Nike.pdf 
+17:22:55.012 INFO  file uploading level 1 
+17:22:55.066 INFO  file uploading level 2 
+17:22:55.074 INFO  file uploding level3 
+17:26:58.699 INFO  chandru 
+17:28:29.277 INFO  file uploading level 0uploads/1.Public_Nike.pdf 
+17:28:29.277 INFO  file uploading level 1 
+17:28:29.316 INFO  file uploading level 2 
+17:28:29.321 INFO  file uploding level3 
+17:29:51.501 INFO  file uploading level 0uploads/1.Public_Nike.pdf 
+17:29:51.501 INFO  file uploading level 1 
+17:29:51.511 INFO  file uploading level 2 
+17:29:51.512 INFO  file uploding level3 
+17:32:47.448 INFO  chandru 
+17:39:20.843 INFO  chandru 
+17:39:44.128 INFO  file uploading level 0uploads/1.Public_Nike.pdf 
+17:39:44.128 INFO  file uploading level 1 
+17:39:44.166 INFO  level1{"type":"pdf","data":{"fieldname":"file","originalname":"1.Public_Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public_Nike.pdf","path":"uploads/1.Public_Nike.pdf","size":88151,"company":"PNike21Jan20201109","period":"Y","statementtype":"All Statements","industry":"Energy & Natural Resources","statementId":1147},"priority":0,"progress":0,"attempts":{"made":0,"remaining":1,"max":1}} 
+17:39:44.166 INFO  level2{"fieldname":"file","originalname":"1.Public_Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public_Nike.pdf","path":"uploads/1.Public_Nike.pdf","size":88151} 
+17:39:44.166 INFO  level3{"company":"PNike21Jan20201109","period":"Y","statementtype":"All Statements","industry":"Energy & Natural Resources"} 
+17:39:44.166 INFO  level41147 
+17:39:44.166 INFO  level5PNike21Jan20201109 
+17:39:44.166 INFO  level6Y 
+17:39:44.166 INFO  file uploading level 2/home/srinidhi/angular/output/2ExtractionJSON 
+17:39:44.172 INFO  file uploding level3 
+17:42:38.885 INFO  file uploading level 0uploads/1.Public_Nike.pdf 
+17:42:38.885 INFO  file uploading level 1 
+17:42:38.894 INFO  level1{"type":"pdf","data":{"fieldname":"file","originalname":"1.Public_Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public_Nike.pdf","path":"uploads/1.Public_Nike.pdf","size":88151,"company":"PNike21Jan20201112","period":"Y","statementtype":"All Statements","industry":"Entertainment & Media","statementId":1148},"priority":0,"progress":0,"attempts":{"made":0,"remaining":1,"max":1}} 
+17:42:38.894 INFO  level2{"fieldname":"file","originalname":"1.Public_Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public_Nike.pdf","path":"uploads/1.Public_Nike.pdf","size":88151} 
+17:42:38.894 INFO  level3{"company":"PNike21Jan20201112","period":"Y","statementtype":"All Statements","industry":"Entertainment & Media"} 
+17:42:38.894 INFO  level41148 
+17:42:38.894 INFO  level5PNike21Jan20201112 
+17:42:38.894 INFO  level6Y 
+17:42:38.894 INFO  file uploading level 2/home/srinidhi/angular/output/2ExtractionJSON 
+17:42:38.897 INFO  file uploding level3 
+17:47:19.284 INFO  chandru 
+17:47:42.288 INFO  ========================================= 
+17:47:42.288 INFO  file uploading level 0uploads/1.Public_Nike.pdf 
+17:47:42.288 INFO  file uploading level 1 
+17:47:42.361 INFO  level1{"type":"pdf","data":{"fieldname":"file","originalname":"1.Public_Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public_Nike.pdf","path":"uploads/1.Public_Nike.pdf","size":88151,"company":"SNike21Jan20201117","period":"Y","statementtype":"All Statements","industry":"Energy & Natural Resources","statementId":1149},"priority":0,"progress":0,"attempts":{"made":0,"remaining":1,"max":1}} 
+17:47:42.361 INFO  level2{"fieldname":"file","originalname":"1.Public_Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public_Nike.pdf","path":"uploads/1.Public_Nike.pdf","size":88151} 
+17:47:42.361 INFO  level3{"company":"SNike21Jan20201117","period":"Y","statementtype":"All Statements","industry":"Energy & Natural Resources"} 
+17:47:42.361 INFO  level41149 
+17:47:42.361 INFO  level5SNike21Jan20201117 
+17:47:42.361 INFO  level6Y 
+17:47:42.361 INFO  file uploading level 2/home/srinidhi/angular/output/2ExtractionJSON 
+17:47:42.370 INFO  file uploding level3 
+17:49:54.766 INFO  ========================================= 
+17:49:54.766 INFO  file uploading level 0uploads/1.Public_Nike.pdf 
+17:49:54.766 INFO  file uploading level 1 
+17:49:54.776 INFO  level1{"type":"pdf","data":{"fieldname":"file","originalname":"1.Public_Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public_Nike.pdf","path":"uploads/1.Public_Nike.pdf","size":88151,"company":"SNike21Jan20201119","period":"Y","statementtype":"All Statements","industry":"Entertainment & Media","statementId":1150},"priority":0,"progress":0,"attempts":{"made":0,"remaining":1,"max":1}} 
+17:49:54.776 INFO  level2{"fieldname":"file","originalname":"1.Public_Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public_Nike.pdf","path":"uploads/1.Public_Nike.pdf","size":88151} 
+17:49:54.776 INFO  level3{"company":"SNike21Jan20201119","period":"Y","statementtype":"All Statements","industry":"Entertainment & Media"} 
+17:49:54.776 INFO  level41150 
+17:49:54.776 INFO  level5SNike21Jan20201119 
+17:49:54.776 INFO  level6Y 
+17:49:54.776 INFO  file uploading level 2/home/srinidhi/angular/output/2ExtractionJSON 
+17:49:54.780 INFO  file uploding level3 
+16:57:10.894 INFO  ========================================= 
+16:57:10.894 INFO  file uploading level 0uploads/Nike.pdf 
+16:57:10.894 INFO  file uploading level 1 
+16:57:10.901 INFO  level1{"type":"pdf","data":{"fieldname":"file","originalname":"Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"Nike.pdf","path":"uploads/Nike.pdf","size":88151,"company":"ABCNike","period":"M","statementtype":"Balance Sheet","industry":"Healthcare","statementId":1151},"priority":0,"progress":0,"attempts":{"made":0,"remaining":1,"max":1}} 
+16:57:10.902 INFO  level2{"fieldname":"file","originalname":"Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"Nike.pdf","path":"uploads/Nike.pdf","size":88151} 
+16:57:10.902 INFO  level3{"company":"ABCNike","period":"M","statementtype":"Balance Sheet","industry":"Healthcare"} 
+16:57:10.902 INFO  level41151 
+16:57:10.902 INFO  level5ABCNike 
+16:57:10.902 INFO  level6M 
+16:57:10.902 INFO  file uploading level 2/home/srinidhi/angular/output/2ExtractionJSON 
+16:57:10.906 INFO  file uploding level3 
+16:59:11.666 INFO  ========================================= 
+16:59:11.666 INFO  file uploading level 0uploads/Nike.pdf 
+16:59:11.666 INFO  file uploading level 1 
+16:59:11.673 INFO  level1{"type":"pdf","data":{"fieldname":"file","originalname":"Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"Nike.pdf","path":"uploads/Nike.pdf","size":88151,"company":"ABCNike1","period":"Q","statementtype":"Income Statement","industry":"Food & Beverage","statementId":1152},"priority":0,"progress":0,"attempts":{"made":0,"remaining":1,"max":1}} 
+16:59:11.673 INFO  level2{"fieldname":"file","originalname":"Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"Nike.pdf","path":"uploads/Nike.pdf","size":88151} 
+16:59:11.673 INFO  level3{"company":"ABCNike1","period":"Q","statementtype":"Income Statement","industry":"Food & Beverage"} 
+16:59:11.673 INFO  level41152 
+16:59:11.673 INFO  level5ABCNike1 
+16:59:11.673 INFO  level6Q 
+16:59:11.673 INFO  file uploading level 2/home/srinidhi/angular/output/2ExtractionJSON 
+16:59:11.676 INFO  file uploding level3 
+17:06:03.097 INFO  ========================================= 
+17:06:03.097 INFO  file uploading level 0uploads/Nike.pdf 
+17:06:03.097 INFO  file uploading level 1 
+17:06:03.105 INFO  level1{"type":"pdf","data":{"fieldname":"file","originalname":"Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"Nike.pdf","path":"uploads/Nike.pdf","size":88151,"company":"ABCNike2","period":"Q","statementtype":"Income Statement","industry":"Power, Infrastructure & Utilities","statementId":1153},"priority":0,"progress":0,"attempts":{"made":0,"remaining":1,"max":1}} 
+17:06:03.105 INFO  level2{"fieldname":"file","originalname":"Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"Nike.pdf","path":"uploads/Nike.pdf","size":88151} 
+17:06:03.105 INFO  level3{"company":"ABCNike2","period":"Q","statementtype":"Income Statement","industry":"Power, Infrastructure & Utilities"} 
+17:06:03.105 INFO  level41153 
+17:06:03.105 INFO  level5ABCNike2 
+17:06:03.105 INFO  level6Q 
+17:06:03.105 INFO  file uploading level 2/home/srinidhi/angular/output/2ExtractionJSON 
+17:06:03.108 INFO  file uploding level3 
+17:13:55.983 INFO  ========================================= 
+17:13:55.983 INFO  file uploading level 0uploads/Nike.pdf 
+17:13:55.983 INFO  file uploading level 1 
+17:13:55.991 INFO  level1{"type":"pdf","data":{"fieldname":"file","originalname":"Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"Nike.pdf","path":"uploads/Nike.pdf","size":88151,"company":"ABCNike3","period":"M","statementtype":"Balance Sheet","industry":"Healthcare","statementId":1154},"priority":0,"progress":0,"attempts":{"made":0,"remaining":1,"max":1}} 
+17:13:55.991 INFO  level2{"fieldname":"file","originalname":"Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"Nike.pdf","path":"uploads/Nike.pdf","size":88151} 
+17:13:55.991 INFO  level3{"company":"ABCNike3","period":"M","statementtype":"Balance Sheet","industry":"Healthcare"} 
+17:13:55.991 INFO  level41154 
+17:13:55.991 INFO  level5ABCNike3 
+17:13:55.991 INFO  level6M 
+17:13:55.992 INFO  file uploading level 2/home/srinidhi/angular/output/2ExtractionJSON 
+17:13:55.995 INFO  file uploding level3 
+17:14:53.705 INFO  ========================================= 
+17:14:53.705 INFO  file uploading level 0uploads/Nike-Copy.pdf 
+17:14:53.705 INFO  file uploading level 1 
+17:14:53.712 INFO  level1{"type":"pdf","data":{"fieldname":"file","originalname":"Nike - Copy.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"Nike-Copy.pdf","path":"uploads/Nike-Copy.pdf","size":88151,"company":"ABCNike4","period":"M","statementtype":"Balance Sheet","industry":"Healthcare","statementId":1155},"priority":0,"progress":0,"attempts":{"made":0,"remaining":1,"max":1}} 
+17:14:53.713 INFO  level2{"fieldname":"file","originalname":"Nike - Copy.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"Nike-Copy.pdf","path":"uploads/Nike-Copy.pdf","size":88151} 
+17:14:53.713 INFO  level3{"company":"ABCNike4","period":"M","statementtype":"Balance Sheet","industry":"Healthcare"} 
+17:14:53.713 INFO  level41155 
+17:14:53.713 INFO  level5ABCNike4 
+17:14:53.713 INFO  level6M 
+17:14:53.713 INFO  file uploading level 2/home/srinidhi/angular/output/2ExtractionJSON 
+17:14:53.715 INFO  file uploding level3 
+17:15:47.177 INFO  ========================================= 
+17:15:47.177 INFO  file uploading level 0uploads/Nike-Copy.pdf 
+17:15:47.177 INFO  file uploading level 1 
+17:15:47.183 INFO  level1{"type":"pdf","data":{"fieldname":"file","originalname":"Nike - Copy.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"Nike-Copy.pdf","path":"uploads/Nike-Copy.pdf","size":88151,"company":"ABCNike5","period":"M","statementtype":"Balance Sheet","industry":"Power, Infrastructure & Utilities","statementId":1156},"priority":0,"progress":0,"attempts":{"made":0,"remaining":1,"max":1}} 
+17:15:47.183 INFO  level2{"fieldname":"file","originalname":"Nike - Copy.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"Nike-Copy.pdf","path":"uploads/Nike-Copy.pdf","size":88151} 
+17:15:47.183 INFO  level3{"company":"ABCNike5","period":"M","statementtype":"Balance Sheet","industry":"Power, Infrastructure & Utilities"} 
+17:15:47.183 INFO  level41156 
+17:15:47.183 INFO  level5ABCNike5 
+17:15:47.183 INFO  level6M 
+17:15:47.184 INFO  file uploading level 2/home/srinidhi/angular/output/2ExtractionJSON 
+17:15:47.186 INFO  file uploding level3 
+17:16:39.129 INFO  ========================================= 
+17:16:39.129 INFO  file uploading level 0uploads/Tesla.pdf 
+17:16:39.129 INFO  file uploading level 1 
+17:16:39.137 INFO  level1{"type":"pdf","data":{"fieldname":"file","originalname":"Tesla.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"Tesla.pdf","path":"uploads/Tesla.pdf","size":66443,"company":"ABCTestla","period":"M","statementtype":"Income Statement","industry":"Industrials","statementId":1157},"priority":0,"progress":0,"attempts":{"made":0,"remaining":1,"max":1}} 
+17:16:39.137 INFO  level2{"fieldname":"file","originalname":"Tesla.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"Tesla.pdf","path":"uploads/Tesla.pdf","size":66443} 
+17:16:39.137 INFO  level3{"company":"ABCTestla","period":"M","statementtype":"Income Statement","industry":"Industrials"} 
+17:16:39.137 INFO  level41157 
+17:16:39.137 INFO  level5ABCTestla 
+17:16:39.137 INFO  level6M 
+17:16:39.137 INFO  file uploading level 2/home/srinidhi/angular/output/2ExtractionJSON 
+17:16:39.140 INFO  file uploding level3 
+19:10:44.769 INFO  ========================================= 
+19:10:44.769 INFO  file uploading level 0uploads/Nike.pdf 
+19:10:44.769 INFO  file uploading level 1 
+19:10:44.777 INFO  level1{"type":"pdf","data":{"fieldname":"file","originalname":"Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"Nike.pdf","path":"uploads/Nike.pdf","size":88151,"company":"ABCNike6","period":"M","statementtype":"Income Statement","industry":"Power, Infrastructure & Utilities","statementId":1158},"priority":0,"progress":0,"attempts":{"made":0,"remaining":1,"max":1}} 
+19:10:44.777 INFO  level2{"fieldname":"file","originalname":"Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"Nike.pdf","path":"uploads/Nike.pdf","size":88151} 
+19:10:44.777 INFO  level3{"company":"ABCNike6","period":"M","statementtype":"Income Statement","industry":"Power, Infrastructure & Utilities"} 
+19:10:44.777 INFO  level41158 
+19:10:44.777 INFO  level5ABCNike6 
+19:10:44.777 INFO  level6M 
+19:10:44.777 INFO  file uploading level 2/home/srinidhi/angular/output/2ExtractionJSON 
+19:10:44.780 INFO  file uploding level3 
+19:12:09.701 INFO  ========================================= 
+19:12:09.701 INFO  file uploading level 0uploads/Nike.pdf 
+19:12:09.701 INFO  file uploading level 1 
+19:12:09.708 INFO  level1{"type":"pdf","data":{"fieldname":"file","originalname":"Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"Nike.pdf","path":"uploads/Nike.pdf","size":88151,"company":"ABCNike7","period":"Q","statementtype":"Income Statement","industry":"Power, Infrastructure & Utilities","statementId":1159},"priority":0,"progress":0,"attempts":{"made":0,"remaining":1,"max":1}} 
+19:12:09.708 INFO  level2{"fieldname":"file","originalname":"Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"Nike.pdf","path":"uploads/Nike.pdf","size":88151} 
+19:12:09.708 INFO  level3{"company":"ABCNike7","period":"Q","statementtype":"Income Statement","industry":"Power, Infrastructure & Utilities"} 
+19:12:09.708 INFO  level41159 
+19:12:09.708 INFO  level5ABCNike7 
+19:12:09.708 INFO  level6Q 
+19:12:09.708 INFO  file uploading level 2/home/srinidhi/angular/output/2ExtractionJSON 
+19:12:09.711 INFO  file uploding level3 
+10:28:17.947 INFO  chandru 
+10:37:02.062 INFO  chandru 
+10:37:40.405 INFO  chandru 
+11:17:43.258 INFO  chandru 
+11:28:36.591 INFO  ========================================= 
+11:28:36.591 INFO  file uploading level 0uploads/1.Public.Nike.pdf 
+11:28:36.591 INFO  file uploading level 1 
+11:28:36.651 INFO  level1{"type":"pdf","data":{"fieldname":"file","originalname":"1.Public.Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public.Nike.pdf","path":"uploads/1.Public.Nike.pdf","size":88151,"company":"Nike230120201658","period":"Y","statementtype":"All Statements","industry":"Consumer & Retail","statementId":1172},"priority":0,"progress":0,"attempts":{"made":0,"remaining":1,"max":1}} 
+11:28:36.651 INFO  level2{"fieldname":"file","originalname":"1.Public.Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public.Nike.pdf","path":"uploads/1.Public.Nike.pdf","size":88151} 
+11:28:36.651 INFO  level3{"company":"Nike230120201658","period":"Y","statementtype":"All Statements","industry":"Consumer & Retail"} 
+11:28:36.651 INFO  level41172 
+11:28:36.651 INFO  level5Nike230120201658 
+11:28:36.651 INFO  level6Y 
+11:28:36.651 INFO  file uploading level 2/home/srinidhi/angular/output/2ExtractionJSON 
+11:28:36.657 INFO  file uploding level3 
+11:33:58.192 INFO  ========================================= 
+11:33:58.192 INFO  file uploading level 0uploads/2.Public.Fitbit.pdf 
+11:33:58.192 INFO  file uploading level 1 
+11:33:58.201 INFO  level1{"type":"pdf","data":{"fieldname":"file","originalname":"2.Public.Fitbit.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"2.Public.Fitbit.pdf","path":"uploads/2.Public.Fitbit.pdf","size":160652,"company":"Fitbit230120201507","period":"Y","statementtype":"All Statements","industry":"Consumer & Retail","statementId":1173},"priority":0,"progress":0,"attempts":{"made":0,"remaining":1,"max":1}} 
+11:33:58.201 INFO  level2{"fieldname":"file","originalname":"2.Public.Fitbit.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"2.Public.Fitbit.pdf","path":"uploads/2.Public.Fitbit.pdf","size":160652} 
+11:33:58.201 INFO  level3{"company":"Fitbit230120201507","period":"Y","statementtype":"All Statements","industry":"Consumer & Retail"} 
+11:33:58.201 INFO  level41173 
+11:33:58.201 INFO  level5Fitbit230120201507 
+11:33:58.201 INFO  level6Y 
+11:33:58.201 INFO  file uploading level 2/home/srinidhi/angular/output/2ExtractionJSON 
+11:33:58.204 INFO  file uploding level3 
+11:35:00.398 INFO  ========================================= 
+11:35:00.398 INFO  file uploading level 0uploads/1.Public.Nike.pdf 
+11:35:00.398 INFO  file uploading level 1 
+11:35:00.407 INFO  level1{"type":"pdf","data":{"fieldname":"file","originalname":"1.Public.Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public.Nike.pdf","path":"uploads/1.Public.Nike.pdf","size":88151,"company":"Nike230120201704","period":"Y","statementtype":"All Statements","industry":"Consumer & Retail","statementId":1174},"priority":0,"progress":0,"attempts":{"made":0,"remaining":1,"max":1}} 
+11:35:00.407 INFO  level2{"fieldname":"file","originalname":"1.Public.Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public.Nike.pdf","path":"uploads/1.Public.Nike.pdf","size":88151} 
+11:35:00.407 INFO  level3{"company":"Nike230120201704","period":"Y","statementtype":"All Statements","industry":"Consumer & Retail"} 
+11:35:00.407 INFO  level41174 
+11:35:00.407 INFO  level5Nike230120201704 
+11:35:00.407 INFO  level6Y 
+11:35:00.407 INFO  file uploading level 2/home/srinidhi/angular/output/2ExtractionJSON 
+11:35:00.410 INFO  file uploding level3 
+11:39:09.702 INFO  chandru 
+11:39:48.580 INFO  ========================================= 
+11:39:48.580 INFO  file uploading level 0uploads/1.Public.Nike.pdf 
+11:39:48.580 INFO  file uploading level 1 
+11:39:48.617 INFO  level1{"type":"pdf","data":{"fieldname":"file","originalname":"1.Public.Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public.Nike.pdf","path":"uploads/1.Public.Nike.pdf","size":88151,"company":"Nike230120201709","period":"Y","statementtype":"All Statements","industry":"Consumer & Retail","statementId":1175},"priority":0,"progress":0,"attempts":{"made":0,"remaining":1,"max":1}} 
+11:39:48.617 INFO  level2{"fieldname":"file","originalname":"1.Public.Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public.Nike.pdf","path":"uploads/1.Public.Nike.pdf","size":88151} 
+11:39:48.617 INFO  level3{"company":"Nike230120201709","period":"Y","statementtype":"All Statements","industry":"Consumer & Retail"} 
+11:39:48.617 INFO  level41175 
+11:39:48.617 INFO  level5Nike230120201709 
+11:39:48.617 INFO  level6Y 
+11:39:48.617 INFO  file uploading level 2/home/srinidhi/angular/output/2ExtractionJSON 
+11:39:48.627 INFO  file uploding level3 
+11:40:19.249 INFO  ========================================= 
+11:40:19.249 INFO  file uploading level 0uploads/1.Public.Nike.pdf 
+11:40:19.249 INFO  file uploading level 1 
+11:40:19.259 INFO  level1{"type":"pdf","data":{"fieldname":"file","originalname":"1.Public.Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public.Nike.pdf","path":"uploads/1.Public.Nike.pdf","size":88151,"company":"Nike230120201710","period":"Y","statementtype":"All Statements","industry":"Consumer & Retail","statementId":1176},"priority":0,"progress":0,"attempts":{"made":0,"remaining":1,"max":1}} 
+11:40:19.259 INFO  level2{"fieldname":"file","originalname":"1.Public.Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public.Nike.pdf","path":"uploads/1.Public.Nike.pdf","size":88151} 
+11:40:19.259 INFO  level3{"company":"Nike230120201710","period":"Y","statementtype":"All Statements","industry":"Consumer & Retail"} 
+11:40:19.259 INFO  level41176 
+11:40:19.259 INFO  level5Nike230120201710 
+11:40:19.259 INFO  level6Y 
+11:40:19.259 INFO  file uploading level 2/home/srinidhi/angular/output/2ExtractionJSON 
+11:40:19.262 INFO  file uploding level3 
+11:42:08.093 INFO  chandru 
+11:42:52.544 INFO  ========================================= 
+11:42:52.544 INFO  file uploading level 0uploads/1.Public.Nike.pdf 
+11:42:52.544 INFO  file uploading level 1 
+11:42:52.586 INFO  level1{"type":"pdf","data":{"fieldname":"file","originalname":"1.Public.Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public.Nike.pdf","path":"uploads/1.Public.Nike.pdf","size":88151,"company":"Nike230120201712","period":"Y","statementtype":"All Statements","industry":"Consumer & Retail","statementId":1177},"priority":0,"progress":0,"attempts":{"made":0,"remaining":1,"max":1}} 
+11:42:52.586 INFO  level2{"fieldname":"file","originalname":"1.Public.Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public.Nike.pdf","path":"uploads/1.Public.Nike.pdf","size":88151} 
+11:42:52.586 INFO  level3{"company":"Nike230120201712","period":"Y","statementtype":"All Statements","industry":"Consumer & Retail"} 
+11:42:52.586 INFO  level41177 
+11:42:52.586 INFO  level5Nike230120201712 
+11:42:52.586 INFO  level6Y 
+11:42:52.586 INFO  file uploading level 2/home/srinidhi/angular/output/2ExtractionJSON 
+11:42:52.591 INFO  file uploding level3 
+11:49:22.510 INFO  chandru 
+11:50:04.299 INFO  ========================================= 
+11:50:04.299 INFO  file uploading level 0uploads/1.Public.Nike.pdf 
+11:50:04.299 INFO  file uploading level 1 
+11:50:04.314 INFO  level1{"type":"pdf","data":{"fieldname":"file","originalname":"1.Public.Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public.Nike.pdf","path":"uploads/1.Public.Nike.pdf","size":88151,"company":"Nike230120201719","period":"Y","statementtype":"All Statements","industry":"Consumer & Retail","statementId":1178},"priority":0,"progress":0,"attempts":{"made":0,"remaining":1,"max":1}} 
+11:50:04.314 INFO  level2{"fieldname":"file","originalname":"1.Public.Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public.Nike.pdf","path":"uploads/1.Public.Nike.pdf","size":88151} 
+11:50:04.314 INFO  level3{"company":"Nike230120201719","period":"Y","statementtype":"All Statements","industry":"Consumer & Retail"} 
+11:50:04.314 INFO  level41178 
+11:50:04.314 INFO  level5Nike230120201719 
+11:50:04.314 INFO  level6Y 
+11:50:04.314 INFO  file uploading level 2/home/srinidhi/angular/output/2ExtractionJSON 
+11:50:04.320 INFO  file uploding level3 
+11:51:07.470 INFO  ========================================= 
+11:51:07.470 INFO  file uploading level 0uploads/1.Public.Nike.pdf 
+11:51:07.470 INFO  file uploading level 1 
+11:51:07.477 INFO  level1{"type":"pdf","data":{"fieldname":"file","originalname":"1.Public.Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public.Nike.pdf","path":"uploads/1.Public.Nike.pdf","size":88151,"company":"Nike230120201720","period":"Y","statementtype":"Cash Flow Statement","industry":"Consumer & Retail","statementId":1179},"priority":0,"progress":0,"attempts":{"made":0,"remaining":1,"max":1}} 
+11:51:07.477 INFO  level2{"fieldname":"file","originalname":"1.Public.Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public.Nike.pdf","path":"uploads/1.Public.Nike.pdf","size":88151} 
+11:51:07.477 INFO  level3{"company":"Nike230120201720","period":"Y","statementtype":"Cash Flow Statement","industry":"Consumer & Retail"} 
+11:51:07.477 INFO  level41179 
+11:51:07.477 INFO  level5Nike230120201720 
+11:51:07.477 INFO  level6Y 
+11:51:07.477 INFO  file uploading level 2/home/srinidhi/angular/output/2ExtractionJSON 
+11:51:07.492 INFO  file uploding level3 
+11:58:18.155 INFO  chandru 
+11:59:08.524 INFO  ========================================= 
+11:59:08.524 INFO  file uploading level 0uploads/1.Public_Nike.pdf 
+11:59:08.525 INFO  file uploading level 1 
+11:59:08.564 INFO  level1{"type":"pdf","data":{"fieldname":"file","originalname":"1.Public_Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public_Nike.pdf","path":"uploads/1.Public_Nike.pdf","size":88151,"company":"Nike23Jan2020528","period":"Y","statementtype":"All Statements","industry":"Energy & Natural Resources","statementId":1180},"priority":0,"progress":0,"attempts":{"made":0,"remaining":1,"max":1}} 
+11:59:08.564 INFO  level2{"fieldname":"file","originalname":"1.Public_Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public_Nike.pdf","path":"uploads/1.Public_Nike.pdf","size":88151} 
+11:59:08.564 INFO  level3{"company":"Nike23Jan2020528","period":"Y","statementtype":"All Statements","industry":"Energy & Natural Resources"} 
+11:59:08.564 INFO  level41180 
+11:59:08.564 INFO  level5Nike23Jan2020528 
+11:59:08.564 INFO  level6Y 
+11:59:08.564 INFO  file uploading level 2/home/srinidhi/angular/output/2ExtractionJSON 
+11:59:08.569 INFO  file uploding level3 
+12:00:23.265 INFO  ========================================= 
+12:00:23.265 INFO  file uploading level 0uploads/1.Public_Nike.pdf 
+12:00:23.265 INFO  file uploading level 1 
+12:00:23.289 INFO  level1{"type":"pdf","data":{"fieldname":"file","originalname":"1.Public_Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public_Nike.pdf","path":"uploads/1.Public_Nike.pdf","size":88151,"company":"Nike23Jan2020530","period":"Y","statementtype":"All Statements","industry":"Distribution & Logistics","statementId":1181},"priority":0,"progress":0,"attempts":{"made":0,"remaining":1,"max":1}} 
+12:00:23.289 INFO  level2{"fieldname":"file","originalname":"1.Public_Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public_Nike.pdf","path":"uploads/1.Public_Nike.pdf","size":88151} 
+12:00:23.289 INFO  level3{"company":"Nike23Jan2020530","period":"Y","statementtype":"All Statements","industry":"Distribution & Logistics"} 
+12:00:23.289 INFO  level41181 
+12:00:23.289 INFO  level5Nike23Jan2020530 
+12:00:23.289 INFO  level6Y 
+12:00:23.289 INFO  file uploading level 2/home/srinidhi/angular/output/2ExtractionJSON 
+12:00:23.303 INFO  file uploding level3 
+14:40:46.053 INFO  ========================================= 
+14:40:46.053 INFO  file uploading level 0uploads/1.Public_Nike.pdf 
+14:40:46.053 INFO  file uploading level 1 
+14:40:46.063 INFO  level1{"type":"pdf","data":{"fieldname":"file","originalname":"1.Public_Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public_Nike.pdf","path":"uploads/1.Public_Nike.pdf","size":88151,"company":"Nike23Jan810","period":"Y","statementtype":"All Statements","industry":"Energy & Natural Resources","statementId":1182},"priority":0,"progress":0,"attempts":{"made":0,"remaining":1,"max":1}} 
+14:40:46.063 INFO  level2{"fieldname":"file","originalname":"1.Public_Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public_Nike.pdf","path":"uploads/1.Public_Nike.pdf","size":88151} 
+14:40:46.063 INFO  level3{"company":"Nike23Jan810","period":"Y","statementtype":"All Statements","industry":"Energy & Natural Resources"} 
+14:40:46.063 INFO  level41182 
+14:40:46.063 INFO  level5Nike23Jan810 
+14:40:46.063 INFO  level6Y 
+14:40:46.064 INFO  file uploading level 2/home/srinidhi/angular/output/2ExtractionJSON 
+14:40:46.067 INFO  file uploding level3 
+14:42:21.749 INFO  ========================================= 
+14:42:21.749 INFO  file uploading level 0uploads/1.Public_Nike.pdf 
+14:42:21.749 INFO  file uploading level 1 
+14:42:21.756 INFO  level1{"type":"pdf","data":{"fieldname":"file","originalname":"1.Public_Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public_Nike.pdf","path":"uploads/1.Public_Nike.pdf","size":88151,"company":"Nike23Jan812","period":"Y","statementtype":"All Statements","industry":"Energy & Natural Resources","statementId":1183},"priority":0,"progress":0,"attempts":{"made":0,"remaining":1,"max":1}} 
+14:42:21.756 INFO  level2{"fieldname":"file","originalname":"1.Public_Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public_Nike.pdf","path":"uploads/1.Public_Nike.pdf","size":88151} 
+14:42:21.756 INFO  level3{"company":"Nike23Jan812","period":"Y","statementtype":"All Statements","industry":"Energy & Natural Resources"} 
+14:42:21.756 INFO  level41183 
+14:42:21.756 INFO  level5Nike23Jan812 
+14:42:21.756 INFO  level6Y 
+14:42:21.756 INFO  file uploading level 2/home/srinidhi/angular/output/2ExtractionJSON 
+14:42:21.759 INFO  file uploding level3 
+15:17:58.024 INFO  ========================================= 
+15:17:58.024 INFO  file uploading level 0uploads/1.Public_Nike.pdf 
+15:17:58.024 INFO  file uploading level 1 
+15:17:58.033 INFO  level1{"type":"pdf","data":{"fieldname":"file","originalname":"1.Public_Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public_Nike.pdf","path":"uploads/1.Public_Nike.pdf","size":88151,"company":"Nike23Jan2020847","period":"Y","statementtype":"All Statements","industry":"Energy & Natural Resources","statementId":1184},"priority":0,"progress":0,"attempts":{"made":0,"remaining":1,"max":1}} 
+15:17:58.033 INFO  level2{"fieldname":"file","originalname":"1.Public_Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public_Nike.pdf","path":"uploads/1.Public_Nike.pdf","size":88151} 
+15:17:58.033 INFO  level3{"company":"Nike23Jan2020847","period":"Y","statementtype":"All Statements","industry":"Energy & Natural Resources"} 
+15:17:58.034 INFO  level41184 
+15:17:58.034 INFO  level5Nike23Jan2020847 
+15:17:58.034 INFO  level6Y 
+15:17:58.034 INFO  file uploading level 2/home/srinidhi/angular/output/2ExtractionJSON 
+15:17:58.041 INFO  file uploding level3 
+16:40:44.301 INFO  ========================================= 
+16:40:44.301 INFO  file uploading level 0uploads/1.Public.Nike.pdf 
+16:40:44.301 INFO  file uploading level 1 
+16:40:44.312 INFO  level1{"type":"pdf","data":{"fieldname":"file","originalname":"1.Public.Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public.Nike.pdf","path":"uploads/1.Public.Nike.pdf","size":88151,"company":"Nike230120202210","period":"Y","statementtype":"All Statements","industry":"Consumer & Retail","statementId":1185},"priority":0,"progress":0,"attempts":{"made":0,"remaining":1,"max":1}} 
+16:40:44.312 INFO  level2{"fieldname":"file","originalname":"1.Public.Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public.Nike.pdf","path":"uploads/1.Public.Nike.pdf","size":88151} 
+16:40:44.312 INFO  level3{"company":"Nike230120202210","period":"Y","statementtype":"All Statements","industry":"Consumer & Retail"} 
+16:40:44.312 INFO  level41185 
+16:40:44.312 INFO  level5Nike230120202210 
+16:40:44.312 INFO  level6Y 
+16:40:44.312 INFO  file uploading level 2/home/srinidhi/angular/output/2ExtractionJSON 
+16:40:44.314 INFO  file uploding level3 
+16:41:56.905 INFO  ========================================= 
+16:41:56.905 INFO  file uploading level 0uploads/1.Public.Nike.pdf 
+16:41:56.905 INFO  file uploading level 1 
+16:41:56.941 INFO  level1{"type":"pdf","data":{"fieldname":"file","originalname":"1.Public.Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public.Nike.pdf","path":"uploads/1.Public.Nike.pdf","size":88151,"company":"Nike230120202211","period":"Y","statementtype":"All Statements","industry":"Consumer & Retail","statementId":1186},"priority":0,"progress":0,"attempts":{"made":0,"remaining":1,"max":1}} 
+16:41:56.941 INFO  level2{"fieldname":"file","originalname":"1.Public.Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public.Nike.pdf","path":"uploads/1.Public.Nike.pdf","size":88151} 
+16:41:56.941 INFO  level3{"company":"Nike230120202211","period":"Y","statementtype":"All Statements","industry":"Consumer & Retail"} 
+16:41:56.941 INFO  level41186 
+16:41:56.941 INFO  level5Nike230120202211 
+16:41:56.941 INFO  level6Y 
+16:41:56.941 INFO  file uploading level 2/home/srinidhi/angular/output/2ExtractionJSON 
+16:41:56.944 INFO  file uploding level3 

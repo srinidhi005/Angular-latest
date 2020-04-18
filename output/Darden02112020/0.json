@@ -1,0 +1,576 @@
+{
+    "period": [
+        {
+            "asof": "may272018",
+            "statement": [
+                {
+                    "transformed": "Sales",
+                    "desc": "Sales",
+                    "value": 8080100.0,
+                    "code": ""
+                },
+                {
+                    "items": [
+                        {
+                            "transformed": "Food and beverage",
+                            "desc": "Food and beverage",
+                            "value": 2303100.0,
+                            "code": ""
+                        },
+                        {
+                            "transformed": "Restaurant labor",
+                            "desc": "Restaurant labor",
+                            "value": 2614500.0,
+                            "code": ""
+                        },
+                        {
+                            "transformed": "Restaurant expenses",
+                            "desc": "Restaurant expenses",
+                            "value": 1417100.0,
+                            "code": ""
+                        },
+                        {
+                            "transformed": "Marketing expenses",
+                            "desc": "Marketing expenses",
+                            "value": 252300.0,
+                            "code": ""
+                        },
+                        {
+                            "transformed": "General and administrative expenses",
+                            "desc": "General and administrative expenses",
+                            "value": 409800.0,
+                            "code": ""
+                        },
+                        {
+                            "transformed": "Depreciation and amortization",
+                            "desc": "Depreciation and amortization",
+                            "value": 313100.0,
+                            "code": ""
+                        },
+                        {
+                            "transformed": "Impairments and disposal of assets net",
+                            "desc": "Impairments and disposal of assets net",
+                            "value": 3400.0,
+                            "code": ""
+                        },
+                        {
+                            "transformed": "Total operating costs and expenses",
+                            "desc": "Total operating costs and expenses",
+                            "value": 7313300.0,
+                            "code": ""
+                        }
+                    ],
+                    "transformed": "Costs and expenses",
+                    "code": "",
+                    "heading": "Costs and expenses:"
+                },
+                {
+                    "transformed": "Operating income/loss",
+                    "desc": "Operating income",
+                    "value": 766800.0,
+                    "code": "AM_IS_NOI"
+                },
+                {
+                    "transformed": "Interest net",
+                    "desc": "Interest net",
+                    "value": 161100.0,
+                    "code": ""
+                },
+                {
+                    "transformed": "Earnings before income taxes",
+                    "desc": "Earnings before income taxes",
+                    "value": 605700.0,
+                    "code": ""
+                },
+                {
+                    "transformed": "Provision for income taxes",
+                    "desc": "Income tax expense",
+                    "value": 1900.0,
+                    "code": ""
+                },
+                {
+                    "transformed": "Earnings from continuing operations",
+                    "desc": "Earnings from continuing operations",
+                    "value": 603800.0,
+                    "code": ""
+                },
+                {
+                    "items": [],
+                    "transformed": "Earnings loss from discontinued operations net of tax expense",
+                    "code": "",
+                    "heading": "Earnings -loss from discontinued operations net of tax expense"
+                },
+                {
+                    "transformed": "Benefit of and respectively",
+                    "desc": "-benefit of -4.8 -4.2 and 3.4 respectively",
+                    "value": -7800.0,
+                    "code": ""
+                },
+                {
+                    "transformed": "Net earnings",
+                    "desc": "Net earnings",
+                    "value": 596000.0,
+                    "code": ""
+                },
+                {
+                    "items": [
+                        {
+                            "transformed": "Earnings from continuing operations",
+                            "desc": "Earnings from continuing operations",
+                            "value": 4.87,
+                            "code": ""
+                        },
+                        {
+                            "transformed": "Earnings loss from discontinued operations",
+                            "desc": "Earnings -loss from discontinued operations",
+                            "value": -0.06,
+                            "code": ""
+                        },
+                        {
+                            "transformed": "Net earnings",
+                            "desc": "Net earnings",
+                            "value": 4.81,
+                            "code": ""
+                        }
+                    ],
+                    "transformed": "Basic net earnings per share",
+                    "code": "",
+                    "heading": "Basic net earnings per share:"
+                },
+                {
+                    "items": [
+                        {
+                            "transformed": "Earnings from continuing operations",
+                            "desc": "Earnings from continuing operations",
+                            "value": 4.79,
+                            "code": ""
+                        },
+                        {
+                            "transformed": "Earnings loss from discontinued operations",
+                            "desc": "Earnings -loss from discontinued operations",
+                            "value": -0.06,
+                            "code": ""
+                        },
+                        {
+                            "transformed": "Net earnings",
+                            "desc": "Net earnings",
+                            "value": 4.73,
+                            "code": ""
+                        }
+                    ],
+                    "transformed": "Diluted net earnings per share",
+                    "code": "",
+                    "heading": "Diluted net earnings per share:"
+                },
+                {
+                    "items": [
+                        {
+                            "transformed": "Basic",
+                            "desc": "Basic",
+                            "value": 124000.0,
+                            "code": ""
+                        },
+                        {
+                            "transformed": "Diluted",
+                            "desc": "Diluted",
+                            "value": 126000.0,
+                            "code": ""
+                        }
+                    ],
+                    "transformed": "Average number of common shares outstanding",
+                    "code": "",
+                    "heading": "Average number of common shares outstanding:"
+                },
+                {
+                    "transformed": "Dividends declared per common share",
+                    "desc": "Dividends declared per common share",
+                    "value": 2.52,
+                    "code": ""
+                }
+            ]
+        },
+        {
+            "asof": "may282017",
+            "statement": [
+                {
+                    "transformed": "Sales",
+                    "desc": "Sales",
+                    "value": 7170200.0,
+                    "code": ""
+                },
+                {
+                    "items": [
+                        {
+                            "transformed": "Food and beverage",
+                            "desc": "Food and beverage",
+                            "value": 2070300.0000000002,
+                            "code": ""
+                        },
+                        {
+                            "transformed": "Restaurant labor",
+                            "desc": "Restaurant labor",
+                            "value": 2265300.0,
+                            "code": ""
+                        },
+                        {
+                            "transformed": "Restaurant expenses",
+                            "desc": "Restaurant expenses",
+                            "value": 1265200.0,
+                            "code": ""
+                        },
+                        {
+                            "transformed": "Marketing expenses",
+                            "desc": "Marketing expenses",
+                            "value": 239700.0,
+                            "code": ""
+                        },
+                        {
+                            "transformed": "General and administrative expenses",
+                            "desc": "General and administrative expenses",
+                            "value": 387700.0,
+                            "code": ""
+                        },
+                        {
+                            "transformed": "Depreciation and amortization",
+                            "desc": "Depreciation and amortization",
+                            "value": 272900.0,
+                            "code": ""
+                        },
+                        {
+                            "transformed": "Impairments and disposal of assets net",
+                            "desc": "Impairments and disposal of assets net",
+                            "value": -8400.0,
+                            "code": ""
+                        },
+                        {
+                            "transformed": "Total operating costs and expenses",
+                            "desc": "Total operating costs and expenses",
+                            "value": 6492700.0,
+                            "code": ""
+                        }
+                    ],
+                    "transformed": "Costs and expenses",
+                    "code": "",
+                    "heading": "Costs and expenses:"
+                },
+                {
+                    "transformed": "Operating income/loss",
+                    "desc": "Operating income",
+                    "value": 677500.0,
+                    "code": "AM_IS_NOI"
+                },
+                {
+                    "transformed": "Interest net",
+                    "desc": "Interest net",
+                    "value": 40200.0,
+                    "code": ""
+                },
+                {
+                    "transformed": "Earnings before income taxes",
+                    "desc": "Earnings before income taxes",
+                    "value": 637300.0,
+                    "code": ""
+                },
+                {
+                    "transformed": "Provision for income taxes",
+                    "desc": "Income tax expense",
+                    "value": 154800.0,
+                    "code": ""
+                },
+                {
+                    "transformed": "Earnings from continuing operations",
+                    "desc": "Earnings from continuing operations",
+                    "value": 482500.0,
+                    "code": ""
+                },
+                {
+                    "items": [],
+                    "transformed": "Earnings loss from discontinued operations net of tax expense",
+                    "code": "",
+                    "heading": "Earnings -loss from discontinued operations net of tax expense"
+                },
+                {
+                    "transformed": "Benefit of and respectively",
+                    "desc": "-benefit of -4.8 -4.2 and 3.4 respectively",
+                    "value": -3400.0,
+                    "code": ""
+                },
+                {
+                    "transformed": "Net earnings",
+                    "desc": "Net earnings",
+                    "value": 479100.0,
+                    "code": ""
+                },
+                {
+                    "items": [
+                        {
+                            "transformed": "Earnings from continuing operations",
+                            "desc": "Earnings from continuing operations",
+                            "value": 3.88,
+                            "code": ""
+                        },
+                        {
+                            "transformed": "Earnings loss from discontinued operations",
+                            "desc": "Earnings -loss from discontinued operations",
+                            "value": -0.03,
+                            "code": ""
+                        },
+                        {
+                            "transformed": "Net earnings",
+                            "desc": "Net earnings",
+                            "value": 3.85,
+                            "code": ""
+                        }
+                    ],
+                    "transformed": "Basic net earnings per share",
+                    "code": "",
+                    "heading": "Basic net earnings per share:"
+                },
+                {
+                    "items": [
+                        {
+                            "transformed": "Earnings from continuing operations",
+                            "desc": "Earnings from continuing operations",
+                            "value": 3.83,
+                            "code": ""
+                        },
+                        {
+                            "transformed": "Earnings loss from discontinued operations",
+                            "desc": "Earnings -loss from discontinued operations",
+                            "value": -0.03,
+                            "code": ""
+                        },
+                        {
+                            "transformed": "Net earnings",
+                            "desc": "Net earnings",
+                            "value": 3.8,
+                            "code": ""
+                        }
+                    ],
+                    "transformed": "Diluted net earnings per share",
+                    "code": "",
+                    "heading": "Diluted net earnings per share:"
+                },
+                {
+                    "items": [
+                        {
+                            "transformed": "Basic",
+                            "desc": "Basic",
+                            "value": 124300.0,
+                            "code": ""
+                        },
+                        {
+                            "transformed": "Diluted",
+                            "desc": "Diluted",
+                            "value": 126000.0,
+                            "code": ""
+                        }
+                    ],
+                    "transformed": "Average number of common shares outstanding",
+                    "code": "",
+                    "heading": "Average number of common shares outstanding:"
+                },
+                {
+                    "transformed": "Dividends declared per common share",
+                    "desc": "Dividends declared per common share",
+                    "value": 2.24,
+                    "code": ""
+                }
+            ]
+        },
+        {
+            "asof": "may292016",
+            "statement": [
+                {
+                    "transformed": "Sales",
+                    "desc": "Sales",
+                    "value": 6933500.0,
+                    "code": ""
+                },
+                {
+                    "items": [
+                        {
+                            "transformed": "Food and beverage",
+                            "desc": "Food and beverage",
+                            "value": 2039700.0,
+                            "code": ""
+                        },
+                        {
+                            "transformed": "Restaurant labor",
+                            "desc": "Restaurant labor",
+                            "value": 2189200.0,
+                            "code": ""
+                        },
+                        {
+                            "transformed": "Restaurant expenses",
+                            "desc": "Restaurant expenses",
+                            "value": 1163500.0,
+                            "code": ""
+                        },
+                        {
+                            "transformed": "Marketing expenses",
+                            "desc": "Marketing expenses",
+                            "value": 238000.0,
+                            "code": ""
+                        },
+                        {
+                            "transformed": "General and administrative expenses",
+                            "desc": "General and administrative expenses",
+                            "value": 384900.0,
+                            "code": ""
+                        },
+                        {
+                            "transformed": "Depreciation and amortization",
+                            "desc": "Depreciation and amortization",
+                            "value": 290200.0,
+                            "code": ""
+                        },
+                        {
+                            "transformed": "Impairments and disposal of assets net",
+                            "desc": "Impairments and disposal of assets net",
+                            "value": 5800.0,
+                            "code": ""
+                        },
+                        {
+                            "transformed": "Total operating costs and expenses",
+                            "desc": "Total operating costs and expenses",
+                            "value": 6311300.0,
+                            "code": ""
+                        }
+                    ],
+                    "transformed": "Costs and expenses",
+                    "code": "",
+                    "heading": "Costs and expenses:"
+                },
+                {
+                    "transformed": "Operating income/loss",
+                    "desc": "Operating income",
+                    "value": 622200.0,
+                    "code": "AM_IS_NOI"
+                },
+                {
+                    "transformed": "Interest net",
+                    "desc": "Interest net",
+                    "value": 172500.0,
+                    "code": ""
+                },
+                {
+                    "transformed": "Earnings before income taxes",
+                    "desc": "Earnings before income taxes",
+                    "value": 449700.0,
+                    "code": ""
+                },
+                {
+                    "transformed": "Provision for income taxes",
+                    "desc": "Income tax expense",
+                    "value": 90000.0,
+                    "code": ""
+                },
+                {
+                    "transformed": "Earnings from continuing operations",
+                    "desc": "Earnings from continuing operations",
+                    "value": 359700.0,
+                    "code": ""
+                },
+                {
+                    "items": [],
+                    "transformed": "Earnings loss from discontinued operations net of tax expense",
+                    "code": "",
+                    "heading": "Earnings -loss from discontinued operations net of tax expense"
+                },
+                {
+                    "transformed": "Benefit of and respectively",
+                    "desc": "-benefit of -4.8 -4.2 and 3.4 respectively",
+                    "value": 15300.0,
+                    "code": ""
+                },
+                {
+                    "transformed": "Net earnings",
+                    "desc": "Net earnings",
+                    "value": 375000.0,
+                    "code": ""
+                },
+                {
+                    "items": [
+                        {
+                            "transformed": "Earnings from continuing operations",
+                            "desc": "Earnings from continuing operations",
+                            "value": 2.82,
+                            "code": ""
+                        },
+                        {
+                            "transformed": "Earnings loss from discontinued operations",
+                            "desc": "Earnings -loss from discontinued operations",
+                            "value": 0.12,
+                            "code": ""
+                        },
+                        {
+                            "transformed": "Net earnings",
+                            "desc": "Net earnings",
+                            "value": 2.94,
+                            "code": ""
+                        }
+                    ],
+                    "transformed": "Basic net earnings per share",
+                    "code": "",
+                    "heading": "Basic net earnings per share:"
+                },
+                {
+                    "items": [
+                        {
+                            "transformed": "Earnings from continuing operations",
+                            "desc": "Earnings from continuing operations",
+                            "value": 2.78,
+                            "code": ""
+                        },
+                        {
+                            "transformed": "Earnings loss from discontinued operations",
+                            "desc": "Earnings -loss from discontinued operations",
+                            "value": 0.12,
+                            "code": ""
+                        },
+                        {
+                            "transformed": "Net earnings",
+                            "desc": "Net earnings",
+                            "value": 2.9,
+                            "code": ""
+                        }
+                    ],
+                    "transformed": "Diluted net earnings per share",
+                    "code": "",
+                    "heading": "Diluted net earnings per share:"
+                },
+                {
+                    "items": [
+                        {
+                            "transformed": "Basic",
+                            "desc": "Basic",
+                            "value": 127400.0,
+                            "code": ""
+                        },
+                        {
+                            "transformed": "Diluted",
+                            "desc": "Diluted",
+                            "value": 129300.00000000001,
+                            "code": ""
+                        }
+                    ],
+                    "transformed": "Average number of common shares outstanding",
+                    "code": "",
+                    "heading": "Average number of common shares outstanding:"
+                },
+                {
+                    "transformed": "Dividends declared per common share",
+                    "desc": "Dividends declared per common share",
+                    "value": 2.1,
+                    "code": ""
+                }
+            ]
+        }
+    ],
+    "title": "consolidated statements of earnings",
+    "units": "millions",
+    "type": "statement_of_income",
+    "company": "darden restaurants inc",
+    "currency": "USD"
+}

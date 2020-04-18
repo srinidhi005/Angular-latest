@@ -1,0 +1,677 @@
+{
+    "period": [
+        {
+            "statement": [
+                {
+                    "code": "AM_IS_I",
+                    "heading": "Net revenues",
+                    "transformed": "Net revenue",
+                    "items": [
+                        {
+                            "desc": "Product sales",
+                            "code": "",
+                            "value": 263000.0,
+                            "transformed": "Product sales"
+                        },
+                        {
+                            "desc": "Subscription licensing and other revenues",
+                            "code": "",
+                            "value": 1249000.0,
+                            "transformed": "Subscription licensing and other revenues"
+                        }
+                    ]
+                },
+                {
+                    "code": "",
+                    "heading": "Costs and expenses",
+                    "transformed": "Costs and expenses",
+                    "items": []
+                },
+                {
+                    "code": "",
+                    "heading": "Cost of revenues\u2014product sales:",
+                    "transformed": "Cost of revenues product sales",
+                    "items": [
+                        {
+                            "desc": "Product costs",
+                            "code": "",
+                            "value": 127000.0,
+                            "transformed": "Product costs"
+                        }
+                    ]
+                },
+                {
+                    "code": "",
+                    "heading": "Software royalties amortization and intellectual property",
+                    "transformed": "Software royalties amortization and intellectual property",
+                    "items": [
+                        {
+                            "desc": "licenses",
+                            "code": "",
+                            "value": 20000.0,
+                            "transformed": "Licenses"
+                        }
+                    ]
+                },
+                {
+                    "code": "",
+                    "heading": "Cost of revenues\u2014subscription licensing and other",
+                    "transformed": "Cost of revenues subscription licensing and other",
+                    "items": []
+                },
+                {
+                    "code": "AM_IS_I",
+                    "heading": "revenues:",
+                    "transformed": "Net revenue",
+                    "items": [
+                        {
+                            "desc": "Game operations and distribution costs",
+                            "code": "",
+                            "value": 257000.0,
+                            "transformed": "Game operations and distribution costs"
+                        }
+                    ]
+                },
+                {
+                    "total": {
+                        "desc": "Total costs and expenses",
+                        "code": "",
+                        "value": 1247000.0,
+                        "transformed": "Total costs and expenses"
+                    },
+                    "code": "",
+                    "heading": "Software royalties amortization and intellectual property",
+                    "transformed": "Software royalties amortization and intellectual property",
+                    "items": [
+                        {
+                            "desc": "licenses",
+                            "code": "",
+                            "value": 109000.0,
+                            "transformed": "Licenses"
+                        },
+                        {
+                            "desc": "Product development",
+                            "code": "",
+                            "value": 263000.0,
+                            "transformed": "Product development"
+                        },
+                        {
+                            "desc": "Sales and marketing",
+                            "code": "",
+                            "value": 263000.0,
+                            "transformed": "Sales and marketing"
+                        },
+                        {
+                            "desc": "General and administrative",
+                            "code": "",
+                            "value": 208000.0,
+                            "transformed": "General and administrative"
+                        }
+                    ]
+                },
+                {
+                    "desc": "Operating income",
+                    "code": "AM_IS_NOI",
+                    "value": 265000.0,
+                    "transformed": "Operating income/loss"
+                },
+                {
+                    "desc": "Interest and other expense -income net",
+                    "code": "",
+                    "value": 13000.0,
+                    "transformed": "Interest and other expense income net"
+                },
+                {
+                    "desc": "Loss on extinguishment of debt",
+                    "code": "",
+                    "value": 40000.0,
+                    "transformed": "Loss on extinguishment of debt"
+                },
+                {
+                    "desc": "Income before income tax expense -benefit",
+                    "code": "",
+                    "value": 212000.0,
+                    "transformed": "Income before income tax expense benefit"
+                },
+                {
+                    "desc": "Income tax expense -benefit",
+                    "code": "",
+                    "value": -48000.0,
+                    "transformed": "Income tax expense benefit"
+                },
+                {
+                    "desc": "Net income",
+                    "code": "AM_BS_NI",
+                    "value": 260000.0,
+                    "transformed": "Net income/loss"
+                },
+                {
+                    "code": "",
+                    "heading": "Earnings per common share",
+                    "transformed": "Earnings per common share",
+                    "items": [
+                        {
+                            "desc": "Basic",
+                            "code": "",
+                            "value": 0.34,
+                            "transformed": "Basic"
+                        },
+                        {
+                            "desc": "Diluted",
+                            "code": "",
+                            "value": 0.34,
+                            "transformed": "Diluted"
+                        }
+                    ]
+                }
+            ],
+            "asof": "september302018"
+        },
+        {
+            "statement": [
+                {
+                    "code": "AM_IS_I",
+                    "heading": "Net revenues",
+                    "transformed": "Net revenue",
+                    "items": [
+                        {
+                            "desc": "Product sales",
+                            "code": "",
+                            "value": 384000.0,
+                            "transformed": "Product sales"
+                        },
+                        {
+                            "desc": "Subscription licensing and other revenues",
+                            "code": "",
+                            "value": 1234000.0,
+                            "transformed": "Subscription licensing and other revenues"
+                        }
+                    ]
+                },
+                {
+                    "code": "",
+                    "heading": "Costs and expenses",
+                    "transformed": "Costs and expenses",
+                    "items": []
+                },
+                {
+                    "code": "",
+                    "heading": "Cost of revenues\u2014product sales:",
+                    "transformed": "Cost of revenues product sales",
+                    "items": [
+                        {
+                            "desc": "Product costs",
+                            "code": "",
+                            "value": 149000.0,
+                            "transformed": "Product costs"
+                        }
+                    ]
+                },
+                {
+                    "code": "",
+                    "heading": "Software royalties amortization and intellectual property",
+                    "transformed": "Software royalties amortization and intellectual property",
+                    "items": [
+                        {
+                            "desc": "licenses",
+                            "code": "",
+                            "value": 37000.0,
+                            "transformed": "Licenses"
+                        }
+                    ]
+                },
+                {
+                    "code": "",
+                    "heading": "Cost of revenues\u2014subscription licensing and other",
+                    "transformed": "Cost of revenues subscription licensing and other",
+                    "items": []
+                },
+                {
+                    "code": "AM_IS_I",
+                    "heading": "revenues:",
+                    "transformed": "Net revenue",
+                    "items": [
+                        {
+                            "desc": "Game operations and distribution costs",
+                            "code": "",
+                            "value": 249000.0,
+                            "transformed": "Game operations and distribution costs"
+                        }
+                    ]
+                },
+                {
+                    "total": {
+                        "desc": "Total costs and expenses",
+                        "code": "",
+                        "value": 1361000.0,
+                        "transformed": "Total costs and expenses"
+                    },
+                    "code": "",
+                    "heading": "Software royalties amortization and intellectual property",
+                    "transformed": "Software royalties amortization and intellectual property",
+                    "items": [
+                        {
+                            "desc": "licenses",
+                            "code": "",
+                            "value": 117000.0,
+                            "transformed": "Licenses"
+                        },
+                        {
+                            "desc": "Product development",
+                            "code": "",
+                            "value": 273000.0,
+                            "transformed": "Product development"
+                        },
+                        {
+                            "desc": "Sales and marketing",
+                            "code": "",
+                            "value": 345000.0,
+                            "transformed": "Sales and marketing"
+                        },
+                        {
+                            "desc": "General and administrative",
+                            "code": "",
+                            "value": 191000.0,
+                            "transformed": "General and administrative"
+                        }
+                    ]
+                },
+                {
+                    "desc": "Operating income",
+                    "code": "AM_IS_NOI",
+                    "value": 257000.0,
+                    "transformed": "Operating income/loss"
+                },
+                {
+                    "desc": "Interest and other expense -income net",
+                    "code": "",
+                    "value": 37000.0,
+                    "transformed": "Interest and other expense income net"
+                },
+                {
+                    "desc": "Loss on extinguishment of debt",
+                    "code": "",
+                    "value": "",
+                    "transformed": "Loss on extinguishment of debt"
+                },
+                {
+                    "desc": "Income before income tax expense -benefit",
+                    "code": "",
+                    "value": 220000.0,
+                    "transformed": "Income before income tax expense benefit"
+                },
+                {
+                    "desc": "Income tax expense -benefit",
+                    "code": "",
+                    "value": 32000.0,
+                    "transformed": "Income tax expense benefit"
+                },
+                {
+                    "desc": "Net income",
+                    "code": "AM_BS_NI",
+                    "value": 188000.0,
+                    "transformed": "Net income/loss"
+                },
+                {
+                    "code": "",
+                    "heading": "Earnings per common share",
+                    "transformed": "Earnings per common share",
+                    "items": [
+                        {
+                            "desc": "Basic",
+                            "code": "",
+                            "value": 0.25,
+                            "transformed": "Basic"
+                        },
+                        {
+                            "desc": "Diluted",
+                            "code": "",
+                            "value": 0.25,
+                            "transformed": "Diluted"
+                        }
+                    ]
+                }
+            ],
+            "asof": "september302017"
+        },
+        {
+            "statement": [
+                {
+                    "code": "AM_IS_I",
+                    "heading": "Net revenues",
+                    "transformed": "Net revenue",
+                    "items": [
+                        {
+                            "desc": "Product sales",
+                            "code": "",
+                            "value": 1447000.0,
+                            "transformed": "Product sales"
+                        },
+                        {
+                            "desc": "Subscription licensing and other revenues",
+                            "code": "",
+                            "value": 3672000.0,
+                            "transformed": "Subscription licensing and other revenues"
+                        }
+                    ]
+                },
+                {
+                    "code": "",
+                    "heading": "Costs and expenses",
+                    "transformed": "Costs and expenses",
+                    "items": []
+                },
+                {
+                    "code": "",
+                    "heading": "Cost of revenues\u2014product sales:",
+                    "transformed": "Cost of revenues product sales",
+                    "items": [
+                        {
+                            "desc": "Product costs",
+                            "code": "",
+                            "value": 416000.0,
+                            "transformed": "Product costs"
+                        }
+                    ]
+                },
+                {
+                    "code": "",
+                    "heading": "Software royalties amortization and intellectual property",
+                    "transformed": "Software royalties amortization and intellectual property",
+                    "items": [
+                        {
+                            "desc": "licenses",
+                            "code": "",
+                            "value": 214000.0,
+                            "transformed": "Licenses"
+                        }
+                    ]
+                },
+                {
+                    "code": "",
+                    "heading": "Cost of revenues\u2014subscription licensing and other",
+                    "transformed": "Cost of revenues subscription licensing and other",
+                    "items": []
+                },
+                {
+                    "code": "AM_IS_I",
+                    "heading": "revenues:",
+                    "transformed": "Net revenue",
+                    "items": [
+                        {
+                            "desc": "Game operations and distribution costs",
+                            "code": "",
+                            "value": 777000.0,
+                            "transformed": "Game operations and distribution costs"
+                        }
+                    ]
+                },
+                {
+                    "total": {
+                        "desc": "Total costs and expenses",
+                        "code": "",
+                        "value": 3825000.0,
+                        "transformed": "Total costs and expenses"
+                    },
+                    "code": "",
+                    "heading": "Software royalties amortization and intellectual property",
+                    "transformed": "Software royalties amortization and intellectual property",
+                    "items": [
+                        {
+                            "desc": "licenses",
+                            "code": "",
+                            "value": 278000.0,
+                            "transformed": "Licenses"
+                        },
+                        {
+                            "desc": "Product development",
+                            "code": "",
+                            "value": 776000.0,
+                            "transformed": "Product development"
+                        },
+                        {
+                            "desc": "Sales and marketing",
+                            "code": "",
+                            "value": 741000.0,
+                            "transformed": "Sales and marketing"
+                        },
+                        {
+                            "desc": "General and administrative",
+                            "code": "",
+                            "value": 623000.0,
+                            "transformed": "General and administrative"
+                        }
+                    ]
+                },
+                {
+                    "desc": "Operating income",
+                    "code": "AM_IS_NOI",
+                    "value": 1294000.0,
+                    "transformed": "Operating income/loss"
+                },
+                {
+                    "desc": "Interest and other expense -income net",
+                    "code": "",
+                    "value": 67000.0,
+                    "transformed": "Interest and other expense income net"
+                },
+                {
+                    "desc": "Loss on extinguishment of debt",
+                    "code": "",
+                    "value": 40000.0,
+                    "transformed": "Loss on extinguishment of debt"
+                },
+                {
+                    "desc": "Income before income tax expense -benefit",
+                    "code": "",
+                    "value": 1187000.0,
+                    "transformed": "Income before income tax expense benefit"
+                },
+                {
+                    "desc": "Income tax expense -benefit",
+                    "code": "",
+                    "value": 25000.0,
+                    "transformed": "Income tax expense benefit"
+                },
+                {
+                    "desc": "Net income",
+                    "code": "AM_BS_NI",
+                    "value": 1162000.0,
+                    "transformed": "Net income/loss"
+                },
+                {
+                    "code": "",
+                    "heading": "Earnings per common share",
+                    "transformed": "Earnings per common share",
+                    "items": [
+                        {
+                            "desc": "Basic",
+                            "code": "",
+                            "value": 1.53,
+                            "transformed": "Basic"
+                        },
+                        {
+                            "desc": "Diluted",
+                            "code": "",
+                            "value": 1.51,
+                            "transformed": "Diluted"
+                        }
+                    ]
+                }
+            ],
+            "asof": "september302018"
+        },
+        {
+            "statement": [
+                {
+                    "code": "AM_IS_I",
+                    "heading": "Net revenues",
+                    "transformed": "Net revenue",
+                    "items": [
+                        {
+                            "desc": "Product sales",
+                            "code": "",
+                            "value": 1373000.0,
+                            "transformed": "Product sales"
+                        },
+                        {
+                            "desc": "Subscription licensing and other revenues",
+                            "code": "",
+                            "value": 3601000.0,
+                            "transformed": "Subscription licensing and other revenues"
+                        }
+                    ]
+                },
+                {
+                    "code": "",
+                    "heading": "Costs and expenses",
+                    "transformed": "Costs and expenses",
+                    "items": []
+                },
+                {
+                    "code": "",
+                    "heading": "Cost of revenues\u2014product sales:",
+                    "transformed": "Cost of revenues product sales",
+                    "items": [
+                        {
+                            "desc": "Product costs",
+                            "code": "",
+                            "value": 422000.0,
+                            "transformed": "Product costs"
+                        }
+                    ]
+                },
+                {
+                    "code": "",
+                    "heading": "Software royalties amortization and intellectual property",
+                    "transformed": "Software royalties amortization and intellectual property",
+                    "items": [
+                        {
+                            "desc": "licenses",
+                            "code": "",
+                            "value": 200000.0,
+                            "transformed": "Licenses"
+                        }
+                    ]
+                },
+                {
+                    "code": "",
+                    "heading": "Cost of revenues\u2014subscription licensing and other",
+                    "transformed": "Cost of revenues subscription licensing and other",
+                    "items": []
+                },
+                {
+                    "code": "AM_IS_I",
+                    "heading": "revenues:",
+                    "transformed": "Net revenue",
+                    "items": [
+                        {
+                            "desc": "Game operations and distribution costs",
+                            "code": "",
+                            "value": 717000.0,
+                            "transformed": "Game operations and distribution costs"
+                        }
+                    ]
+                },
+                {
+                    "total": {
+                        "desc": "Total costs and expenses",
+                        "code": "",
+                        "value": 3886000.0,
+                        "transformed": "Total costs and expenses"
+                    },
+                    "code": "",
+                    "heading": "Software royalties amortization and intellectual property",
+                    "transformed": "Software royalties amortization and intellectual property",
+                    "items": [
+                        {
+                            "desc": "licenses",
+                            "code": "",
+                            "value": 359000.0,
+                            "transformed": "Licenses"
+                        },
+                        {
+                            "desc": "Product development",
+                            "code": "",
+                            "value": 750000.0,
+                            "transformed": "Product development"
+                        },
+                        {
+                            "desc": "Sales and marketing",
+                            "code": "",
+                            "value": 899000.0,
+                            "transformed": "Sales and marketing"
+                        },
+                        {
+                            "desc": "General and administrative",
+                            "code": "",
+                            "value": 539000.0,
+                            "transformed": "General and administrative"
+                        }
+                    ]
+                },
+                {
+                    "desc": "Operating income",
+                    "code": "AM_IS_NOI",
+                    "value": 1088000.0,
+                    "transformed": "Operating income/loss"
+                },
+                {
+                    "desc": "Interest and other expense -income net",
+                    "code": "",
+                    "value": 109000.0,
+                    "transformed": "Interest and other expense income net"
+                },
+                {
+                    "desc": "Loss on extinguishment of debt",
+                    "code": "",
+                    "value": 12000.0,
+                    "transformed": "Loss on extinguishment of debt"
+                },
+                {
+                    "desc": "Income before income tax expense -benefit",
+                    "code": "",
+                    "value": 967000.0,
+                    "transformed": "Income before income tax expense benefit"
+                },
+                {
+                    "desc": "Income tax expense -benefit",
+                    "code": "",
+                    "value": 109000.0,
+                    "transformed": "Income tax expense benefit"
+                },
+                {
+                    "desc": "Net income",
+                    "code": "AM_BS_NI",
+                    "value": 858000.0,
+                    "transformed": "Net income/loss"
+                },
+                {
+                    "code": "",
+                    "heading": "Earnings per common share",
+                    "transformed": "Earnings per common share",
+                    "items": [
+                        {
+                            "desc": "Basic",
+                            "code": "",
+                            "value": 1.14,
+                            "transformed": "Basic"
+                        },
+                        {
+                            "desc": "Diluted",
+                            "code": "",
+                            "value": 1.12,
+                            "transformed": "Diluted"
+                        }
+                    ]
+                }
+            ],
+            "asof": "september302017"
+        }
+    ],
+    "title": "consolidated statements of operations",
+    "currency": "USD",
+    "type": "statement_of_income",
+    "company": "activision blizzard inc",
+    "units": "millions"
+}

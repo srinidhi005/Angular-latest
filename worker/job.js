@@ -7,6 +7,8 @@ var rimraf = require("rimraf");
 var db = require('../models');
 
 const {Storage} = require('@google-cloud/storage');
+
+const log = require('simple-node-logger').createSimpleLogger('proj.log');
 const storage = new Storage();
 
 client = redis.createClient();
@@ -14,15 +16,33 @@ client = redis.createClient();
 let queue = kue.createQueue();
 
 queue.process('pdf', function(job, done){
+   // console.log("before folder creation",job.id)
+//log.info("level1");
     var jobId = job.id;
     client.set('q:job:'+job.id, JSON.stringify(job.data));
-    console.log(job.data)
+  //  console.log(job.data)
+//	log.info(job.data,"level2")
     var cmd;
-    var companyName = job.data.company.replace(/ /g, '_')
+    var companyName = job.data.company.replace(/ /g, '_')   
+	var statementtype=job.data.statementtype.replace(/ /g, '_')
+	var industry=job.data.industry.replace(/ /g,'')
+	var filename=job.data.filename;
     var folderName = companyName + '-' + (job.data.period || 'N');
     if (job.data.filename.indexOf('.pdf') != -1) {
-        cmd = 'python3 /home/srinidhi/angular/extractor/pdf/mapping.py ';
-        cmd += job.data.path + ' ' + '/home/srinidhi/angular/output/' + ' ' + '/home/srinidhi/angular/extractor/pdf' +' '+companyName;
+	    //console.log("foldername",folderName)
+	    //log.info("level3")
+	    console.log("statementtype",statementtype)
+	    console.log("industry",industry)
+	    console.log("filename",filename)
+	    console.log("companyname",companyName)
+       // cmd = 'python3 /home/srinidhi/angular/extractor/pdf/mapping.py ';
+        //cmd += job.data.path + ' ' + '/home/srinidhi/angular/output/' + ' ' + '/home/srinidhi/angular/extractor/pdf' +' '+companyName;
+       // cmd = 'python3 /home/srinidhi/angular/extractor/xlsxparser.py /home/srinidhi/angular/extractor/Nike.pdf';
+          cmd = 'sudo python3 /home/srinidhi/angular/extractor/PDF_Extractor_Retail.py '+job.data.path +' '+companyName +' '+'Y admin Consumer_Retail all_statements'; 
+        cmd = 'sudo python3 /home/srinidhi/angular/extractor/PDF_Extractor_Retail.py '+job.data.path +' '+companyName +' '+job.data.period+' '+'admin'+' '+industry+' ' +statementtype; 
+	    //cmd = 'sudo python3 /home/srinidhi/angular/extractor/PDF_Extractor_Retail.py/';
+	//	   cmd +=job.data.path+' '+companyName+'Y  admin Consumer_Retail all_statements'; 
+	console.log("level1",cmd)
     } else if (job.data.filename.indexOf('.csv') != -1) {
         cmd = 'python3 extractor/csv-excel/mapping.py ';
         cmd += job.data.path + ' ' + './output/' + folderName + '/file' + ' ' + 'extractor/csv-excel';
@@ -31,7 +51,8 @@ queue.process('pdf', function(job, done){
         cmd = 'python3 extractor/csv-excel/mapping.py ';
         cmd += job.data.path + ' ' + './output/' + folderName + '/file' + ' ' + 'extractor/csv-excel' + ' ' + csvFile;
     }
-    console.log(cmd)
+   // console.log(cmd)
+	//console.log("job created == by us")
     var files = [
         path.join(__dirname, '../output', folderName, 'file0.json'),
         path.join(__dirname, '../output', folderName, 'file1.json'),
@@ -78,6 +99,6 @@ queue.process('pdf', function(job, done){
             }
         }
     })
-})
+ })
 
-console.log('job started')
+//console.log('job started')

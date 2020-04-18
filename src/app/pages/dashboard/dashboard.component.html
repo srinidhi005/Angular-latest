@@ -1,8 +1,81 @@
-<div class=" content">
+<style>
+    .card{
+        height:340px !important;
+    }
 
+    .tab-pane{
+        padding: 0% 3% !important;    
+    }
+    
+    .cover-spin {
+	        position:fixed;
+			    width:100%;
+				        left:0;right:0;top:0;bottom:0;
+						    background-color: rgba(255,255,255,0.7);
+							        z-index:9999;
+									    display:none;
+    }
+    
+    
+    
+    
+
+    @-webkit-keyframes spin {
+	    	from {-webkit-transform:rotate(0deg);}
+			to {-webkit-transform:rotate(360deg);}
+    }
+
+    @keyframes spin {
+	    	from {transform:rotate(0deg);}
+			to {transform:rotate(360deg);}
+    }
+
+    .cover-spin::after {
+	        content:'';
+			    display:block;
+				        position:absolute;
+						    left:48%;top:40%;
+							        width:40px;height:40px;
+									    border-style:solid;
+										        border-color:black;
+												    border-top-color:transparent;
+													        border-width: 4px;
+															    border-radius:50%;
+																        -webkit-animation: spin .8s linear infinite;
+																		    animation: spin .8s linear infinite;
+    }
+    
+    .card-title{
+        
+    background-image: linear-gradient(to bottom left, #344675, #263148, #344675);
+    color: #fff !important;
+    padding: 10px;
+        
+    }
+    th{
+        border: none;
+        width: 10%;
+        color:#000;
+    }
+
+
+</style>  
+<div class="cover-spin"></div>
+<div class=" content">
+<!--<select type="button"  class="btn btn-sm btn-primary rmiBtn"  onchange="updateProjectionPdf()"  id="sel2" style="padding-left: 35px;" >
+		</select>-->
   <!-- <div class=" card-body">
     <div class=" chart-area"><canvas id="chartBig1"> </canvas></div>
   </div>   -->
+    
+<div class="row">
+    <div class="col-lg-6"></div>
+    <div class="col-lg-6">
+        <select id="sel2" class="btn btn-sm btn-primary rmiBtn" style="float:right;padding: 3px">
+        <option> scenario 1 </option>
+        </select> 
+    </div>
+</div>
   <div class=" row">
     <!-- <div class=" col-lg-4">
       <div class=" card card-chart">
@@ -17,16 +90,18 @@
         </div>
       </div>
     </div>  -->
+      
+
     <div class=" col-lg-6">
       <div class=" card card-chart">
         <div class=" card-header">
           <h4 class=" card-title">Total Revenue</h4>
           <ul class="nav nav-tabs float-right" role="tablist">
             <li class="nav-item">
-              <a class="nav-link active" href="#table" role="tab" data-toggle="tab">Table</a>
+              <a class="nav-link active" href="#table" role="tab" data-toggle="tab">Metrics</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#visual" role="tab" data-toggle="tab">Visual</a>
+              <a class="nav-link" href="#visual" role="tab" data-toggle="tab">Visuals</a>
             </li>
 
           </ul>
@@ -35,37 +110,36 @@
 
           <div class="tab-content">
 
-            <div role="tabpanel" class="tab-pane fade in active" id="table">
+            <div role="tabpanel" class="tab-pane fade in active show" id="table">
 
               <table class="table">
                 <thead>
-                  <tr scope="row" style="color:skyblue">
-                    <th scope="col"></th>
-                    <th scope="col">Targets</th>
-                    <th scope="col">Actuals</th>
-                    <th scope="col">Variance</th>
+                  <tr scope="row" style="color:skyblue" id="tableHeading">
+                    
                   </tr>
                 </thead>
-                <tbody>
-                  <th scope="row" style="color:skyblue">Current Month (Oct.2019)</th>        
-                  <td>$15,442,262</td>
-                  <td>$14,515,726</td>
-                  <td>(6.0%)</td> 
+                <tbody id="totalRevenueTable">
+                  <tr id="RevenueProjection">
+                  </tr>
                   <tr>
-                    <th scope="row" style="color:skyblue">Year to Date (Jan.-Oct.2019)</th>
-                    <td >$156,352,901</td>
-                    <td >$150,832,293</td>
-                    <td>(3.5%)</td>
-
+                    <th scope="row" style="border: none;color:skyblue">Actuals</th>        
+                    <td>$0</td>
+                    <td>$0</td>
+                    <td>$0</td> 
+                    <td>$0</td> 
+                  </tr>
+                  <tr>
+                    <th scope="row" style="color:skyblue">Variance</th>        
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td> 
                   </tr>
                 </tbody>
               </table>
-
-
-
             </div>
             <div role="tabpanel" class="tab-pane fade" id="visual">
-              <div class=" chart-area"><canvas id="CountryChart"> </canvas></div>
+              <div class=" chart-area" #totalRevenue></div>
             </div>
           </div>
 
@@ -79,10 +153,10 @@
           <h4 class=" card-title">Gross Profit</h4>
           <ul class="nav nav-tabs float-right" role="tablist">
             <li class="nav-item">
-              <a class="nav-link active" href="#table1" role="tab" data-toggle="tab">Table</a>
+              <a class="nav-link active" href="#table1" role="tab" data-toggle="tab">Metrics</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#visual1" role="tab" data-toggle="tab">Visual</a>
+              <a class="nav-link" href="#visual1" role="tab" data-toggle="tab">Visuals</a>
             </li>
 
           </ul>
@@ -91,149 +165,38 @@
 
           <div class="tab-content">
 
-            <div role="tabpanel" class="tab-pane fade in active" id="table1">
+            <div role="tabpanel" class="tab-pane fade in active show" id="table1">
 
               <table class="table">
                 <thead>
-                  <tr>
-                    <th scope="col"></th>
-                    <th scope="col">Targets</th>
-                    <th scope="col">Actuals</th>
-                    <th scope="col">Variance</th>
+                  <tr scope="row" style="color:skyblue" id="tableHeading2">
                   </tr>
                 </thead>
                 <tbody>
-                  <th scope="row" style="color:skyblue">Current Month (Oct.2019)</th>
-                  <td style="color:black;text-align:right">$15,442,262</td>
-                  <td style="color:black;text-align:right">$14,515,726</td>
-                  <td>(6.0%)</td>
+                  <tr id="GrossProfitProjection">
+                    
+                  </tr>
                   <tr>
-                    <th scope="row" style="color:skyblue">Year to Date (Jan.-Oct.2019)</th>
-                    <td style="color:black;text-align:right">$156,352,901</td>
-                    <td style="color:black;text-align:right">$150,832,293</td>
-                    <td>(3.5%)</td>
-
+                    <th scope="row" style="color:skyblue">Actuals</th>        
+                    <td>$0</td>
+                    <td>$0</td>
+                    <td>$0</td> 
+                    <td>$0</td> 
+                  </tr>
+                  <tr>
+                    <th scope="row" style="color:skyblue">Variance</th>        
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td> 
                   </tr>
                 </tbody>
               </table>
-
 
 
             </div>
             <div role="tabpanel" class="tab-pane fade" id="visual1">
-              <div class=" chart-area"><canvas id="CountryChart"> </canvas></div>
-            </div>
-          </div>
-
-        </div>
-
-      </div>
-    </div>
-    <div class=" col-lg-6">
-      <div class=" card card-chart">
-        <div class=" card-header">
-          <h4 class=" card-title">Net Income</h4>
-          <ul class="nav nav-tabs float-right" role="tablist">
-            <li class="nav-item">
-              <a class="nav-link active" href="#table2" role="tab" data-toggle="tab">Table</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#visual2" role="tab" data-toggle="tab">Visual</a>
-            </li>
-
-          </ul>
-        </div>
-        <div class=" card-body">
-
-          <div class="tab-content">
-
-            <div role="tabpanel" class="tab-pane fade in active" id="table2">
-
-              <table class="table">
-                <thead>
-                  <tr>
-                    <th scope="col"></th>
-                    <th scope="col">Targets</th>
-                    <th scope="col">Actuals</th>
-                    <th scope="col">Variance</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <th scope="row" style="color:skyblue">Current Month (Oct.2019)</th>
-                  <td style="color:black;text-align:right">$15,442,262</td>
-                  <td style="color:black;text-align:right">$14,515,726</td>
-                  <td>(6.0%)</td>
-                  <tr>
-                    <th scope="row" style="color:skyblue">Year to Date (Jan.-Oct.2019)</th>
-                    <td style="color:black;text-align:right">$156,352,901</td>
-                    <td style="color:black;text-align:right">$150,832,293</td>
-                    <td>(3.5%)</td>
-
-                  </tr>
-                </tbody>
-              </table>
-
-
-
-            </div>
-            <div role="tabpanel" class="tab-pane fade" id="visual2">
-              <div class=" chart-area"><canvas id="CountryChart"> </canvas></div>
-            </div>
-          </div>
-
-        </div>
-
-      </div>
-    </div>
-    <div class=" col-lg-6">
-      <div class=" card card-chart">
-        <div class=" card-header">
-          <h4 class=" card-title">EBITDA</h4>
-          <ul class="nav nav-tabs float-right" role="tablist">
-            <li class="nav-item">
-              <a class="nav-link active" href="#table3" role="tab" data-toggle="tab">Table</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#visual3" role="tab" data-toggle="tab">Visual</a>
-            </li>
-
-          </ul>
-        </div>
-        <div class=" card-body">
-
-          <div class="tab-content">
-
-            <div role="tabpanel" class="tab-pane fade in active" id="table3">
-
-              <table class="table">
-                <thead>
-                  <tr>
-                    <th scope="col"></th>
-                    <th scope="col">Targets</th>
-                    <th scope="col">Actuals</th>
-                    <th scope="col">Variance</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <th scope="row" style="color:skyblue">Current Month (Oct.2019)</th>
-                  <td style="color:black;text-align:right">$15,442,262</td>
-                  <td style="color:black;text-align:right">$14,515,726</td>
-                  <td>(6.0%)</td>
-                  <tr>
-                    <th scope="row" style="color:skyblue">Year to Date (Jan.-Oct.2019)</th>
-                    <td style="color:black;text-align:right">$156,352,901</td>
-                    <td style="color:black;text-align:right">$150,832,293</td>
-                    <td>(3.5%)</td>
-
-                  </tr>
-                </tbody>
-              </table>
-
-
-
-            </div>
-            <div role="tabpanel" class="tab-pane fade" id="visual3">
-              <div class=" chart-area"><canvas id="CountryChart"> </canvas></div>
+              <div class=" chart-area" #grossProfit></div>
             </div>
           </div>
 
@@ -247,10 +210,10 @@
           <h4 class=" card-title">EBIT</h4>
           <ul class="nav nav-tabs float-right" role="tablist">
             <li class="nav-item">
-              <a class="nav-link active" href="#table4" role="tab" data-toggle="tab">Table</a>
+              <a class="nav-link active" href="#table4" role="tab" data-toggle="tab">Metrics</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#visual4" role="tab" data-toggle="tab">Visual</a>
+              <a class="nav-link" href="#visual4" role="tab" data-toggle="tab">Visuals</a>
             </li>
 
           </ul>
@@ -259,37 +222,95 @@
 
           <div class="tab-content">
 
-            <div role="tabpanel" class="tab-pane fade in active" id="table4">
+            <div role="tabpanel" class="tab-pane fade in active show" id="table4">
 
               <table class="table">
                 <thead>
-                  <tr>
-                    <th scope="col"></th>
-                    <th scope="col">Targets</th>
-                    <th scope="col">Actuals</th>
-                    <th scope="col">Variance</th>
+                  <tr scope="row" style="color:skyblue" id="tableHeading5">
                   </tr>
                 </thead>
                 <tbody>
-                  <th scope="row" style="color:skyblue">Current Month (Oct.2019)</th>
-                  <td style="color:black;text-align:right">$15,442,262</td>
-                  <td style="color:black;text-align:right">$14,515,726</td>
-                  <td>(6.0%)</td>
+                   <tr id="EBITProjection">
+                    
+                  </tr>
                   <tr>
-                    <th scope="row" style="color:skyblue">Year to Date (Jan.-Oct.2019)</th>
-                    <td style="color:black;text-align:right">$156,352,901</td>
-                    <td style="color:black;text-align:right">$150,832,293</td>
-                    <td>(3.5%)</td>
-
+                    <th scope="row" style="color:skyblue">Actuals</th>        
+                    <td>$0</td>
+                    <td>$0</td>
+                    <td>$0</td> 
+                    <td>$0</td> 
+                  </tr>
+                  <tr>
+                    <th scope="row" style="color:skyblue">Variance</th>        
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td> 
                   </tr>
                 </tbody>
               </table>
 
 
-
             </div>
             <div role="tabpanel" class="tab-pane fade" id="visual4">
-              <div class=" chart-area"><canvas id="CountryChart"> </canvas></div>
+              <div class=" chart-area" #ebit></div>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </div>
+    <div class=" col-lg-6">
+      <div class=" card card-chart">
+        <div class=" card-header">
+          <h4 class=" card-title">EBITDA</h4>
+          <ul class="nav nav-tabs float-right" role="tablist">
+            <li class="nav-item">
+              <a class="nav-link active" href="#table3" role="tab" data-toggle="tab">Metrics</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#visual3" role="tab" data-toggle="tab">Visuals</a>
+            </li>
+
+          </ul>
+        </div>
+        <div class=" card-body">
+
+          <div class="tab-content">
+
+            <div role="tabpanel" class="tab-pane fade in active show" id="table3">
+
+             <table class="table">
+                <thead>
+                  <tr scope="row" style="color:skyblue" id="tableHeading4">
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr id="EBITDAProjection">
+                    
+                  </tr>
+                  <tr>
+                    <th scope="row" style="color:skyblue">Actuals</th>        
+                    <td>$0</td>
+                    <td>$0</td>
+                    <td>$0</td> 
+                    <td>$0</td> 
+                  </tr>
+                  <tr>
+                    <th scope="row" style="color:skyblue">Variance</th>        
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td> 
+                  </tr>
+                </tbody>
+              </table>
+
+
+            </div>
+            <div role="tabpanel" class="tab-pane fade" id="visual3">
+              <div class=" chart-area" #ebitda></div>
             </div>
           </div>
 
@@ -303,10 +324,10 @@
           <h4 class=" card-title">EBT</h4>
           <ul class="nav nav-tabs float-right" role="tablist">
             <li class="nav-item">
-              <a class="nav-link active" href="#table5" role="tab" data-toggle="tab">Table</a>
+              <a class="nav-link active" href="#table5" role="tab" data-toggle="tab">Metrics</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#visual5" role="tab" data-toggle="tab">Visual</a>
+              <a class="nav-link" href="#visual5" role="tab" data-toggle="tab">Visuals</a>
             </li>
 
           </ul>
@@ -315,37 +336,95 @@
 
           <div class="tab-content">
 
-            <div role="tabpanel" class="tab-pane active fade in" id="table5">
+            <div role="tabpanel" class="tab-pane active fade in show" id="table5">
 
-              <table class="table">
+             <table class="table">
                 <thead>
-                  <tr>
-                    <th scope="col"></th>
-                    <th scope="col">Targets</th>
-                    <th scope="col">Actuals</th>
-                    <th scope="col">Variance</th>
+                  <tr scope="row" style="color:skyblue" id="tableHeading6">
                   </tr>
                 </thead>
                 <tbody>
-                  <th scope="row" style="color:skyblue">Current Month (Oct.2019)</th>
-                  <td style="color:black;text-align:right">$15,442,262</td>
-                  <td style="color:black;text-align:right">$14,515,726</td>
-                  <td>(6.0%)</td>
+                   <tr id="EBTProjection">
+                    
+                  </tr>
                   <tr>
-                    <th scope="row" style="color:skyblue">Year to Date (Jan.-Oct.2019)</th>
-                    <td style="color:black;text-align:right">$156,352,901</td>
-                    <td style="color:black;text-align:right">$150,832,293</td>
-                    <td>(3.5%)</td>
-
+                    <th scope="row" style="color:skyblue">Actuals</th>        
+                    <td>$0</td>
+                    <td>$0</td>
+                    <td>$0</td> 
+                    <td>$0</td> 
+                  </tr>
+                  <tr>
+                    <th scope="row" style="color:skyblue">Variance</th>        
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td> 
                   </tr>
                 </tbody>
               </table>
 
 
-
             </div>
             <div role="tabpanel" class="tab-pane fade" id="visual5">
-              <div class=" chart-area"><canvas id="CountryChart"> </canvas></div>
+              <div class=" chart-area" #ebt></div>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </div>
+    <div class=" col-lg-6">
+      <div class=" card card-chart">
+        <div class=" card-header">
+          <h4 class=" card-title">Net Income</h4>
+          <ul class="nav nav-tabs float-right" role="tablist">
+            <li class="nav-item">
+              <a class="nav-link active" href="#table2" role="tab" data-toggle="tab">Metrics</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#visual2" role="tab" data-toggle="tab">Visuals</a>
+            </li>
+
+          </ul>
+        </div>
+        <div class=" card-body">
+
+          <div class="tab-content">
+
+            <div role="tabpanel" class="tab-pane fade in active show" id="table2">
+
+             <table class="table">
+                <thead>
+                  <tr scope="row" style="color:skyblue" id="tableHeading3">
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr id="NetIncomeProjection">
+                    
+                  </tr>
+                  <tr>
+                    <th scope="row" style="color:skyblue">Actuals</th>        
+                    <td>$0</td>
+                    <td>$0</td>
+                    <td>$0</td> 
+                    <td>$0</td> 
+                  </tr>
+                  <tr>
+                    <th scope="row" style="color:skyblue">Variance</th>        
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td> 
+                  </tr>
+                </tbody>
+              </table>
+
+
+            </div>
+            <div role="tabpanel" class="tab-pane fade" id="visual2">
+              <div class=" chart-area" #netIncome></div>
             </div>
           </div>
 

@@ -39,10 +39,11 @@
               "src/assets/js/High.js",
               "src/assets/js/statement.js",
               "src/assets/js/pdf.js",
+			  "src/assets/js/profile.js",
               "src/assets/js/import.js",
-	           "src/assets/js/login.js",
-				"node_modules/pdfmake/build/pdfmake.min.js",
-				"node_modules/html2canvas/dist/html2canvas.min.js"
+	          "src/assets/js/login.js",
+			  "node_modules/pdfmake/build/pdfmake.min.js",
+			  "node_modules/html2canvas/dist/html2canvas.min.js"
            ],
             "es5BrowserSupport": true
           },

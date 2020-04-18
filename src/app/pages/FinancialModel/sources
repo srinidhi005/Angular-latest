@@ -1,0 +1,231 @@
+<style>
+  .alert{
+      display: none;
+  }
+  .myAlert-top{
+
+  top: 2px; 
+ 
+  width: 100%;
+}
+.myAlert-tops{
+
+top: 2px; 
+
+width: 100%;
+}   
+.cover-spin {
+	        position:fixed;
+			    width:100%;
+				        left:0;right:0;top:0;bottom:0;
+						    background-color: rgba(255,255,255,0.7);
+							        z-index:9999;
+									    display:none;
+    }
+    
+    
+    
+    
+
+    @-webkit-keyframes spin {
+	    	from {-webkit-transform:rotate(0deg);}
+			to {-webkit-transform:rotate(360deg);}
+    }
+
+    @keyframes spin {
+	    	from {transform:rotate(0deg);}
+			to {transform:rotate(360deg);}
+    }
+
+    .cover-spin::after {
+	        content:'';
+			    display:block;
+				        position:absolute;
+						    left:48%;top:40%;
+							        width:40px;height:40px;
+									    border-style:solid;
+										        border-color:black;
+												    border-top-color:transparent;
+													        border-width: 4px;
+															    border-radius:50%;
+																        -webkit-animation: spin .8s linear infinite;
+																		    animation: spin .8s linear infinite;
+    }
+
+</style>
+<div class="content">
+	<div class="cover-spin"></div>
+   `<div class="btn-group float-right" role="group" >
+	    <a href="" id="metricsbtn" class="btn btn-sm btn-primary float-right rmiBtn">
+		    <i class="far fa-chart-bar" style="
+			        padding-right: 5px;
+				"></i>
+ 	    Metrics
+	    </a>
+	  <a href="" id="dashBoardId" class="btn btn-sm btn-primary float-right rmiBtn">
+		    <i class="far fa-tachometer-fast" style="
+			        padding-right: 5px;
+				"></i>
+ 	    Dashboard
+	    </a>
+        <a href=""  id="addNewScenario" type="button" onclick="myAlertTop()" class="btn btn-sm btn-primary rmiBtn" data-toggle="modal" data-target="#myModal" style="
+	           padding-right: 10px;
+	   "	   >
+		<i class="far fa-plus-square" style="
+			    padding-right: 5px;
+			    "></i>
+	      	Add Scenario </a>
+        <a href="" id="saveScenario"  type="button"   onclick="myAlertTops()"  class="btn btn-sm btn-primary float-right rmiBtn" data-toggle="modal" data-target="#myModal" style="
+		    padding-right: 8px;">
+		<i class="far fa-save" style="padding-right: 5px;"></i>Save Scenario </a>
+    </div>
+
+ 
+<div class="myAlert-top alert alert-success">
+   
+    Adding new scenario
+  </div>
+<div class="myAlert-tops alert alert-success">
+         Saving the scenario
+	</div>
+  <h4 class="pl-2 pt-1 rmiLabel">Adjust Financial Model Drivers</h4>
+  
+    <div class=" row">
+     
+      <div class=" col-lg-4">
+        <div class=" card card-chart">
+          <!-- <div class=" card-header">
+            <h4 class=" card-title">Revenue Growth</h4>  
+          </div> -->
+          <div class=" card-body">
+               <div class=" chart-area" #revenuegrowth> </div> 
+             
+          </div>
+        </div>
+      </div>
+      <div class=" col-lg-4">
+          <div class=" card card-chart">
+            <!-- <div class=" card-header">
+              <h4 class=" card-title">COGS</h4>  
+            </div> -->
+            <div class=" card-body ">
+                <div class=" chart-area" #cogs></div> 
+               
+            </div>
+          </div>
+        </div>
+      <div class=" col-lg-4">
+            <div class=" card card-chart">
+              <!-- <div class=" card-header">
+                <h4 class=" card-title">SG&A</h4>  
+              </div> -->
+              <div class=" card-body">
+                  <div class=" chart-area" #SG&A></div>  
+                  
+              </div>
+            </div>
+          </div>
+          <div class=" col-lg-4">
+              <div class=" card card-chart">
+                <!-- <div class=" card-header">
+                  <h4 class=" card-title">D&A</h4>  
+                </div> -->
+                <div class=" card-body" >
+                 <div class=" chart-area" #D&A></div>  
+                </div>
+              </div>
+            </div>
+             <div class=" col-lg-4">
+                <div class=" card card-chart">
+                  <!-- <div class=" card-header">
+                    <h4 class=" card-title">Other Income/Expense</h4>  
+                  </div> -->
+                  <div class=" card-body">
+                      <div class=" chart-area" #otheincome></div>  
+                      
+                  </div>
+                </div>
+              </div>
+            <div class=" col-lg-4">
+                  <div class=" card card-chart">
+                    <!-- <div class=" card-header">
+                      <h4 class=" card-title">Net Interest Expense</h4>  
+                    </div> -->
+                    <div class=" card-body" >
+                       <div class=" chart-area" #netie></div> 
+                        
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <h4 class="pl-2 pt-1">Annual Projections</h4>
+                <div class=" row">
+
+                
+
+                   <div class=" col-lg-4">
+                    <div class=" card card-chart">
+                      <!-- <div class=" card-header">
+                        <h4 class=" card-title">Revenue Growth</h4>  
+                      </div> -->
+                      <div class=" card-body">
+                         <div class=" chart-area" #projectionOne> </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class=" col-lg-4">
+                      <div class=" card card-chart">
+                        <!-- <div class=" card-header">
+                          <h4 class=" card-title">COGS</h4>  
+                        </div> -->
+                        <div class=" card-body">
+                             <div class=" chart-area" #projectionTwo> </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class=" col-lg-4">
+                        <div class=" card card-chart">
+                          <!-- <div class=" card-header">
+                            <h4 class=" card-title">SG&A</h4>  
+                          </div> -->
+                          <div class=" card-body">
+                              <div class=" chart-area" #projectionThree> </div> 
+                          </div>
+                        </div>
+                      </div>
+                      <div class=" col-lg-4">
+                          <div class=" card card-chart">
+                            <!-- <div class=" card-header">
+                              <h4 class=" card-title">D&A</h4>  
+                            </div> -->
+                            <div class=" card-body" >
+                               <div class=" chart-area" #projectionFour> </div> 
+                            </div>
+                          </div>
+                        </div>
+                        <div class=" col-lg-4">
+                            <div class=" card card-chart">
+                              <!-- <div class=" card-header">
+                                <h4 class=" card-title">Other Income/Expense</h4>  
+                              </div> -->
+                              <div class=" card-body">
+                                <div class=" chart-area" #projectionFive> </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class=" col-lg-4">
+                              <div class=" card card-chart">
+                                <!-- <div class=" card-header">
+                                  <h4 class=" card-title">Net Interest Expense</h4>  
+                                </div> -->
+                                <div class=" card-body" >
+                                    <div class=" chart-area" #projectionSix> </div>  
+                                </div>
+                              </div>
+                            </div>
+
+  
+    </div>
+  
+  </div>
+  

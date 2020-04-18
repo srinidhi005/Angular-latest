@@ -40,6 +40,7 @@ $('.cover-spin').show();
 	  let str="";
 	  let presentScenarios = [];
 	  presentScenarios = (JSON.parse(response)).scenarios;
+	  str = "<option _ngcontent-sut-c5='' value='"+0+"' ng-reflect-value='"+0+"'> Default </option>";
 	  for(var i=1;i<presentScenarios.length;i++){
 		  str=str+"<option _ngcontent-sut-c5='' value='"+presentScenarios[i]+"' ng-reflect-value='"+presentScenarios[i]+"'> Scenario "+presentScenarios[i]+" </option>";
 		  }
@@ -53,7 +54,7 @@ $('.cover-spin').show();
 	if($("#sel2").val() != undefined){
 		scenario = $("#sel2").val();
 	}else{
-	scenario = 1;
+	scenario = 0;
 	}
   var companyName = decodeURI(window.location.href).split("=")[1] + " : Scenario "+scenario;
 
@@ -95,9 +96,17 @@ $('.cover-spin').show();
 		}
 		var companyName = decodeURI(window.location.href).split("=")[1] + " : Scenario "+scenario;
 		$('#myTable').prepend('<tr />').children('tr:first').append('<td colspan="8" ><b>'+"  "+' '+companyName+'</b></td>')
-			$('#myTable').append("<tr><td colspan='8' style='text-align:left' height='40'><img src='http://34.67.197.111/assets/img/RMI.jpg'></td></tr>");
+		$('#myTable').append("<tr><td colspan='8' style='text-align:left' height='40'><img src='http://34.67.197.111/assets/img/RMI.jpg'></td></tr>");
+		
 
-		html2canvas(document.getElementById('myTable')).then(function (canvas) {
+			html2canvas(document.getElementById('myTable'), {
+			
+
+				
+			                     scale: 5
+		  
+	      }	       ).then(function (canvas) {
+				    
 		
 		  var data = canvas.toDataURL();
 											    					
@@ -108,16 +117,20 @@ $('.cover-spin').show();
 		 var postfix = month + "." + day + "." + year ;
 		 	var docDefinition = {
 			content: [{
-			 
-				image: data,
-				width: 500,
+			
+		      	
+			image: data,
+			width:500
+				
 				 }]
 				 };
 	pdfMake.createPdf(docDefinition).download('RMI_Insights_Export_'+companyName+'_'+ postfix+ '.pdf');
 	$("table[id='myTable'] tr:last-child").remove();
 	$("table[id='myTable'] tr:first-child").remove();
- });
- }
+	});
+
+	
+	}
  }																							 
 
 				

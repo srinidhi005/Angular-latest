@@ -1,0 +1,105 @@
+17:29:51.518 INFO  level1 
+17:29:51.519 INFO  {"fieldname":"file","originalname":"1.Public_Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public_Nike.pdf","path":"uploads/1.Public_Nike.pdf","size":88151,"company":"QNike21Jan20201059","period":"Y","statementtype":"All Statements","industry":"Energy & Natural Resources","statementId":1146}level2 
+17:29:51.519 INFO  level3 
+17:42:38.903 INFO  level1 
+17:42:38.904 INFO  {"fieldname":"file","originalname":"1.Public_Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public_Nike.pdf","path":"uploads/1.Public_Nike.pdf","size":88151,"company":"PNike21Jan20201112","period":"Y","statementtype":"All Statements","industry":"Entertainment & Media","statementId":1148}level2 
+17:42:38.905 INFO  level3 
+17:49:54.786 INFO  level1 
+17:49:54.787 INFO  {"fieldname":"file","originalname":"1.Public_Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public_Nike.pdf","path":"uploads/1.Public_Nike.pdf","size":88151,"company":"SNike21Jan20201119","period":"Y","statementtype":"All Statements","industry":"Entertainment & Media","statementId":1150}level2 
+17:49:54.788 INFO  level3 
+16:59:11.678 INFO  level1 
+16:59:11.678 INFO  {"fieldname":"file","originalname":"Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"Nike.pdf","path":"uploads/Nike.pdf","size":88151,"company":"ABCNike1","period":"Q","statementtype":"Income Statement","industry":"Food & Beverage","statementId":1152}level2 
+16:59:11.678 INFO  level3 
+17:13:55.997 INFO  level1 
+17:13:55.997 INFO  {"fieldname":"file","originalname":"Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"Nike.pdf","path":"uploads/Nike.pdf","size":88151,"company":"ABCNike3","period":"M","statementtype":"Balance Sheet","industry":"Healthcare","statementId":1154}level2 
+17:13:55.997 INFO  level3 
+17:15:47.188 INFO  level1 
+17:15:47.189 INFO  {"fieldname":"file","originalname":"Nike - Copy.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"Nike-Copy.pdf","path":"uploads/Nike-Copy.pdf","size":88151,"company":"ABCNike5","period":"M","statementtype":"Balance Sheet","industry":"Power, Infrastructure & Utilities","statementId":1156}level2 
+17:15:47.189 INFO  level3 
+19:10:44.782 INFO  level1 
+19:10:44.782 INFO  {"fieldname":"file","originalname":"Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"Nike.pdf","path":"uploads/Nike.pdf","size":88151,"company":"ABCNike6","period":"M","statementtype":"Income Statement","industry":"Power, Infrastructure & Utilities","statementId":1158}level2 
+19:10:44.783 INFO  level3 
+11:33:58.210 INFO  level1 
+11:33:58.211 INFO  {"fieldname":"file","originalname":"2.Public.Fitbit.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"2.Public.Fitbit.pdf","path":"uploads/2.Public.Fitbit.pdf","size":160652,"company":"Fitbit230120201507","period":"Y","statementtype":"All Statements","industry":"Consumer & Retail","statementId":1173}level2 
+11:33:58.212 INFO  level3 
+11:40:19.267 INFO  level1 
+11:40:19.269 INFO  {"fieldname":"file","originalname":"1.Public.Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public.Nike.pdf","path":"uploads/1.Public.Nike.pdf","size":88151,"company":"Nike230120201710","period":"Y","statementtype":"All Statements","industry":"Consumer & Retail","statementId":1176}level2 
+11:40:19.269 INFO  level3 
+11:51:07.485 INFO  level1 
+11:51:07.486 INFO  {"fieldname":"file","originalname":"1.Public.Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public.Nike.pdf","path":"uploads/1.Public.Nike.pdf","size":88151,"company":"Nike230120201720","period":"Y","statementtype":"Cash Flow Statement","industry":"Consumer & Retail","statementId":1179}level2 
+11:51:07.486 INFO  level3 
+12:00:23.305 INFO  level1 
+12:00:23.309 INFO  {"fieldname":"file","originalname":"1.Public_Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public_Nike.pdf","path":"uploads/1.Public_Nike.pdf","size":88151,"company":"Nike23Jan2020530","period":"Y","statementtype":"All Statements","industry":"Distribution & Logistics","statementId":1181}level2 
+12:00:23.310 INFO  level3 
+14:42:21.760 INFO  level1 
+14:42:21.761 INFO  {"fieldname":"file","originalname":"1.Public_Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public_Nike.pdf","path":"uploads/1.Public_Nike.pdf","size":88151,"company":"Nike23Jan812","period":"Y","statementtype":"All Statements","industry":"Energy & Natural Resources","statementId":1183}level2 
+14:42:21.761 INFO  level3 
+16:40:44.316 INFO  level1 
+16:40:44.316 INFO  {"fieldname":"file","originalname":"1.Public.Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public.Nike.pdf","path":"uploads/1.Public.Nike.pdf","size":88151,"company":"Nike230120202210","period":"Y","statementtype":"All Statements","industry":"Consumer & Retail","statementId":1185}level2 
+16:40:44.316 INFO  level3 
+06:19:48.488 INFO  level1 
+06:19:48.489 INFO  {"fieldname":"file","originalname":"1.Public.Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public.Nike.pdf","path":"uploads/1.Public.Nike.pdf","size":88151,"company":"Nike240120201149","period":"Y","statementtype":"All Statements","industry":"Consumer & Retail","statementId":1189}level2 
+06:19:48.490 INFO  level3 
+06:38:54.289 INFO  level1 
+06:38:54.289 INFO  {"fieldname":"file","originalname":"1.Public.Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public.Nike.pdf","path":"uploads/1.Public.Nike.pdf","size":88151,"company":"Nike240120201208","period":"Y","statementtype":"All Statements","industry":"Consumer & Retail","statementId":1190}level2 
+06:38:54.289 INFO  level3 
+06:40:34.592 INFO  level1 
+06:40:34.592 INFO  {"fieldname":"file","originalname":"1.Public.Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public.Nike.pdf","path":"uploads/1.Public.Nike.pdf","size":88151,"company":"Nike240120201210","period":"Y","statementtype":"All Statements","industry":"Consumer & Retail","statementId":1191}level2 
+06:40:34.592 INFO  level3 
+06:42:45.775 INFO  level1 
+06:42:45.776 INFO  {"fieldname":"file","originalname":"Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"Nike.pdf","path":"uploads/Nike.pdf","size":88151,"company":"ABCNike10","period":"M","statementtype":"Income Statement","industry":"Technology","statementId":1192}level2 
+06:42:45.776 INFO  level3 
+06:43:32.738 INFO  level1 
+06:43:32.738 INFO  {"fieldname":"file","originalname":"Nike - Copy.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"Nike-Copy.pdf","path":"uploads/Nike-Copy.pdf","size":88151,"company":"ABCNike11","period":"Q","statementtype":"Balance Sheet","industry":"Hospitality","statementId":1193}level2 
+06:43:32.738 INFO  level3 
+06:53:40.486 INFO  level1 
+06:53:40.486 INFO  {"fieldname":"file","originalname":"1.Public.Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public.Nike.pdf","path":"uploads/1.Public.Nike.pdf","size":88151,"company":"Nike240120201223","period":"Y","statementtype":"All Statements","industry":"Consumer & Retail","statementId":1194}level2 
+06:53:40.486 INFO  level3 
+06:54:35.590 INFO  level1 
+06:54:35.590 INFO  {"fieldname":"file","originalname":"1.Public.Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public.Nike.pdf","path":"uploads/1.Public.Nike.pdf","size":88151,"company":"Nike240120201224","period":"Y","statementtype":"All Statements","industry":"Consumer & Retail","statementId":1195}level2 
+06:54:35.590 INFO  level3 
+10:19:44.460 INFO  level1 
+10:19:44.460 INFO  {"fieldname":"file","originalname":"1.Public_Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public_Nike.pdf","path":"uploads/1.Public_Nike.pdf","size":88151,"company":"Nike24Jan2020349","period":"Y","statementtype":"All Statements","industry":"Distribution & Logistics","statementId":1196}level2 
+10:19:44.460 INFO  level3 
+10:20:27.294 INFO  level1 
+10:20:27.294 INFO  {"fieldname":"file","originalname":"1.Public_Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public_Nike.pdf","path":"uploads/1.Public_Nike.pdf","size":88151,"company":"Nike24Jan2020350","period":"Y","statementtype":"All Statements","industry":"Energy & Natural Resources","statementId":1197}level2 
+10:20:27.294 INFO  level3 
+10:21:26.893 INFO  level1 
+10:21:26.893 INFO  {"fieldname":"file","originalname":"2.Public.Fitbit.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"2.Public.Fitbit.pdf","path":"uploads/2.Public.Fitbit.pdf","size":160652,"company":"FitBit24Jan2020350","period":"Y","statementtype":"All Statements","industry":"Energy & Natural Resources","statementId":1198}level2 
+10:21:26.893 INFO  level3 
+10:22:29.413 INFO  level1 
+10:22:29.413 INFO  {"fieldname":"file","originalname":"2.Public.Fitbit.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"2.Public.Fitbit.pdf","path":"uploads/2.Public.Fitbit.pdf","size":160652,"company":"FitBit24Jan2020352","period":"Y","statementtype":"All Statements","industry":"Entertainment & Media","statementId":1199}level2 
+10:22:29.414 INFO  level3 
+16:53:03.745 INFO  level1 
+16:53:03.746 INFO  {"fieldname":"file","originalname":"1.Public_Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public_Nike.pdf","path":"uploads/1.Public_Nike.pdf","size":88151,"company":"Nike24Jan20201022","period":"Y","statementtype":"All Statements","industry":"Entertainment & Media","statementId":1200}level2 
+16:53:03.746 INFO  level3 
+16:53:56.761 INFO  level1 
+16:53:56.762 INFO  {"fieldname":"file","originalname":"1.Public_Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public_Nike.pdf","path":"uploads/1.Public_Nike.pdf","size":88151,"company":"Nike23Jan20201023","period":"Y","statementtype":"All Statements","industry":"Energy & Natural Resources","statementId":1201}level2 
+16:53:56.762 INFO  level3 
+16:56:35.191 INFO  level1 
+16:56:35.191 INFO  {"fieldname":"file","originalname":"2.Public.Fitbit.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"2.Public.Fitbit.pdf","path":"uploads/2.Public.Fitbit.pdf","size":160652,"company":"FitBit23Jan20201026","period":"Y","statementtype":"All Statements","industry":"Entertainment & Media","statementId":1202}level2 
+16:56:35.191 INFO  level3 
+16:59:45.281 INFO  level1 
+16:59:45.281 INFO  {"fieldname":"file","originalname":"5.Public.Tesla.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"5.Public.Tesla.pdf","path":"uploads/5.Public.Tesla.pdf","size":66443,"company":"Nike26Jan20201029","period":"Y","statementtype":"All Statements","industry":"Energy & Natural Resources","statementId":1203}level2 
+16:59:45.281 INFO  level3 
+04:20:04.454 INFO  level1 
+04:20:04.455 INFO  {"fieldname":"file","originalname":"1.Public.Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public.Nike.pdf","path":"uploads/1.Public.Nike.pdf","size":88151,"company":"Nike02022020","period":"Y","statementtype":"All Statements","industry":"Consumer & Retail","statementId":1204}level2 
+04:20:04.455 INFO  level3 
+04:27:24.430 INFO  level1 
+04:27:24.431 INFO  {"fieldname":"file","originalname":"2.Public.Fitbit.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"2.Public.Fitbit.pdf","path":"uploads/2.Public.Fitbit.pdf","size":160652,"company":"Fitbit02022020","period":"Y","statementtype":"All Statements","industry":"Consumer & Retail","statementId":1205}level2 
+04:27:24.431 INFO  level3 
+04:28:28.607 INFO  level1 
+04:28:28.608 INFO  {"fieldname":"file","originalname":"5.Public.Tesla.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"5.Public.Tesla.pdf","path":"uploads/5.Public.Tesla.pdf","size":66443,"company":"Tesla02022020","period":"Y","statementtype":"All Statements","industry":"Consumer & Retail","statementId":1206}level2 
+04:28:28.608 INFO  level3 
+03:11:11.637 INFO  level1 
+03:11:11.638 INFO  {"fieldname":"file","originalname":"1.Public.Nike.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"1.Public.Nike.pdf","path":"uploads/1.Public.Nike.pdf","size":88151,"company":"Nike02112020","period":"Y","statementtype":"All Statements","industry":"Consumer & Retail","statementId":1207}level2 
+03:11:11.638 INFO  level3 
+03:14:18.958 INFO  level1 
+03:14:18.958 INFO  {"fieldname":"file","originalname":"34.Public.ActivisionBliazzard.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"34.Public.ActivisionBliazzard.pdf","path":"uploads/34.Public.ActivisionBliazzard.pdf","size":47124,"company":"ActivisionBlizzard02112020","period":"Y","statementtype":"All Statements","industry":"Technology","statementId":1208}level2 
+03:14:18.958 INFO  level3 
+03:16:43.251 INFO  level1 
+03:16:43.251 INFO  {"fieldname":"file","originalname":"42.Public.Darden.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"42.Public.Darden.pdf","path":"uploads/42.Public.Darden.pdf","size":117351,"company":"Darden02112020","period":"Y","statementtype":"All Statements","industry":"Food & Beverage","statementId":1209}level2 
+03:16:43.251 INFO  level3 
+03:18:40.155 INFO  level1 
+03:18:40.156 INFO  {"fieldname":"file","originalname":"30.Public.Amazon.pdf","encoding":"7bit","mimetype":"application/pdf","destination":"./uploads","filename":"30.Public.Amazon.pdf","path":"uploads/30.Public.Amazon.pdf","size":88203,"company":"Amazon02112020","period":"Y","statementtype":"All Statements","industry":"Technology","statementId":1210}level2 
+03:18:40.156 INFO  level3 

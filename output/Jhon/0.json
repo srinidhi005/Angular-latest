@@ -1,0 +1,235 @@
+{
+    "type": "Balance_sheet",
+    "currency": "USD",
+    "units": "millions",
+    "company": "",
+    "title": "consolidated balance sheets",
+    "period": [
+        {
+            "statement": [
+                {
+                    "items": [],
+                    "transformed": "Current assets",
+                    "code": "",
+                    "heading": "Current assets"
+                },
+                {
+                    "value": 14098000.0,
+                    "code": "AM_BS_AR",
+                    "desc": "Accounts receivable trade less allowances for doubtful accounts 248 -2017 291",
+                    "transformed": "Accounts receivable"
+                },
+                {
+                    "value": 2699000.0,
+                    "total": {
+                        "value": 46033000.0,
+                        "code": "AM_BS_CA",
+                        "desc": "Total current assets",
+                        "transformed": "Total current assets"
+                    },
+                    "code": "",
+                    "desc": "Prepaid expenses and other receivables",
+                    "transformed": "Prepaid expenses and other receivables"
+                },
+                {
+                    "value": 4182000.0,
+                    "total": {
+                        "value": 152954000.0,
+                        "code": "",
+                        "desc": "Total assets",
+                        "transformed": "Total assets"
+                    },
+                    "code": "",
+                    "desc": "Other assets",
+                    "transformed": "Other assets"
+                },
+                {
+                    "items": [],
+                    "transformed": "Liabilities and shareholders equity",
+                    "code": "",
+                    "heading": "Liabilities and Shareholders\u2019 Equity"
+                },
+                {
+                    "items": [],
+                    "transformed": "Current liabilities",
+                    "code": "",
+                    "heading": "Current liabilities"
+                },
+                {
+                    "value": 7537000.0,
+                    "code": "",
+                    "desc": "Accounts payable",
+                    "transformed": "Accounts payable"
+                },
+                {
+                    "value": 7601000.0,
+                    "code": "",
+                    "desc": "Accrued liabilities",
+                    "transformed": "Accrued liabilities"
+                },
+                {
+                    "value": 9380000.0,
+                    "code": "",
+                    "desc": "Accrued rebates returns and promotions",
+                    "transformed": "Accrued rebates returns and promotions"
+                },
+                {
+                    "value": 3098000.0,
+                    "total": {
+                        "value": 31230000.0,
+                        "code": "",
+                        "desc": "Total current liabilities",
+                        "transformed": "Total current liabilities"
+                    },
+                    "code": "",
+                    "desc": "Accrued compensation and employee related obligations",
+                    "transformed": "Accrued compensation and employee related obligations"
+                },
+                {
+                    "value": 8589000.0,
+                    "total": {
+                        "value": 93202000.0,
+                        "code": "",
+                        "desc": "Total liabilities",
+                        "transformed": "Total liabilities"
+                    },
+                    "code": "",
+                    "desc": "Other liabilities",
+                    "transformed": "Other liabilities"
+                },
+                {
+                    "total": {
+                        "value": 59752000.0,
+                        "code": "",
+                        "desc": "Total shareholders\u2019 equity",
+                        "transformed": "Total shareholders equity"
+                    },
+                    "transformed": "Retained earnings",
+                    "value": 106216000.0,
+                    "total1": {
+                        "value": 152954000.0,
+                        "code": "",
+                        "desc": "Total liabilities and shareholders\u2019 equity",
+                        "transformed": "Total liabilities and shareholders equity"
+                    },
+                    "code": "",
+                    "desc": "Retained earnings"
+                }
+            ],
+            "asof": "december302018"
+        },
+        {
+            "statement": [
+                {
+                    "items": [],
+                    "transformed": "Current assets",
+                    "code": "",
+                    "heading": "Current assets"
+                },
+                {
+                    "value": 13490000.0,
+                    "code": "AM_BS_AR",
+                    "desc": "Accounts receivable trade less allowances for doubtful accounts 248 -2017 291",
+                    "transformed": "Accounts receivable"
+                },
+                {
+                    "value": 2537000.0,
+                    "total": {
+                        "value": 43088000.0,
+                        "code": "AM_BS_CA",
+                        "desc": "Total current assets",
+                        "transformed": "Total current assets"
+                    },
+                    "code": "",
+                    "desc": "Prepaid expenses and other receivables",
+                    "transformed": "Prepaid expenses and other receivables"
+                },
+                {
+                    "value": 4971000.0,
+                    "total": {
+                        "value": 157303000.0,
+                        "code": "",
+                        "desc": "Total assets",
+                        "transformed": "Total assets"
+                    },
+                    "code": "",
+                    "desc": "Other assets",
+                    "transformed": "Other assets"
+                },
+                {
+                    "items": [],
+                    "transformed": "Liabilities and shareholders equity",
+                    "code": "",
+                    "heading": "Liabilities and Shareholders\u2019 Equity"
+                },
+                {
+                    "items": [],
+                    "transformed": "Current liabilities",
+                    "code": "",
+                    "heading": "Current liabilities"
+                },
+                {
+                    "value": 7310000.0,
+                    "code": "",
+                    "desc": "Accounts payable",
+                    "transformed": "Accounts payable"
+                },
+                {
+                    "value": 7304000.0,
+                    "code": "",
+                    "desc": "Accrued liabilities",
+                    "transformed": "Accrued liabilities"
+                },
+                {
+                    "value": 7210000.0,
+                    "code": "",
+                    "desc": "Accrued rebates returns and promotions",
+                    "transformed": "Accrued rebates returns and promotions"
+                },
+                {
+                    "value": 2953000.0,
+                    "total": {
+                        "value": 30537000.0,
+                        "code": "",
+                        "desc": "Total current liabilities",
+                        "transformed": "Total current liabilities"
+                    },
+                    "code": "",
+                    "desc": "Accrued compensation and employee related obligations",
+                    "transformed": "Accrued compensation and employee related obligations"
+                },
+                {
+                    "value": 9017000.0,
+                    "total": {
+                        "value": 97143000.0,
+                        "code": "",
+                        "desc": "Total liabilities",
+                        "transformed": "Total liabilities"
+                    },
+                    "code": "",
+                    "desc": "Other liabilities",
+                    "transformed": "Other liabilities"
+                },
+                {
+                    "total": {
+                        "value": 60160000.0,
+                        "code": "",
+                        "desc": "Total shareholders\u2019 equity",
+                        "transformed": "Total shareholders equity"
+                    },
+                    "transformed": "Retained earnings",
+                    "value": 101793000.0,
+                    "total1": {
+                        "value": 157303000.0,
+                        "code": "",
+                        "desc": "Total liabilities and shareholders\u2019 equity",
+                        "transformed": "Total liabilities and shareholders equity"
+                    },
+                    "code": "",
+                    "desc": "Retained earnings"
+                }
+            ],
+            "asof": "december312017"
+        }
+    ]
+}

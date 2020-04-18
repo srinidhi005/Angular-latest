@@ -1,0 +1,187 @@
+{
+    "type": "statement_of_income",
+    "currency": "USD",
+    "units": "millions",
+    "company": "",
+    "title": "consolidated statements of earnings",
+    "period": [
+        {
+            "statement": [
+                {
+                    "value": 81581000.0,
+                    "code": "",
+                    "desc": "Sales to customers",
+                    "transformed": "Sales to customers"
+                },
+                {
+                    "value": 27091000.0,
+                    "code": "",
+                    "desc": "Cost of products sold",
+                    "transformed": "Cost of products sold"
+                },
+                {
+                    "value": 54490000.0,
+                    "code": "AM_IS_GP",
+                    "desc": "Gross profit",
+                    "transformed": "Gross profit"
+                },
+                {
+                    "value": 22540000.0,
+                    "code": "",
+                    "desc": "Selling marketing and administrative expenses",
+                    "transformed": "Selling marketing and administrative expenses"
+                },
+                {
+                    "value": 10775000.0,
+                    "code": "",
+                    "desc": "Research and development expense",
+                    "transformed": "Research and development expense"
+                },
+                {
+                    "value": 1126000.0,
+                    "code": "",
+                    "desc": "In-process research and development",
+                    "transformed": "In process research and development"
+                },
+                {
+                    "value": -611000.0,
+                    "code": "",
+                    "desc": "Interest income",
+                    "transformed": "Interest income"
+                },
+                {
+                    "value": 1405000.0,
+                    "code": "",
+                    "desc": "Other -income expense net",
+                    "transformed": "Other income expense net"
+                },
+                {
+                    "value": 17999000.0,
+                    "code": "",
+                    "desc": "Earnings before provision for taxes on income",
+                    "transformed": "Earnings before provision for taxes on income"
+                },
+                {
+                    "value": 15297000.0,
+                    "code": "",
+                    "desc": "Net earnings",
+                    "transformed": "Net earnings"
+                },
+                {
+                    "value": 5700.0,
+                    "code": "",
+                    "desc": "Basic",
+                    "transformed": "Basic"
+                },
+                {
+                    "value": 5610.0,
+                    "code": "",
+                    "desc": "Diluted",
+                    "transformed": "Diluted"
+                },
+                {
+                    "value": 2681500.0,
+                    "code": "",
+                    "desc": "Basic",
+                    "transformed": "Basic"
+                },
+                {
+                    "value": 2728700.0,
+                    "code": "",
+                    "desc": "Diluted",
+                    "transformed": "Diluted"
+                }
+            ],
+            "asof": "12018"
+        },
+        {
+            "statement": [
+                {
+                    "value": 76450000.0,
+                    "code": "",
+                    "desc": "Sales to customers",
+                    "transformed": "Sales to customers"
+                },
+                {
+                    "value": 25439000.0,
+                    "code": "",
+                    "desc": "Cost of products sold",
+                    "transformed": "Cost of products sold"
+                },
+                {
+                    "value": 51011000.0,
+                    "code": "AM_IS_GP",
+                    "desc": "Gross profit",
+                    "transformed": "Gross profit"
+                },
+                {
+                    "value": 21520000.0,
+                    "code": "",
+                    "desc": "Selling marketing and administrative expenses",
+                    "transformed": "Selling marketing and administrative expenses"
+                },
+                {
+                    "value": 10594000.0,
+                    "code": "",
+                    "desc": "Research and development expense",
+                    "transformed": "Research and development expense"
+                },
+                {
+                    "value": 408000.0,
+                    "code": "",
+                    "desc": "In-process research and development",
+                    "transformed": "In process research and development"
+                },
+                {
+                    "value": -385000.0,
+                    "code": "",
+                    "desc": "Interest income",
+                    "transformed": "Interest income"
+                },
+                {
+                    "value": -42000.0,
+                    "code": "",
+                    "desc": "Other -income expense net",
+                    "transformed": "Other income expense net"
+                },
+                {
+                    "value": 17673000.0,
+                    "code": "",
+                    "desc": "Earnings before provision for taxes on income",
+                    "transformed": "Earnings before provision for taxes on income"
+                },
+                {
+                    "value": 1300000.0,
+                    "code": "",
+                    "desc": "Net earnings",
+                    "transformed": "Net earnings"
+                },
+                {
+                    "value": 480.0,
+                    "code": "",
+                    "desc": "Basic",
+                    "transformed": "Basic"
+                },
+                {
+                    "value": 470.0,
+                    "code": "",
+                    "desc": "Diluted",
+                    "transformed": "Diluted"
+                },
+                {
+                    "value": 2692000.0,
+                    "code": "",
+                    "desc": "Basic",
+                    "transformed": "Basic"
+                },
+                {
+                    "value": 2745300.0,
+                    "code": "",
+                    "desc": "Diluted",
+                    "transformed": "Diluted"
+                }
+            ],
+            "asof": "12017"
+        }
+    ]
+}

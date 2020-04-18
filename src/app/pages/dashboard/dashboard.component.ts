@@ -1,5 +1,11 @@
-import { Component, OnInit } from "@angular/core";
-import Chart from 'chart.js';
+import * as $ from 'jquery';
+import "../../../assets/js/High.js";
+import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
+import { NgModule, OnInit, ViewChild, ElementRef, VERSION } from '@angular/core';
+import { BrowserModule } from '@angular/platform-browser';
+import { Component } from '@angular/core';
+import * as  Highcharts1 from 'highcharts';
+import * as  Highcharts from 'highcharts';
 
 @Component({
   selector: "app-dashboard",
@@ -7,465 +13,515 @@ import Chart from 'chart.js';
   styleUrls: ["./dashboard.component.scss"]
 })
 export class DashboardComponent implements OnInit {
-  public canvas : any;
-  public ctx;
-  public datasets: any;
-  public data: any;
-  public myChartData;
-  public clicked: boolean = true;
-  public clicked1: boolean = false;
-  public clicked2: boolean = false;
+
+    @ViewChild("totalRevenue", { read: ElementRef,static:true }) totalRevenue: ElementRef;
+    @ViewChild("grossProfit", { read: ElementRef,static:true }) grossProfit: ElementRef;
+    @ViewChild("netIncome", { read: ElementRef,static:true }) netIncome: ElementRef;
+    @ViewChild("ebitda", { read: ElementRef,static:true }) ebitda: ElementRef;
+    @ViewChild("ebit", { read: ElementRef,static:true }) ebit: ElementRef;
+    @ViewChild("ebt", { read: ElementRef,static:true }) ebt: ElementRef;
+ 
 
   constructor() {}
 
   ngOnInit() {
-    var gradientChartOptionsConfigurationWithTooltipBlue: any = {
-      maintainAspectRatio: false,
-      legend: {
-        display: false
-      },
 
-      tooltips: {
-        backgroundColor: '#f5f5f5',
-        titleFontColor: '#333',
-        bodyFontColor: '#666',
-        bodySpacing: 4,
-        xPadding: 12,
-        mode: "nearest",
-        intersect: 0,
-        position: "nearest"
-      },
-      responsive: true,
-      scales: {
-        yAxes: [{
-          barPercentage: 1.6,
-          gridLines: {
-            drawBorder: false,
-            color: 'rgba(29,140,248,0.0)',
-            zeroLineColor: "transparent",
-          },
-          ticks: {
-            suggestedMin: 60,
-            suggestedMax: 125,
-            padding: 20,
-            fontColor: "#2380f7"
-          }
-        }],
-
-        xAxes: [{
-          barPercentage: 1.6,
-          gridLines: {
-            drawBorder: false,
-            color: 'rgba(29,140,248,0.1)',
-            zeroLineColor: "transparent",
-          },
-          ticks: {
-            padding: 20,
-            fontColor: "#2380f7"
-          }
-        }]
+    var yearsArray = [];
+    var companyName = "";
+    
+    try {
+	   companyName = window.location.href.split("=")[1];
+    }catch (error) {
+	   console.log(error);
+	}
+    if(companyName  ==  undefined){
+        alert("Please select company which is contrain atleast one scenario.");
+    }
+    
+    //var companyName = "Nike14032020123";
+    var actualObj = new Map();
+    var previousAmount = 0;
+    var revenueArray= [];
+    var grossprofitArray= [];
+    var netincomeArray= [];
+    var ebitdaArray = [];
+    var ebitArray = [];
+    var ebtArray = [];
+    
+    ///-----------------------------------------------------
+    
+  let scenarioInput = {
+        "async": true,
+        "crossDomain": true,
+        "url": "http://34.67.197.111:8000/scenarios?company="+companyName,
+        "method": "GET",
+        "headers": {
+            "authorization": "Basic cm1pX3VzZXI6cm1pMzIxIUAj",
+            "content-type": "application/json",
+            "cache-control": "no-cache",
+            "postman-token": "648dcbfa-30ef-3359-f29a-31b2038f29ac"
+        },
+        "processData": false,
+	}
+    $(".cover-spin").show();
+	$.ajax(scenarioInput).done(function (response){
+    $(".cover-spin").hide();
+      let str="";
+	  let presentScenarios = [];
+	  presentScenarios = (JSON.parse(response)).scenarios;
+	  for(var i=1;i<presentScenarios.length;i++){
+		  str=str+"<option _ngcontent-sut-c5='' value='"+presentScenarios[i]+"' ng-reflect-value='"+presentScenarios[i]+"'> Scenario "+presentScenarios[i]+" </option>";
       }
-    };
-
-    var gradientChartOptionsConfigurationWithTooltipPurple: any = {
-      maintainAspectRatio: false,
-      legend: {
-        display: false
-      },
-
-      tooltips: {
-        backgroundColor: '#f5f5f5',
-        titleFontColor: '#333',
-        bodyFontColor: '#666',
-        bodySpacing: 4,
-        xPadding: 12,
-        mode: "nearest",
-        intersect: 0,
-        position: "nearest"
-      },
-      responsive: true,
-      scales: {
-        yAxes: [{
-          barPercentage: 1.6,
-          gridLines: {
-            drawBorder: false,
-            color: 'rgba(29,140,248,0.0)',
-            zeroLineColor: "transparent",
-          },
-          ticks: {
-            suggestedMin: 60,
-            suggestedMax: 125,
-            padding: 20,
-            fontColor: "#9a9a9a"
-          }
-        }],
-
-        xAxes: [{
-          barPercentage: 1.6,
-          gridLines: {
-            drawBorder: false,
-            color: 'rgba(225,78,202,0.1)',
-            zeroLineColor: "transparent",
-          },
-          ticks: {
-            padding: 20,
-            fontColor: "#9a9a9a"
-          }
-        }]
-      }
-    };
-
-    var gradientChartOptionsConfigurationWithTooltipRed: any = {
-      maintainAspectRatio: false,
-      legend: {
-        display: false
-      },
-
-      tooltips: {
-        backgroundColor: '#f5f5f5',
-        titleFontColor: '#333',
-        bodyFontColor: '#666',
-        bodySpacing: 4,
-        xPadding: 12,
-        mode: "nearest",
-        intersect: 0,
-        position: "nearest"
-      },
-      responsive: true,
-      scales: {
-        yAxes: [{
-          barPercentage: 1.6,
-          gridLines: {
-            drawBorder: false,
-            color: 'rgba(29,140,248,0.0)',
-            zeroLineColor: "transparent",
-          },
-          ticks: {
-            suggestedMin: 60,
-            suggestedMax: 125,
-            padding: 20,
-            fontColor: "#9a9a9a"
-          }
-        }],
-
-        xAxes: [{
-          barPercentage: 1.6,
-          gridLines: {
-            drawBorder: false,
-            color: 'rgba(233,32,16,0.1)',
-            zeroLineColor: "transparent",
-          },
-          ticks: {
-            padding: 20,
-            fontColor: "#9a9a9a"
-          }
-        }]
-      }
-    };
-
-    var gradientChartOptionsConfigurationWithTooltipOrange: any = {
-      maintainAspectRatio: false,
-      legend: {
-        display: false
-      },
-
-      tooltips: {
-        backgroundColor: '#f5f5f5',
-        titleFontColor: '#333',
-        bodyFontColor: '#666',
-        bodySpacing: 4,
-        xPadding: 12,
-        mode: "nearest",
-        intersect: 0,
-        position: "nearest"
-      },
-      responsive: true,
-      scales: {
-        yAxes: [{
-          barPercentage: 1.6,
-          gridLines: {
-            drawBorder: false,
-            color: 'rgba(29,140,248,0.0)',
-            zeroLineColor: "transparent",
-          },
-          ticks: {
-            suggestedMin: 50,
-            suggestedMax: 110,
-            padding: 20,
-            fontColor: "#ff8a76"
-          }
-        }],
-
-        xAxes: [{
-          barPercentage: 1.6,
-          gridLines: {
-            drawBorder: false,
-            color: 'rgba(220,53,69,0.1)',
-            zeroLineColor: "transparent",
-          },
-          ticks: {
-            padding: 20,
-            fontColor: "#ff8a76"
-          }
-        }]
-      }
-    };
-
-    var gradientChartOptionsConfigurationWithTooltipGreen: any = {
-      maintainAspectRatio: false,
-      legend: {
-        display: false
-      },
-
-      tooltips: {
-        backgroundColor: '#f5f5f5',
-        titleFontColor: '#333',
-        bodyFontColor: '#666',
-        bodySpacing: 4,
-        xPadding: 12,
-        mode: "nearest",
-        intersect: 0,
-        position: "nearest"
-      },
-      responsive: true,
-      scales: {
-        yAxes: [{
-          barPercentage: 1.6,
-          gridLines: {
-            drawBorder: false,
-            color: 'rgba(29,140,248,0.0)',
-            zeroLineColor: "transparent",
-          },
-          ticks: {
-            suggestedMin: 50,
-            suggestedMax: 125,
-            padding: 20,
-            fontColor: "#9e9e9e"
-          }
-        }],
-
-        xAxes: [{
-          barPercentage: 1.6,
-          gridLines: {
-            drawBorder: false,
-            color: 'rgba(0,242,195,0.1)',
-            zeroLineColor: "transparent",
-          },
-          ticks: {
-            padding: 20,
-            fontColor: "#9e9e9e"
-          }
-        }]
-      }
-    };
-
-
-    var gradientBarChartConfiguration: any = {
-      maintainAspectRatio: false,
-      legend: {
-        display: false
-      },
-
-      tooltips: {
-        backgroundColor: '#f5f5f5',
-        titleFontColor: '#333',
-        bodyFontColor: '#666',
-        bodySpacing: 4,
-        xPadding: 12,
-        mode: "nearest",
-        intersect: 0,
-        position: "nearest"
-      },
-      responsive: true,
-      scales: {
-        yAxes: [{
-
-          gridLines: {
-            drawBorder: false,
-            color: 'rgba(29,140,248,0.1)',
-            zeroLineColor: "transparent",
-          },
-          ticks: {
-            suggestedMin: 60,
-            suggestedMax: 120,
-            padding: 20,
-            fontColor: "#9e9e9e"
-          }
-        }],
-
-        xAxes: [{
-
-          gridLines: {
-            drawBorder: false,
-            color: 'rgba(29,140,248,0.1)',
-            zeroLineColor: "transparent",
-          },
-          ticks: {
-            padding: 20,
-            fontColor: "#9e9e9e"
-          }
-        }]
-      }
-    };
-
-    this.canvas = document.getElementById("chartLineRed");
-    this.ctx = this.canvas.getContext("2d");
-
-    var gradientStroke = this.ctx.createLinearGradient(0, 230, 0, 50);
-
-    gradientStroke.addColorStop(1, 'rgba(233,32,16,0.2)');
-    gradientStroke.addColorStop(0.4, 'rgba(233,32,16,0.0)');
-    gradientStroke.addColorStop(0, 'rgba(233,32,16,0)'); //red colors
-
-    var data = {
-      labels: ['JUL', 'AUG', 'SEP', 'OCT', 'NOV', 'DEC'],
-      datasets: [{
-        label: "Data",
-        fill: true,
-        backgroundColor: gradientStroke,
-        borderColor: '#ec250d',
-        borderWidth: 2,
-        borderDash: [],
-        borderDashOffset: 0.0,
-        pointBackgroundColor: '#ec250d',
-        pointBorderColor: 'rgba(255,255,255,0)',
-        pointHoverBackgroundColor: '#ec250d',
-        pointBorderWidth: 20,
-        pointHoverRadius: 4,
-        pointHoverBorderWidth: 15,
-        pointRadius: 4,
-        data: [80, 100, 70, 80, 120, 80],
-      }]
-    };
-
-    var myChart = new Chart(this.ctx, {
-      type: 'line',
-      data: data,
-      options: gradientChartOptionsConfigurationWithTooltipRed
+    	  $("#sel2").html(str);
     });
+  
+    
+    var formatter = new Intl.NumberFormat('en-US', {
+      style: 'currency',
+            currency: 'USD',
+            minimumFractionDigits: 0,
+			   });
+               
+    function loaddata(scenario){
+    	let projectionsInput = {
+            "async": true,
+            "crossDomain": true,
+            "url": "http://34.67.197.111:8000/projections?company="+companyName+"&scenario="+scenario,
+            "method": "GET",
+            "headers": {
+                "authorization": "Basic cm1pX3VzZXI6cm1pMzIxIUAj",
+                "content-type": "application/json",
+                "cache-control": "no-cache",
+                "postman-token": "648dcbfa-30ef-3359-f29a-31b2038f29ac"
+            },
+            "processData": true,
+        }
+
+        $(".cover-spin").show();
+        $.ajax(projectionsInput).done(function (response){
+        $(".cover-spin").hide();
+            let resObject = JSON.parse(response);
+            yearsArray = [];
+            for (let j=0; j<resObject.length; j++) {
+                
+                yearsArray.push(resObject[j].asof);
+                revenueArray.push(resObject[j].totalrevenue);
+                grossprofitArray.push(resObject[j].grossprofit);
+                netincomeArray.push(resObject[j].netincome);
+                ebitdaArray.push(resObject[j].ebitda);
+                ebitArray.push(resObject[j].ebit);
+                ebtArray.push(resObject[j].ebt);
+                
+            }
+            
+            loadDataGraph();
+        });
+        
+        }
+    
+    let obj:any = {};
+    //-----------------------------------
+    
+     var totalRevenueChart =  (Highcharts1 as any).chart(this.totalRevenue.nativeElement, {
+        // Created pie chart using Highchart
+        chart: {
+          type: 'column'
+         
+        },
+        title: {
+            text: ''
+        },
+    
+        xAxis: {
+             categories: yearsArray,
+            crosshair: true
+        },
+        yAxis: {
+			min : 0,
+		
+			title : {
+				text:'USD'
+			}
+		},
+        plotOptions: {
+            column: {
+            pointPadding: 0.2,
+            borderWidth: 0
+        }
+            
+        },
+        colors: [	
+            'skyblue','grey'
+         ],
+        tooltip: {
+          //headerFormat: '<span style="font-size:11px">{series.name}</span><br>',
+          //pointFormat: '<span style="color:{point.color}">{point.name}</span>: <b>{point.y:.2f}%</b> of total<br/>'
+         
+            yDecimals: 2,
+             valueDecimals: 0,
+            valuePrefix:"$"
+    
+        },
+        series: [{
+        name: 'Actual',
+        data: []
+
+    }, {
+        name: 'Projection',
+        data: []
+
+    }, {
+        name: 'Variance',
+        data: []
+
+    }
+        ]
+       
+      });
+
+    
+    var grossProfitChart =  (Highcharts1 as any).chart(this.grossProfit.nativeElement, {
+        // Created pie chart using Highchart
+        chart: {
+          type: 'column'
+         
+        },
+        title: {
+            text: ''
+        },
+    
+        xAxis: {
+             categories: yearsArray,
+            crosshair: true
+        },
+        yAxis: {
+			min : 0,
+		
+			title : {
+				text:'USD'
+			}
+		},
+        plotOptions: {
+            column: {
+            pointPadding: 0.2,
+            borderWidth: 0
+        }
+            
+        },
+        colors: [	
+            'skyblue','grey'
+         ],
+        tooltip: {
+          //headerFormat: '<span style="font-size:11px">{series.name}</span><br>',
+          //pointFormat: '<span style="color:{point.color}">{point.name}</span>: <b>{point.y:.2f}%</b> of total<br/>'
+         
+            yDecimals: 2,
+             valueDecimals: 0,
+            valuePrefix:"$"
+    
+        },
+        series: [{
+        name: 'Actual',
+        data: []
+
+    }, {
+        name: 'Projection',
+        data: []
+
+    }, {
+        name: 'Variance',
+        data: []
+
+    }
+        ]
+       
+      });
 
 
-    this.canvas = document.getElementById("chartLineGreen");
-    this.ctx = this.canvas.getContext("2d");
+var netIncomeChart =  (Highcharts1 as any).chart(this.netIncome.nativeElement, {
+        // Created pie chart using Highchart
+        chart: {
+          type: 'column'
+         
+        },
+        title: {
+            text: ''
+        },
+    
+        xAxis: {
+             categories: yearsArray,
+            crosshair: true
+        },
+        yAxis: {
+			min : 0,
+		
+			title : {
+				text:'USD'
+			}
+		},
+        plotOptions: {
+            column: {
+            pointPadding: 0.2,
+            borderWidth: 0
+        }
+            
+        },
+        colors: [	
+            'skyblue','grey'
+         ],
+        tooltip: {
+          //headerFormat: '<span style="font-size:11px">{series.name}</span><br>',
+          //pointFormat: '<span style="color:{point.color}">{point.name}</span>: <b>{point.y:.2f}%</b> of total<br/>'
+         
+            yDecimals: 2,
+             valueDecimals: 0,
+            valueSuffix:"%"
+    
+        },
+        series: [{
+        name: 'Actual',
+        data: []
+
+    }, {
+        name: 'Projection',
+        data: []
+
+    }, {
+        name: 'Variance',
+        data: []
+
+    }
+        ]
+       
+      });
 
 
-    var gradientStroke = this.ctx.createLinearGradient(0, 230, 0, 50);
+var ebitdaChart =  (Highcharts1 as any).chart(this.ebitda.nativeElement, {
+        // Created pie chart using Highchart
+        chart: {
+          type: 'column'
+         
+        },
+        title: {
+            text: ''
+        },
+    
+        xAxis: {
+             categories: yearsArray,
+            crosshair: true
+        },
+        yAxis: {
+			min : 0,
+		
+			title : {
+				text:'USD'
+			}
+		},
+        plotOptions: {
+            column: {
+            pointPadding: 0.2,
+            borderWidth: 0
+        }
+            
+        },
+        colors: [	
+            'skyblue','grey'
+         ],
+        tooltip: {
+          //headerFormat: '<span style="font-size:11px">{series.name}</span><br>',
+          //pointFormat: '<span style="color:{point.color}">{point.name}</span>: <b>{point.y:.2f}%</b> of total<br/>'
+         
+            yDecimals: 2,
+             valueDecimals: 0,
+            valueSuffix:"%"
+    
+        },
+        series: [{
+        name: 'Actual',
+        data: []
 
-    gradientStroke.addColorStop(1, 'rgba(66,134,121,0.15)');
-    gradientStroke.addColorStop(0.4, 'rgba(66,134,121,0.0)'); //green colors
-    gradientStroke.addColorStop(0, 'rgba(66,134,121,0)'); //green colors
+    }, {
+        name: 'Projection',
+        data: []
 
-    var data = {
-      labels: ['JUL', 'AUG', 'SEP', 'OCT', 'NOV'],
-      datasets: [{
-        label: "My First dataset",
-        fill: true,
-        backgroundColor: gradientStroke,
-        borderColor: '#00d6b4',
-        borderWidth: 2,
-        borderDash: [],
-        borderDashOffset: 0.0,
-        pointBackgroundColor: '#00d6b4',
-        pointBorderColor: 'rgba(255,255,255,0)',
-        pointHoverBackgroundColor: '#00d6b4',
-        pointBorderWidth: 20,
-        pointHoverRadius: 4,
-        pointHoverBorderWidth: 15,
-        pointRadius: 4,
-        data: [90, 27, 60, 12, 80],
-      }]
-    };
+    }, {
+        name: 'Variance',
+        data: []
 
-    var myChart = new Chart(this.ctx, {
-      type: 'line',
-      data: data,
-      options: gradientChartOptionsConfigurationWithTooltipGreen
+    }
+        ]
+       
+      });
 
-    });
+ var ebitChart =  (Highcharts1 as any).chart(this.ebit.nativeElement, {
+        // Created pie chart using Highchart
+        chart: {
+          type: 'column'
+         
+        },
+        title: {
+            text: ''
+        },
+    
+        xAxis: {
+             categories: yearsArray,
+            crosshair: true
+        },
+        yAxis: {
+			min : 0,
+		
+			title : {
+				text:'USD'
+			}
+		},
+        plotOptions: {
+            column: {
+            pointPadding: 0.2,
+            borderWidth: 0
+        }
+            
+        },
+        colors: [	
+            'skyblue','grey'
+         ],
+        tooltip: {
+          //headerFormat: '<span style="font-size:11px">{series.name}</span><br>',
+          //pointFormat: '<span style="color:{point.color}">{point.name}</span>: <b>{point.y:.2f}%</b> of total<br/>'
+         
+            yDecimals: 2,
+             valueDecimals: 0,
+            valueSuffix:"%"
+    
+        },
+        series: [{
+        name: 'Actual',
+        data: []
+
+    }, {
+        name: 'Projection',
+        data: []
+
+    }, {
+        name: 'Variance',
+        data: []
+
+    }
+        ]
+       
+      });
 
 
+var ebtChart =  (Highcharts1 as any).chart(this.ebt.nativeElement, {
+        // Created pie chart using Highchart
+        chart: {
+          type: 'column'
+         
+        },
+        title: {
+            text: ''
+        },
+    
+        xAxis: {
+             categories: yearsArray,
+            crosshair: true
+        },
+        yAxis: {
+			min : 0,
+		
+			title : {
+				text:'USD'
+			}
+		},
+        plotOptions: {
+            column: {
+            pointPadding: 0.2,
+            borderWidth: 0
+        }
+            
+        },
+        colors: [	
+             'skyblue','grey'
+         ],
+        tooltip: {
+          //headerFormat: '<span style="font-size:11px">{series.name}</span><br>',
+          //pointFormat: '<span style="color:{point.color}">{point.name}</span>: <b>{point.y:.2f}%</b> of total<br/>'
+         
+            yDecimals: 2,
+             valueDecimals: 0,
+            valuePrefix:"$"
+    
+        },
+        series: [{
+            name: 'Actual',
+            data: []
 
-    var chart_labels = ['JAN', 'FEB', 'MAR', 'APR', 'MAY', 'JUN', 'JUL', 'AUG', 'SEP', 'OCT', 'NOV', 'DEC'];
-    this.datasets = [
-      [100, 70, 90, 70, 85, 60, 75, 60, 90, 80, 110, 100],
-      [80, 120, 105, 110, 95, 105, 90, 100, 80, 95, 70, 120],
-      [60, 80, 65, 130, 80, 105, 90, 130, 70, 115, 60, 130]
-    ];
-    this.data = this.datasets[0];
+        }, {
+            name: 'Projection',
+            data: []
 
+        }, {
+            name: 'Variance',
+            data: []
 
-
-    this.canvas = document.getElementById("chartBig1");
-    this.ctx = this.canvas.getContext("2d");
-
-    var gradientStroke = this.ctx.createLinearGradient(0, 230, 0, 50);
-
-    gradientStroke.addColorStop(1, 'rgba(233,32,16,0.2)');
-    gradientStroke.addColorStop(0.4, 'rgba(233,32,16,0.0)');
-    gradientStroke.addColorStop(0, 'rgba(233,32,16,0)'); //red colors
-
-    var config = {
-      type: 'line',
-      data: {
-        labels: chart_labels,
-        datasets: [{
-          label: "My First dataset",
-          fill: true,
-          backgroundColor: gradientStroke,
-          borderColor: '#ec250d',
-          borderWidth: 2,
-          borderDash: [],
-          borderDashOffset: 0.0,
-          pointBackgroundColor: '#ec250d',
-          pointBorderColor: 'rgba(255,255,255,0)',
-          pointHoverBackgroundColor: '#ec250d',
-          pointBorderWidth: 20,
-          pointHoverRadius: 4,
-          pointHoverBorderWidth: 15,
-          pointRadius: 4,
-          data: this.data,
         }]
-      },
-      options: gradientChartOptionsConfigurationWithTooltipRed
-    };
-    this.myChartData = new Chart(this.ctx, config);
-
-
-    this.canvas = document.getElementById("CountryChart");
-    this.ctx  = this.canvas.getContext("2d");
-    var gradientStroke = this.ctx.createLinearGradient(0, 230, 0, 50);
-
-    gradientStroke.addColorStop(1, 'rgba(29,140,248,0.2)');
-    gradientStroke.addColorStop(0.4, 'rgba(29,140,248,0.0)');
-    gradientStroke.addColorStop(0, 'rgba(29,140,248,0)'); //blue colors
-
-
-    var myChart = new Chart(this.ctx, {
-      type: 'bar',
-      responsive: true,
-      legend: {
-        display: false
-      },
-      data: {
-        labels: ['USA', 'GER', 'AUS', 'UK', 'RO', 'BR'],
-        datasets: [{
-          label: "Countries",
-          fill: true,
-          backgroundColor: gradientStroke,
-          hoverBackgroundColor: gradientStroke,
-          borderColor: '#1f8ef1',
-          borderWidth: 2,
-          borderDash: [],
-          borderDashOffset: 0.0,
-          data: [53, 20, 10, 80, 100, 45],
-        }]
-      },
-      options: gradientBarChartConfiguration
-    });
-
-  }
-  public updateOptions() {
-    this.myChartData.data.datasets[0].data = this.data;
-    this.myChartData.update();
-  }
+       
+      });
+      Highcharts.setOptions({lang: {thousandsSep: ','}});
+      
+      //setTimeout(function(){ 
+    //     loadDataGraph();
+      //  }, 2000);
+        
+      function loadDataGraph(){
+            $(".cover-spin").show();
+            totalRevenueChart.series[1].update({data:revenueArray});
+            totalRevenueChart.xAxis[0].setCategories(yearsArray);
+            grossProfitChart.series[1].update({data:grossprofitArray});
+            grossProfitChart.xAxis[0].setCategories(yearsArray);
+            netIncomeChart.series[1].update({data:netincomeArray});
+            netIncomeChart.xAxis[0].setCategories(yearsArray);
+            ebitdaChart.series[1].update({data:ebitdaArray});
+            ebitdaChart.xAxis[0].setCategories(yearsArray);
+            ebitChart.series[1].update({data:ebitArray});
+            ebitChart.xAxis[0].setCategories(yearsArray);
+            ebtChart.series[1].update({data:ebtArray});
+            ebtChart.xAxis[0].setCategories(yearsArray);
+            
+            updateTable("#RevenueProjection",revenueArray);
+            updateTable("#GrossProfitProjection",grossprofitArray);
+            updateTable("#NetIncomeProjection",netincomeArray);
+            updateTable("#EBITDAProjection",ebitdaArray);
+            updateTable("#EBITProjection",ebitArray);
+            updateTable("#EBTProjection",ebtArray);
+       
+            let txt = "<th scope='col'></th>";
+            for(let i=0;i<yearsArray.length;i++){
+                txt = txt + "<th scope='col' style='text-align: center;'>"+yearsArray[i] +"</th>";
+            }
+            $("#tableHeading,#tableHeading2,#tableHeading3,#tableHeading4,#tableHeading5,#tableHeading6").html(txt);
+            $(".cover-spin").hide();
+      
+      }
+        
+      
+      function updateTable(ida,data){
+         let trText = "<th scope='row' style='color:skyblue;border: none;'>Projections</th>";
+            for(let i=0;i<data.length;i++){
+                trText  = trText +  "<td>"+formatter.format(data[i])+"</td>";
+            }
+      
+         $(ida).html(trText);
+      }
+      
+      
+            $( "#sel2" ).change(function () {  
+                let scenario = $("#sel2").val();
+                if($("#sel2").val() == undefined){
+                    scenario = 1;
+                }
+                loaddata(scenario);
+            });
+            loaddata(1);
+            
+    }
 }

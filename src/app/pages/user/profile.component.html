@@ -11,60 +11,69 @@ input, label{
 .intl-tel-input .country-list {
   z-index: 5;
 }
-</style>
+input:focus {
+  color: #000 !important;
+
+}
+span{
+color:red !important;
+}</style>
 <div class=" content">
   
     <div class=" row">
       <div class=" col-md-8">
         <div class=" card">
           
-          <div class=" card-body">
-            <form>
+          <div class=" card-body" >
+           <!-- <form> -->
                 <h4>Personal Details</h4>
                
               <div class=" row">
                   <div class=" col-md-6 pr-md-1">
                       <div class=" form-group">
-                        <label > User Name </label>
-                        <input
+                        <label > User Name <span>*</span></label>
+                        <input [(ngModel)]="userName"
                           class=" form-control" 
                           placeholder="User Name"
                           type="text"
-                          
+						  id="userName"
+                          onkeypress = "allowAlphaonly(event)"
                         />
                       </div>
                     </div>
                 <div class=" col-md-6 pl-md-1">
                     <div class=" form-group">
-                        <label for="exampleInputEmail1"> Email  </label>
-                        <input
+                        <label for="exampleInputEmail1"> Email  <span>*</span></label>
+                        <input [(ngModel)]="email"
                           class=" form-control" 
                           placeholder="name@email.com"
+						  id="userEmail"
                       type="email"
-                        />
+					  onchange = "validateEmail()"
+                        /><span id="emailError"></span>
                       </div>
                 </div>
               </div>
               <div class=" row">
                 <div class=" col-md-6 pr-md-1">
                   <div class=" form-group">
-                    <label> First Name </label>
-                    <input
+                    <label> First Name <span>*</span></label>
+                    <input [(ngModel)]="firstName"
                       class=" form-control" 
                       placeholder="First Name"
                       type="text"
-                      
+                      id="firstName"
                     />
                   </div>
                 </div>
                 <div class=" col-md-6 pl-md-1">
                   <div class=" form-group">
-                    <label> Last Name </label>
-                    <input
+                    <label> Last Name <span>*</span></label>
+                    <input [(ngModel)]="lastName"
                       class=" form-control" 
                       placeholder="Last Name"
                       type="text"
-                      
+                      id="lastName"
                     />
                   </div>
                 </div>
@@ -73,24 +82,26 @@ input, label{
               <div class=" row">
                   <div class=" col-md-6 pr-md-1">
                     <div class=" form-group">
-                      <label> Password </label>
-                      <input
+                      <label> Password <span>*</span></label>
+                      <input [(ngModel)]="password"
                         class=" form-control" 
                         placeholder="Password"
-                        type="password"
-                        
-                      />
+                        type="text"
+                        id="password"
+						onchange = "validatePwd()"
+                      /><span id="passwordError"></span>
                     </div>
                   </div>
                   <div class=" col-md-6 pl-md-1">
                     <div class=" form-group">
-                      <label> Confirm Password </label>
-                      <input
+                      <label> Confirm Password <span>*</span></label>
+                      <input [(ngModel)]="confirmPassword"
                         class=" form-control" 
                         placeholder="Confirm Password"
                         type="password"
-                        
-                      />
+                        id="confirmPassword"
+						onchange = "validatePwd()"
+                      /><span id="confirmPasswordError"></span>
                     </div>
                   </div>
                 </div>
@@ -99,7 +110,7 @@ input, label{
                       <label> Contact Number </label>
                         <div class="form-group">
                            
-                            <input class="pr-3" type="tel" class="form-control" value="" placeholder="Mobile number" id="telnumber-field" required>
+                            <input class="pr-3" type="tel" class="form-control" [(ngModel)]="contactNumber" value="" placeholder="Mobile number" id="telnumber-field" required>
                             
                           </div>
                     </div>
@@ -111,10 +122,11 @@ input, label{
                     <div class=" col-md-12">
                       <div class=" form-group">
                         <label> Company </label>
-                        <input
+                        <input [(ngModel)]="companyName"
                           class=" form-control" 
                           placeholder="Company Name"
-                          type="text"                         
+                          type="text" 
+						  id = "companyName"
                         />
                       </div>
                     </div>
@@ -123,7 +135,7 @@ input, label{
                       <div class=" col-md-12">
                         <div class=" form-group">
                           <label> Title </label>
-                          <select class="form-control" style="color:black;" >
+                          <select class="form-control" style="color:black;" [(ngModel)]="companyTitle" id="companyTitle" >
                               <option selected disabled value="" style="font-style: italic;">Title</option>
                             <option>Owner / Partner</option>
                             <option>Executive Management</option> 
@@ -139,69 +151,130 @@ input, label{
                         <div class=" col-md-12">
                           <div class=" form-group">
                             <label> Address </label>
-                            <input
+                            <input [(ngModel)]="companyAddress"
                               class=" form-control" 
                               placeholder="Company Address"
                               type="text"
-                              
+                              id="comAddress"
                             />
                           </div>
                         </div>
                       </div>
 
-                      <div class=" row">
-                        <div class=" col-md-6 pr-md-1">
-                          <div class=" form-group">
-                            <label> City </label>
-                            <input
-                              class=" form-control" style="color:black"
-                              placeholder="City"
-                              type="text"
-                             
-                            />
-                          </div>
-                        </div>
-                        <div class=" col-md-6 px-md-1">
-                          <div class=" form-group">
-                            <label> State </label>
-                            <input
-                              class=" form-control" style="color:black"
-                              placeholder="State"
-                              type="text"                           
-                            />
-                          </div>
-                        </div>
-                       
-                      </div>
-                      <div class=" row">
+						 <div class=" row">
                           <div class=" col-md-6 pr-md-1">
                             <div class=" form-group">
                               <label> Country </label>
-                              <input
+                             <!-- <input [(ngModel)]="companyCountry"
                                 class=" form-control" style="color:black"
                                 placeholder="Country"
                                 type="text"
                                
-                              />
+                              />-->
+							<select [(ngModel)]="companyCountry" class=" form-control" id="countryDropDown" style="color:black">
+								<option value=""> Select Country</option>
+								<option value="USA">United States Of America</option>
+							</select>
                             </div>
                           </div>
                           <div class=" col-md-6 px-md-1">
                             <div class=" form-group">
                               <label> Zip Code </label>
-                              <input
+                              <input [(ngModel)]="companyZipCode"
                                 class=" form-control" style="color:black"
                                 placeholder="Zip Code"
-                                type="number"                           
+                                type="number"
+								id="zipCode"
                               />
                             </div>
                           </div>
                          
                         </div>
                       <div class=" row">
+                        <div class=" col-md-6 px-md-1">
+                          <div class=" form-group">
+                            <label> State </label>
+                            <!--<input [(ngModel)]="companyState"
+                              class=" form-control" style="color:black"
+                              placeholder="State"
+                              type="text"                           
+                            />-->
+							<select [(ngModel)]="companyState" class=" form-control" id="stateDropDown" onchange="loadCities()" style="color:black">
+								<option value=""> Select State</option>
+								<option value="New York"> New York</option>
+								<option value="California">California</option>
+								<option value="Illinois">Illinois</option>
+								<option value="Texas">Texas</option>
+								<option value="Pennsylvania">Pennsylvania</option>
+								<option value="Arizona">Arizona</option>
+								<option value="Florida">Florida</option>
+								<option value="Indiana">Indiana</option>
+								<option value="Ohio">Ohio</option>
+								<option value="North Carolina">North Carolina</option>
+								<option value="Michigan">Michigan</option>
+								<option value="Tennessee">Tennessee</option>
+								<option value="Massachusetts">Massachusetts</option>
+								<option value="Washington">Washington</option>
+								<option value="Colorado">Colorado</option>
+								<option value="District of Columbia">District of Columbia</option>
+								<option value="Maryland">Maryland</option>
+								<option value="Kentucky">Kentucky</option>
+								<option value="Oregon">Oregon</option>
+								<option value="Oklahoma">Oklahoma</option>
+								<option value="Wisconsin">Wisconsin</option>
+								<option value="Nevada">Nevada</option>
+								<option value="New Mexico">New Mexico</option>
+								<option value="Missouri">Missouri</option>
+								<option value="Virginia">Virginia</option>
+								<option value="Georgia">Georgia</option>
+								<option value="Nebraska">Nebraska</option>
+								<option value="Minnesota">Minnesota</option>
+								<option value="Kansas">Kansas</option>
+								<option value="Louisiana">Louisiana</option>
+								<option value="Hawaii">Hawaii</option>
+								<option value="Alaska">Alaska</option>
+								<option value="New Jersey">New Jersey</option>
+								<option value="Idaho">Idaho</option>
+								<option value="Alabama">Alabama</option>
+								<option value="Iowa">Iowa</option>
+								<option value="Arkansas">Arkansas</option>
+								<option value="Utah">Utah</option>
+								<option value="Rhode Island">Rhode Island</option>
+								<option value="Mississippi">Mississippi</option>
+								<option value="South Dakota">South Dakota</option>
+								<option value="Connecticut">Connecticut</option>
+								<option value="South Carolina">South Carolina</option>
+								<option value="New Hampshire">New Hampshire</option>
+								<option value="North Dakota">North Dakota</option>
+								<option value="Montana">Montana</option>
+								<option value="Delaware">Delaware</option>
+								<option value="Maine">Maine</option>
+								<option value="Wyoming">Wyoming</option>
+								<option value="West Virginia">West Virginia</option>
+								<option value="Vermont">Vermont</option>
+							</select>
+                          </div>
+                        </div>
+						<div class=" col-md-6 pr-md-1">
+                          <div class=" form-group">
+                            <label> City </label>
+                            <!--<input [(ngModel)]="companyCity"
+                              class=" form-control" style="color:black"
+                              placeholder="City"
+                              type="text"
+                            />-->
+							<select [(ngModel)]="companyCity" class=" form-control" id="cityDropDown" style="color:black">
+							<option value=""> Select City</option>
+							</select>
+                          </div>
+                        </div>
+                      </div>
+                     
+                      <div class=" row">
                           <div class=" col-md-12">
                             <div class=" form-group">
                               <label> Industry </label>
-                              <select class="form-control" style="color:black;" >
+                              <select class="form-control" style="color:black;" id="industry" [(ngModel)]="industry">
                                   <option selected disabled value="" style="font-style: italic;">Select Industry</option>
                                 <option>Communications</option>
                                 <option>Consumer & Retail</option> 
@@ -227,7 +300,7 @@ input, label{
                             <div class=" col-md-6">
                               <div class=" form-group">
                                 <label> Geography </label>
-                                <select class="form-control"  style="color:black;" >
+                                <select class="form-control" [(ngModel)]="geography" id="geography" style="color:black;" >
                                     <option selected disabled value="" style="font-style: italic;">Geography</option>
                                   <option>APAC</option>
                                   <option>EMEA</option> 
@@ -239,7 +312,7 @@ input, label{
                             <div class=" col-md-6">
                                 <div class=" form-group">
                                   <label> Company Size </label>
-                                  <select class="form-control"  style="color:black;" >
+                                  <select class="form-control" [(ngModel)]="companySize" id="companySize" style="color:black;" >
                                       <option selected disabled value="" style="font-style: italic;">Company Size</option>
                                     <option> 1 - 10 </option>
                                     <option> 11 - 100 </option>
@@ -254,7 +327,7 @@ input, label{
                               <div class=" col-md-6">
                                 <div class=" form-group">
                                   <label> Capatialization </label>
-                                  <select class="form-control"  style="color:black;" >
+                                  <select class="form-control" [(ngModel)]="capatialization" id="capatialization"  style="color:black;" >
                                       <option selected disabled value="" style="font-style: italic;">Capatialization</option>
                                     <option>USD 1 M +</option>
                                     <option>USD 10 M +</option> 
@@ -265,7 +338,7 @@ input, label{
                               <div class=" col-md-6">
                                   <div class=" form-group">
                                     <label> Revenue </label>
-                                    <select class="form-control"  style="color:black;" >
+                                    <select class="form-control" [(ngModel)]="revenue" id="revenue" style="color:black;" >
                                         <option selected disabled value="" style="font-style: italic;">Revenue </option>
                                       <option> Above USD 1 M </option>
                                       <option> Above USD 10 M</option> 
@@ -276,11 +349,11 @@ input, label{
                                 </div>
                             </div>
                           
-            </form>
+            <!--</form> -->
           </div>
           <div class=" card-footer">
              <!--<button type="button" class="btn btn-success" data-dismiss="modal" style="text-align:center;">Start Import</button>-->
-            <button class=" btn btn-fill btn-success" type="submit" style="text-align:center;">Save</button>
+            <button class=" btn btn-fill btn-success" type="submit" style="text-align:center" onclick="saveOrUpdate()" id="saveBtn" >Save</button>
             <button class=" btn btn-fill btn-danger"  type="reset" style="text-align:center;float:right;">Cancel</button>
           </div>
         </div>
@@ -288,17 +361,20 @@ input, label{
       <div class=" col-md-4">
         <div class=" card card-user">
           <div class=" card-body">
-            <p class=" card-text"></p>
+            <p class=" card-text">Profile picture <a onclick='$("#profilePicBtn").click()' style="float:right;cursor:pointer;" >Upload</a></p>
+			
             <div class=" author">
-              <div class=" block block-one"></div>
+             <!-- <div class=" block block-one"></div>
               <div class=" block block-two"></div>
               <div class=" block block-three"></div>
-              <div class=" block block-four"></div>
-              <a href="javascript:void(0)">
+              <div class=" block block-four"></div>-->
+				<input type='file' id="profilePicBtn" onchange="uploadProfilePicture(this);" style="display:none"  />
+				<img id="profileImg" src="assets/img/user.png" alt="Profile picture " width=200px />
+              <!--<a href="javascript:void(0)">
                 <img alt="..." class=" avatar" src="assets/img/emilyz.jpg" />
   
                 <h5 class=" title">Profile</h5>
-              </a>
+              </a>-->
              
             </div>
            
@@ -307,17 +383,19 @@ input, label{
         </div>
         <div class=" card card-user">
             <div class=" card-body">
-              <p class=" card-text"></p>
+              <p class=" card-text">Company Logo <a onclick='$("#companyLogoBtn").click()' style="float:right;cursor:pointer;" >Upload</a></p>
               <div class=" author">
-                <div class=" block block-one"></div>
+               <!-- <div class=" block block-one"></div>
                 <div class=" block block-two"></div>
                 <div class=" block block-three"></div>
-                <div class=" block block-four"></div>
-                <a href="javascript:void(0)">
+                <div class=" block block-four"></div>-->
+				<input type='file' id="companyLogoBtn" style="display:none" onchange="uploadCompanyLoad(this);"/>
+				<img id="companyLogoImg" src="assets/img/no-image.png" alt="Company Logo" />
+                <!--<a href="javascript:void(0)">
                   <img alt="..." class=" avatar" src="assets/img/emilyz.jpg" alt="Companylogo" />
     
                   <h5 class=" title">Company</h5>
-                </a>
+                </a>-->
                
               </div>
               
@@ -328,3 +406,40 @@ input, label{
       
     </div>
   </div>
+  <div class="cover-spin"></div>
+	<style>
+	.cover-spin {
+				position:fixed;
+					width:100%;
+							left:0;right:0;top:0;bottom:0;
+								background-color: rgba(255,255,255,0.7);
+										z-index:9999;
+											display:none;
+		}
+
+		@-webkit-keyframes spin {
+				from {-webkit-transform:rotate(0deg);}
+				to {-webkit-transform:rotate(360deg);}
+		}
+
+		@keyframes spin {
+				from {transform:rotate(0deg);}
+				to {transform:rotate(360deg);}
+		}
+
+		.cover-spin::after {
+				content:'';
+					display:block;
+							position:absolute;
+								left:48%;top:40%;
+										width:40px;height:40px;
+											border-style:solid;
+													border-color:black;
+														border-top-color:transparent;
+																border-width: 4px;
+																	border-radius:50%;
+																			-webkit-animation: spin .8s linear infinite;
+																				animation: spin .8s linear infinite;
+		}
+
+	</style>

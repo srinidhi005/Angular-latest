@@ -1,0 +1,498 @@
+{
+    "currency": "USD",
+    "title": "consolidated statements of operations",
+    "company": "fitbit inc",
+    "period": [
+        {
+            "statement": [
+                {
+                    "transformed": "Net revenue",
+                    "desc": "Revenue",
+                    "code": "AM_IS_I",
+                    "value": 1615519.0
+                },
+                {
+                    "transformed": "Cost of revenue",
+                    "desc": "Cost of revenue",
+                    "code": "AM_IS_CORS",
+                    "value": 924618.0
+                },
+                {
+                    "transformed": "Gross profit",
+                    "desc": "Gross profit",
+                    "code": "AM_IS_GP",
+                    "value": 690901.0
+                },
+                {
+                    "transformed": "Total operating expenses",
+                    "code": "AM_IS_E",
+                    "items": [],
+                    "heading": "Operating expenses:"
+                },
+                {
+                    "transformed": "Research and development",
+                    "desc": "Research and development",
+                    "code": "",
+                    "value": 343012.0
+                },
+                {
+                    "transformed": "Sales and marketing",
+                    "desc": "Sales and marketing",
+                    "code": "",
+                    "value": 415042.0
+                },
+                {
+                    "transformed": "General and administrative",
+                    "desc": "General and administrative",
+                    "code": "",
+                    "value": 133934.0
+                },
+                {
+                    "transformed": "Change in contingent consideration",
+                    "desc": "Change in contingent consideration",
+                    "code": "",
+                    "value": "",
+                    "total": {
+                        "transformed": "Total operating expenses",
+                        "desc": "Total operating expenses",
+                        "code": "AM_IS_E",
+                        "value": 891988.0
+                    }
+                },
+                {
+                    "transformed": "Operating income/loss",
+                    "desc": "Operating income -loss",
+                    "code": "AM_IS_NOI",
+                    "value": -201087.0
+                },
+                {
+                    "transformed": "Interest income expense net",
+                    "desc": "Interest income -expense net",
+                    "code": "",
+                    "value": 3647.0
+                },
+                {
+                    "transformed": "Other income expense net",
+                    "desc": "Other income -expense net",
+                    "code": "",
+                    "value": 2796.0
+                },
+                {
+                    "transformed": "Earnings before income taxes",
+                    "desc": "Income -loss before income taxes",
+                    "code": "",
+                    "value": -194644.0
+                },
+                {
+                    "transformed": "Income tax expense benefit",
+                    "desc": "Income tax expense -benefit",
+                    "code": "",
+                    "value": 82548.0
+                },
+                {
+                    "transformed": "Net income/loss",
+                    "desc": "Net income -loss",
+                    "code": "AM_BS_NI",
+                    "value": -277192.0
+                },
+                {
+                    "transformed": "Less noncumulative dividends to preferred stockholders",
+                    "desc": "Less: noncumulative dividends to preferred stockholders",
+                    "code": "",
+                    "value": ""
+                },
+                {
+                    "transformed": "Less undistributed earnings to participating securities",
+                    "desc": "Less: undistributed earnings to participating securities",
+                    "code": "",
+                    "value": ""
+                },
+                {
+                    "transformed": "Net income loss attributable to common stockholders basic",
+                    "desc": "Net income -loss attributable to common stockholders\u2014basic",
+                    "code": "",
+                    "value": -277192.0
+                },
+                {
+                    "transformed": "Add adjustments for undistributed earnings to participating securities",
+                    "desc": "Add: adjustments for undistributed earnings to participating securities",
+                    "code": "",
+                    "value": ""
+                },
+                {
+                    "transformed": "Net income loss attributable to common stockholders diluted",
+                    "desc": "Net income -loss attributable to common stockholders\u2014diluted",
+                    "code": "",
+                    "value": -277192.0
+                },
+                {
+                    "transformed": "Net income loss per share attributable to common stockholders",
+                    "code": "",
+                    "items": [
+                        {
+                            "transformed": "Basic",
+                            "desc": "Basic",
+                            "code": "",
+                            "value": -1.19
+                        },
+                        {
+                            "transformed": "Diluted",
+                            "desc": "Diluted",
+                            "code": "",
+                            "value": -1.19
+                        }
+                    ],
+                    "heading": "Net income -loss per share attributable to common stockholders:"
+                },
+                {
+                    "transformed": "Shares used to compute net income loss per share attributable to common stockholders",
+                    "code": "",
+                    "items": [
+                        {
+                            "transformed": "Basic",
+                            "desc": "Basic",
+                            "code": "",
+                            "value": 232032.0
+                        },
+                        {
+                            "transformed": "Diluted",
+                            "desc": "Diluted",
+                            "code": "",
+                            "value": 232032.0
+                        }
+                    ],
+                    "heading": "Shares used to compute net income -loss per share attributable to common stockholders:"
+                }
+            ],
+            "asof": "december312017"
+        },
+        {
+            "statement": [
+                {
+                    "transformed": "Net revenue",
+                    "desc": "Revenue",
+                    "code": "AM_IS_I",
+                    "value": 2169461.0
+                },
+                {
+                    "transformed": "Cost of revenue",
+                    "desc": "Cost of revenue",
+                    "code": "AM_IS_CORS",
+                    "value": 1323577.0
+                },
+                {
+                    "transformed": "Gross profit",
+                    "desc": "Gross profit",
+                    "code": "AM_IS_GP",
+                    "value": 845884.0
+                },
+                {
+                    "transformed": "Total operating expenses",
+                    "code": "AM_IS_E",
+                    "items": [],
+                    "heading": "Operating expenses:"
+                },
+                {
+                    "transformed": "Research and development",
+                    "desc": "Research and development",
+                    "code": "",
+                    "value": 320191.0
+                },
+                {
+                    "transformed": "Sales and marketing",
+                    "desc": "Sales and marketing",
+                    "code": "",
+                    "value": 491255.0
+                },
+                {
+                    "transformed": "General and administrative",
+                    "desc": "General and administrative",
+                    "code": "",
+                    "value": 146903.0
+                },
+                {
+                    "transformed": "Change in contingent consideration",
+                    "desc": "Change in contingent consideration",
+                    "code": "",
+                    "value": "",
+                    "total": {
+                        "transformed": "Total operating expenses",
+                        "desc": "Total operating expenses",
+                        "code": "AM_IS_E",
+                        "value": 958349.0
+                    }
+                },
+                {
+                    "transformed": "Operating income/loss",
+                    "desc": "Operating income -loss",
+                    "code": "AM_IS_NOI",
+                    "value": -112465.0
+                },
+                {
+                    "transformed": "Interest income expense net",
+                    "desc": "Interest income -expense net",
+                    "code": "",
+                    "value": 3156.0
+                },
+                {
+                    "transformed": "Other income expense net",
+                    "desc": "Other income -expense net",
+                    "code": "",
+                    "value": 14.0
+                },
+                {
+                    "transformed": "Earnings before income taxes",
+                    "desc": "Income -loss before income taxes",
+                    "code": "",
+                    "value": -109295.0
+                },
+                {
+                    "transformed": "Income tax expense benefit",
+                    "desc": "Income tax expense -benefit",
+                    "code": "",
+                    "value": -6518.0
+                },
+                {
+                    "transformed": "Net income/loss",
+                    "desc": "Net income -loss",
+                    "code": "AM_BS_NI",
+                    "value": -102777.0
+                },
+                {
+                    "transformed": "Less noncumulative dividends to preferred stockholders",
+                    "desc": "Less: noncumulative dividends to preferred stockholders",
+                    "code": "",
+                    "value": ""
+                },
+                {
+                    "transformed": "Less undistributed earnings to participating securities",
+                    "desc": "Less: undistributed earnings to participating securities",
+                    "code": "",
+                    "value": ""
+                },
+                {
+                    "transformed": "Net income loss attributable to common stockholders basic",
+                    "desc": "Net income -loss attributable to common stockholders\u2014basic",
+                    "code": "",
+                    "value": -102777.0
+                },
+                {
+                    "transformed": "Add adjustments for undistributed earnings to participating securities",
+                    "desc": "Add: adjustments for undistributed earnings to participating securities",
+                    "code": "",
+                    "value": ""
+                },
+                {
+                    "transformed": "Net income loss attributable to common stockholders diluted",
+                    "desc": "Net income -loss attributable to common stockholders\u2014diluted",
+                    "code": "",
+                    "value": -102777.0
+                },
+                {
+                    "transformed": "Net income loss per share attributable to common stockholders",
+                    "code": "",
+                    "items": [
+                        {
+                            "transformed": "Basic",
+                            "desc": "Basic",
+                            "code": "",
+                            "value": -0.47
+                        },
+                        {
+                            "transformed": "Diluted",
+                            "desc": "Diluted",
+                            "code": "",
+                            "value": -0.47
+                        }
+                    ],
+                    "heading": "Net income -loss per share attributable to common stockholders:"
+                },
+                {
+                    "transformed": "Shares used to compute net income loss per share attributable to common stockholders",
+                    "code": "",
+                    "items": [
+                        {
+                            "transformed": "Basic",
+                            "desc": "Basic",
+                            "code": "",
+                            "value": 220405.0
+                        },
+                        {
+                            "transformed": "Diluted",
+                            "desc": "Diluted",
+                            "code": "",
+                            "value": 220405.0
+                        }
+                    ],
+                    "heading": "Shares used to compute net income -loss per share attributable to common stockholders:"
+                }
+            ],
+            "asof": "december312016"
+        },
+        {
+            "statement": [
+                {
+                    "transformed": "Net revenue",
+                    "desc": "Revenue",
+                    "code": "AM_IS_I",
+                    "value": 1857998.0
+                },
+                {
+                    "transformed": "Cost of revenue",
+                    "desc": "Cost of revenue",
+                    "code": "AM_IS_CORS",
+                    "value": 956935.0
+                },
+                {
+                    "transformed": "Gross profit",
+                    "desc": "Gross profit",
+                    "code": "AM_IS_GP",
+                    "value": 901063.0
+                },
+                {
+                    "transformed": "Total operating expenses",
+                    "code": "AM_IS_E",
+                    "items": [],
+                    "heading": "Operating expenses:"
+                },
+                {
+                    "transformed": "Research and development",
+                    "desc": "Research and development",
+                    "code": "",
+                    "value": 150035.0
+                },
+                {
+                    "transformed": "Sales and marketing",
+                    "desc": "Sales and marketing",
+                    "code": "",
+                    "value": 332741.0
+                },
+                {
+                    "transformed": "General and administrative",
+                    "desc": "General and administrative",
+                    "code": "",
+                    "value": 77793.0
+                },
+                {
+                    "transformed": "Change in contingent consideration",
+                    "desc": "Change in contingent consideration",
+                    "code": "",
+                    "value": -7704.0,
+                    "total": {
+                        "transformed": "Total operating expenses",
+                        "desc": "Total operating expenses",
+                        "code": "AM_IS_E",
+                        "value": 552865.0
+                    }
+                },
+                {
+                    "transformed": "Operating income/loss",
+                    "desc": "Operating income -loss",
+                    "code": "AM_IS_NOI",
+                    "value": 348198.0
+                },
+                {
+                    "transformed": "Interest income expense net",
+                    "desc": "Interest income -expense net",
+                    "code": "",
+                    "value": -1019.0
+                },
+                {
+                    "transformed": "Other income expense net",
+                    "desc": "Other income -expense net",
+                    "code": "",
+                    "value": -59230.0
+                },
+                {
+                    "transformed": "Earnings before income taxes",
+                    "desc": "Income -loss before income taxes",
+                    "code": "",
+                    "value": 287949.0
+                },
+                {
+                    "transformed": "Income tax expense benefit",
+                    "desc": "Income tax expense -benefit",
+                    "code": "",
+                    "value": 112272.0
+                },
+                {
+                    "transformed": "Net income/loss",
+                    "desc": "Net income -loss",
+                    "code": "AM_BS_NI",
+                    "value": 175677.0
+                },
+                {
+                    "transformed": "Less noncumulative dividends to preferred stockholders",
+                    "desc": "Less: noncumulative dividends to preferred stockholders",
+                    "code": "",
+                    "value": -2526.0
+                },
+                {
+                    "transformed": "Less undistributed earnings to participating securities",
+                    "desc": "Less: undistributed earnings to participating securities",
+                    "code": "",
+                    "value": -59133.0
+                },
+                {
+                    "transformed": "Net income loss attributable to common stockholders basic",
+                    "desc": "Net income -loss attributable to common stockholders\u2014basic",
+                    "code": "",
+                    "value": 114018.0
+                },
+                {
+                    "transformed": "Add adjustments for undistributed earnings to participating securities",
+                    "desc": "Add: adjustments for undistributed earnings to participating securities",
+                    "code": "",
+                    "value": 8821.0
+                },
+                {
+                    "transformed": "Net income loss attributable to common stockholders diluted",
+                    "desc": "Net income -loss attributable to common stockholders\u2014diluted",
+                    "code": "",
+                    "value": 122839.0
+                },
+                {
+                    "transformed": "Net income loss per share attributable to common stockholders",
+                    "code": "",
+                    "items": [
+                        {
+                            "transformed": "Basic",
+                            "desc": "Basic",
+                            "code": "",
+                            "value": 0.88
+                        },
+                        {
+                            "transformed": "Diluted",
+                            "desc": "Diluted",
+                            "code": "",
+                            "value": 0.75
+                        }
+                    ],
+                    "heading": "Net income -loss per share attributable to common stockholders:"
+                },
+                {
+                    "transformed": "Shares used to compute net income loss per share attributable to common stockholders",
+                    "code": "",
+                    "items": [
+                        {
+                            "transformed": "Basic",
+                            "desc": "Basic",
+                            "code": "",
+                            "value": 129886.0
+                        },
+                        {
+                            "transformed": "Diluted",
+                            "desc": "Diluted",
+                            "code": "",
+                            "value": 164213.0
+                        }
+                    ],
+                    "heading": "Shares used to compute net income -loss per share attributable to common stockholders:"
+                }
+            ],
+            "asof": "december312015"
+        }
+    ],
+    "units": "thousands",
+    "type": "statement_of_income"
+}
