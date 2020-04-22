@@ -54,6 +54,42 @@ export class NavbarComponent implements OnInit, OnDestroy {
         this.mobile_menu_visible = 0;
       }
     });
+
+    var companiesinput = {
+      "async": false,
+      "crossDomain": true,
+      "url": "http://34.67.197.111:8000/companies",
+      "method": "GET",			
+      "headers": {
+                  "authorization": "Basic cm1pX3VzZXI6cm1pMzIxIUAj",
+                  "content-type": "application/json",
+                  "cache-control": "no-cache",
+                  "postman-token": "648dcbfa-30ef-3359-f29a-31b2038f29ac"
+                  },
+      "processData": false
+}
+$.ajax(companiesinput).done(function (response){
+  let companiesArray =((JSON.parse(response)).companies);
+  console.log("company array",companiesArray);
+  var companyOpt="";
+  for(let i=0;i<companiesArray.length;i++){
+    companyOpt=companyOpt+'<option value="'+companiesArray[i]+'">';
+  }
+  $("#companyname").html(companyOpt);
+});
+$("#compsearch").on('input', function () {
+  var val = $("#compsearch").val();
+  if($('#companyname option').filter(function(){
+    var val1=$(this).val();
+      return String(val1).toUpperCase() === String(val).toUpperCase();        
+  }).length) {
+      //send ajax request
+      window.location.href="/#/FinancialModel?companyname="+val+"&scenario=1";
+      window.location.reload();
+    }
+});
+
+ 
   }
 
   collapse() {
@@ -171,7 +207,7 @@ export class NavbarComponent implements OnInit, OnDestroy {
         return this.listTitles[item].title;
       }
     }
-    return "Financial Planning";
+    return "Financial Dashboard";
   }
   
 getCompanyName(){
@@ -181,7 +217,8 @@ getCompanyName(){
    	    var companyName = (queryString.split("&")[0]).split("=")[1];
 	    resultString = " : " + companyName
         var scenarioNumber = (queryString.split("&")[1]).split("=")[1];
-        resultString = resultString + " : Scenario "+scenarioNumber;
+	//  resultString = resultString + " : Scenario "+scenarioNumber;
+	resultString = resultString 
 	    return resultString;
         }catch (error) {
             return resultString;

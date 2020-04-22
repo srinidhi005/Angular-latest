@@ -90,9 +90,9 @@ var app = express();
 const port=process.env.PORT || 3010;
 // view engine setup
  app.set('view engine', 'jade');
-
+ app.set('view engine', 'ejs');
 app.use(express.static(__dirname + '/dist/'));
-
+app.use(express.static(__dirname + '/views/'));
 app.use(logger('dev'));
 // app.use('/public' ,express.static('public'))
 app.use(express.static(path.join(__dirname, 'public')));

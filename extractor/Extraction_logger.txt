@@ -4025,4 +4025,168 @@ cogsdict_values([[20441000.0, 19038000.0, 17405000.0]])
 netdict_values([[1933000.0, 4240000.0, 3760000.0]])
 ebtdict_values([[4325000.0, 4886000.0, 4623000.0]])
 statements_cash_flowdict_values([[747000.0, 706000.0, 649000.0, 27000.0, 10000.0, 13000.0]])
-gpvaluedict_values([[15956000.0, 15312000.0, 14971000.0]])
+gpvaluedict_values([[15956000.0, 15312000.0, 14971000.0]]){'FITBIT, INC.': ['2017', '2016', '2015']}dict_values([['2017', '2016', '2015']])
+totalrevenuedict_values([[1615519.0, 2169461.0, 1857998.0]])
+grossprofitdict_values([[690901.0, 845884.0, 901063.0]])
+netinterestdict_values([[3647.0, 3156.0, -1019.0]])
+otherincomedict_values([[0.0, 0.0, 0.0]])
+taxdict_values([[82548.0, -6518.0, 112272.0]])
+ebitdict_values([[-201087.0, -112465.0, 348198.0]])
+cogsdict_values([[924618.0, 1323577.0, 956935.0]])
+netdict_values([[-277192.0, -102777.0, 175677.0]])
+ebtdict_values([[-194644.0, -109295.0, 287949.0]])
+statements_cash_flowdict_values([[39971.0, 36046.0, 19405.0, 5722.0, 2087.0, 1702.0, 951.0, 466.0, 961.0]])
+gpvaluedict_values([[690901.0, 845884.0, 901063.0]]){'Walmart Inc.': ['2020', '2019', '2018']}dict_values([['2020', '2019', '2018']])
+totalrevenuedict_values([[519926000.0, 510329000.0, 495761000.0, 523964000.0, 514405000.0, 500343000.0]])
+totalrevenue[[523964000.0, 514405000.0, 500343000.0]]
+grossprofitdict_values([])
+netinterestdict_values([[2410000.0, 2129000.0, 2178000.0]])
+otherincomedict_values([[0.0, 0.0, 0.0]])
+taxdict_values([[4915000.0, 4281000.0, 4600000.0]])
+ebitdict_values([[20568000.0, 21957000.0, 20437000.0]])
+cogsdict_values([[394605000.0, 385301000.0, 373396000.0]])
+netdict_values([[14881000.0, 6670000.0, 9862000.0]])
+ebtdict_values([[20116000.0, 11460000.0, 15123000.0]])
+statements_cash_flowdict_values([[0.0, 0.0, 0.0]])
+gpvaluedict_values([[129359000.0, 129104000.0, 126947000.0]]){'NIKE, Inc.': ['2018', '2017', '2016']}dict_values([['2018', '2017', '2016']])
+totalrevenuedict_values([[36397000.0, 34350000.0, 32376000.0]])
+grossprofitdict_values([[15956000.0, 15312000.0, 14971000.0]])
+netinterestdict_values([[54000.0, 59000.0, 19000.0]])
+otherincomedict_values([[0.0, 0.0, 0.0]])
+taxdict_values([[2392000.0, 646000.0, 863000.0]])
+ebitdict_values([[0.0, 0.0, 0.0]])
+cogsdict_values([[20441000.0, 19038000.0, 17405000.0]])
+netdict_values([[1933000.0, 4240000.0, 3760000.0]])
+ebtdict_values([[4325000.0, 4886000.0, 4623000.0]])
+statements_cash_flowdict_values([[747000.0, 706000.0, 649000.0, 27000.0, 10000.0, 13000.0]])
+gpvaluedict_values([[15956000.0, 15312000.0, 14971000.0]]){'Walmart Inc.': ['2020', '2019', '2018']}dict_values([['2020', '2019', '2018']])
+totalrevenuedict_values([[519926000.0, 510329000.0, 495761000.0, 523964000.0, 514405000.0, 500343000.0]])
+totalrevenue[[523964000.0, 514405000.0, 500343000.0]]
+grossprofitdict_values([])
+netinterestdict_values([[2410000.0, 2129000.0, 2178000.0]])
+otherincomedict_values([[0.0, 0.0, 0.0]])
+taxdict_values([[4915000.0, 4281000.0, 4600000.0]])
+ebitdict_values([[20568000.0, 21957000.0, 20437000.0]])
+cogsdict_values([[394605000.0, 385301000.0, 373396000.0]])
+netdict_values([[14881000.0, 6670000.0, 9862000.0]])
+ebtdict_values([[20116000.0, 11460000.0, 15123000.0]])
+statements_cash_flowdict_values([[0.0, 0.0, 0.0]])
+gpvaluedict_values([[129359000.0, 129104000.0, 126947000.0]]){'REVLON, INC.': ['2018', '2017']}dict_values([['2018', '2017']])
+totalrevenuedict_values([[2564500.0, 2693700.0]])
+grossprofitdict_values([[1447500.0, 1541400.0]])
+netinterestdict_values([[176600.0, 149800.0]])
+otherincomedict_values([[0.0, 0.0]])
+taxdict_values([[2200.0, 21800.0]])
+ebitdict_values([[-85200.0, -23800.0]])
+cogsdict_values([[1117000.0, 1152300.0]])
+netdict_values([[-294200.0, -183200.0, -5570.0, -3480.0, -5570.0, -3480.0]])
+net[[-3480.0, -5570.0, -3480.0]]
+ebtdict_values([[-291900.0, -163500.0]])
+statements_cash_flowdict_values([[177200.0, 155800.0, 1400.0, 1200.0, 13000.0, 9100.0]])
+gpvaluedict_values([[1447500.0, 1541400.0]]){'NA': ['2018', '2017', '2016']}dict_values([['2018', '2017', '2016']])
+totalrevenuedict_values([[74433000.0, 71786000.0, 69414000.0, 75356000.0, 72714000.0, 70271000.0]])
+totalrevenue[[75356000.0, 72714000.0, 70271000.0]]
+grossprofitdict_values([])
+netinterestdict_values([[461000.0, 653000.0, 991000.0]])
+otherincomedict_values([[0.0, 0.0, 0.0]])
+taxdict_values([[746000.0, 722000.0, 1295000.0]])
+ebitdict_values([[4110000.0, 4224000.0, 4864000.0]])
+cogsdict_values([[53299000.0, 51125000.0, 49145000.0]])
+netdict_values([[2937000.0, 2914000.0, 2734000.0]])
+ebtdict_values([[3676000.0, 3630000.0, 3961000.0]])
+statements_cash_flowdict_values([[2474000.0, 2476000.0, 2318000.0]])
+gpvaluedict_values([[22057000.0, 21589000.0, 21126000.0]])2020-04-20 16:38:37
+
+list index out of range
+
+2020-04-20 16:38:37
+
+[Errno 2] No such file or directory: 'uploads/Target.pdf'
+
+2020-04-20 16:38:55
+
+list index out of range
+
+{'JOHNSON & JOHNSON AND SUBSIDIARIES': ['2018', '2017', '2016']}dict_values([['2018', '2017', '2016']])
+totalrevenuedict_values([[81581000.0, 76450000.0, 71890000.0]])
+grossprofitdict_values([[54490000.0, 51011000.0, 50101000.0]])
+netinterestdict_values([[1005000.0, 934000.0, 726000.0]])
+otherincomedict_values([[0.0, 0.0, 0.0]])
+taxdict_values([[2702000.0, 16373000.0, 3263000.0]])
+ebitdict_values([[0.0, 0.0, 0.0]])
+cogsdict_values([[27091000.0, 25439000.0, 21789000.0]])
+netdict_values([[15297000.0, 1300000.0, 16540000.0]])
+ebtdict_values([[17999000.0, 17673000.0, 19803000.0]])
+statements_cash_flowdict_values([[6929000.0, 5642000.0, 3754000.0]])
+gpvaluedict_values([[54490000.0, 51011000.0, 50101000.0]]){'DOLLAR GENERAL CORPORATION': ['2019', '2018', '2017']}dict_values([['2019', '2018', '2017']])
+totalrevenuedict_values([[25625043.0, 23470967.0, 21986598.0]])
+grossprofitdict_values([[7803870.0, 7221359.0, 6782638.0]])
+netinterestdict_values([[99871.0, 97036.0, 97821.0]])
+otherincomedict_values([[0.0, 0.0, 0.0]])
+taxdict_values([[425944.0, 368320.0, 714495.0]])
+ebitdict_values([[2116306.0, 2007818.0, 2063449.0]])
+cogsdict_values([[17821173.0, 16249608.0, 15203960.0]])
+netdict_values([[1589472.0, 1538960.0, 1251133.0]])
+ebtdict_values([[2015416.0, 1907280.0, 1965628.0]])
+statements_cash_flowdict_values([[454134.0, 404231.0, 379931.0]])
+gpvaluedict_values([[7803870.0, 7221359.0, 6782638.0]]){'Apple Inc.': ['2016', '2015', '2015']}dict_values([['2016', '2015', '2015']])
+totalrevenuedict_values([[0.0, 0.0, 0.0]])
+grossprofitdict_values([])
+netinterestdict_values([[0.0, 0.0, 0.0]])
+otherincomedict_values([[0.0, 0.0, 0.0]])
+taxdict_values([[0.0, 0.0, 0.0]])
+ebitdict_values([[0.0, 0.0, 0.0]])2020-04-20 16:41:21
+
+list index out of range
+
+{"DICK'S SPORTING GOODS, INC.": ['2018', '2018', '2017']}dict_values([['2018', '2018', '2017']])
+totalrevenuedict_values([[1857273.0, 1944187.0, 5944480.0, 5926350.0]])
+totalrevenue[[5926350.0]]
+grossprofitdict_values([])
+netinterestdict_values([[2606.0, 2839.0, 8312.0, 6319.0]])
+otherincomedict_values([[0.0, 0.0, 0.0]])
+taxdict_values([[12365.0, 21017.0, 78336.0, 113564.0]])
+ebitdict_values([[0.0, 0.0, 0.0]])2020-04-22 03:10:54
+
+list index out of range
+
+{'Apple Inc.': ['2016', '2015', '2015']}dict_values([['2016', '2015', '2015']])
+totalrevenuedict_values([[0.0, 0.0, 0.0]])
+grossprofitdict_values([])
+netinterestdict_values([[0.0, 0.0, 0.0]])
+otherincomedict_values([[0.0, 0.0, 0.0]])
+taxdict_values([[0.0, 0.0, 0.0]])
+ebitdict_values([[0.0, 0.0, 0.0]])2020-04-22 04:06:16
+
+list index out of range
+
+{'THE GAP, INC.': ['2018', '2018', '2017']}dict_values([['2018', '2018', '2017']])
+totalrevenuedict_values([[4089000.0, 3838000.0, 11957000.0, 11077000.0]])
+totalrevenue[[11077000.0]]
+grossprofitdict_values([[1623000.0, 1525000.0, 4677000.0, 4307000.0]])
+netinterestdict_values([[21000.0, 18000.0, 54000.0, 53000.0]])
+otherincomedict_values([[0.0, 0.0, 0.0]])
+taxdict_values([[84000.0, 135000.0, 230000.0, 398000.0]])
+ebitdict_values([[363000.0, 378000.0, 990000.0, 1083000.0]])
+cogsdict_values([[2466000.0, 2313000.0, 7280000.0, 6770000.0]])
+netdict_values([[266000.0, 229000.0, 727000.0, 643000.0]])
+net[[643000.0]]
+ebtdict_values([[350000.0, 364000.0, 957000.0, 1041000.0]])
+statements_cash_flowdict_values([[425000.0, 418000.0, -45000.0, -46000.0]])
+gpvaluedict_values([[1623000.0, 1525000.0, 4677000.0, 4307000.0]])2020-04-22 04:17:53
+
+list index out of range
+
+{'Tesla, Inc.': ['2017', '2016', '2015']}dict_values([['2017', '2016', '2015']])
+totalrevenuedict_values([[8534752.0, 5589007.0, 3431587.0, 11758751.0, 7000132.0, 4046025.0]])
+totalrevenue[[11758751.0, 7000132.0, 4046025.0]]
+grossprofitdict_values([[2222487.0, 1599257.0, 923503.0]])
+netinterestdict_values([[-471259.0, -198810.0, -118851.0]])
+otherincomedict_values([[0.0, 0.0, 0.0]])
+taxdict_values([[31546.0, 26698.0, 13039.0]])
+ebitdict_values([[0.0, 0.0, 0.0]])
+cogsdict_values([[6724480.0, 4268087.0, 2639926.0, 9536264.0, 5400875.0, 3122522.0]])
+netdict_values([[-2240578.0, -773046.0, -888663.0]])
+ebtdict_values([[0.0, 0.0, 0.0]])
+statements_cash_flowdict_values([[1636003.0, 947099.0, 422590.0, 91037.0, 94690.0, 78054.0]])
+gpvaluedict_values([[2222487.0, 1599257.0, 923503.0]])

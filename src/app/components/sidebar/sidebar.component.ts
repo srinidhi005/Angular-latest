@@ -14,8 +14,8 @@ export const ROUTES: RouteInfo[] = [
     class: ""
   },
   {
-    path: "/source",
-    title: "Source",
+    path: "/addcompany",
+    title: "Add Company",
     icon: "icon-atom",
     class: ""
   },
@@ -27,7 +27,7 @@ export const ROUTES: RouteInfo[] = [
   },
   {
     path: "/AdjustAssumption",
-    title: "AdjustAssumption",
+    title: "Adjust Assumption",
     icon: "icon-pin",
     class: "" },
   {

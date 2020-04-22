@@ -5,28 +5,25 @@
           <ul class="nav-dropdown-items nav">
           <li class="nav-item">
 
-               <!-- DASHBOARD -->
 
+            <li class="nav-item">
+              <a class="nav-link " routerLinkActive="active" 
+                [routerLink]="['/statement']">
+                <i  class="tim-icons icon-paper"></i> <h5 class="ml-4 mt-1">My Companies</h5></a>
+                 </li>
+              
+                 <li class="nav-item">
             <a class="nav-link nav-dropdown-toggle" routerLinkActive="active" 
            [routerLink]="['/dashboard']">
-           <i class="fas fa-desktop" ></i> <h5 class="mt-1"> Dashboard</h5></a>
+           <i class="fas fa-desktop" ></i> <h5 class="mt-1">Financial Dashboard</h5></a>
               </li>
 
-            <!-- SOURCE -->
+              <li class="nav-item">
+                <a class="nav-link " routerLinkActive="active" 
+                  [routerLink]="['/kpi']">
+                  <i  class="tim-icons icon-paper"></i> <h5 class="ml-4 mt-1">KPIs</h5></a>
+                   </li>
 
-           <li class="nav-item">
-            <a class="nav-link" routerLinkActive="active" 
-           [routerLink]="['/source']">
-           <i class="fas fa-download"></i> <h5 class="mt-1 pl-5">Source</h5></a>
-           </li>
-
-         <!-- STATEMENT -->
-
-         <li class="nav-item">
-           <a class="nav-link " routerLinkActive="active" 
-             [routerLink]="['/statement']">
-             <i  class="tim-icons icon-paper"></i> <h5 class="ml-4 mt-1">Statements</h5></a>
-              </li>
 
            <!-- Group -->
 
@@ -34,7 +31,7 @@
               <div class="accordion" id="accordionExample">
               
                     <a class="btn btn-link d-flex" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false">
-                        <i class="tim-icons icon-chart-pie-36 pl-3"> </i>  <h5 class="pl-2 pt-2">Monthly Budget</h5>
+                        <i class="tim-icons icon-chart-pie-36 pl-3"> </i>  <h5 class="pl-2 pt-2">Budgeting</h5>
                       <span class="ml-3 mt-2"></span></a>
                 <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
                   
@@ -49,8 +46,12 @@
                     <h5 class="pl-5">Target v/s Actuals</h5></a></li>
                   
                 </div>
+              </div>
+            </li>
+            <li class="nav-item">
+              <div class="accordion" id="accordionExample">
                 <a class="btn btn-link d-flex" data-toggle="collapse show" data-target="#collapseTwo" aria-expanded="true">
-                    <i class="tim-icons icon-coins pl-3"></i>  <h5 class="pl-2 pt-2">Financial Planning</h5>
+                    <i class="tim-icons icon-coins pl-3"></i>  <h5 class="pl-2 pt-2">Scenario Analysis</h5>
                   <span class="ml-3 mt-2"></span></a>
                   <div id="collapseTwo" class="collapse show" aria-labelledby="headingTwo" data-parent="#accordionExample">
                   

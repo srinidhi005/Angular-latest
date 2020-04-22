@@ -27,77 +27,34 @@
      
     </div>
    
+     
+     
+    
+      
+    
 
-    <button
-      aria-label="Toggle navigation"
-      class=" navbar-toggler"
-      (click)="collapse()"
-      [attr.aria-expanded]="!isCollapsed"
-      aria-controls="collapseExample"
-      id="navigation"
-      type="button"
-    >
-      <span class=" navbar-toggler-bar navbar-kebab"> </span>
-      <span class=" navbar-toggler-bar navbar-kebab"> </span>
-      <span class=" navbar-toggler-bar navbar-kebab"> </span>
-    </button>
+   
     <div class=" navbar-collapse" [ngbCollapse]="isCollapsed" id="navigation">
+      
       <ul class=" navbar-nav ml-auto">
-        <li class=" search-bar input-group">
-          <!-- <button
-            class=" btn btn-link"
-            data-target="#searchModal"
-            data-toggle="modal"
-            (click)="open(content)"
-            id="search-button"
-          >
-            <i class=" tim-icons icon-zoom-split"> </i>
-            <span class=" d-lg-none d-md-block"> Search </span>
-          </button> -->
-         <!--<button type="button" class="btn btn-sm btn-primary" data-toggle="modal" data-target="#myModal">
-            Subscribe
-          </button>
-        </li>
+       <li class=" nav-link">
+        
+        <input type="text" class="no-outline" placeholder="My Company" list="companyname" id="compsearch" >
+        <datalist id="companyname">
+          <option value="Nike">
+    
+        </datalist>
+          </li>
+       
+         
+            
+         
+  <button type="button" class="btn btn-sm btn-primary float-right rmiBtn" [routerLink]="['/addcompany']" data-toggle="modal" data-target="#myModal" id="modalPopUpId">
+    <i class="fas fa-file-upload"></i>   Add Company 
+   </button>
+  
         <li class=" nav-item" ngbDropdown>
-          <a
-            class=" nav-link"
-            data-toggle="dropdown"
-            href="javascript:void(0)"
-            ngbDropdownToggle
-          >
-            <div class=" notification d-none d-lg-block d-xl-block"></div>
-            <i class=" tim-icons icon-sound-wave"> </i>
-            <p class=" d-lg-none">Notifications</p>
-          </a>
-          <ul class=" dropdown-menu-right dropdown-navbar" ngbDropdownMenu>
-            <li class=" nav-link">
-              <a class=" nav-item" href="javascript:void(0)" ngbDropdownItem>
-                Mike John responded to your email
-              </a>
-            </li>
-            <li class=" nav-link">
-              <a class=" nav-item" href="javascript:void(0)" ngbDropdownItem>
-                You have 5 more tasks
-              </a>
-            </li>
-            <li class=" nav-link">
-              <a class=" nav-item" href="javascript:void(0)" ngbDropdownItem>
-                Your friend Michael is in town
-              </a>
-            </li>
-            <li class=" nav-link">
-              <a class=" nav-item" href="javascript:void(0)" ngbDropdownItem>
-                Another notification
-              </a>
-            </li>
-            <li class=" nav-link">
-              <a class=" nav-item" href="javascript:void(0)" ngbDropdownItem>
-                Another one
-              </a>
-            </li>
-          </ul>
-	</li>-->
-        <li class=" nav-item" ngbDropdown>
+
           <a
             class=" nav-link"
             data-toggle="dropdown"

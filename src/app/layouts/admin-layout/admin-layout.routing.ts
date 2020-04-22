@@ -11,7 +11,7 @@ import {PdfComponent} from "../../pages/pdf/pdf.component";
 import {ProfileComponent} from "../../pages/user/profile.component";
 export const AdminLayoutRoutes: Routes = [
   { path: "dashboard", component: DashboardComponent },
-  { path: "source", component: IconsComponent },
+  { path: "addcompany", component: IconsComponent },
   { path: "AdjustAssumption", component: MapComponent },
   { path: "Actuals", component: NotificationsComponent },
   { path: "TargetvActual", component: TargetvActualComponent },

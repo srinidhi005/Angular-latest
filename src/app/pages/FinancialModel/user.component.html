@@ -1,5 +1,63 @@
 <style>
-  .alert{
+
+.row{
+
+margin-top:30px;
+}
+#metricsbtn{
+background-color: Transparent;
+	    background-repeat:no-repeat;
+		    padding-top:10px;
+			    color:black;
+			   
+				    padding-left:35px;
+		        border: none;
+				    cursor:pointer;
+					        overflow: hidden;
+							    outline:none;
+}  
+#dashBoardId{
+background-color: Transparent;
+	padding-top:10px;
+		color:black;
+	    background-repeat:no-repeat;
+		    padding-right:10px;
+		        border: none;
+				    cursor:pointer;
+					        overflow: hidden;
+							    outline:none;
+}
+#saveScenario{
+background-color: Transparent;
+	color:black;
+		padding-top:10px;
+			padding-right:10px;
+	    background-repeat:no-repeat;
+		        border: none;
+				    cursor:pointer;
+					        overflow: hidden;
+							    outline:none;
+}
+
+#sel2{
+
+    margin-top:9px;
+	    margin-right:30px;
+
+
+			background-color: Transparent;
+				    background-repeat: no-repeat;
+					        border: none;
+							    cursor: pointer;
+								     
+										    overflow: hidden;
+											        outline: none;
+													    color: black;
+}
+
+
+
+.alert{
       display: none;
   }
   .myAlert-top{
@@ -55,27 +113,37 @@ width: 100%;
 </style>
 <div class="content">
 	<div class="cover-spin"></div>
-   `<div class="btn-group float-right" role="group" >
-	    <a href="" id="metricsbtn" class="btn btn-sm btn-primary float-right rmiBtn">
-		    <i class="far fa-chart-bar" style="
-			        padding-right: 5px;
-				"></i>
+   <div class="btn-group float-right" role="group" >
+	    <a href="" id="metricsbtn" class="float-right rmiBtn">
+		    <i class="far fa-chart-bar"></i>
  	    Metrics
 	    </a>
-	  <a href="" id="dashBoardId" class="btn btn-sm btn-primary float-right rmiBtn">
-		    <i class="far fa-chart-bar" style="
+
+<select type="button"  
+		            id="sel2" >
+			          </select>
+
+
+
+
+
+
+	  <a href="" id="dashBoardId" class="float-right rmiBtn">
+		    <i class="fas fa-desktop" style="
 			        padding-right: 5px;
 				"></i>
- 	    DashBoard
+ 	    Dashboard
 	    </a>
-        <a href=""  id="addNewScenario" type="button" onclick="myAlertTop()" class="btn btn-sm btn-primary rmiBtn" data-toggle="modal" data-target="#myModal" style="
+        <a href=""  id="addNewScenario" type="button" onclick="myAlertTop()" class="float-right rmiBtn" data-toggle="modal" data-target="#myModal" style="
 	           padding-right: 10px;
+		   padding-top: 10px;
+		       color: black;
 	   "	   >
 		<i class="far fa-plus-square" style="
-			    padding-right: 5px;
+			padding-right:5px
 			    "></i>
 	      	Add Scenario </a>
-        <a href="" id="saveScenario"  type="button"   onclick="myAlertTops()"  class="btn btn-sm btn-primary float-right rmiBtn" data-toggle="modal" data-target="#myModal" style="
+        <a href="" id="saveScenario"  type="button"   onclick="myAlertTops()"  class="float-right rmiBtn" data-toggle="modal" data-target="#myModal" style="
 		    padding-right: 8px;">
 		<i class="far fa-save" style="padding-right: 5px;"></i>Save Scenario </a>
     </div>
@@ -88,9 +156,9 @@ width: 100%;
 <div class="myAlert-tops alert alert-success">
          Saving the scenario
 	</div>
-  <h4 class="pl-2 pt-1 rmiLabel">Adjust Financial Model Drivers</h4>
+  <h4 class="pl-2 pt-3 rmiLabel">Adjust Financial Model Drivers</h4>
   
-    <div class=" row">
+    <div class=" row" >
      
       <div class=" col-lg-4">
         <div class=" card card-chart">

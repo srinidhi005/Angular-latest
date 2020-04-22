@@ -1,4 +1,20 @@
 <style>
+
+#modalPopUpId{
+
+padding-right:10px;
+	width: 204px !important;background:none;box-shadow:none;color:black;background-color: Transparent;
+		    background-repeat:no-repeat;
+			        border: none;
+					    cursor:pointer;
+						        overflow: hidden;
+								    outline:none;
+	
+}
+
+
+
+
 select,option{
   color:black;
 }
@@ -73,9 +89,10 @@ select,option{
  <div class="container">
   <!-- Button to Open the Modal -->
 
-  <button type="button" class="btn btn-sm btn-primary float-right rmiBtn" style="width: 204px !important;" data-toggle="modal" data-target="#myModal" id="modalPopUpId">
-	 <i class="fas fa-file-upload"></i>   Import New Statement
-  </button>
+  <!--<button type="button" class="float-right rmiBtn" data-toggle="modal" data-target="#myModal" id="modalPopUpId">
+
+	  <i _ngcontent-gwh-c2="" class="fas fa-download" style="padding-right:5px"></i>   Import New Statement
+  </button>-->
 
   <!-- The Modal -->
   <div class="modal mt-5" id="myModal">
@@ -84,7 +101,9 @@ select,option{
 
         <!-- Modal Header -->
         <div class="modal-header" style="background-color: #164A5B; padding:15px 15px 0 150px;">
-		<h4 class="modal-title pb-3 pt-0" style="color:white;"><i class="fas fa-file-upload"></i>Import New Statement</h4>
+		<h4 class="modal-title pb-3 pt-0" style="color:white;">
+
+			<i class="fas fa-file-upload"></i>Import New Statement</h4>
 	  
           <button type="button" style="padding-top:5px" class="close" data-dismiss="modal">&times;</button>
         </div>

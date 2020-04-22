@@ -63,3 +63,32 @@
         // @include transform-translate-x(-25px);
     }
 }
+
+.rmiBtn{
+   margin-top:12px;
+}
+#compsearch{
+    margin-top:12px;
+}
+.no-outline:focus {
+    outline: none;
+    }
+    input {
+        border-top-style: hidden;
+        border-right-style: hidden;
+        border-left-style: hidden;
+        border-bottom-style: groove;
+        background-color: #164a5b;
+        color: #ffffff;
+        }
+        input:focus {
+            color: #ffffff;
+            text-align: center;
+        }
+::placeholder,option { 
+    color: #ffffff;
+    text-align: center;
+}
+option{
+    color: #ffffff;
+}
