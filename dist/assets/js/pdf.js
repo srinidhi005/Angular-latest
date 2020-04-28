@@ -204,8 +204,7 @@ function appendTotable(){
 	for (let i=0;i<yearsArray.length;i++) {
 		str = str +  '<td style="font-weight:bold;text-align:center;font-size:14px;width:85px">'+yearsArray[i]+'</td>';	
 	}
-	$('#myTable tr:last').after('<tr>'+str+'</tr>'); 
-	str='<td>&nbsp</td>'
+	
 	$('#myTable tr:last').after('<tr>'+str+'</tr>');
 	   
 		       str='<td style="font-weight:bold;text-align:left;padding-left:10px;font-size:12px">Total Revenue</td>';
@@ -213,28 +212,25 @@ function appendTotable(){
 	for (let i=0;i<yearsArray.length;i++) {
 str = str +  '<td style="text-align:right;padding-right:20px;font-weight:bold;font-size:12px">'+'$'+formatter.format(actualObj.get(yearsArray[i]).totalRevenue)+'</td>';	
 	}
-	$('#myTable tr:last').after('<tr>'+str+'</tr>'); 
-       str='<td>&nbsp</td>'
-
+	
 	$('#myTable tr:last').after('<tr>'+str+'</tr>');
 
 	
 	
-	str='<td style="text-align:left;padding-left:10px;font-size:12px">(-) Cost of Goods Sold (COGS)</td>';
+	str='<td style="text-align:left;padding-left:10px;font-size:12px; padding-top:10px;">(-) Cost of Goods Sold (COGS)</td>';
 	
 	for (let i=0;i<yearsArray.length;i++) {
-	  str = str +  '<td style="text-align:right; padding-right:20px;font-size:12px">'+formatter.format(actualObj.get(yearsArray[i]).p_COGS)+'</td>';	
+	  str = str +  '<td style="text-align:right; padding-right:20px;font-size:12px; padding-top:10px;">'+formatter.format(actualObj.get(yearsArray[i]).p_COGS)+'</td>';	
 	}
 
-	$('#myTable tr:last').after('<tr>'+str+'</tr>'); 
-	str='<td>&nbsp</td>'
-
-	$('#myTable tr:last').after('<tr>'+str+'</tr>');
 	
-	str='<td style="font-weight:bold;text-align:left;padding-left:10px;font-size:12px">Gross Profit</td>';
+
+	$('#myTable tr:last').after('<tr>'+str+'</tr>');	
+	
+	str='<td style="font-weight:bold;text-align:left;padding-left:10px;font-size:12px; padding-top:10px;">Gross Profit</td>';
 	
 	for (let i=0;i<yearsArray.length;i++) {
-		str = str +  '<td style="padding-right:20px; text-align:right ;font-weight:bold;font-size:12px">'+'$'+formatter.format(actualObj.get(yearsArray[i]).p_GrossProfit)+'</td>';	
+		str = str +  '<td style="padding-right:20px; text-align:right ;font-weight:bold;font-size:12px; padding-top:10px;">'+'$'+formatter.format(actualObj.get(yearsArray[i]).p_GrossProfit)+'</td>';	
 	}
 	$('#myTable tr:last').after('<tr>'+str+'</tr>');
 	
@@ -244,30 +240,28 @@ str = str +  '<td style="text-align:right;padding-right:20px;font-weight:bold;fo
 		str = str +  '<td style="font-style: italic;text-align:right;padding-right:20px;font-size:12px">'+actualObj.get(yearsArray[i]).p_GrossProfitMargin+'%'+'</td>';	
 	}
 
-	$('#myTable tr:last').after('<tr>'+str+'</tr>'); 
-	str='<td>&nbsp</td>'
+	
 
 
 	$('#myTable tr:last').after('<tr>'+str+'</tr>');
 	
 	
-	str='<td style="text-align:left;padding-left:10px;font-size:12px">(-) Selling, General & Administrative Expense (SG&A)</td>';
+	str='<td style="text-align:left;padding-left:10px;font-size:12px; padding-top:10px;">(-) Selling, General & Administrative Expense (SG&A)</td>';
 	
 	for (let i=0;i<yearsArray.length;i++) {
-	  str = str +  '<td style=" text-align:right;padding-right:20px;font-size:12px">'+formatter.format(actualObj.get(yearsArray[i]).p_SGAndA)+'</td>';	
+	  str = str +  '<td style=" text-align:right;padding-right:20px;font-size:12px; padding-top:10px;">'+formatter.format(actualObj.get(yearsArray[i]).p_SGAndA)+'</td>';	
 	}
 
 
-	$('#myTable tr:last').after('<tr>'+str+'</tr>'); 
-	str='<td>&nbsp</td>'
+	
 
 
 	$('#myTable tr:last').after('<tr>'+str+'</tr>');
 	
-	str='<td style="font-weight:bold;text-align:left;padding-left:10px;font-size:12px">EBIT</td>';
+	str='<td style="font-weight:bold;text-align:left;padding-left:10px;font-size:12px; padding-top:10px;">EBIT</td>';
 	
 	for (let i=0;i<yearsArray.length;i++) {
-		str = str +  '<td style="text-align:right; padding-right:20px;font-weight:bold;font-size:12px">'+'$'+formatter.format(actualObj.get(yearsArray[i]).p_EBIT)+'</td>';	
+		str = str +  '<td style="text-align:right; padding-right:20px;font-weight:bold;font-size:12px; padding-top:10px;">'+'$'+formatter.format(actualObj.get(yearsArray[i]).p_EBIT)+'</td>';	
 	}
 	$('#myTable tr:last').after('<tr>'+str+'</tr>');
 	
@@ -280,37 +274,35 @@ str = str +  '<td style="text-align:right;padding-right:20px;font-weight:bold;fo
 	}
 
 
-	$('#myTable tr:last').after('<tr>'+str+'</tr>'); 
-	str='<td>&nbsp</td>'
+	
 
 
 	$('#myTable tr:last').after('<tr>'+str+'</tr>');
 	
 	
-	str='<td style="text-align:left;padding-left:10px;font-size:12px">(+) Depreciation & Amortization (D&A)</td>';
+	str='<td style="text-align:left;padding-left:10px;font-size:12px; padding-top:10px;">(+) Depreciation & Amortization (D&A)</td>';
 	
 	for (let i=0;i<yearsArray.length;i++) {
-	  str = str +  '<td style="text-align:right; padding-right:20px;font-size:12px">'+formatter.format(actualObj.get(yearsArray[i]).p_DAndA)+'</td>';	
+	  str = str +  '<td style="text-align:right; padding-right:20px;font-size:12px; padding-top:10px;">'+formatter.format(actualObj.get(yearsArray[i]).p_DAndA)+'</td>';	
 	}
 
-	$('#myTable tr:last').after('<tr>'+str+'</tr>'); 
-	str='<td>&nbsp</td>'
+	
 
 
 	$('#myTable tr:last').after('<tr>'+str+'</tr>');
 	
 	
 	
-	str='<td style="font-weight:bold;text-align:left;padding-left:10px;font-size:12px">EBITDA</td>';
+	str='<td style="font-weight:bold;text-align:left;padding-left:10px;font-size:12px; padding-top:10px;">EBITDA</td>';
 	
 	
 	
 	for (let i=0;i<yearsArray.length;i++) {
-		str = str +  '<td style="text-align:right; padding-right:20px;font-weight:bold;font-size:12px">'+'$'+formatter.format(actualObj.get(yearsArray[i]).p_EBITDA)+'</td>';	
+		str = str +  '<td style="text-align:right; padding-right:20px;font-weight:bold;font-size:12px; padding-top:10px;">'+'$'+formatter.format(actualObj.get(yearsArray[i]).p_EBITDA)+'</td>';	
 	}
 	$('#myTable tr:last').after('<tr>'+str+'</tr>');
 	
-	str='<td style="font-style: italic;text-align:left;padding-left:10px;font-size:12px">EBITDA Margin</td>';
+	str='<td style="font-style: italic;text-align:left;padding-left:10px;font-size:12px;">EBITDA Margin</td>';
 	
 	
 	
@@ -318,34 +310,31 @@ str = str +  '<td style="text-align:right;padding-right:20px;font-weight:bold;fo
 		str = str +  '<td style="text-align:right; font-style:italic;padding-right:20px;font-size:12px">'+actualObj.get(yearsArray[i]).p_Ebitdamargin+'%'+'</td>';	
 	}
 
-	$('#myTable tr:last').after('<tr>'+str+'</tr>'); 
-	str='<td>&nbsp</td>'
+	
 
 
 	$('#myTable tr:last').after('<tr>'+str+'</tr>');
 	
 	
-	  str='<td style="text-align:left;padding-left:10px;font-size:12px">EBIT</td>';
+	  str='<td style="text-align:left;padding-left:10px;font-size:12px;padding-top:8px;">EBIT</td>';
 	
 	for (let i=0;i<yearsArray.length;i++) {
-	    str = str +  '<td style="text-align:right; padding-right:20px;font-size:12px">'+formatter.format(actualObj.get(yearsArray[i]).p_EBIT)+'</td>';	
+	    str = str +  '<td style="text-align:right; padding-right:20px;font-size:12px; padding-top:10px;">'+formatter.format(actualObj.get(yearsArray[i]).p_EBIT)+'</td>';	
 	}
 
-	$('#myTable tr:last').after('<tr>'+str+'</tr>'); 
-	str='<td>&nbsp</td>'
+	
 
 
 	$('#myTable tr:last').after('<tr>'+str+'</tr>');
 	
 	
-	str='<td style="text-align:left;padding-left:10px;font-size:12px">(-) Net Interest/Other Income Expense</td>';
+	str='<td style="text-align:left;padding-left:10px;font-size:12px; padding-top:10px;">(-) Net Interest/Other Income Expense</td>';
 	
 	for (let i=0;i<yearsArray.length;i++) {
-	  str = str +  '<td style="text-align:right; padding-right:20px;font-size:12px">'+formatter.format(actualObj.get(yearsArray[i]).p_NIE)+'</td>';	
+	  str = str +  '<td style="text-align:right; padding-right:20px;font-size:12px; padding-top:10px;">'+formatter.format(actualObj.get(yearsArray[i]).p_NIE)+'</td>';	
 	}
 
-	$('#myTable tr:last').after('<tr>'+str+'</tr>'); 
-	str='<td>&nbsp</td>'
+	
 
 
 	$('#myTable tr:last').after('<tr>'+str+'</tr>');
@@ -359,10 +348,10 @@ str = str +  '<td style="text-align:right;padding-right:20px;font-weight:bold;fo
 			    	
 
 	
-		str='<td style="font-weight:bold;text-align:left;padding-left:10px;font-size:12px">EBT</td>';
+		str='<td style="font-weight:bold;text-align:left;padding-left:10px;font-size:12px; padding-top:10px;">EBT</td>';
 	
 	for (let i=0;i<yearsArray.length;i++) {
-		str = str +  '<td style="text-align:right;padding-right:20px;font-weight:bold;font-size:12px">'+'$'+formatter.format(actualObj.get(yearsArray[i]).p_EBT)+'</td>';	
+		str = str +  '<td style="text-align:right;padding-right:20px;font-weight:bold;font-size:12px; padding-top:10px;">'+'$'+formatter.format(actualObj.get(yearsArray[i]).p_EBT)+'</td>';	
 	}
 	$('#myTable tr:last').after('<tr>'+str+'</tr>');
 	
@@ -373,28 +362,26 @@ str = str +  '<td style="text-align:right;padding-right:20px;font-weight:bold;fo
 	       		str = str +  '<td style="text-align:right; font-style:italic;padding-right:20px;font-size:12px">'+actualObj.get(yearsArray[i]).p_EBTmargin+'%'+'</td>';	
 			    	}
 
-	$('#myTable tr:last').after('<tr>'+str+'</tr>'); 
-	str='<td>&nbsp</td>'
+	
 
 			    	$('#myTable tr:last').after('<tr>'+str+'</tr>');
 			    	
 	
-	   str='<td style="text-align:left;padding-left:10px;font-size:12px">(-) Taxes</td>';
+	   str='<td style="text-align:left;padding-left:10px;font-size:12px; padding-top:10px;">(-) Taxes</td>';
 	
 	for (let i=0;i<yearsArray.length;i++) {
-	     str = str +  '<td style="text-align:right; padding-right:20px;font-size:12px">'+formatter.format(actualObj.get(yearsArray[i]).p_taxes)+'</td>';	
+	     str = str +  '<td style="text-align:right; padding-right:20px;font-size:12px; padding-top:10px;">'+formatter.format(actualObj.get(yearsArray[i]).p_taxes)+'</td>';	
 	}
 
-	$('#myTable tr:last').after('<tr>'+str+'</tr>'); 
-	str='<td>&nbsp</td>'
+	
 
 	$('#myTable tr:last').after('<tr>'+str+'</tr>');
 	
 	
-		str='<td style="font-weight:bold;text-align:left;padding-left:10px;font-size:12px">Net Income</td>';
+		str='<td style="font-weight:bold;text-align:left;padding-left:10px;font-size:12px; padding-top:10px;">Net Income</td>';
 	
 	for (let i=0;i<yearsArray.length;i++) {
-		str = str +  '<td style="text-align:right; padding-right:20px;font-weight:bold;font-size:12px">'+'$'+formatter.format(actualObj.get(yearsArray[i]).p_NetInCome)+'</td>';	
+		str = str +  '<td style="text-align:right; padding-right:20px;font-weight:bold;font-size:12px; padding-top:10px;">'+'$'+formatter.format(actualObj.get(yearsArray[i]).p_NetInCome)+'</td>';	
 	}
 	$('#myTable tr:last').after('<tr>'+str+'</tr>');
 	
@@ -406,8 +393,7 @@ str = str +  '<td style="text-align:right;padding-right:20px;font-weight:bold;fo
 		str = str +  '<td style="text-align:right; font-style: italic;padding-right:20px;font-size:12px">'+actualObj.get(yearsArray[i]).p_NetIM+'%'+'</td>';	
 	}
 
-	$('#myTable tr:last').after('<tr>'+str+'</tr>'); 
-	str='<td>&nbsp</td>'
+	
 
 
 	$('#myTable tr:last').after('<tr>'+str+'</tr>');

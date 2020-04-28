@@ -754,6 +754,11 @@ if __name__ == "__main__":
         cogs = convert_to_thousand(cogs, company_and_unit)
         cogs = cogs.values()
         print("COGS", len(cogs), cogs)
+        cogs_dict={"a": []}
+        if len(list(cogs)[0])>3: 
+            cogs_dict["a"].append(list(cogs)[0][3:])
+            cogs_new=cogs_dict.values()
+            cogs = [val for sublist in cogs_new for val in sublist]
         op.writelines("\n"+"cogs"+str(cogs))
         
         net_income_dict={"a": []}
@@ -801,10 +806,10 @@ if __name__ == "__main__":
             cursor = connection.cursor()
 
         projections = 4  # hardcodedd
-
+        op.writelines("\n"+"before company master insert")
         query = "insert into company_master (companyname,company,period,actuals,projections,createdby,createdon,filename,industry,statementtype)" \
                 "values ('" + company_name + "','" + company + "','" + period + "'," + str(len(list(company_years)[0])) + "," + str(projections) + ",'" + user + "','" + created_on + "','" + filename + "','" + industry + "','" + statement_type + "')"
-        print(query,"===")
+        op.writelines("\n"+"after company master insert")
         cursor.execute(query)
         connection.commit()
         latest = 0
@@ -822,21 +827,38 @@ if __name__ == "__main__":
             	ebtmargin=0
             	netincomemargin=0
             else:
-            	grossprofitmargin = float((list(gross_profit_values)[0][i] / list(total_revenue)[0][i]) * 100)      
-            	ebitmargin = float((list(ebit)[0][i] / list(total_revenue)[0][i]) * 100)
-            	ebitdamargin = float((ebitda/ list(total_revenue)[0][i]) * 100)
-            	ebtmargin = float((list(ebt)[0][i] / list(total_revenue)[0][i]) * 100)
-            	netincomemargin = float((list(net_income)[0][i] /list(total_revenue)[0][i]) * 100)
+                grossprofitmargin = float((list(gross_profit_values)[0][i] / list(total_revenue)[0][i]) * 100)      
+                ebitmargin = float((list(ebit)[0][i] / list(total_revenue)[0][i]) * 100)
+                ebitdamargin = float((ebitda/ list(total_revenue)[0][i]) * 100)
+                print("ebitdamargin",ebitdamargin)
+                ebtmargin = float((list(ebt)[0][i] / list(total_revenue)[0][i]) * 100)
+                print("ebtmargin",ebtmargin)
+                netincomemargin = float((list(net_income)[0][i] /list(total_revenue)[0][i]) * 100)
+                if len(list(company_years)[0]) + latest>1:   
+                    revenuepercent = ((list(total_revenue)[0][i]-list(total_revenue)[0][i+1])/list(total_revenue)[0][i+1])*100
+                    print("revenuepercent",revenuepercent)
+                    cogspercent = (list(cogs)[0][i]/list(total_revenue)[0][i])*100
+                    print("cogspercent",cogspercent)
+                    sgapercent = (sga/list(total_revenue)[0][i])*100
+                    print("sgapercent",sgapercent)
+                    dapercent = (list(dep_amort)[0][i]/list(total_revenue)[0][i])*100
+                    print("dapercent",dapercent)
+ 
+
+            
+            
             query = "insert into company_actuals (companyname,asof,latest,totalrevenue,cogs,sga,da,netinterest,otherincome," \
-                    "taxes,grossprofit,ebit,ebitda,netincome,grossprofitmargin,ebitmargin,ebitdamargin,ebtmargin,netincomemargin,ebt) values(" \
+                    "taxes,grossprofit,ebit,ebitda,netincome,grossprofitmargin,ebitmargin,ebitdamargin,ebtmargin,netincomemargin,ebt," \
+                    "revenuepercent,cogspercent,sgapercent,dapercent) values(" \
                     "'" + company_name + "'," +str(list(company_years)[0][i]) + "," + str(
                         latest) + "," + str(list(total_revenue)[0][i]) + "," + str(list(cogs)[0][i]) + "," + str(sga) + "," + str(
                         list(dep_amort)[0][i]) + "," + str(net_interest_exp) + "," + str(list(other_income_exp)[0][i]) + "," + str(taxes) + "," + str(
                         list(gross_profit_values)[0][i]) + "," + str(list(ebit)[0][i]) + "," + str(ebitda) + "," + str(list(net_income)[0][i]) + "," + str(
                         grossprofitmargin) + "," + str(ebitmargin) + "," + str(ebitdamargin) + "," + str(
-                        ebtmargin) + "," + str(netincomemargin) + "," + str(list(ebt)[0][i]) + ")"                
+                        ebtmargin) + "," + str(netincomemargin) + "," + str(list(ebt)[0][i]) + "," + str(revenuepercent) + "," + str(cogspercent) + "," + str(sgapercent) + "," + str(dapercent) + ")"                
 
             cursor.execute(query)
+            
             connection.commit()  # save records
             latest -= 1
     except Exception as e:

@@ -13,7 +13,7 @@ statements = [
 ".*Consolidated.*Statement.*Income.*",
 ".*Consolidated.*Statement.*Earnings.*",
 ]
-ebt_patterns=["Net earnings before income tax \(benefit\) expense","INCOME BEFORE INCOME TAXES","INCOME FROM CONTINUING OPERATIONS BEFORE INCOME TAXES","Income before provision for income taxes","Earnings before provision for taxes on income","Income before income taxes","Income\/\(loss\).*before.*income.*taxes","Income before income tax expense","Income before income tax expense","Earnings from continuing operations before income taxes","Income \(loss\) before income taxes", "Loss from continuing operations before income taxes","Income from continuing operations before income taxes","EARNINGS FROM CONTINUING OPERATIONS BEFORE INCOME TAXES"]
+ebt_patterns=["Net earnings before income tax \(benefit\) expense","INCOME BEFORE INCOME TAXES","INCOME FROM CONTINUING OPERATIONS BEFORE INCOME TAXES","Income before provision for income taxes","Earnings before provision for taxes on income","Income before income taxes","Income\/\(loss\).*before.*income.*taxes","Income before income tax expense","Income before income tax expense","Earnings from continuing operations before income taxes","Income \(loss\) before income taxes", "Loss from continuing operations before income taxes","Income from continuing operations before income taxes","EARNINGS FROM CONTINUING OPERATIONS BEFORE INCOME TAXES","Loss before income taxes"]
 
 
 #net_income=["NET INCOME FROM CONTINUING OPERATIONS","NET INCOME",r"(?:Net earnings attributable to The Kroger Co\.$){1}",r"(?:Net earnings$){1}","Net income \(loss\)","Net income","Net income\/\(loss\)","Net loss","Loss from continuing operations\, net of taxes"]
@@ -26,10 +26,9 @@ net_income=["Consolidated net income attributable to Walmart" ,"NET INCOME ATTRI
 
 total_revenue_patterns = ["Total revenue","Total revenues","NET OPERATING REVENUES",r"(?:Sales$){1}","Total Net Revenue","Total Revenue","Total Revenues","Net Revenue","Net revenue","Net Revenues","Sales to customer","Net Sale","Net Sales",r"(?:Revenues$){1}",r"(?:Revenue$){1}","NET SALES","Net sales","Total net sales"]
 
-sga_patterns = ["General.*administrative.*","Selling.*informational.*administrative.*","Selling.*general.*administrative",
-                "Total.*selling.*administrative.*","Operating, selling, general and administrative expenses","Marketing.*administration.*research.*","Selling.*marketing.*and.*administrative.*expenses"]
+sga_patterns = ["General.*administrative.*","Selling.*informational.*administrative.*","Selling.*general.*administrative","Total operating expenses", "Total.*selling.*administrative.*","Operating, selling, general and administrative expenses","Marketing.*administration.*research.*","Selling.*marketing.*and.*administrative.*expenses"]
 
-cost_of_goods_sold = ["Company restaurant expenses","Merchandise costs",r"(Total costs and expenses$){1}","Total cost of revenues","Cost of sales","items shown separately below","Cost of Sale.*","COGs","Cost of goods sold","Cost of Revenue.?","Cost of revenue","Cost of products sold"]
+cost_of_goods_sold = ["Company restaurant expenses","Total cost of revenues","Merchandise costs",r"(Total costs and expenses$){1}","Total cost of revenues","Cost of sales","items shown separately below","Cost of Sale.*","COGs","Cost of goods sold","Cost of Revenue.?","Cost of revenue","Cost of products sold"]
 
 #research_and_dev = ["Research and development.*"]
 product_dev = ["Product Development.*"]
@@ -63,7 +62,8 @@ ebit_patterns=[
 "Operating.*profit",
 "Operating loss",
 "OPERATING INCOME",
-"Operating income"
+"Operating income",
+"Loss from operations"
     ]
 statements_cash_flow=[".*Consolidated Statements of Cash Flows"]
 

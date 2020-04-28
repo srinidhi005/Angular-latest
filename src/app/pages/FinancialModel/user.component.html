@@ -1,16 +1,11 @@
 <style>
 
-.row{
-
-margin-top:30px;
-}
 #metricsbtn{
 background-color: Transparent;
 	    background-repeat:no-repeat;
 		    padding-top:10px;
 			    color:black;
-			   
-				    padding-left:35px;
+			 padding-right:3px;
 		        border: none;
 				    cursor:pointer;
 					        overflow: hidden;
@@ -55,7 +50,9 @@ background-color: Transparent;
 													    color: black;
 }
 
-
+select:focus {
+	outline: none;
+}
 
 .alert{
       display: none;
@@ -114,10 +111,7 @@ width: 100%;
 <div class="content">
 	<div class="cover-spin"></div>
    <div class="btn-group float-right" role="group" >
-	    <a href="" id="metricsbtn" class="float-right rmiBtn">
-		    <i class="far fa-chart-bar"></i>
- 	    Metrics
-	    </a>
+	    
 
 <select type="button"  
 		            id="sel2" >
@@ -146,6 +140,10 @@ width: 100%;
         <a href="" id="saveScenario"  type="button"   onclick="myAlertTops()"  class="float-right rmiBtn" data-toggle="modal" data-target="#myModal" style="
 		    padding-right: 8px;">
 		<i class="far fa-save" style="padding-right: 5px;"></i>Save Scenario </a>
+	 <a href="" id="metricsbtn" class="float-right">
+		 <i class="fas fa-list-ol" style="padding-right:5px;" aria-hidden="true"></i>
+				                Metrics
+						            </a>
     </div>
 
  
@@ -156,7 +154,7 @@ width: 100%;
 <div class="myAlert-tops alert alert-success">
          Saving the scenario
 	</div>
-  <h4 class="pl-2 pt-3 rmiLabel">Adjust Financial Model Drivers</h4>
+  <h4 class="pl-2" style="padding-top:6px">Adjust Financial Model Drivers</h4>
   
     <div class=" row" >
      
@@ -226,7 +224,7 @@ width: 100%;
                   </div>
                 </div>
               </div>
-              <h4 class="pl-2 pt-1">Annual Projections</h4>
+              <h4 class="pl-2">Annual Projections</h4>
                 <div class=" row">
 
                 

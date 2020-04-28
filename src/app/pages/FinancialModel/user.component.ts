@@ -1347,8 +1347,8 @@ function loadData(){
 																		                $( "#sel2" ).change(function() {
 																				                
 																				                let scerno=$("#sel2").val();
-																				 window.location.href="/#/FinancialModel?companyname="+companyName+"&scenario="+scerno;
-																								                        window.location.reload();
+		 window.location.href="/#/FinancialModel?companyname="+companyName+"&scenario="+scerno;
+							         window.location.reload();
 																											            });
 
 

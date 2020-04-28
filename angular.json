@@ -43,7 +43,9 @@
               "src/assets/js/import.js",
 	          "src/assets/js/login.js",
 			  "node_modules/pdfmake/build/pdfmake.min.js",
-			  "node_modules/html2canvas/dist/html2canvas.min.js"
+			  "node_modules/html2canvas/dist/html2canvas.min.js",
+			  "node_modules/jspdf/dist/jspdf.min.js",
+			          "node_modules/jspdf-autotable/dist/jspdf.plugin.autotable.js"
            ],
             "es5BrowserSupport": true
           },
