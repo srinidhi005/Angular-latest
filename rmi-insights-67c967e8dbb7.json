@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rmi-insights",
+  "private_key_id": "67c967e8dbb7ef25dd4c1d71beaaf001aec19e80",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDahd1oWqSen7Lx\nkwHlVFWihrtScOQhrg1EPGkmlsaReNtEgsDDh8MuYdy5RbhlFyWCndEvKLHGpnre\nB+5oBwTbwn5XNLMETPBtWTFx6JTQkYbbc3MR+ODaPSgfd+3J5D/8XXk4t7hVnRQG\n9mQKfVwfKmOB5HuUi5B7fzV7C5E4/3eGN0qAcMTEdpWcBDLLVOlu/8c40rUINqfD\ncGpzFX9PJrwvO74B21TIVl1eW2AvsSB5ybKTKwg4cN/Yxhaaa/k5UT/Emfk2/Snh\naXE9zPq7uZQ+oi9v7756PGkLNuAgJzSIgE+IGvn8ImW0LV2oTdTQy1qkPKDsavvw\ng86CVkaZAgMBAAECggEAALQTUTCTHXxRwkSLJJmsDgyZ3A8YBo4C9/QdrUvpPyWf\nJfu3hviPW6AZGJTzcXcfjJvEaUtptpvR62B+zOA4FQpBH0LnmI1xTqobmm0j8CVD\nWAxQdFqiDIfh1YNyLjLfKVtohP4CA8LBGeg5KzTjdRjP6nXscHVsZmVIfkLujEej\nobbP3wZK0ykTluLB7UvOyn5UbgBfmjMbJ4l0kBeyoGtrDDnMVJ3p0CKIuR26OWC5\nzvZmthIEC+8rKVdRyu0B096E5gi91uVt5beQ8hmMGIG8ZQvwSLphdaXyehmql4+o\nGENB1KPC9ahO4uOepNgeHP5Yt8F6U/bvoXUD4ihkkQKBgQD28TRxar9ydDqNBeDI\nQNOI9AfaiR94HNUpFEFv7WV+Vb7fd/UUNEMAW5BOkNE9AKTNsubQboZzpV8H4i5B\nmFZv6WFw0TSF20NGDHrcy4k4NdVHjlivdMnITPYyyU4RJNEpz0HhbHk2KiFXdfYf\n9XmSRlvdSNlweWECGP1uZuAKsQKBgQDiic1KpuUz7ZLUxn6Msphu1232sPsmVBaP\nmTowE0ODV1tv6Foi1vKaJ7lxPIPf7n9HojG212+ogYeN996FNQefjkLiaf8Y4OdS\nvA2zxp4IdRFTJS6h9gCEomWT6LBrGBQ2TyoEbBJrdY9ATCaD8lawZeh7sjfHJm8C\nMhHDmEEkaQKBgGs+idYP1CEy1RLV0K9nZ/b8dES2dJJHg1OZ1mlzojZhqsmGYUtq\n/wYyvdNBFX32v5wN7CvtNDsZQNI9qnUWYcOsiYLjeHoBpY/Qb7NgObHNv1iaO23H\nvLJeqjWYM21CngwYVLY/08xwM5a2RjPO+gNKxy6tKrGsJTMyAy5lQzuhAoGBAImc\n0jNuDL+tqstMROWtPAHhJfB8dCRFYmsa1okLurBXabkiOVb+oeLZDMJn02g9ld3q\n/i4m0rJW9QRdtTPQEfBv19t4LjlrrbnJeL1jgu56RuruJFTIfmoTyIbADCMSPnz7\nO/fxuoLCqCGT4LW4icagMUiq600z4K1Bwx7BJ5k5AoGAYQY7hO0eUmQJvllFEaD6\nGb1lHD/q0pOor2uWWFkenoAG3yJSfQRBnctvmmCUawPIvHbrcxr7gJs92itvpKgu\ny0QN4wA4N2c5+xfCVcw2EEPy7xiqDxflmHj9bFfhIPZfCocAIOXvcuME4OBY1Zdm\nb7TcCDpHejf4pVjcNSE0wy0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "doc-ai-final@rmi-insights.iam.gserviceaccount.com",
+  "client_id": "117757935292640597251",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/doc-ai-final%40rmi-insights.iam.gserviceaccount.com"
+}

@@ -10,6 +10,7 @@ import { NgbModule } from "@ng-bootstrap/ng-bootstrap";
 import { AppRoutingModule } from "./app-routing.module";
 import { ComponentsModule } from "./components/components.module";
 import { LoginComponent } from './login/login.component';
+import { KpiComponent } from './pages/kpi/kpi.component';
 
 @NgModule({
   imports: [
@@ -22,7 +23,7 @@ import { LoginComponent } from './login/login.component';
     AppRoutingModule,
     ToastrModule.forRoot()
   ],
-  declarations: [AppComponent, AdminLayoutComponent, LoginComponent],
+  declarations: [AppComponent, AdminLayoutComponent, LoginComponent, KpiComponent],
   providers: [],
   bootstrap: [AppComponent],
 	exports:[LoginComponent]

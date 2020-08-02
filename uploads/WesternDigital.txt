@@ -1,0 +1,840 @@
+Row		2019
+	2018
+RowASSETS
+			RowCurrent assets:
+			RowCash and cash equivalents 	$ 	3,455 	$ 5,005
+RowAccounts receivable, net 		1,204 	2,197
+RowInventories 		3,283 	2,944
+RowOther current assets 		535 	492
+RowTotal current assets 		8,477 	10,638
+RowProperty, plant and equipment, net 		2,843 	3,095
+RowNotes receivable and investments in Flash Ventures 		2,791 	2,105
+RowGoodwill 		10,076 	10,075
+RowOther intangible assets, net 		1,711 	2,680
+RowOther non-current assets 		472 	642
+RowTotal assets 	$ 	26,370 	$ 29,235
+RowLIABILITIES AND SHAREHOLDERS’ EQUITY
+			RowCurrent liabilities:
+			RowAccounts payable 	$ 	1,567 	$ 2,265
+RowAccounts payable to related parties 		331 	259
+RowAccrued expenses 		1,296 	1,274
+RowAccrued compensation 		347 	479
+RowCurrent portion of long-term debt 		276 	179
+RowTotal current liabilities 		3,817 	4,456
+RowLong-term debt 		10,246 	10,993
+RowOther liabilities 		2,340 	2,255
+RowTotal liabilities 		16,403 	17,704
+RowCommitments and contingencies (Notes 6, 9, 13 and 16)
+			RowShareholders’ equity:
+			RowPreferred stock, $0.01 par value; authorized — 5 shares; issued and outstanding — none 		— 	—
+RowCommon stock, $0.01 par value; authorized — 450 shares; issued — 312 shares in 2019 and 2018; outstanding in 2019 and 296 shares in 2018 	— 295 shares
+	3 	3
+RowAdditional paid-in capital 		3,851 	4,254
+RowAccumulated other comprehensive loss 		(68) 	(39)
+RowRetained earnings 		7,449 	8,757
+RowTreasury stock — common shares at cost; 17 shares in 2019 and 16 shares in 2018 		(1,268) 	(1,444)
+RowTotal shareholders’ equity 		9,967 	11,531
+RowTotal liabilities and shareholders’ equity 	$ 	26,370 	$ 29,235
+Row	Year Ended
+	RowJune 28,
+	June 29,
+	June 30,
+Row2019
+	2018
+	2017
+Row$ 16,569 	$ 20,647 	$ 19,093
+Row12,817 	12,942 	13,021
+Row3,752 	7,705 	6,072
+Row2,182 	2,400 	2,441
+Row1,317 	1,473 	1,445
+Row166 	215 	232
+Row3,665 	4,088 	4,118
+Row87 	3,617 	1,954
+Row57 	60 	26
+Row(469) 	(676) 	(847)
+Row38 	(916) 	(364)
+Row(374) 	(1,532) 	(1,185)
+Row(287) 	2,085 	769
+Row467 	1,410 	372
+Row$ (754) 	$ 675 	$ 397
+Row	June 28,
+2019
+	June 29,
+2018
+	June 30,
+2017
+RowRevenue, net 	$ 16,569 $ 	20,647 $ 	19,093
+RowCost of revenue 	12,817 	12,942 	13,021
+RowGross profit 	3,752 	7,705 	6,072
+RowOperating expenses:
+			RowResearch and development 	2,182 	2,400 	2,441
+RowSelling, general and administrative 	1,317 	1,473 	1,445
+RowEmployee termination, asset impairment, and other charges 	166 	215 	232
+RowTotal operating expenses 	3,665 	4,088 	4,118
+RowOperating income 	87 	3,617 	1,954
+RowInterest and other income (expense):
+			RowInterest income 	57 	60 	26
+RowInterest expense 	(469) 	(676) 	(847)
+RowOther income (expense), net 	38 	(916) 	(364)
+RowTotal interest and other expense, net 	(374) 	(1,532) 	(1,185)
+RowIncome (loss) before taxes 	(287) 	2,085 	769
+RowIncome tax expense 	467 	1,410 	372
+RowNet income (loss) 	$ (754) $ 	675 $ 	397
+RowIncome (loss) per common share
+			RowBasic 	$ (2.58) $ 	2.27 $ 	1.38
+RowDiluted 	$ (2.58) $ 	2.20 $ 	1.34
+RowWeighted average shares outstanding:
+			RowBasic 	292 	297 	288
+RowDiluted 	292 	307 	296
+RowCash dividends declared per share 	$ 2.00 $ 	2.00 $ 	2.00
+RowThe accompanying notes are an integral part of these Consolidated 	Financial Statements.
+		Row	June 28,
+2019
+	June 29,
+2018
+	June 30,
+2017
+RowNet income (loss) 	$ (754) $ 	675 	$ 397
+RowOther comprehensive income (loss), before tax:
+			RowActuarial pension gain (loss) 	(39) 	(2) 	39
+RowForeign currency translation adjustment 	28 	18 	(115)
+RowNet unrealized gain (loss) on derivative contracts and available-for-sale securities 	(39) 	7 	(75)
+RowTotal other comprehensive income (loss), before tax 	(50) 	23 	(151)
+RowIncome tax benefit (expense) related to items of other comprehensive income (loss), before tax 	21 	(4) 	(10)
+RowOther comprehensive income (loss), net of tax 	(29) 	19 	(161)
+RowTotal comprehensive income (loss) 	$ (783) $ 	694 	$ 236
+Row	June 28,
+2019
+	June 29,
+2018
+	June 30,
+2017
+RowCash flows from operating activities
+			RowNet income (loss) 	$ (754) 	$ 675 	$ 397
+RowAdjustments to reconcile net income (loss) to net cash provided by operations:
+			RowDepreciation and amortization 	1,812 	2,056 	2,128
+RowStock-based compensation 	306 	377 	394
+RowDeferred income taxes 	374 	(348) 	12
+RowLoss on disposal of assets 	39 	21 	18
+RowWrite-off of issuance costs and amortization of debt discounts 	38 	221 	285
+RowCash premium on extinguishment of debt 	— 	720 	—
+RowLoss on convertible debt and related instruments 	— 	— 	5
+RowNon-cash portion of employee termination, asset impairment and other charges 	— 	16 	13
+RowOther non-cash operating activities, net 	(8) 	(19) 	94
+RowChanges in:
+			RowAccounts receivable, net 	993 	(244) 	(487)
+RowInventories 	(339) 	(598) 	(204)
+RowAccounts payable 	(588) 	(15) 	223
+RowAccounts payable to related parties 	72 	53 	38
+RowAccrued expenses 	(42) 	(17) 	231
+RowAccrued compensation 	(135) 	(26) 	115
+RowOther assets and liabilities, net 	(221) 	1,333 	175
+RowNet cash provided by operating activities 	1,547 	4,205 	3,437
+RowCash flows from investing activities
+			RowPurchases of property, plant and equipment 	(876) 	(835) 	(578)
+RowProceeds from the sale of property, plant and equipment 	119 	26 	21
+RowAcquisitions, net of cash acquired 	— 	(100) 	—
+RowPurchases of investments 	(79) 	(89) 	(281)
+RowProceeds from sale of investments 	175 	48 	94
+RowProceeds from maturities of investments 	7 	19 	417
+RowInvestments in Flash Ventures 	— 	— 	(20)
+RowNotes receivable issuances to Flash Ventures 	(1,364) 	(1,313) 	(549)
+RowNotes receivable proceeds from Flash Ventures 	766 	571 	292
+RowStrategic investments and other, net 	(20) 	18 	(32)
+RowNet cash used in investing activities 	(1,272) 	(1,655) 	(636)
+RowCash flows from financing activities
+			RowIssuance of stock under employee stock plans 	118 	220 	235
+RowTaxes paid on vested stock awards under employee stock plans 	(115) 	(171) 	(124)
+RowExcess tax benefits from employee stock plans 	— 	— 	119
+RowProceeds from acquired call option 	— 	— 	61
+RowSettlement of convertible debt 	— 	— 	(492)
+RowRepurchases of common stock 	(563) 	(591) 	—
+RowDividends paid to shareholders 	(584) 	(593) 	(574)
+RowSettlement of debt hedge contracts 	— 	28 	(21)
+RowProceeds from (repayment of) revolving credit facility 	(500) 	500 	—
+RowRepayment of debt 	(181) 	(17,074) 	(11,697)
+RowProceeds from debt 	— 	13,840 	7,908
+RowDebt issuance costs 	(4) 	(59) 	(10)
+RowNet cash used in financing activities 	(1,829) 	(3,900) 	(4,595)
+RowEffect of exchange rate changes on cash 	4 	1 	(3)
+RowNet decrease in cash and cash equivalents 	(1,550) 	(1,349) 	(1,797)
+RowCash and cash equivalents, beginning of year 	5,005 	6,354 	8,151
+RowCash and cash equivalents, end of year 	$ 3,455 	$ 5,005 	$ 6,354
+RowSupplemental disclosure of cash flow information:
+			RowCash paid for income taxes 	$ 377 	$ 220 	$ 184
+RowCash paid for interest 	$ 	431 	$ 708 	$ 777
+RowSupplemental disclosure of non-cash investing and financing activities:
+				RowShares issued in conjunction with settlement of convertible notes 	$ 	— 	$ — 	$ 16
+RowShares received in conjunction with assumed call options 	$ 	— 	$ — 	$ (11)
+Row		2019
+	2018
+RowASSETS
+			RowCurrent assets:
+			RowCash and cash equivalents 	$ 	3,455 	$ 5,005
+RowAccounts receivable, net 		1,204 	2,197
+RowInventories 		3,283 	2,944
+RowOther current assets 		535 	492
+RowTotal current assets 		8,477 	10,638
+RowProperty, plant and equipment, net 		2,843 	3,095
+RowNotes receivable and investments in Flash Ventures 		2,791 	2,105
+RowGoodwill 		10,076 	10,075
+RowOther intangible assets, net 		1,711 	2,680
+RowOther non-current assets 		472 	642
+RowTotal assets 	$ 	26,370 	$ 29,235
+RowLIABILITIES AND SHAREHOLDERS’ EQUITY
+			RowCurrent liabilities:
+			RowAccounts payable 	$ 	1,567 	$ 2,265
+RowAccounts payable to related parties 		331 	259
+RowAccrued expenses 		1,296 	1,274
+RowAccrued compensation 		347 	479
+RowCurrent portion of long-term debt 		276 	179
+RowTotal current liabilities 		3,817 	4,456
+RowLong-term debt 		10,246 	10,993
+RowOther liabilities 		2,340 	2,255
+RowTotal liabilities 		16,403 	17,704
+RowCommitments and contingencies (Notes 6, 9, 13 and 16)
+			RowShareholders’ equity:
+			RowPreferred stock, $0.01 par value; authorized — 5 shares; issued and outstanding — none 		— 	—
+RowCommon stock, $0.01 par value; authorized — 450 shares; issued — 312 shares in 2019 and 2018; outstanding in 2019 and 296 shares in 2018 	— 295 shares
+	3 	3
+RowAdditional paid-in capital 		3,851 	4,254
+RowAccumulated other comprehensive loss 		(68) 	(39)
+RowRetained earnings 		7,449 	8,757
+RowTreasury stock — common shares at cost; 17 shares in 2019 and 16 shares in 2018 		(1,268) 	(1,444)
+RowTotal shareholders’ equity 		9,967 	11,531
+RowTotal liabilities and shareholders’ equity 	$ 	26,370 	$ 29,235
+Row	Year Ended
+	RowJune 28,
+	June 29,
+	June 30,
+Row2019
+	2018
+	2017
+Row$ 16,569 	$ 20,647 	$ 19,093
+Row12,817 	12,942 	13,021
+Row3,752 	7,705 	6,072
+Row2,182 	2,400 	2,441
+Row1,317 	1,473 	1,445
+Row166 	215 	232
+Row3,665 	4,088 	4,118
+Row87 	3,617 	1,954
+Row57 	60 	26
+Row(469) 	(676) 	(847)
+Row38 	(916) 	(364)
+Row(374) 	(1,532) 	(1,185)
+Row(287) 	2,085 	769
+Row467 	1,410 	372
+Row$ (754) 	$ 675 	$ 397
+Row	June 28,
+2019
+	June 29,
+2018
+	June 30,
+2017
+RowRevenue, net 	$ 16,569 $ 	20,647 $ 	19,093
+RowCost of revenue 	12,817 	12,942 	13,021
+RowGross profit 	3,752 	7,705 	6,072
+RowOperating expenses:
+			RowResearch and development 	2,182 	2,400 	2,441
+RowSelling, general and administrative 	1,317 	1,473 	1,445
+RowEmployee termination, asset impairment, and other charges 	166 	215 	232
+RowTotal operating expenses 	3,665 	4,088 	4,118
+RowOperating income 	87 	3,617 	1,954
+RowInterest and other income (expense):
+			RowInterest income 	57 	60 	26
+RowInterest expense 	(469) 	(676) 	(847)
+RowOther income (expense), net 	38 	(916) 	(364)
+RowTotal interest and other expense, net 	(374) 	(1,532) 	(1,185)
+RowIncome (loss) before taxes 	(287) 	2,085 	769
+RowIncome tax expense 	467 	1,410 	372
+RowNet income (loss) 	$ (754) $ 	675 $ 	397
+RowIncome (loss) per common share
+			RowBasic 	$ (2.58) $ 	2.27 $ 	1.38
+RowDiluted 	$ (2.58) $ 	2.20 $ 	1.34
+RowWeighted average shares outstanding:
+			RowBasic 	292 	297 	288
+RowDiluted 	292 	307 	296
+RowCash dividends declared per share 	$ 2.00 $ 	2.00 $ 	2.00
+RowThe accompanying notes are an integral part of these Consolidated 	Financial Statements.
+		Row	June 28,
+2019
+	June 29,
+2018
+	June 30,
+2017
+RowNet income (loss) 	$ (754) $ 	675 	$ 397
+RowOther comprehensive income (loss), before tax:
+			RowActuarial pension gain (loss) 	(39) 	(2) 	39
+RowForeign currency translation adjustment 	28 	18 	(115)
+RowNet unrealized gain (loss) on derivative contracts and available-for-sale securities 	(39) 	7 	(75)
+RowTotal other comprehensive income (loss), before tax 	(50) 	23 	(151)
+RowIncome tax benefit (expense) related to items of other comprehensive income (loss), before tax 	21 	(4) 	(10)
+RowOther comprehensive income (loss), net of tax 	(29) 	19 	(161)
+RowTotal comprehensive income (loss) 	$ (783) $ 	694 	$ 236
+Row	June 28,
+2019
+	June 29,
+2018
+	June 30,
+2017
+RowCash flows from operating activities
+			RowNet income (loss) 	$ (754) 	$ 675 	$ 397
+RowAdjustments to reconcile net income (loss) to net cash provided by operations:
+			RowDepreciation and amortization 	1,812 	2,056 	2,128
+RowStock-based compensation 	306 	377 	394
+RowDeferred income taxes 	374 	(348) 	12
+RowLoss on disposal of assets 	39 	21 	18
+RowWrite-off of issuance costs and amortization of debt discounts 	38 	221 	285
+RowCash premium on extinguishment of debt 	— 	720 	—
+RowLoss on convertible debt and related instruments 	— 	— 	5
+RowNon-cash portion of employee termination, asset impairment and other charges 	— 	16 	13
+RowOther non-cash operating activities, net 	(8) 	(19) 	94
+RowChanges in:
+			RowAccounts receivable, net 	993 	(244) 	(487)
+RowInventories 	(339) 	(598) 	(204)
+RowAccounts payable 	(588) 	(15) 	223
+RowAccounts payable to related parties 	72 	53 	38
+RowAccrued expenses 	(42) 	(17) 	231
+RowAccrued compensation 	(135) 	(26) 	115
+RowOther assets and liabilities, net 	(221) 	1,333 	175
+RowNet cash provided by operating activities 	1,547 	4,205 	3,437
+RowCash flows from investing activities
+			RowPurchases of property, plant and equipment 	(876) 	(835) 	(578)
+RowProceeds from the sale of property, plant and equipment 	119 	26 	21
+RowAcquisitions, net of cash acquired 	— 	(100) 	—
+RowPurchases of investments 	(79) 	(89) 	(281)
+RowProceeds from sale of investments 	175 	48 	94
+RowProceeds from maturities of investments 	7 	19 	417
+RowInvestments in Flash Ventures 	— 	— 	(20)
+RowNotes receivable issuances to Flash Ventures 	(1,364) 	(1,313) 	(549)
+RowNotes receivable proceeds from Flash Ventures 	766 	571 	292
+RowStrategic investments and other, net 	(20) 	18 	(32)
+RowNet cash used in investing activities 	(1,272) 	(1,655) 	(636)
+RowCash flows from financing activities
+			RowIssuance of stock under employee stock plans 	118 	220 	235
+RowTaxes paid on vested stock awards under employee stock plans 	(115) 	(171) 	(124)
+RowExcess tax benefits from employee stock plans 	— 	— 	119
+RowProceeds from acquired call option 	— 	— 	61
+RowSettlement of convertible debt 	— 	— 	(492)
+RowRepurchases of common stock 	(563) 	(591) 	—
+RowDividends paid to shareholders 	(584) 	(593) 	(574)
+RowSettlement of debt hedge contracts 	— 	28 	(21)
+RowProceeds from (repayment of) revolving credit facility 	(500) 	500 	—
+RowRepayment of debt 	(181) 	(17,074) 	(11,697)
+RowProceeds from debt 	— 	13,840 	7,908
+RowDebt issuance costs 	(4) 	(59) 	(10)
+RowNet cash used in financing activities 	(1,829) 	(3,900) 	(4,595)
+RowEffect of exchange rate changes on cash 	4 	1 	(3)
+RowNet decrease in cash and cash equivalents 	(1,550) 	(1,349) 	(1,797)
+RowCash and cash equivalents, beginning of year 	5,005 	6,354 	8,151
+RowCash and cash equivalents, end of year 	$ 3,455 	$ 5,005 	$ 6,354
+RowSupplemental disclosure of cash flow information:
+			RowCash paid for income taxes 	$ 377 	$ 220 	$ 184
+RowCash paid for interest 	$ 	431 	$ 708 	$ 777
+RowSupplemental disclosure of non-cash investing and financing activities:
+				RowShares issued in conjunction with settlement of convertible notes 	$ 	— 	$ — 	$ 16
+RowShares received in conjunction with assumed call options 	$ 	— 	$ — 	$ (11)
+Row		2019
+	2018
+RowASSETS
+			RowCurrent assets:
+			RowCash and cash equivalents 	$ 	3,455 	$ 5,005
+RowAccounts receivable, net 		1,204 	2,197
+RowInventories 		3,283 	2,944
+RowOther current assets 		535 	492
+RowTotal current assets 		8,477 	10,638
+RowProperty, plant and equipment, net 		2,843 	3,095
+RowNotes receivable and investments in Flash Ventures 		2,791 	2,105
+RowGoodwill 		10,076 	10,075
+RowOther intangible assets, net 		1,711 	2,680
+RowOther non-current assets 		472 	642
+RowTotal assets 	$ 	26,370 	$ 29,235
+RowLIABILITIES AND SHAREHOLDERS’ EQUITY
+			RowCurrent liabilities:
+			RowAccounts payable 	$ 	1,567 	$ 2,265
+RowAccounts payable to related parties 		331 	259
+RowAccrued expenses 		1,296 	1,274
+RowAccrued compensation 		347 	479
+RowCurrent portion of long-term debt 		276 	179
+RowTotal current liabilities 		3,817 	4,456
+RowLong-term debt 		10,246 	10,993
+RowOther liabilities 		2,340 	2,255
+RowTotal liabilities 		16,403 	17,704
+RowCommitments and contingencies (Notes 6, 9, 13 and 16)
+			RowShareholders’ equity:
+			RowPreferred stock, $0.01 par value; authorized — 5 shares; issued and outstanding — none 		— 	—
+RowCommon stock, $0.01 par value; authorized — 450 shares; issued — 312 shares in 2019 and 2018; outstanding in 2019 and 296 shares in 2018 	— 295 shares
+	3 	3
+RowAdditional paid-in capital 		3,851 	4,254
+RowAccumulated other comprehensive loss 		(68) 	(39)
+RowRetained earnings 		7,449 	8,757
+RowTreasury stock — common shares at cost; 17 shares in 2019 and 16 shares in 2018 		(1,268) 	(1,444)
+RowTotal shareholders’ equity 		9,967 	11,531
+RowTotal liabilities and shareholders’ equity 	$ 	26,370 	$ 29,235
+Row	Year Ended
+	RowJune 28,
+	June 29,
+	June 30,
+Row2019
+	2018
+	2017
+Row$ 16,569 	$ 20,647 	$ 19,093
+Row12,817 	12,942 	13,021
+Row3,752 	7,705 	6,072
+Row2,182 	2,400 	2,441
+Row1,317 	1,473 	1,445
+Row166 	215 	232
+Row3,665 	4,088 	4,118
+Row87 	3,617 	1,954
+Row57 	60 	26
+Row(469) 	(676) 	(847)
+Row38 	(916) 	(364)
+Row(374) 	(1,532) 	(1,185)
+Row(287) 	2,085 	769
+Row467 	1,410 	372
+Row$ (754) 	$ 675 	$ 397
+Row	June 28,
+2019
+	June 29,
+2018
+	June 30,
+2017
+RowRevenue, net 	$ 16,569 $ 	20,647 $ 	19,093
+RowCost of revenue 	12,817 	12,942 	13,021
+RowGross profit 	3,752 	7,705 	6,072
+RowOperating expenses:
+			RowResearch and development 	2,182 	2,400 	2,441
+RowSelling, general and administrative 	1,317 	1,473 	1,445
+RowEmployee termination, asset impairment, and other charges 	166 	215 	232
+RowTotal operating expenses 	3,665 	4,088 	4,118
+RowOperating income 	87 	3,617 	1,954
+RowInterest and other income (expense):
+			RowInterest income 	57 	60 	26
+RowInterest expense 	(469) 	(676) 	(847)
+RowOther income (expense), net 	38 	(916) 	(364)
+RowTotal interest and other expense, net 	(374) 	(1,532) 	(1,185)
+RowIncome (loss) before taxes 	(287) 	2,085 	769
+RowIncome tax expense 	467 	1,410 	372
+RowNet income (loss) 	$ (754) $ 	675 $ 	397
+RowIncome (loss) per common share
+			RowBasic 	$ (2.58) $ 	2.27 $ 	1.38
+RowDiluted 	$ (2.58) $ 	2.20 $ 	1.34
+RowWeighted average shares outstanding:
+			RowBasic 	292 	297 	288
+RowDiluted 	292 	307 	296
+RowCash dividends declared per share 	$ 2.00 $ 	2.00 $ 	2.00
+RowThe accompanying notes are an integral part of these Consolidated 	Financial Statements.
+		Row	June 28,
+2019
+	June 29,
+2018
+	June 30,
+2017
+RowNet income (loss) 	$ (754) $ 	675 	$ 397
+RowOther comprehensive income (loss), before tax:
+			RowActuarial pension gain (loss) 	(39) 	(2) 	39
+RowForeign currency translation adjustment 	28 	18 	(115)
+RowNet unrealized gain (loss) on derivative contracts and available-for-sale securities 	(39) 	7 	(75)
+RowTotal other comprehensive income (loss), before tax 	(50) 	23 	(151)
+RowIncome tax benefit (expense) related to items of other comprehensive income (loss), before tax 	21 	(4) 	(10)
+RowOther comprehensive income (loss), net of tax 	(29) 	19 	(161)
+RowTotal comprehensive income (loss) 	$ (783) $ 	694 	$ 236
+Row	June 28,
+2019
+	June 29,
+2018
+	June 30,
+2017
+RowCash flows from operating activities
+			RowNet income (loss) 	$ (754) 	$ 675 	$ 397
+RowAdjustments to reconcile net income (loss) to net cash provided by operations:
+			RowDepreciation and amortization 	1,812 	2,056 	2,128
+RowStock-based compensation 	306 	377 	394
+RowDeferred income taxes 	374 	(348) 	12
+RowLoss on disposal of assets 	39 	21 	18
+RowWrite-off of issuance costs and amortization of debt discounts 	38 	221 	285
+RowCash premium on extinguishment of debt 	— 	720 	—
+RowLoss on convertible debt and related instruments 	— 	— 	5
+RowNon-cash portion of employee termination, asset impairment and other charges 	— 	16 	13
+RowOther non-cash operating activities, net 	(8) 	(19) 	94
+RowChanges in:
+			RowAccounts receivable, net 	993 	(244) 	(487)
+RowInventories 	(339) 	(598) 	(204)
+RowAccounts payable 	(588) 	(15) 	223
+RowAccounts payable to related parties 	72 	53 	38
+RowAccrued expenses 	(42) 	(17) 	231
+RowAccrued compensation 	(135) 	(26) 	115
+RowOther assets and liabilities, net 	(221) 	1,333 	175
+RowNet cash provided by operating activities 	1,547 	4,205 	3,437
+RowCash flows from investing activities
+			RowPurchases of property, plant and equipment 	(876) 	(835) 	(578)
+RowProceeds from the sale of property, plant and equipment 	119 	26 	21
+RowAcquisitions, net of cash acquired 	— 	(100) 	—
+RowPurchases of investments 	(79) 	(89) 	(281)
+RowProceeds from sale of investments 	175 	48 	94
+RowProceeds from maturities of investments 	7 	19 	417
+RowInvestments in Flash Ventures 	— 	— 	(20)
+RowNotes receivable issuances to Flash Ventures 	(1,364) 	(1,313) 	(549)
+RowNotes receivable proceeds from Flash Ventures 	766 	571 	292
+RowStrategic investments and other, net 	(20) 	18 	(32)
+RowNet cash used in investing activities 	(1,272) 	(1,655) 	(636)
+RowCash flows from financing activities
+			RowIssuance of stock under employee stock plans 	118 	220 	235
+RowTaxes paid on vested stock awards under employee stock plans 	(115) 	(171) 	(124)
+RowExcess tax benefits from employee stock plans 	— 	— 	119
+RowProceeds from acquired call option 	— 	— 	61
+RowSettlement of convertible debt 	— 	— 	(492)
+RowRepurchases of common stock 	(563) 	(591) 	—
+RowDividends paid to shareholders 	(584) 	(593) 	(574)
+RowSettlement of debt hedge contracts 	— 	28 	(21)
+RowProceeds from (repayment of) revolving credit facility 	(500) 	500 	—
+RowRepayment of debt 	(181) 	(17,074) 	(11,697)
+RowProceeds from debt 	— 	13,840 	7,908
+RowDebt issuance costs 	(4) 	(59) 	(10)
+RowNet cash used in financing activities 	(1,829) 	(3,900) 	(4,595)
+RowEffect of exchange rate changes on cash 	4 	1 	(3)
+RowNet decrease in cash and cash equivalents 	(1,550) 	(1,349) 	(1,797)
+RowCash and cash equivalents, beginning of year 	5,005 	6,354 	8,151
+RowCash and cash equivalents, end of year 	$ 3,455 	$ 5,005 	$ 6,354
+RowSupplemental disclosure of cash flow information:
+			RowCash paid for income taxes 	$ 377 	$ 220 	$ 184
+RowCash paid for interest 	$ 	431 	$ 708 	$ 777
+RowSupplemental disclosure of non-cash investing and financing activities:
+				RowShares issued in conjunction with settlement of convertible notes 	$ 	— 	$ — 	$ 16
+RowShares received in conjunction with assumed call options 	$ 	— 	$ — 	$ (11)
+Row		2019
+	2018
+RowASSETS
+			RowCurrent assets:
+			RowCash and cash equivalents 	$ 	3,455 	$ 5,005
+RowAccounts receivable, net 		1,204 	2,197
+RowInventories 		3,283 	2,944
+RowOther current assets 		535 	492
+RowTotal current assets 		8,477 	10,638
+RowProperty, plant and equipment, net 		2,843 	3,095
+RowNotes receivable and investments in Flash Ventures 		2,791 	2,105
+RowGoodwill 		10,076 	10,075
+RowOther intangible assets, net 		1,711 	2,680
+RowOther non-current assets 		472 	642
+RowTotal assets 	$ 	26,370 	$ 29,235
+RowLIABILITIES AND SHAREHOLDERS’ EQUITY
+			RowCurrent liabilities:
+			RowAccounts payable 	$ 	1,567 	$ 2,265
+RowAccounts payable to related parties 		331 	259
+RowAccrued expenses 		1,296 	1,274
+RowAccrued compensation 		347 	479
+RowCurrent portion of long-term debt 		276 	179
+RowTotal current liabilities 		3,817 	4,456
+RowLong-term debt 		10,246 	10,993
+RowOther liabilities 		2,340 	2,255
+RowTotal liabilities 		16,403 	17,704
+RowCommitments and contingencies (Notes 6, 9, 13 and 16)
+			RowShareholders’ equity:
+			RowPreferred stock, $0.01 par value; authorized — 5 shares; issued and outstanding — none 		— 	—
+RowCommon stock, $0.01 par value; authorized — 450 shares; issued — 312 shares in 2019 and 2018; outstanding in 2019 and 296 shares in 2018 	— 295 shares
+	3 	3
+RowAdditional paid-in capital 		3,851 	4,254
+RowAccumulated other comprehensive loss 		(68) 	(39)
+RowRetained earnings 		7,449 	8,757
+RowTreasury stock — common shares at cost; 17 shares in 2019 and 16 shares in 2018 		(1,268) 	(1,444)
+RowTotal shareholders’ equity 		9,967 	11,531
+RowTotal liabilities and shareholders’ equity 	$ 	26,370 	$ 29,235
+Row	Year Ended
+	RowJune 28,
+	June 29,
+	June 30,
+Row2019
+	2018
+	2017
+Row$ 16,569 	$ 20,647 	$ 19,093
+Row12,817 	12,942 	13,021
+Row3,752 	7,705 	6,072
+Row2,182 	2,400 	2,441
+Row1,317 	1,473 	1,445
+Row166 	215 	232
+Row3,665 	4,088 	4,118
+Row87 	3,617 	1,954
+Row57 	60 	26
+Row(469) 	(676) 	(847)
+Row38 	(916) 	(364)
+Row(374) 	(1,532) 	(1,185)
+Row(287) 	2,085 	769
+Row467 	1,410 	372
+Row$ (754) 	$ 675 	$ 397
+Row	June 28,
+2019
+	June 29,
+2018
+	June 30,
+2017
+RowRevenue, net 	$ 16,569 $ 	20,647 $ 	19,093
+RowCost of revenue 	12,817 	12,942 	13,021
+RowGross profit 	3,752 	7,705 	6,072
+RowOperating expenses:
+			RowResearch and development 	2,182 	2,400 	2,441
+RowSelling, general and administrative 	1,317 	1,473 	1,445
+RowEmployee termination, asset impairment, and other charges 	166 	215 	232
+RowTotal operating expenses 	3,665 	4,088 	4,118
+RowOperating income 	87 	3,617 	1,954
+RowInterest and other income (expense):
+			RowInterest income 	57 	60 	26
+RowInterest expense 	(469) 	(676) 	(847)
+RowOther income (expense), net 	38 	(916) 	(364)
+RowTotal interest and other expense, net 	(374) 	(1,532) 	(1,185)
+RowIncome (loss) before taxes 	(287) 	2,085 	769
+RowIncome tax expense 	467 	1,410 	372
+RowNet income (loss) 	$ (754) $ 	675 $ 	397
+RowIncome (loss) per common share
+			RowBasic 	$ (2.58) $ 	2.27 $ 	1.38
+RowDiluted 	$ (2.58) $ 	2.20 $ 	1.34
+RowWeighted average shares outstanding:
+			RowBasic 	292 	297 	288
+RowDiluted 	292 	307 	296
+RowCash dividends declared per share 	$ 2.00 $ 	2.00 $ 	2.00
+RowThe accompanying notes are an integral part of these Consolidated 	Financial Statements.
+		Row	June 28,
+2019
+	June 29,
+2018
+	June 30,
+2017
+RowNet income (loss) 	$ (754) $ 	675 	$ 397
+RowOther comprehensive income (loss), before tax:
+			RowActuarial pension gain (loss) 	(39) 	(2) 	39
+RowForeign currency translation adjustment 	28 	18 	(115)
+RowNet unrealized gain (loss) on derivative contracts and available-for-sale securities 	(39) 	7 	(75)
+RowTotal other comprehensive income (loss), before tax 	(50) 	23 	(151)
+RowIncome tax benefit (expense) related to items of other comprehensive income (loss), before tax 	21 	(4) 	(10)
+RowOther comprehensive income (loss), net of tax 	(29) 	19 	(161)
+RowTotal comprehensive income (loss) 	$ (783) $ 	694 	$ 236
+Row	June 28,
+2019
+	June 29,
+2018
+	June 30,
+2017
+RowCash flows from operating activities
+			RowNet income (loss) 	$ (754) 	$ 675 	$ 397
+RowAdjustments to reconcile net income (loss) to net cash provided by operations:
+			RowDepreciation and amortization 	1,812 	2,056 	2,128
+RowStock-based compensation 	306 	377 	394
+RowDeferred income taxes 	374 	(348) 	12
+RowLoss on disposal of assets 	39 	21 	18
+RowWrite-off of issuance costs and amortization of debt discounts 	38 	221 	285
+RowCash premium on extinguishment of debt 	— 	720 	—
+RowLoss on convertible debt and related instruments 	— 	— 	5
+RowNon-cash portion of employee termination, asset impairment and other charges 	— 	16 	13
+RowOther non-cash operating activities, net 	(8) 	(19) 	94
+RowChanges in:
+			RowAccounts receivable, net 	993 	(244) 	(487)
+RowInventories 	(339) 	(598) 	(204)
+RowAccounts payable 	(588) 	(15) 	223
+RowAccounts payable to related parties 	72 	53 	38
+RowAccrued expenses 	(42) 	(17) 	231
+RowAccrued compensation 	(135) 	(26) 	115
+RowOther assets and liabilities, net 	(221) 	1,333 	175
+RowNet cash provided by operating activities 	1,547 	4,205 	3,437
+RowCash flows from investing activities
+			RowPurchases of property, plant and equipment 	(876) 	(835) 	(578)
+RowProceeds from the sale of property, plant and equipment 	119 	26 	21
+RowAcquisitions, net of cash acquired 	— 	(100) 	—
+RowPurchases of investments 	(79) 	(89) 	(281)
+RowProceeds from sale of investments 	175 	48 	94
+RowProceeds from maturities of investments 	7 	19 	417
+RowInvestments in Flash Ventures 	— 	— 	(20)
+RowNotes receivable issuances to Flash Ventures 	(1,364) 	(1,313) 	(549)
+RowNotes receivable proceeds from Flash Ventures 	766 	571 	292
+RowStrategic investments and other, net 	(20) 	18 	(32)
+RowNet cash used in investing activities 	(1,272) 	(1,655) 	(636)
+RowCash flows from financing activities
+			RowIssuance of stock under employee stock plans 	118 	220 	235
+RowTaxes paid on vested stock awards under employee stock plans 	(115) 	(171) 	(124)
+RowExcess tax benefits from employee stock plans 	— 	— 	119
+RowProceeds from acquired call option 	— 	— 	61
+RowSettlement of convertible debt 	— 	— 	(492)
+RowRepurchases of common stock 	(563) 	(591) 	—
+RowDividends paid to shareholders 	(584) 	(593) 	(574)
+RowSettlement of debt hedge contracts 	— 	28 	(21)
+RowProceeds from (repayment of) revolving credit facility 	(500) 	500 	—
+RowRepayment of debt 	(181) 	(17,074) 	(11,697)
+RowProceeds from debt 	— 	13,840 	7,908
+RowDebt issuance costs 	(4) 	(59) 	(10)
+RowNet cash used in financing activities 	(1,829) 	(3,900) 	(4,595)
+RowEffect of exchange rate changes on cash 	4 	1 	(3)
+RowNet decrease in cash and cash equivalents 	(1,550) 	(1,349) 	(1,797)
+RowCash and cash equivalents, beginning of year 	5,005 	6,354 	8,151
+RowCash and cash equivalents, end of year 	$ 3,455 	$ 5,005 	$ 6,354
+RowSupplemental disclosure of cash flow information:
+			RowCash paid for income taxes 	$ 377 	$ 220 	$ 184
+RowCash paid for interest 	$ 	431 	$ 708 	$ 777
+RowSupplemental disclosure of non-cash investing and financing activities:
+				RowShares issued in conjunction with settlement of convertible notes 	$ 	— 	$ — 	$ 16
+RowShares received in conjunction with assumed call options 	$ 	— 	$ — 	$ (11)
+Row		2019
+	2018
+RowASSETS
+			RowCurrent assets:
+			RowCash and cash equivalents 	$ 	3,455 	$ 5,005
+RowAccounts receivable, net 		1,204 	2,197
+RowInventories 		3,283 	2,944
+RowOther current assets 		535 	492
+RowTotal current assets 		8,477 	10,638
+RowProperty, plant and equipment, net 		2,843 	3,095
+RowNotes receivable and investments in Flash Ventures 		2,791 	2,105
+RowGoodwill 		10,076 	10,075
+RowOther intangible assets, net 		1,711 	2,680
+RowOther non-current assets 		472 	642
+RowTotal assets 	$ 	26,370 	$ 29,235
+RowLIABILITIES AND SHAREHOLDERS’ EQUITY
+			RowCurrent liabilities:
+			RowAccounts payable 	$ 	1,567 	$ 2,265
+RowAccounts payable to related parties 		331 	259
+RowAccrued expenses 		1,296 	1,274
+RowAccrued compensation 		347 	479
+RowCurrent portion of long-term debt 		276 	179
+RowTotal current liabilities 		3,817 	4,456
+RowLong-term debt 		10,246 	10,993
+RowOther liabilities 		2,340 	2,255
+RowTotal liabilities 		16,403 	17,704
+RowCommitments and contingencies (Notes 6, 9, 13 and 16)
+			RowShareholders’ equity:
+			RowPreferred stock, $0.01 par value; authorized — 5 shares; issued and outstanding — none 		— 	—
+RowCommon stock, $0.01 par value; authorized — 450 shares; issued — 312 shares in 2019 and 2018; outstanding in 2019 and 296 shares in 2018 	— 295 shares
+	3 	3
+RowAdditional paid-in capital 		3,851 	4,254
+RowAccumulated other comprehensive loss 		(68) 	(39)
+RowRetained earnings 		7,449 	8,757
+RowTreasury stock — common shares at cost; 17 shares in 2019 and 16 shares in 2018 		(1,268) 	(1,444)
+RowTotal shareholders’ equity 		9,967 	11,531
+RowTotal liabilities and shareholders’ equity 	$ 	26,370 	$ 29,235
+Row	Year Ended
+	RowJune 28,
+	June 29,
+	June 30,
+Row2019
+	2018
+	2017
+Row$ 16,569 	$ 20,647 	$ 19,093
+Row12,817 	12,942 	13,021
+Row3,752 	7,705 	6,072
+Row2,182 	2,400 	2,441
+Row1,317 	1,473 	1,445
+Row166 	215 	232
+Row3,665 	4,088 	4,118
+Row87 	3,617 	1,954
+Row57 	60 	26
+Row(469) 	(676) 	(847)
+Row38 	(916) 	(364)
+Row(374) 	(1,532) 	(1,185)
+Row(287) 	2,085 	769
+Row467 	1,410 	372
+Row$ (754) 	$ 675 	$ 397
+Row	June 28,
+2019
+	June 29,
+2018
+	June 30,
+2017
+RowRevenue, net 	$ 16,569 $ 	20,647 $ 	19,093
+RowCost of revenue 	12,817 	12,942 	13,021
+RowGross profit 	3,752 	7,705 	6,072
+RowOperating expenses:
+			RowResearch and development 	2,182 	2,400 	2,441
+RowSelling, general and administrative 	1,317 	1,473 	1,445
+RowEmployee termination, asset impairment, and other charges 	166 	215 	232
+RowTotal operating expenses 	3,665 	4,088 	4,118
+RowOperating income 	87 	3,617 	1,954
+RowInterest and other income (expense):
+			RowInterest income 	57 	60 	26
+RowInterest expense 	(469) 	(676) 	(847)
+RowOther income (expense), net 	38 	(916) 	(364)
+RowTotal interest and other expense, net 	(374) 	(1,532) 	(1,185)
+RowIncome (loss) before taxes 	(287) 	2,085 	769
+RowIncome tax expense 	467 	1,410 	372
+RowNet income (loss) 	$ (754) $ 	675 $ 	397
+RowIncome (loss) per common share
+			RowBasic 	$ (2.58) $ 	2.27 $ 	1.38
+RowDiluted 	$ (2.58) $ 	2.20 $ 	1.34
+RowWeighted average shares outstanding:
+			RowBasic 	292 	297 	288
+RowDiluted 	292 	307 	296
+RowCash dividends declared per share 	$ 2.00 $ 	2.00 $ 	2.00
+RowThe accompanying notes are an integral part of these Consolidated 	Financial Statements.
+		Row	June 28,
+2019
+	June 29,
+2018
+	June 30,
+2017
+RowNet income (loss) 	$ (754) $ 	675 	$ 397
+RowOther comprehensive income (loss), before tax:
+			RowActuarial pension gain (loss) 	(39) 	(2) 	39
+RowForeign currency translation adjustment 	28 	18 	(115)
+RowNet unrealized gain (loss) on derivative contracts and available-for-sale securities 	(39) 	7 	(75)
+RowTotal other comprehensive income (loss), before tax 	(50) 	23 	(151)
+RowIncome tax benefit (expense) related to items of other comprehensive income (loss), before tax 	21 	(4) 	(10)
+RowOther comprehensive income (loss), net of tax 	(29) 	19 	(161)
+RowTotal comprehensive income (loss) 	$ (783) $ 	694 	$ 236
+Row	June 28,
+2019
+	June 29,
+2018
+	June 30,
+2017
+RowCash flows from operating activities
+			RowNet income (loss) 	$ (754) 	$ 675 	$ 397
+RowAdjustments to reconcile net income (loss) to net cash provided by operations:
+			RowDepreciation and amortization 	1,812 	2,056 	2,128
+RowStock-based compensation 	306 	377 	394
+RowDeferred income taxes 	374 	(348) 	12
+RowLoss on disposal of assets 	39 	21 	18
+RowWrite-off of issuance costs and amortization of debt discounts 	38 	221 	285
+RowCash premium on extinguishment of debt 	— 	720 	—
+RowLoss on convertible debt and related instruments 	— 	— 	5
+RowNon-cash portion of employee termination, asset impairment and other charges 	— 	16 	13
+RowOther non-cash operating activities, net 	(8) 	(19) 	94
+RowChanges in:
+			RowAccounts receivable, net 	993 	(244) 	(487)
+RowInventories 	(339) 	(598) 	(204)
+RowAccounts payable 	(588) 	(15) 	223
+RowAccounts payable to related parties 	72 	53 	38
+RowAccrued expenses 	(42) 	(17) 	231
+RowAccrued compensation 	(135) 	(26) 	115
+RowOther assets and liabilities, net 	(221) 	1,333 	175
+RowNet cash provided by operating activities 	1,547 	4,205 	3,437
+RowCash flows from investing activities
+			RowPurchases of property, plant and equipment 	(876) 	(835) 	(578)
+RowProceeds from the sale of property, plant and equipment 	119 	26 	21
+RowAcquisitions, net of cash acquired 	— 	(100) 	—
+RowPurchases of investments 	(79) 	(89) 	(281)
+RowProceeds from sale of investments 	175 	48 	94
+RowProceeds from maturities of investments 	7 	19 	417
+RowInvestments in Flash Ventures 	— 	— 	(20)
+RowNotes receivable issuances to Flash Ventures 	(1,364) 	(1,313) 	(549)
+RowNotes receivable proceeds from Flash Ventures 	766 	571 	292
+RowStrategic investments and other, net 	(20) 	18 	(32)
+RowNet cash used in investing activities 	(1,272) 	(1,655) 	(636)
+RowCash flows from financing activities
+			RowIssuance of stock under employee stock plans 	118 	220 	235
+RowTaxes paid on vested stock awards under employee stock plans 	(115) 	(171) 	(124)
+RowExcess tax benefits from employee stock plans 	— 	— 	119
+RowProceeds from acquired call option 	— 	— 	61
+RowSettlement of convertible debt 	— 	— 	(492)
+RowRepurchases of common stock 	(563) 	(591) 	—
+RowDividends paid to shareholders 	(584) 	(593) 	(574)
+RowSettlement of debt hedge contracts 	— 	28 	(21)
+RowProceeds from (repayment of) revolving credit facility 	(500) 	500 	—
+RowRepayment of debt 	(181) 	(17,074) 	(11,697)
+RowProceeds from debt 	— 	13,840 	7,908
+RowDebt issuance costs 	(4) 	(59) 	(10)
+RowNet cash used in financing activities 	(1,829) 	(3,900) 	(4,595)
+RowEffect of exchange rate changes on cash 	4 	1 	(3)
+RowNet decrease in cash and cash equivalents 	(1,550) 	(1,349) 	(1,797)
+RowCash and cash equivalents, beginning of year 	5,005 	6,354 	8,151
+RowCash and cash equivalents, end of year 	$ 3,455 	$ 5,005 	$ 6,354
+RowSupplemental disclosure of cash flow information:
+			RowCash paid for income taxes 	$ 377 	$ 220 	$ 184
+RowCash paid for interest 	$ 	431 	$ 708 	$ 777
+RowSupplemental disclosure of non-cash investing and financing activities:
+				RowShares issued in conjunction with settlement of convertible notes 	$ 	— 	$ — 	$ 16
+RowShares received in conjunction with assumed call options 	$ 	— 	$ — 	$ (11)

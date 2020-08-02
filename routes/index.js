@@ -25,7 +25,7 @@ module.exports = function(passport) {
     // res.status(200).json({status: 'SUCCESS'});
   });*/
 	
-	router.post('/login', passport.authenticate('local', { failureRedirect: '/login'}),
+	router.post('/login', passport.authenticate('local'),
     function(req, res) {  
     //  console.log(req.user)
     //console.log(req.session)
@@ -35,7 +35,11 @@ module.exports = function(passport) {
             req.session.cookie.maxAge = 1000 * 60 * 3;             } 
     else {     
                 req.session.cookie.expires = false;           
-                }         res.redirect('/');    
+                   
+	   
+    }
+	    
+	    res.redirect('/');    
         
   });
 	

@@ -1,5 +1,15 @@
 <style>
+#modalPopUpId{
 
+padding-right:10px;
+	width: 204px !important;background:none;box-shadow:none;color:black;background-color: Transparent;
+		    background-repeat:no-repeat;
+			        border: none;
+					    cursor:pointer;
+						        overflow: hidden;
+								    outline:none;
+	
+}
 #metricsbtn{
 background-color: Transparent;
 	    background-repeat:no-repeat;
@@ -63,6 +73,12 @@ select:focus {
  
   width: 100%;
 }
+.myAlert-topss{
+
+top: 2px;
+
+width: 100%;
+}
 .myAlert-tops{
 
 top: 2px; 
@@ -106,7 +122,17 @@ width: 100%;
 																        -webkit-animation: spin .8s linear infinite;
 																		    animation: spin .8s linear infinite;
     }
-
+#deletebtn{
+background-color: Transparent;
+        padding-top:10px;
+                color:black;
+            background-repeat:no-repeat;
+                    padding-left:20px;
+                        border: none;
+                                    cursor:pointer;
+                                                overflow: hidden;
+                                                            outline:none;
+}
 </style>
 <div class="content">
 	<div class="cover-spin"></div>
@@ -138,12 +164,17 @@ width: 100%;
 			    "></i>
 	      	Add Scenario </a>
         <a href="" id="saveScenario"  type="button"   onclick="myAlertTops()"  class="float-right rmiBtn" data-toggle="modal" data-target="#myModal" style="
-		    padding-right: 8px;">
+		    padding-right:10px;">
 		<i class="far fa-save" style="padding-right: 5px;"></i>Save Scenario </a>
 	 <a href="" id="metricsbtn" class="float-right">
 		 <i class="fas fa-list-ol" style="padding-right:5px;" aria-hidden="true"></i>
 				                Metrics
+
 						            </a>
+
+  <a  id="deletebtn" class="float-right rmiBtn" data-toggle="modal" data-target="#popUpModal">
+                 <i class="fa fa-trash" style="padding-right:5px;" aria-hidden="true"></i>
+                                               Delete    </a>
     </div>
 
  
@@ -154,6 +185,9 @@ width: 100%;
 <div class="myAlert-tops alert alert-success">
          Saving the scenario
 	</div>
+<div class="myAlert-topss alert alert-success">
+         File deleted Successfully, refresh the page
+        </div>
   <h4 class="pl-2" style="padding-top:6px">Adjust Financial Model Drivers</h4>
   
     <div class=" row" >
@@ -295,3 +329,26 @@ width: 100%;
   
   </div>
   
+   <div class="modal fade" id="popUpModal" role="dialog">
+            <div class="modal-dialog">
+                <div class="modal-content">
+	    <div class="modal-header" style="background-color: #164A5B; padding:15px 15px 0 150px;">
+		<h4 class="modal-title pb-3 pt-0" style="color:white;"><i class="fas fa-file-upload"></i>Confirmation</h4>
+									  
+		<button type="button" style="padding-top:5px" class="close" data-dismiss="modal">&times;</button>
+													        			</div>
+                    <div class="modal-body">
+						<div class="thank-you-pop">
+							<p id="popUpMsg"></p>
+						</div>
+                         
+                    </div>
+					<div class="modal-footer"  >
+				<a id="popUpBtn" class="btn btn-success" onclick="goToStatement()">ok</a>
+                 		<button type="button" class="btn btn-success" data-dismiss="modal" style="    width: 200px;color:black"> Cancel</button>
+          			
+        			</div>
+					
+                </div>
+            </div>
+        </div>

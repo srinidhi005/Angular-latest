@@ -35,14 +35,22 @@ queue.process('pdf', function(job, done){
 	    console.log("industry",industry)
 	    console.log("filename",filename)
 	    console.log("companyname",companyName)
-       // cmd = 'python3 /home/srinidhi/angular/extractor/pdf/mapping.py ';
+
         //cmd += job.data.path + ' ' + '/home/srinidhi/angular/output/' + ' ' + '/home/srinidhi/angular/extractor/pdf' +' '+companyName;
-       // cmd = 'python3 /home/srinidhi/angular/extractor/xlsxparser.py /home/srinidhi/angular/extractor/Nike.pdf';
-          cmd = 'sudo python3 /home/srinidhi/angular/extractor/PDF_Extractor_Retail.py '+job.data.path +' '+companyName +' '+'Y admin Consumer_Retail all_statements'; 
-        cmd = 'sudo python3 /home/srinidhi/angular/extractor/PDF_Extractor_Retail.py '+job.data.path +' '+companyName +' '+job.data.period+' '+'admin'+' '+industry+' ' +statementtype; 
+      // cmd = 'sudo python3.7 /home/srinidhi/angular/extractor/txt_conversion.py '+'gs://extraction-engine/'+filename;
+//workingUPLOADING
+cmd='sudo python3.7 /home/srinidhi/angular/extractor/upload.py'+' '+'/home/srinidhi/angular/uploads/'+filename+' '+companyName+'/'+filename; 
+cmd1 ='sudo python3.7 /home/srinidhi/angular/extractor/txt_conversion.py'+' '+'gs://sample_pdf/'+companyName+'/'+filename;
+//cmd2 ='sudo python3.7 /home/srinidhi/angular/extractor/pdf_automl_txt.py'+' '+'gs://sample_pdf/'+companyName+'/'+filename+' '+'projects/410058770032/locations/us-central1/models/TEN7257975210995875840';
+cmd2 ='sudo python3.7 /home/srinidhi/angular/extractor/automl_pdf_extractor_retail.py'+' '+'gs://sample_pdf/'+companyName+'/'+filename+' '+'projects/410058770032/locations/us-central1/models/TEN4207138307173253120'+' '+companyName +' '+job.data.period+' '+'admin'+' '+industry+' ' +statementtype+' '+filename;
+
+	    //          cmd = 'sudo python3 /home/srinidhi/angular/extractor/PDF_Extractor_Retail.py '+job.data.path +' '+companyName +' '+'Y admin Consumer_Retail all_statements'; 
+	 //   cmd = 'sudo python3 /home/srinidhi/angular/extractor/PDF_Extractor_Retail.py '+job.data.path +' '+companyName +' '+job.data.period+' '+'admin'+' '+industry+' ' +statementtype; 
 	    //cmd = 'sudo python3 /home/srinidhi/angular/extractor/PDF_Extractor_Retail.py/';
 	//	   cmd +=job.data.path+' '+companyName+'Y  admin Consumer_Retail all_statements'; 
-	console.log("level1",cmd)
+console.log("level-->",cmd)	
+console.log("level1--->",cmd1)
+	console.log("level2-->",cmd2)
     } else if (job.data.filename.indexOf('.csv') != -1) {
         cmd = 'python3 extractor/csv-excel/mapping.py ';
         cmd += job.data.path + ' ' + './output/' + folderName + '/file' + ' ' + 'extractor/csv-excel';
@@ -51,7 +59,7 @@ queue.process('pdf', function(job, done){
         cmd = 'python3 extractor/csv-excel/mapping.py ';
         cmd += job.data.path + ' ' + './output/' + folderName + '/file' + ' ' + 'extractor/csv-excel' + ' ' + csvFile;
     }
-   // console.log(cmd)
+    //console.log(cmd2)
 	//console.log("job created == by us")
     var files = [
         path.join(__dirname, '../output', folderName, 'file0.json'),
@@ -97,7 +105,21 @@ queue.process('pdf', function(job, done){
                     console.log(err)
                 })
             }
-        }
+		   exec(cmd1, async (err, stdOut, stdErr) => {
+			                    if (err) {
+						    console.log('------------------cmd1 err')
+						                    } else {
+									                        console.log('cmd1 success')
+									                    }
+			                })
+                  setTimeout(function(){exec(cmd2, async (err, stdOut, stdErr) => {
+                                            if (err) {
+                                                    console.log('------------------cmd2 err')
+							console.log('error with cmd2',err)
+                                                                    } else {
+                                                                                                console.log('cmd2 success')
+                                                                                            }
+                                        })},5000);      }
     })
  })
 

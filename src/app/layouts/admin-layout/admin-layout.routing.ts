@@ -9,6 +9,7 @@ import { TablesComponent } from "../../pages/statement/tables.component";
 import { TargetvActualComponent } from "../../pages/TargetvActual/TargetvActual.component";
 import {PdfComponent} from "../../pages/pdf/pdf.component";
 import {ProfileComponent} from "../../pages/user/profile.component";
+import {KpiComponent} from "../../pages/kpi/kpi.component";
 export const AdminLayoutRoutes: Routes = [
   { path: "dashboard", component: DashboardComponent },
   { path: "addcompany", component: IconsComponent },
@@ -18,5 +19,6 @@ export const AdminLayoutRoutes: Routes = [
   { path: "statement", component: TablesComponent },
    { path: "FinancialModel", component: UserComponent },
    { path: "pdf", component: PdfComponent },
-   {path:"user",component:ProfileComponent}
+   {path:"user",component:ProfileComponent},
+{path:"kpi",component:KpiComponent}
 ];

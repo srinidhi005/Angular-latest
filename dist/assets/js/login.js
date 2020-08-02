@@ -8,6 +8,9 @@ function upload(ev){
                     if (data.status == 'SUCCESS') {
                          window.location = '#/statement';
                     }
+		       else{
+		        $("#popUpModal").modal('show');
+		       }
                 })
    
             return false;

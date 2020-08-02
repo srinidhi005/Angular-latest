@@ -23,7 +23,8 @@ var moment = require('moment');
 
 var fs = require('fs');
 const {Storage} = require('@google-cloud/storage');
-const cloudStorage = new Storage();
+const cloudstorage = new Storage();
+const bucketName= 'sample_pdf';
 
 var storage = multer.diskStorage({
   destination: function (req, file, cb) {
@@ -155,6 +156,7 @@ app.post('/upload', upload.single('file'), function (req, res, next) {
     console.log(err)
     res.status(500).status({status: "Internal Server Error"})
   })
+	 
 })
 
 app.post('/doc', function (req, res, next) {
@@ -229,7 +231,7 @@ app.post('/doc', function (req, res, next) {
   }
 })
 
-app.post('/file_data', function(req, res, next) {
+/*app.post('/file_data', function(req, res, next) {
   var {id, company, documentUUID, period} = req.query;
   var foldername = '2ExtractionJSON'//company.replace(/ /g, '_');
   foldername = foldername //+ '-' + (period || 'N');
@@ -409,8 +411,8 @@ console.log(filepath);
     res.status(200).send({status: 'SUCCESS'})
   })
 })
-
-app.get('/file_output', function(req, res, next) {
+*/
+/*app.get('/file_output', function(req, res, next) {
   // var foldername = req.query.file.replace(/ /g, '_');
   var files;
   var foldername =  '2ExtractionJSON'// + '-' + req.query.period;// foldername + '-' + req.query.period;
@@ -560,7 +562,7 @@ app.get('/file_output', function(req, res, next) {
     res.status(500).send({status: "Internal Server Error"})
   })
 })
-
+*/
  //function isLoggedIn(req, res, next) {
  // if (req.isAuthenticated())
    //    return next();

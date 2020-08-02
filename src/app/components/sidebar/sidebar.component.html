@@ -19,9 +19,21 @@
               </li>
 
               <li class="nav-item">
-                <a class="nav-link " routerLinkActive="active" 
-                  [routerLink]="['/kpi']">
-                  <i  class="tim-icons icon-paper"></i> <h5 class="ml-4 mt-1">KPIs</h5></a>
+		  <div class="accordion" id="accordionExample">
+            <!--    <a class="nav-link " routerLinkActive="active"--> 
+		<a class="btn btn-link d-flex" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false">
+
+              <!--    [routerLink]="['/kpi']"-->
+                  <i  class="tim-icons icon-paper pl-3"></i> <h5 class="pl-2 pt-2">KPIs</h5>
+ <span class="ml-3 mt-2"></span></a>
+  <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+
+		<li> <a class="nav-link pb-0" routerLinkActive="active" 
+                      [routerLink]="['/kpi']">
+                     <h5 class="pl-5">Default</h5></a></li>
+</div>
+</div>
+                  
                    </li>
 
 
