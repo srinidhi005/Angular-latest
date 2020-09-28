@@ -1,0 +1,121 @@
+[annotation_spec_id: "4810686627938566144"
+display_name: "Year1"
+text_extraction {
+  score: 0.9929013848304749
+  text_segment {
+    start_offset: 4439
+    end_offset: 4443
+    content: "2016"
+  }
+}
+, annotation_spec_id: "7116529637152260096"
+display_name: "Year3"
+text_extraction {
+  score: 0.8254130482673645
+  text_segment {
+    start_offset: 4444
+    end_offset: 4448
+    content: "2015"
+  }
+}
+, annotation_spec_id: "3081304371028295680"
+display_name: "TotalRevenue"
+text_extraction {
+  score: 0.9999974966049194
+  text_segment {
+    start_offset: 4727
+    end_offset: 4741
+    content: "Total revenues"
+  }
+}
+, annotation_spec_id: "5963608132545413120"
+display_name: "COGS"
+text_extraction {
+  score: 0.9606752991676331
+  text_segment {
+    start_offset: 4868
+    end_offset: 4885
+    content: "Costs of revenues"
+  }
+}
+, annotation_spec_id: "5903164679831683072"
+display_name: "SGA"
+text_extraction {
+  score: 0.9999886155128479
+  text_segment {
+    start_offset: 5107
+    end_offset: 5142
+    content: "Selling, general and administrative"
+  }
+}
+, annotation_spec_id: "440650175552159744"
+display_name: "InterestExpense"
+text_extraction {
+  score: 0.9999723434448242
+  text_segment {
+    start_offset: 5311
+    end_offset: 5327
+    content: "Interest expense"
+  }
+}
+, annotation_spec_id: "5387147380241989632"
+display_name: "EBT"
+text_extraction {
+  score: 0.9998525977134705
+  text_segment {
+    start_offset: 5550
+    end_offset: 5576
+    content: "Income before income taxes"
+  }
+}
+, annotation_spec_id: "775461361814601728"
+display_name: "Taxes"
+text_extraction {
+  score: 0.9999843835830688
+  text_segment {
+    start_offset: 5671
+    end_offset: 5697
+    content: "Provision for income taxes"
+  }
+}
+, annotation_spec_id: "7692990389455683584"
+display_name: "NetIncome"
+text_extraction {
+  score: 0.9998862147331238
+  text_segment {
+    start_offset: 5793
+    end_offset: 5803
+    content: "Net income"
+  }
+}
+, annotation_spec_id: "2504843618724872192"
+display_name: "Company"
+text_extraction {
+  score: 0.9173969030380249
+  text_segment {
+    start_offset: 6801
+    end_offset: 6823
+    content: "KLA-TENCOR CORPORATION"
+  }
+}
+, annotation_spec_id: "2470331048240611328"
+display_name: "IncomeStatement"
+text_extraction {
+  score: 0.9919540286064148
+  text_segment {
+    start_offset: 6824
+    end_offset: 6861
+    content: "Consolidated Statements of Operations"
+  }
+}
+, annotation_spec_id: "1351922114118025216"
+display_name: "DandA"
+text_extraction {
+  score: 0.9817110896110535
+  text_segment {
+    start_offset: 7181
+    end_offset: 7210
+    content: "Depreciation and amortization"
+  }
+}
+]

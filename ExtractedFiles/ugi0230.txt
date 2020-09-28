@@ -1,0 +1,154 @@
+
+Page#1
+Table of Contents
+UGI CORPORATION AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS
+(Millions of dollars)
+ September 30,
+ 2019  2018
+ASSETS 
+Current assets 
+Cash and cash equivalents $ 447.1  $ 452.6
+Restricted cash 63.7  9.6
+Accounts receivable (less allowances for doubtful accounts of $31.6 and $35.1, respectively) 640.7  751.9
+Accrued utility revenues 14.6  14.0
+Inventories 229.9  318.2
+Utility regulatory assets 9.1  7.5
+Derivative instruments 28.9  142.5
+Prepaid expenses 72.2  130.2
+Other current assets 60.0  61.6
+Total current assets 1,566.2  1,888.1
+Property, plant and equipment 
+Non-utility 6,134.9  5,345.8
+Utility 3,938.1  3,616.3
+ 10,073.0  8,962.1
+Accumulated depreciation (3,385.2)  (3,153.9)
+Net property, plant, and equipment 6,687.8  5,808.2
+Goodwill 3,456.4  3,160.4
+Intangible assets, net 708.6  513.6
+Utility regulatory assets 386.5  293.5
+Derivative instruments 43.2  43.5
+Other assets 497.9  273.6
+Total assets $ 13,346.6  $ 11,980.9
+LIABILITIES AND EQUITY 
+Current liabilities 
+Current maturities of long-term debt $ 24.1  $ 18.8
+Short-term borrowings 796.3  424.9
+Accounts payable 438.8  561.8
+Employee compensation and benefits accrued 133.0  132.1
+Deposits and advances 167.6  191.2
+Derivative instruments 84.9  11.7
+Accrued interest 62.9  60.7
+Other current liabilities 319.3  330.9
+Total current liabilities 2,026.9  1,732.1
+Noncurrent liabilities 
+Long-term debt 5,779.9  4,146.5
+Deferred income taxes 541.4  991.9
+Derivative instruments 48.4  12.8
+Other noncurrent liabilities 1,122.8  997.6
+Total liabilities 9,519.4  7,880.9
+Commitments and contingencies (Note 16) 
+Equity: 
+UGI Corporation stockholders’ equity: 
+UGI Common Stock, without par value (authorized – 450,000,000 shares; issued – 209,304,129 and 174,142,997 shares, respectively) 1,396.9  1,200.8
+Retained earnings 2,653.1  2,610.7
+Accumulated other comprehensive loss (216.6)  (110.4)
+Treasury stock, at cost (15.9)  (19.7)
+Total UGI Corporation stockholders’ equity 3,817.5  3,681.4
+Noncontrolling interests 9.7  418.6
+Total equity 3,827.2  4,100.0
+Total liabilities and equity $ 13,346.6  $ 11,980.9
+See accompanying Notes to Consolidated Financial Statements.
+F-8
+Page#2
+Table of Contents
+UGI CORPORATION AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF INCOME
+(Millions of dollars, except per share amounts)
+ Year Ended September 30,
+ 2019  2018  2017
+Revenues $ 7,320.4  $ 7,651.2  $ 6,120.7
+Costs and expenses: 
+Cost of sales (excluding depreciation and amortization shown below) 4,323.1  4,074.9  2,837.3
+Operating and administrative expenses 1,963.2  2,012.8  1,867.6
+Impairment of Partnership tradenames and trademarks —  75.0  —
+Depreciation and amortization 448.1  455.1  416.3
+Other operating income, net (31.1)  (31.3)  (10.5)
+ 6,703.3  6,586.5  5,110.7
+Operating income 617.1  1,064.7  1,010.0
+Income from equity investees 9.1  4.3  4.3
+Loss on extinguishments of debt (6.1)  —  (59.7)
+Other non-operating income (expense), net 38.2  15.6  (29.7)
+Interest expense (257.8)  (230.1)  (223.5)
+Income before income taxes 400.5  854.5  701.4
+Income tax expense (92.6)  (32.1)  (177.6)
+Net income including noncontrolling interests 307.9  822.4  523.8
+Deduct net income attributable to noncontrolling interests, principally in AmeriGas Partners (51.7)  (103.7)  (87.2)
+Net income attributable to UGI Corporation $ 256.2  $ 718.7  $ 436.6
+Earnings per common share attributable to UGI Corporation stockholders: 
+Basic $ 1.44  $ 4.13  $ 2.51
+Diluted $ 1.41  $ 4.06  $ 2.46
+Weighted-average common shares outstanding (thousands): 
+Basic 178,417  173,908  173,662
+Diluted 181,111  176,905  177,159
+Dividends declared per common share $ 1.145  $ 1.02  $ 0.975
+See accompanying Notes to Consolidated Financial Statements.
+F-9
+Page#3
+Table of Contents
+UGI CORPORATION AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(Millions of dollars)
+ Year Ended September 30,
+ 2019  2018  2017
+CASH FLOWS FROM OPERATING ACTIVITIES 
+Net income including noncontrolling interests $ 307.9  $ 822.4  $ 523.8
+Adjustments to reconcile net income including noncontrolling interests to net cash provided by operating activities: 
+Depreciation and amortization 448.1  455.1  416.3
+Deferred income tax (benefit) expense, net (42.7)  (68.8)  110.1
+Provision for uncollectible accounts 28.6  35.6  30.7
+Changes in unrealized gains and losses on derivative instruments 258.1  (132.8)  (82.0)
+Impairment of Partnership tradenames and trademarks —  75.0  —
+Equity-based compensation expense 18.1  22.5  19.3
+Loss on extinguishments of debt 6.1  —  59.7
+Income from equity investees (9.1)  (4.3)  (4.3)
+Loss on private equity partnership investment 1.5  —  11.0
+Other, net 9.1  11.1  40.4
+Net change in: 
+Accounts receivable and accrued utility revenues 83.3  (147.6)  (103.6)
+Inventories 84.1  (37.4)  (64.7)
+Utility deferred fuel costs, net of changes in unsettled derivatives (29.5)  31.1  (15.4)
+Accounts payable (97.2)  65.1  49.9
+Derivative instruments collateral (paid) received (41.5)  3.9  8.0
+Other current assets 44.6  (26.6)  (37.5)
+Other current liabilities 8.6  (19.0)  2.7
+Net cash provided by operating activities 1,078.1  1,085.3  964.4
+CASH FLOWS FROM INVESTING ACTIVITIES 
+Expenditures for property, plant and equipment (704.6)  (574.4)  (638.9)
+Acquisitions of businesses and assets, net of cash and restricted cash acquired (1,362.2)  (187.2)  (100.8)
+Other, net 11.5  13.0  (29.0)
+Net cash used by investing activities (2,055.3)  (748.6)  (768.7)
+CASH FLOWS FROM FINANCING ACTIVITIES 
+Dividends on UGI Common Stock (199.5)  (176.9)  (168.9)
+Distributions on AmeriGas Partners publicly held Common Units (263.1)  (263.0)  (261.6)
+Issuances of debt, net of issuance costs 2,411.7  124.4  1,307.1
+Repayments of debt, including redemption premiums (737.8)  (149.1)  (1,064.8)
+Receivables Facility net borrowings (repayments) 44.4  (37.0)  13.5
+Increase in short-term borrowings 327.0  93.5  61.2
+Issuances of UGI Common Stock 16.8  34.9  11.0
+Repurchases of UGI Common Stock (16.9)  (59.8)  (43.3)
+Cash paid for AmeriGas Merger (528.9)  —  —
+Other (11.5)  (5.2)  (0.8)
+Net cash provided (used) by financing activities 1,042.2  (438.2)  (146.6)
+Effect of exchange rate changes on cash, cash equivalents and restricted cash (16.4)  (5.0)  1.2
+Cash, cash equivalents and restricted cash increase (decrease) $ 48.6  $ (106.5)  $ 50.3
+CASH, CASH EQUIVALENTS AND RESTRICTED CASH 
+Cash, cash equivalents and restricted cash at end of period $ 510.8  $ 462.2  $ 568.7
+Cash, cash equivalents and restricted cash at beginning of period 462.2  568.7  518.4
+Cash, cash equivalents and restricted cash increase (decrease) $ 48.6  $ (106.5)  $ 50.3
+SUPPLEMENTAL CASH FLOW INFORMATION 
+Cash paid for: 
+Interest $ 248.4  $ 221.7  $ 202.1
+Income taxes $ 74.1  $ 118.0  $ 98.0
+See accompanying Notes to Consolidated Financial Statements.
+F-11

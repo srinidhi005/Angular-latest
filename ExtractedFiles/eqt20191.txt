@@ -1,0 +1,164 @@
+
+Page#1
+Table of Contents
+EQT CORPORATION AND SUBSIDIARIES
+STATEMENTS OF CONSOLIDATED OPERATIONS
+YEARS ENDED DECEMBER 31,
+ 2019  2018  2017
+ (Thousands, except per share amounts)
+Operating revenues: 
+Sales of natural gas, natural gas liquids and oil $ 3,791,414  $ 4,695,519  $ 2,651,318
+Gain (loss) on derivatives not designated as hedges 616,634  (178,591)  390,021
+Net marketing services and other 8,436  40,940  49,681
+Total operating revenues 4,416,484  4,557,868  3,091,020
+Operating expenses: 
+Transportation and processing 1,752,752  1,697,001  1,164,783
+Production 153,785  195,775  181,349
+Exploration 7,223  6,765  17,565
+Selling, general and administrative 253,006  284,220  208,986
+Depreciation and depletion 1,538,745  1,569,038  970,985
+Amortization of intangible assets 35,916  41,367  5,400
+Impairment/loss on sale/exchange of long-lived assets 1,138,287  2,709,976  —
+Impairment of intangible assets 15,411  —  —
+Impairment of goodwill —  530,811  —
+Impairment and expiration of leases 556,424  279,708  7,552
+Proxy, transaction and reorganization 117,045  26,331  152,188
+Total operating expenses 5,568,594  7,340,992  2,708,808
+Operating (loss) income (1,152,110)  (2,783,124)  382,212
+Unrealized loss on investment in Equitrans Midstream Corporation 336,993  72,366  —
+Dividend and other (income) expense (91,483)  (7,017)  2,987
+Loss on debt extinguishment —  —  12,641
+Interest expense 199,851  228,958  167,971
+(Loss) income from continuing operations before income taxes (1,597,471)  (3,077,431)  198,613
+Income tax benefit (375,776)  (696,511)  (1,188,416)
+(Loss) income from continuing operations (1,221,695)  (2,380,920)  1,387,029
+Income from discontinued operations, net of tax —  373,762  471,113
+Net (loss) income (1,221,695)  (2,007,158)  1,858,142
+Less: Net income from discontinued operations attributable to noncontrolling interests —  237,410  349,613
+Net (loss) income attributable to EQT Corporation $ (1,221,695)  $ (2,244,568)  $ 1,508,529
+ 
+Amounts attributable to EQT Corporation: 
+(Loss) income from continuing operations $ (1,221,695)  $ (2,380,920)  $ 1,387,029
+Income from discontinued operations, net of tax —  136,352  121,500
+Net (loss) income $ (1,221,695)  $ (2,244,568)  $ 1,508,529
+ 
+Earnings per share of common stock attributable to EQT Corporation: 
+Basic: 
+Weighted average common stock outstanding 255,141  260,932  187,380
+(Loss) income from continuing operations $ (4.79)  $ (9.12)  $ 7.40
+Income from discontinued operations —  0.52  0.65
+Net (loss) income $ (4.79)  $ (8.60)  $ 8.05
+ 
+Diluted: 
+Weighted average common stock outstanding 255,141  260,932  187,727
+(Loss) income from continuing operations $ (4.79)  $ (9.12)  $ 7.39
+Income from discontinued operations —  0.52  0.65
+Net (loss) income $ (4.79)  $ (8.60)  $ 8.04
+Page#2
+Table of Contents
+EQT CORPORATION AND SUBSIDIARIES
+STATEMENTS OF CONSOLIDATED CASH FLOWS
+YEARS ENDED DECEMBER 31,
+ 2019  2018  2017
+ (Thousands)
+Cash flows from operating activities: 
+Net (loss) income $ (1,221,695)  $ (2,007,158)  $ 1,858,142
+Adjustments to reconcile net (loss) income to net cash provided by operating activities: 
+Deferred income tax benefit (275,063)  (510,405)  (1,050,612)
+Depreciation and depletion 1,538,745  1,729,739  1,077,559
+Amortization of intangible assets 35,916  77,374  10,940
+Impairment of long-lived assets and leases and exploratory well costs 1,710,122  2,989,684  20,327
+Impairment of goodwill —  798,689  —
+Unrealized loss on investment in Equitrans Midstream Corporation 336,993  72,366  —
+Loss on debt extinguishment —  —  12,641
+Amortization, accretion and other 23,296  (33,039)  (25,934)
+Share-based compensation expense 31,233  25,189  94,592
+(Gain) loss on derivatives not designated as hedges (616,634)  178,591  (390,021)
+Cash settlements received (paid) on derivatives not designated as hedges 246,639  (225,279)  40,728
+Net premiums received on derivative instruments 22,616  —  —
+Changes in other assets and liabilities: 
+Accounts receivable 432,323  (439,062)  (8,979)
+Accounts payable (238,674)  457,113  (16,680)
+Tax receivable (167,281)  (117,188)  (12,285)
+Other items, net (6,832)  (20,358)  27,280
+Net cash provided by operating activities 1,851,704  2,976,256  1,637,698
+Cash flows from investing activities: 
+Capital expenditures (1,602,454)  (2,999,037)  (1,559,051)
+Cash paid for Rice Merger and other acquisitions (see Note 8), net of cash acquired —  —  (2,379,229)
+Capital expenditures for discontinued operations —  (732,727)  (380,151)
+Net sales of trading securities —  —  283,758
+Exploratory dry hole costs —  —  (11,420)
+Capital contributions to Mountain Valley Pipeline, LLC —  (820,943)  (159,550)
+Proceeds from sale of assets —  583,381  3,573
+Other investing activities 1,312  (9,778)  —
+Net cash used in investing activities (1,601,142)  (3,979,104)  (4,202,070)
+Cash flows from financing activities: 
+Proceeds from borrowings on credit facility 2,978,750  8,637,500  2,063,000
+Repayment of borrowings on credit facility (3,484,750)  (8,953,500)  (1,076,500)
+Proceeds from borrowings on term loan facility 1,000,000  —  —
+Debt issuance costs and credit facility origination fees (913)  (40,966)  (41,876)
+Proceeds from issuance of debt —  2,500,000  3,000,000
+Repayments and retirements of debt (704,661)  (8,376)  (2,000,000)
+Premiums paid on debt extinguishment —  —  (89,363)
+Dividends paid (30,655)  (31,375)  (20,827)
+Proceeds and excess tax benefits from awards under employee compensation plans —  1,946  244
+Cash paid for taxes related to net settlement of share-based incentive awards (7,224)  (22,647)  (72,116)
+Repurchase and retirement of common stock —  (538,876)  —
+Repurchase of common stock —  (27)  (30)
+Distributions to noncontrolling interests —  (380,651)  (236,123)
+Contribution to Strike Force Midstream LLC by minority owner, net of distribution —  —  6,738
+Acquisition of 25% of Strike Force Midstream LLC —  (175,000)  —
+Net cash transferred at Separation and Distribution —  (129,008)  —
+Net cash (used in) provided by financing activities (249,453)  859,020  1,533,147
+Page#3
+Table of Contents
+EQT CORPORATION AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS
+DECEMBER 31,
+ 
+ 2019  2018
+ (Thousands)
+ASSETS 
+Current assets: 
+Cash and cash equivalents $ 4,596  $ 3,487
+Accounts receivable (less provision for doubtful accounts: $6,861 and $8,648) 610,088  1,241,843
+Derivative instruments, at fair value 812,664  481,654
+Tax receivable 298,854  131,573
+Prepaid expenses and other 28,653  111,107
+Total current assets 1,754,855  1,969,664
+ 
+Property, plant and equipment 21,655,351  22,148,012
+Less: Accumulated depreciation and depletion 5,499,861  4,755,505
+Net property, plant and equipment 16,155,490  17,392,507
+ 
+Intangible assets, net 26,006  77,333
+Investment in Equitrans Midstream Corporation 676,009  1,013,002
+Other assets 196,867  268,838
+Total assets $ 18,809,227  $ 20,721,344
+ 
+LIABILITIES AND SHAREHOLDERS' EQUITY 
+Current liabilities: 
+Current portion of debt $ 16,204  $ 704,390
+Accounts payable 796,438  1,059,873
+Derivative instruments, at fair value 312,696  336,051
+Other current liabilities 220,564  254,687
+Total current liabilities 1,345,902  2,355,001
+ 
+Credit facility borrowings 294,000  800,000
+Term loan facility borrowings 999,353  —
+Senior notes 3,878,366  3,882,932
+Note payable to EQM Midstream Partners, LP 105,056  110,059
+Deferred income taxes 1,485,814  1,823,381
+Other liabilities and credits 897,148  791,742
+Total liabilities 9,005,639  9,763,115
+ 
+Shareholders' Equity: 
+Common stock, no par value, shares authorized: 320,000, shares issued: 257,003 and 257,225 7,818,205  7,828,554
+Treasury stock, shares at cost: 1,832 and 2,753 (32,507)  (49,194)
+Retained earnings 2,023,089  3,184,275
+Accumulated other comprehensive loss (5,199)  (5,406)
+Total shareholders' equity 9,803,588  10,958,229
+Total liabilities and shareholders' equity $ 18,809,227  $ 20,721,344
+ 
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+66

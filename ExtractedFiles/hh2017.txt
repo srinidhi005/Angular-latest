@@ -1,0 +1,173 @@
+
+Page#1
+Table of Contents
+HYATT HOTELS CORPORATION AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF INCOME
+For the Years Ended December 31, 2017, December 31, 2016, and December 31, 2015 
+(In millions of dollars, except per share amounts)
+ 
+2017 2016 2015
+REVENUES:
+Owned and leased hotels  $ 2,192 $ 2,108 $ 2,079
+Management and franchise fees 505 448 427
+Other revenues  70 40 36
+Other revenues from managed and franchised properties 1,918 1,833 1,786
+Total revenues  4,685 4,429 4,328
+DIRECT AND SELLING, GENERAL, AND ADMINISTRATIVE EXPENSES:
+Owned and leased hotels  1,674 1,610 1,562
+Depreciation and amortization 366 342 320
+Other direct costs  46 30 29
+Selling, general, and administrative 379 315 308
+Other costs from managed and franchised properties 1,918 1,833 1,786
+Direct and selling, general, and administrative expenses 4,383 4,130 4,005
+Net gains and interest income from marketable securities held to fund operating programs 47 19 4
+Equity earnings (losses) from unconsolidated hospitality ventures 220 68 (64)
+Interest expense  (80) (76) (68)
+Gains (losses) on sales of real estate 51 (23) 9
+Asset impairments  — — (5)
+Other income (loss), net  33 2 (5)
+INCOME BEFORE INCOME TAXES 573 289 194
+PROVISION FOR INCOME TAXES (323) (85) (70)
+NET INCOME  250 204 124
+NET INCOME AND ACCRETION ATTRIBUTABLE TO NONCONTROLLING
+INTERESTS  (1) — —
+NET INCOME ATTRIBUTABLE TO HYATT HOTELS CORPORATION $ 249 $ 204 $ 124
+EARNINGS PER SHARE—Basic
+Net income  $ 2.00 $ 1.53 $ 0.87
+Net income attributable to Hyatt Hotels Corporation $ 1.99 $ 1.53 $ 0.87
+EARNINGS PER SHARE—Diluted
+Net income  $ 1.98 $ 1.52 $ 0.86
+Net income attributable to Hyatt Hotels Corporation $ 1.97 $ 1.52 $ 0.86
+See accompanying Notes to consolidated financial statements.
+F- 4
+Page#2
+Table of Contents
+HYATT HOTELS CORPORATION AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS
+As of December 31, 2017 and December 31, 2016 
+(In millions of dollars, except share and per share amounts)
+2017 2016
+ASSETS
+CURRENT ASSETS:
+Cash and cash equivalents  $ 503 $ 482
+Restricted cash  234 76
+Short-term investments  49 56
+Receivables, net of allowances of $21 and $18 at December 31, 2017 and December 31, 2016, respectively 350 304
+Inventories  14 28
+Prepaids and other assets  153 153
+Prepaid income taxes  24 40
+Total current assets  1,327 1,139
+Investments  211 186
+Property and equipment, net  4,034 4,270
+Financing receivables, net of allowances  19 19
+Goodwill  150 125
+Intangibles, net  683 599
+Deferred tax assets  242 313
+Other assets  1,006 1,098
+TOTAL ASSETS  $ 7,672 $ 7,749
+LIABILITIES, REDEEMABLE NONCONTROLLING INTEREST, AND EQUITY
+CURRENT LIABILITIES:
+Current maturities of long-term debt  $ 11 $ 119
+Accounts payable  175 162
+Accrued expenses and other current liabilities  635 514
+Accrued compensation and benefits  145 129
+Total current liabilities  966 924
+Long-term debt  1,440 1,445
+Other long-term liabilities  1,725 1,472
+Total liabilities  4,131 3,841
+Commitments and contingencies (see Note 14)
+Redeemable noncontrolling interest in preferred shares of a subsidiary 10 —
+EQUITY:
+Preferred stock, $0.01 par value per share, 10,000,000 shares authorized and none outstanding as of December 31, 
+— —
+2017 and December 31, 2016  
+Class A common stock, $0.01 par value per share, 1,000,000,000 shares authorized, 48,231,149 issued and 
+outstanding at December 31, 2017, and Class B common stock, $0.01 par value per share, 402,748,249 shares 
+authorized, 70,753,837 shares issued and outstanding at December 31, 2017. Class A common stock, $0.01 par value 
+per share, 1,000,000,000 shares authorized, 39,952,061 issued and outstanding at December 31, 2016, and Class B 
+common stock, $0.01 par value per share, 422,857,621 shares authorized, 90,863,209 shares issued and outstanding 
+1 1
+at December 31, 2016  
+Additional paid-in capital  967 1,686
+Retained earnings  2,742 2,493
+Accumulated other comprehensive loss  (185) (277)
+Total stockholders’ equity  3,525 3,903
+Noncontrolling interests in consolidated subsidiaries  6 5
+Total equity  3,531 3,908
+TOTAL LIABILITIES, REDEEMABLE NONCONTROLLING INTEREST, AND EQUITY $ 7,672 $ 7,749
+See accompanying Notes to consolidated financial statements.
+F- 6
+Page#3
+Table of Contents
+HYATT HOTELS CORPORATION AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+For the Years Ended December 31, 2017, December 31, 2016, and December 31, 2015
+(In millions of dollars)
+2017 2016 2015
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Net income  $ 250 $ 204 $ 124
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation and amortization  366 342 320
+Amortization of share awards . 32 26 26
+Deferred income taxes  47 (3) (103)
+Equity (earnings) losses from unconsolidated hospitality ventures (220) (68) 64
+(Gains) losses on sales of real estate (51) 23 (9)
+Realized losses from marketable securities 40 6 —
+Distributions from unconsolidated hospitality ventures 29 35 36
+Other  1 (44) 55
+Increase (decrease) in cash attributable to changes in assets and liabilities
+Restricted cash  13 (4) 78
+Receivables, net  (37) (14) 29
+Inventories  12 2 1
+Prepaid income taxes  14 21 (16)
+Accounts payable, accrued expenses, and other current liabilities 95 7 (7)
+Accrued compensation and benefits 22 7 5
+Other long-term liabilities 24 10 1
+Other, net  (17) (61) (66)
+Net cash provided by operating activities 620 489 538
+(Continued)
+See accompanying Notes to consolidated financial statements.
+F- 7
+Page#4
+Table of Contents
+HYATT HOTELS CORPORATION AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+For the Years Ended December 31, 2017, December 31, 2016, and December 31, 2015 
+(In millions of dollars)
+2017 2016 2015
+CASH FLOWS FROM INVESTING ACTIVITIES:
+Purchases of marketable securities and short-term investments $ (469) $ (464) $ (530)
+Proceeds from marketable securities and short-term investments 480 457 521
+Contributions to investments  (89) (107) (37)
+Return of investments  425 132 19
+Acquisitions, net of cash acquired . (259) (492) (3)
+Capital expenditures  (298) (211) (269)
+Issuance of financing receivables  — (38) (8)
+Proceeds from financing receivables — 38 28
+Proceeds from sales of real estate, net of cash disposed 663 289 88
+Sales proceeds transferred to escrow as restricted cash (474) — —
+Sales proceeds transferred from escrow to cash and cash equivalents 300 29 143
+Pre-condemnation proceeds  15 — —
+Other investing activities  (28) (13) 1
+Net cash provided by (used in) investing activities 266 (380) (47)
+CASH FLOWS FROM FINANCING ACTIVITIES:
+Proceeds from debt, net of issuance costs of $-, $4, and $-, respectively 670 620 12
+Repayments of debt  (782) (438) (5)
+Repurchase of common stock  (743) (272) (715)
+Proceeds from redeemable noncontrolling interest in preferred shares in a subsidiary 9 — —
+Other financing activities  (12) (6) (7)
+Net cash used in financing activities (858) (96) (715)
+EFFECT OF EXCHANGE RATE CHANGES ON CASH (7) 12 (4)
+NET INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS 21 25 (228)
+CASH AND CASH EQUIVALENTS—BEGINNING OF YEAR 482 457 685
+CASH AND CASH EQUIVALENTS—END OF PERIOD $ 503 $ 482 $ 457
+SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION:
+Cash paid during the period for interest $ 80 $ 75 $ 69
+Cash paid during the period for income taxes $ 175 $ 95 $ 145
+Non-cash investing and financing activities are as follows:
+Non-cash contributions to investments $ 5 $ 13 $ 17
+Non-cash management and franchise agreement intangibles $ 3 $ 47 $ 3
+Change in accrued capital expenditures $ 9 $ 2 $ 6
+(Concluded)
+See accompanying Notes to consolidated financial statements.
+F- 8

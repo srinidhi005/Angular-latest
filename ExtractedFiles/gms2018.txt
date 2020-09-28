@@ -1,0 +1,163 @@
+
+Page#1
+Table of Contents
+ 
+GMS Inc.
+Consolidated Balance Sheets
+(in thousands, except per share data)
+ 
+ April 30, April 30, 
+ 2018 2017
+Assets
+Current assets: 
+Cash and cash equivalents  $ 36,437  $ 14,561
+Trade accounts and notes receivable, net of allowances of $9,633 and $9,851, respectively 346,450 328,988
+Inventories, net 239,223 200,234
+Prepaid expenses and other current assets 11,726 11,403
+Total current assets 633,836 555,186
+Property and equipment, net of accumulated depreciation of $85,761 and $71,409, respectively 163,582 154,465
+Goodwill 427,645 423,644
+Intangible assets, net 222,682 252,293
+Other assets 6,766 7,677
+Total assets  $ 1,454,511  $ 1,393,265
+Liabilities and Stockholders’ Equity
+Current liabilities: 
+Accounts payable  $ 116,168  $ 102,688
+Accrued compensation and employee benefits 56,323 58,393
+Other accrued expenses and current liabilities 45,146 37,891
+Current portion of long-term debt 16,284 11,530
+Total current liabilities 233,921 210,502
+Non-current liabilities: 
+Long-term debt, less current portion 579,602 583,390
+Deferred income taxes, net 10,742 26,820
+Other liabilities 35,088 35,371
+Liabilities to noncontrolling interest holders, less current portion 15,707 22,576
+Total liabilities 875,060 878,659
+Commitments and contingencies (See Note 14) 
+Stockholders’ equity: 
+Common stock, par value $0.01 per share, 500,000 shares authorized; 41,069 and 40,971
+shares issued and outstanding as of April 30, 2018 and 2017, respectively 411 410
+Preferred stock, par value $0.01 per share, 50,000 shares authorized; 0 shares issued and
+outstanding as of April 30, 2018 and 2017 — —
+Additional paid-in capital 489,007 488,459
+Retained earnings 89,592 26,621
+Accumulated other comprehensive income (loss) 441 (884)
+Total stockholders’ equity 579,451 514,606
+Total liabilities and stockholders’ equity  $ 1,454,511  $ 1,393,265
+ 
+The accompanying notes are an integral part of these consolidated financial statements.
+57
+ 
+ 
+Page#2
+Table of Contents
+ 
+GMS Inc.
+Consolidated Statements of Operations and Comprehensive Income
+(in thousands, except for per share data)
+ 
+ Yea r  Ended April 3 0, 
+ 2018 2017 2016
+Net sales $ 2,511,469  $ 2,319,146  $ 1,858,182
+Cost of sales (exclusive of depreciation and amortization shown separately
+below)  1,692,893 1,560,575 1,265,018
+Gross profit  818,576 758,571 593,164
+Operating expenses: 
+Selling, general and administrative  633,877 585,078 470,035
+Depreciation and amortization  65,530 69,240 64,215
+Total operating expenses  699,407 654,318 534,250
+Operating income  119,169 104,253 58,914
+Other (expense) income: 
+Interest expense  (31,395)  (29,360)  (37,418)
+Change in fair value of financial instruments  (6,125)  (382)  (19)
+Write-off of debt discount and deferred financing fees  (74)  (7,103) —
+Other income, net  2,279 4,132 3,671
+Total other expense, net  (35,315)  (32,713)  (33,766)
+Income before taxes  83,854 71,540 25,148
+Provision for income taxes  20,883 22,654 12,584
+Net income $ 62,971  $ 48,886  $ 12,564
+Weighted average common shares outstanding: 
+Basic  41,015 40,260 32,799
+Diluted  42,163 41,070 33,125
+Net income per share: 
+Basic $ 1.54  $ 1.21  $ 0.38
+Diluted $ 1.49  $ 1.19  $ 0.38
+Comprehensive income 
+Net income $ 62,971  $ 48,886  $ 12,564
+Changes in other comprehensive income, net of tax  1,325 264 (1,158)
+Comprehensive income $ 64,296  $ 49,150  $ 11,406
+ 
+The accompanying notes are an integral part of these consolidated financial statements.
+58
+ 
+ 
+Page#3
+Table of Contents
+ 
+GMS Inc.
+Consolidated Statements of Cash Flows
+(in thousands)
+ 
+ Y ear  E nded April 30,  
+ 2018 2017 2016
+Cash flows from operating activities: 
+Net income  $ 62,971  $ 48,886  $ 12,564
+Adjustments to reconcile net income to net cash provided by operating activities: 
+Depreciation and amortization 65,530 69,240 64,215
+Write-off and amortization of debt discount and debt issuance costs 2,851 9,793 3,438
+Provision for losses on accounts and notes receivable (622)  (122)  (1,032)
+Provision for obsolescence of inventory 106 425 80
+Increase (decrease) in fair value of contingent consideration 195 (1,484) —
+Equity-based compensation 5,745 3,142 4,733
+Gain on sale and disposal of assets (509)  (336)  (645)
+Change in fair value of financial instruments 6,125 — —
+Changes in assets and liabilities net of effects of acquisitions: 
+Trade accounts and notes receivable (11,752)  (20,400)  (27,338)
+Inventories (34,774)  (18,390)  (699)
+Prepaid expenses and other assets (1,926)  (412)  (4,682)
+Accounts payable 11,365 (3,763)  1,055
+Accrued compensation and employee benefits (236)  4,440 3,454
+Other accrued expenses and current liabilities 4,874 626 5,551
+Deferred income taxes (16,224)  (20,114)  (20,499)
+Liabilities to noncontrolling interest holders (3,704)  1,133 446
+Income tax receivable / payable (1,399)  (5,956)  7,106
+Cash provided by operating activities 88,616 66,708 47,747
+Cash flows from investing activities: 
+Purchases of property and equipment (23,741)  (11,083)  (7,692)
+Proceeds from sale of assets 2,865 3,995 9,847
+Acquisition of businesses, net of cash acquired (28,333)  (150,428)  (120,195)
+Cash used in investing activities (49,209)  (157,516)  (118,040)
+Cash flows from financing activities: 
+Repayments on the revolving credit facility (617,230)  (1,011,925)  (697,144)
+Borrowings from the revolving credit facility 513,878 1,013,365 782,104
+Payments of principal on long-term debt (5,776)  (4,584)  (3,931)
+Payments of principal on capital lease obligations (6,132)  (5,208)  (4,249)
+Proceeds from issuance of common stock in initial public offering, net of underwriting
+discounts — 156,941 —
+Repayment of term loan — (160,000) —
+Borrowings from term loan amendments 577,616 481,225 —
+Repayment of term loan amendments (477,616)  (381,225) —
+Debt issuance costs (636)  (2,637)  (391)
+Stock repurchases — — (5,827)
+Payments for taxes related to net share settlement of equity awards (1,441) — —
+Proceeds from exercises of stock options 477 345 6,519
+Other financing activities (671) — —
+Cash (used in) provided by financing activities (17,531)  86,297 77,081
+Increase (decrease) in cash and cash equivalents 21,876 (4,511)  6,788
+Cash and cash equivalents, beginning of year 14,561 19,072 12,284
+Cash and cash equivalents, end of year  $ 36,437  $ 14,561  $ 19,072
+Supplemental cash flow disclosures: 
+Cash paid for income taxes  $ 38,954  $ 49,163  $ 26,067
+Cash paid for interest 28,613 26,443 34,557
+Supplemental schedule of noncash activities: 
+Assets acquired under capital lease  $ 9,086  $ 9,410  $ 7,542
+Issuance of installment notes associated with equity-based compensation liability awards 12,433 5,352 1,557
+Increase in other liabilities due to transition guidance — — 3,208
+(Decrease) increase in insurance claims payable and insurance recoverable (2,362)  1,876 (25,715)
+ 
+The accompanying notes are an integral part of these consolidated financial statements.
+ 
+ 
+60
+ 
+ 

@@ -1,0 +1,156 @@
+
+Page#1
+ITEM8. FINANCIALSTATEMENTSANDSUPPLEMENTARYDATA
+AdvancedMicroDevices,Inc.
+ConsolidatedStatementsofOperations
+YearEnded
+December26, December27, December28,
+2015 2014 2013
+(Inmillions,exceptpershareamounts)
+Netrevenue ............................................... $3,991 $5,506 $5,299
+Costofsales .............................................. 2,911 3,667 3,321
+Grossmargin .............................................. 1,080 1,839 1,978
+Researchanddevelopment ................................... 947 1,072 1,201
+Marketing,generalandadministrative .......................... 482 604 674
+Amortizationofacquiredintangibleassets ....................... 3 14 18
+Restructuringandotherspecialcharges,net ...................... 129 71 30
+Goodwillimpairmentcharge.................................. — 233 —
+Legalsettlements,net ....................................... — — (48)
+Operatingincome(loss) ..................................... (481) (155) 103
+Interestexpense ............................................ (160) (177) (177)
+Otherexpense,net .......................................... (5) (66) —
+Lossbeforeincometaxes .................................... (646) (398) (74)
+Provisionforincometaxes ................................... 14 5 9
+Netloss .................................................. $ (660) $ (403) $ (83)
+Netlosspershare
+Basic .................................................... $(0.84) $(0.53) $(0.11)
+Diluted ................................................... $(0.84) $(0.53) $(0.11)
+Sharesusedinpersharecalculation
+Basic .................................................... 783 768 754
+Diluted ................................................... 783 768 754
+Seeaccompanyingnotestoconsolidatedfinancialstatements.
+66
+Page#2
+AdvancedMicroDevices,Inc.
+ConsolidatedStatementsofComprehensiveLoss
+YearEnded
+December26, December27, December28,
+2015 2014 2013
+(Inmillions)
+Netloss .................................................. $(660) $(403) $(83)
+Othercomprehensiveincome(loss):
+Unrealizedgains(losses)onavailable-for-salesecurities:
+Unrealizedgains(losses)arisingduringperiod,netoftax
+effectof$0 ..................................... (2) — (1)
+Reclassificationadjustmentfor(gains)lossesrealizedand
+includedinnetloss,netoftaxeffectof$0 ............. — — 2
+Totalchangeinunrealizedgains(losses)onavailable-for-
+salesecurities,netoftax ........................... (2) — 1
+Unrealizedgains(losses)oncashflowhedges:
+Unrealizedgains(losses)arisingduringperiod,netoftax
+effectof$0 ..................................... (22) (9) (6)
+Reclassificationadjustmentfor(gains)lossesrealizedand
+includedinnetloss,netoftaxeffectof$0,$0and$3 .... 21 6 6
+Totalchangeinunrealizedgains(losses)oncashflow
+hedges,netoftax................................. (1) (3) —
+Totalothercomprehensiveincome(loss) ................ (3) (3) 1
+Totalcomprehensiveloss .................................... $(663) $(406) $(82)
+Seeaccompanyingnotestoconsolidatedfinancialstatements.
+67
+Page#3
+AdvancedMicroDevices,Inc.
+ConsolidatedBalanceSheets
+December26, December27,
+2015 2014
+(Inmillions,exceptparvalue
+amounts)
+ASSETS
+Currentassets:
+Cashandcashequivalents ........................................... $ 785 $ 805
+Marketablesecurities ............................................... — 235
+Accountsreceivable,net ............................................ 533 818
+Inventories,net.................................................... 678 685
+Prepaymentsandother—GLOBALFOUNDRIES ........................ 33 113
+Prepaidexpenses .................................................. 43 32
+Othercurrentassets ................................................ 248 48
+Totalcurrentassets ........................................ 2,320 2,736
+Property,plantandequipment,net ........................................ 188 302
+Acquisitionrelatedintangibleassets,net.................................... — 65
+Goodwill ............................................................ 278 320
+Otherassets .......................................................... 323 344
+Totalassets ........................................................... $ 3,109 $ 3,767
+LIABILITIESANDSTOCKHOLDERS’EQUITY(DEFICIT)
+Currentliabilities:
+Short-termdebt ................................................... $ 230 $ 177
+Accountspayable .................................................. 279 415
+PayabletoGLOBALFOUNDRIES .................................... 245 218
+Accruedliabilities ................................................. 472 518
+Othercurrentliabilities ............................................. 124 40
+Deferredincomeonshipmentstodistributors ............................ 53 72
+Totalcurrentliabilities ...................................... 1,403 1,440
+Long-termdebt........................................................ 2,032 2,035
+Otherlong-termliabilities ............................................... 86 105
+Commitmentsandcontingencies(seeNotes15and16)
+Stockholders’equity:
+Capitalstock: .....................................................
+Commonstock,parvalue$0.01;1,500sharesauthorizedonDecember26,
+2015andDecember27,2014;sharesissued:806shareson
+December26,2015and788sharesonDecember27,2014;shares
+outstanding:792sharesonDecember26,2015and776shareson
+December27,2014 .......................................... 8 8
+Additionalpaid-incapital ........................................... 7,017 6,949
+Treasurystock,atcost(14sharesonDecember26,2015and12shareson
+December27,2014) ............................................. (123) (119)
+Accumulateddeficit ................................................ (7,306) (6,646)
+Accumulatedothercomprehensiveloss ................................ (8) (5)
+Totalstockholders’equity(deficit) ............................ (412) 187
+Totalliabilitiesandstockholders’equity(deficit) ............................. $ 3,109 $ 3,767
+Seeaccompanyingnotestoconsolidatedfinancialstatements.
+68
+Page#4
+AdvancedMicroDevices,Inc.
+ConsolidatedStatementsofCashFlows
+YearEnded
+December26, December27, December28,
+2015 2014 2013
+(Inmillions)
+Cashflowsfromoperatingactivities:
+Netloss..................................................... $(660) $ (403) $ (83)
+Adjustmentstoreconcilenetlosstonetcashusedinoperatingactivities:
+Depreciationandamortization ............................... 167 203 236
+Netlossondisposalofproperty,plantandequipment ............ — — 31
+Stock-basedcompensationexpense ........................... 63 81 91
+Non-cashinterestexpense .................................. 11 17 25
+Goodwillimpairmentcharge ................................ — 233 —
+Restructuringandotherspecialcharges,net .................... 83 14 —
+Netlossondebtredemptions ................................ — 61 1
+Other................................................... (3) (13) (1)
+Changesinoperatingassetsandliabilities:
+Accountsreceivable ....................................... 280 7 (200)
+Inventories .............................................. (11) 199 (322)
+Prepaymentsandother—GLOBALFOUNDRIES ............... 84 (113) —
+Prepaidexpensesandotherassets ............................ (111) (7) (103)
+Accountspayables,accruedliabilitiesandother ................. (156) (231) 266
+PayabletoGLOBALFOUNDRIES ........................... 27 (146) (89)
+Netcashusedinoperatingactivities .................................. (226) (98) (148)
+Cashflowsfrominvestingactivities:
+Purchasesofavailable-for-salesecurities (227) (790) (1,043)
+Purchasesofproperty,plantandequipment (96) (95) (84)
+Proceedsfromsalesandmaturitiesofavailable-for-salesecurities ...... 462 873 1,344
+Proceedsfromsaleofproperty,plantandequipment ................. 8 — 238
+Netcashprovidedby(usedin)investingactivities ....................... 147 (12) 455
+Cashflowsfromfinancingactivities:
+Proceedsfromborrowings,net .................................. 100 1,155 55
+Proceedsfromissuanceofcommonstock .......................... 5 4 3
+Repaymentsoflong-termdebtandcapitalleaseobligations............ (44) (1,115) (55)
+Other....................................................... (2) 2 10
+Netcashprovidedbyfinancingactivities .............................. 59 46 13
+Netincrease(decrease)incashandcashequivalents ..................... (20) (64) 320
+Cashandcashequivalentsatbeginningofyear ......................... 805 869 549
+Cashandcashequivalentsatendofyear............................... $785 $ 805 $ 869
+Supplementaldisclosuresofcashflowinformation:
+Cashpaidduringtheyearfor: ...................................
+Interest ................................................. $149 $ 138 $ 152
+Incometaxes ............................................ $ 3 $ 7 $ 9
+Seeaccompanyingnotestoconsolidatedfinancialstatements.
+70

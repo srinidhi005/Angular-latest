@@ -1,0 +1,247 @@
+
+Page#1
+Table of Contents
+Exelon Corporation and Subsidiary Companies
+Consolidated Statements of Cash Flows
+ 
+For the Years Ended December 31,
+  
+(In millions) 2019 2018 2017
+Cash flows from operating activities
+ 
+Net income  
+$ 3,028 $ 2,079 $ 3,869
+Adjustments to reconcile net income to net cash flows provided by operating activities: 
+Depreciation, amortization and accretion, including nuclear fuel and energy contract amortization  
+5,780 5,971 5,427
+Asset impairments  
+201 50 573
+Gain on sales of assets and businesses  
+(27) (56) (3)
+Bargain purchase gain  
+— — (233)
+Gain on deconsolidation of business 
+— — (213)
+Deferred income taxes and amortization of investment tax credits  
+681 (108) (362)
+Net fair value changes related to derivatives  
+222 294 151
+Net realized and unrealized (gains) losses on NDT funds  
+(663) 303 (616)
+Other non-cash operating activities  
+613 1,131 728
+Changes in assets and liabilities: 
+Accounts receivable  
+(243) (565) (470)
+Inventories  
+(87) (37) (72)
+Accounts payable and accrued expenses  
+(425) 551 (388)
+Option premiums (paid) received, net  
+(29) (43) 28
+Collateral (posted) received, net  
+(438) 82 (158)
+Income taxes  
+(64) 340 299
+Pension and non-pension postretirement benefit contributions  
+(408) (383) (405)
+Other assets and liabilities  
+(1,482) (965) (675)
+Net cash flows provided by operating activities
+6,659 8,644 7,480
+Cash flows from investing activities
+ 
+Capital expenditures  
+(7,248) (7,594) (7,584)
+Proceeds from NDT fund sales  
+10,051 8,762 7,845
+Investment in NDT funds  
+(10,087) (8,997) (8,113)
+Reduction of restricted cash from deconsolidation of business  
+— — (87)
+Acquisitions of assets and businesses, net  
+(41) (154) (208)
+Proceeds from sales of assets and businesses  
+53 91 219
+Other investing activities  
+12 58 (43)
+Net cash flows used in investing activities (7,260) (7,834) (7,971)
+Cash flows from financing activities
+ 
+Changes in short-term borrowings  
+781 (338) (261)
+Proceeds from short-term borrowings with maturities greater than 90 days  
+— 126 621
+Repayments on short-term borrowings with maturities greater than 90 days  
+(125) (1) (700)
+Issuance of long-term debt  
+1,951 3,115 3,470
+Retirement of long-term debt  
+(1,287) (1,786) (2,490)
+Retirement of long-term debt to financing trust  
+— — (250)
+Common stock issued from treasury stock
+  
+— — 1,150
+Dividends paid on common stock  
+(1,408) (1,332) (1,236)
+Proceeds from employee stock plans  
+112 105 150
+Sale of noncontrolling interests  
+— — 396
+Other financing activities  
+(82) (108) (83)
+Net cash flows (used in) provided by financing activities
+(58) (219) 767
+(Decrease) increase in cash, cash equivalents and restricted cash  
+(659) 591 276
+Cash, cash equivalents and restricted cash at beginning of period  
+1,781 1,190 914
+Cash, cash equivalents and restricted cash at end of period
+$ 1,122 $ 1,781 $ 1,190
+ 
+ 
+Supplemental cash flow information
+Page#2
+Table of Contents
+Exelon Corporation and Subsidiary Companies
+Consolidated Balance Sheets
+ 
+December 31,
+ 
+(In millions) 2019 2018
+ASSETS 
+Current assets 
+Cash and cash equivalents $ 587  $ 1,349
+Restricted cash and cash equivalents 358  247
+Accounts receivable, net 
+Customer (net of allowance for uncollectible accounts of $243 and $283 as of December 31, 2019 and
+2018, respectively)
+4,592  4,607
+Other (net of allowance for uncollectible accounts of $48 and $36 as of December 31, 2019 and 2018,
+respectively) 1,583  1,256
+Mark-to-market derivative assets 679  804
+Unamortized energy contract assets 47  48
+Inventories, net 
+Fossil fuel and emission allowances 312  334
+Materials and supplies 1,456  1,351
+Regulatory assets 1,170  1,190
+Assets held for sale — 904
+Other 1,253  1,238
+Total current assets 12,037 13,328
+Property, plant and equipment (net of accumulated depreciation and amortization of $23,979 and $22,902
+as of December 31, 2019 and 2018, respectively) 80,233  76,707
+Deferred debits and other assets 
+Regulatory assets 8,335  8,237
+Nuclear decommissioning trust funds 13,190  11,661
+Investments 464  625
+Goodwill 6,677  6,677
+Mark-to-market derivative assets 508  452
+Unamortized energy contract assets 336  372
+Other 3,197  1,575
+Total deferred debits and other assets 32,707 29,599
+Total assets(a) $ 124,977 $ 119,634
+See the Combined Notes to Consolidated Financial Statements
+180
+Page#3
+Table of Contents
+Exelon Generation Company, LLC and Subsidiary Companies
+Consolidated Statements of Cash Flows
+ 
+For the Years Ended December 31,
+  
+(In millions) 2019 2018 2017
+ 
+Cash flows from operating activities
+  
+Net income $ 1,217 $ 443 $ 2,798
+ 
+Adjustments to reconcile net income to net cash flows provided by operating activities:
+  
+Depreciation, amortization and accretion, including nuclear fuel and energy contract amortization 3,063 3,415 3,056
+  
+Asset impairments 201 50 510
+  
+Gain on sales of assets and businesses (27) (48) (2)
+  
+Bargain purchase gain — — (233)
+  
+Gain on deconsolidation of business — — (213)
+  
+Deferred income taxes and amortization of investment tax credits 361 (451) (2,023)
+  
+Net fair value changes related to derivatives 228 307 167
+  
+Net realized and unrealized (gains) losses on NDT fund investments (663) 303 (616)
+  
+Other non-cash operating activities (124) 298 112
+ 
+Changes in assets and liabilities:
+  
+Accounts receivable (186) (359) (320)
+  
+Receivables from and payables to affiliates, net (52) 8 (7)
+  
+Inventories (47) (12) (29)
+  
+Accounts payable and accrued expenses (248) 376 4
+  
+Option premiums (paid) received, net (29) (43) 28
+  
+Collateral (posted) received, net (481) 64 (129)
+  
+Income taxes 302 (193) 496
+  
+Pension and non-pension postretirement benefit contributions (175) (139) (148)
+  
+Other assets and liabilities (467) (158) (152)
+Net cash flows provided by operating activities 2,873 3,861 3,299
+ 
+Cash flows from investing activities
+  
+Capital expenditures (1,845) (2,242) (2,259)
+  
+Proceeds from NDT fund sales 10,051 8,762 7,845
+  
+Investment in NDT funds (10,087) (8,997) (8,113)
+Reduction of restricted cash from deconsolidation of business
+  
+— — (87)
+  
+Proceeds from sales of assets and businesses 52 90 218
+  
+Acquisitions of assets and businesses, net (41) (154) (208)
+  
+Other investing activities 3 10 (58)
+Net cash flows used in investing activities (1,867) (2,531) (2,662)
+ 
+Cash flows from financing activities
+  
+Change in short-term borrowings 320 — (620)
+  
+Proceeds from short-term borrowings with maturities greater than 90 days — — 121
+  
+Repayments of short-term borrowings with maturities greater than 90 days — — (200)
+  
+Issuance of long-term debt 42 15 1,645
+  
+Retirement of long-term debt (813) (141) (1,261)
+  
+Changes in Exelon intercompany money pool (100) 46 (1)
+  
+Distributions to member (899) (1,001) (659)
+  
+Contributions from member 41 155 102
+  
+Sale of noncontrolling interests — — 396
+  
+Other financing activities (51) (55) (54)
+Net cash flows used in financing activities (1,460) (981) (531)
+  
+(Decrease) increase in cash, cash equivalents and restricted cash (454) 349 106
+  
+Cash, cash equivalents and restricted cash at beginning of period 903 554 448
+Cash, cash equivalents and restricted cash at end of period $ 449 $ 903 $ 554
+ 
+ 
+Supplemental cash flow information

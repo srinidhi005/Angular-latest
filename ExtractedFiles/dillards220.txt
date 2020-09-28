@@ -1,0 +1,124 @@
+
+Page#1
+Consolidated Balance Sheets
+Dollars in Thousands
+January 28, 2017 January 30, 2016
+Assets  
+Current assets:  
+Cash and cash equivalents $ 346,985 $ 202,869
+Accounts receivable  48,230 47,138
+Merchandise inventories 1,406,403 1,374,505
+Other current assets  36,303 44,371
+Total current assets  1,837,921 1,668,883
+Property and equipment:  
+Land and land improvements 64,313 64,313
+Buildings and leasehold improvements 3,106,481 3,106,014
+Furniture, fixtures and equipment 1,065,291 1,130,471
+Buildings under construction 9,024 398
+Buildings and equipment under capital leases 23,648 23,648
+Less accumulated depreciation and amortization (2,478,490) (2,385,012)
+1,790,267 1,939,832
+Other assets  259,948 255,186
+Total assets  $ 3,888,136 $ 3,863,901
+Liabilities and stockholders' equity  
+Current liabilities:  
+Trade accounts payable and accrued expenses $ 839,305 $ 691,310
+Current portion of long-term debt 87,201 —
+Current portion of capital lease obligations 3,281 3,284
+Federal and state income taxes 46,730 56,622
+Total current liabilities 976,517 751,216
+Long-term debt  526,106 613,061
+Capital lease obligations  3,988 7,269
+Other liabilities  238,424 238,980
+Deferred income taxes  225,684 258,070
+Subordinated debentures . 200,000 200,000
+Commitments and contingencies 
+Stockholders' equity:  
+Common stock, Class A—119,814,702 and 119,767,148 shares issued; 28,147,158
+and 31,909,989 shares outstanding 1,198 1,198
+Common stock, Class B (convertible)—4,010,401 and 4,010,401 shares issued and
+40 40
+outstanding  
+Additional paid-in capital 943,467 940,796
+Accumulated other comprehensive loss (11,137) (17,118)
+Retained earnings  4,153,844 3,994,211
+Less treasury stock, at cost, Class A—91,667,544 and 87,857,159 shares (3,369,995) (3,123,822)
+Total stockholders' equity 1,717,417 1,795,305
+Total liabilities and stockholders' equity $ 3,888,136 $ 3,863,901
+See notes to consolidated financial statements.
+F-4
+Page#2
+Consolidated Statements of Income
+Dollars in Thousands, Except Per Share Data
+ 
+Years Ended
+ January 28, 2017 January 30, 2016 January 31, 2015
+Net sales $ 6,256,971 $ 6,595,626 $ 6,621,054
+Service charges and other income 161,038 158,919 159,075
+6,418,009 6,754,545 6,780,129
+Cost of sales 4,166,411 4,350,805 4,272,605
+Selling, general and administrative expenses 1,655,658 1,669,916 1,663,859
+Depreciation and amortization 243,657 250,011 250,683
+Rentals 25,954 26,732 26,977
+Interest and debt expense, net 63,059 60,923 61,306
+Gain on disposal of assets (905) (12,626) (6,069)
+Asset impairment and store closing charges 6,500 — —
+Income before income taxes and income on and equity in losses of
+joint ventures 257,675 408,784 510,768
+Income taxes 88,500 140,770 179,480
+Income on and equity in losses of joint ventures 45 1,356 565
+Net income $ 169,220 $ 269,370 $ 331,853
+Earnings per common share: 
+Basic $ 4.93 $ 6.91 $ 7.79
+Diluted 4.93 6.91 7.79
+  See notes to consolidated financial statements.
+F-5
+Page#3
+Consolidated Statements of Cash Flows
+Dollars in Thousands
+ 
+Years Ended
+ January 28, 2017 January 30, 2016 January 31, 2015
+Operating activities: 
+Net income $ 169,220 $ 269,370 $ 331,853
+Adjustments to reconcile net income to net cash provided by
+operating activities: 
+Depreciation and amortization of property and other deferred cost 245,923 252,147 252,334
+Deferred income taxes (35,703) (35,975) (30,927)
+Gain on disposal of assets (905) (12,626) (6,069)
+Proceeds from insurance 3,173 — —
+Gain from insurance proceeds (1,635) — —
+Asset impairment and store closing charges 6,500 — —
+Changes in operating assets and liabilities: 
+(Increase) decrease in accounts receivable (1,092) 9,372 (25,670)
+Increase in merchandise inventories (33,436) (24) (29,160)
+Decrease in other current assets 8,981 2,911 1,406
+Decrease in other assets 5,844 2,939 1,031
+Increase (decrease) in trade accounts payable and accrued
+expenses and other liabilities 156,342 (33,702) 104,923
+(Decrease) increase in income taxes payable (6,205) (4,186) 11,868
+Net cash provided by operating activities 517,007 450,226 611,589
+Investing activities: 
+Purchase of property and equipment (104,824) (165,788) (151,888)
+Proceeds from disposal of assets 1,150 25,503 14,767
+Proceeds from insurance 1,525 — —
+Decrease (increase) in restricted cash — 7,346 (7,346)
+Investment in joint venture (20,000) — —
+Distribution from joint venture 2,500 — 1,055
+Net cash used in investing activities (119,649) (132,939) (143,412)
+Financing activities: 
+Principal payments on long-term debt and capital lease obligations (3,284) (5,299) (784)
+Cash dividends paid (9,787) (10,008) (10,367)
+Purchase of treasury stock (240,171) (500,000) (290,408)
+Issuance cost of line of credit — (2,863) —
+Net cash used in financing activities (253,242) (518,170) (301,559)
+Increase (decrease) in cash and cash equivalents 144,116 (200,883) 166,618
+Cash and cash equivalents, beginning of year 202,869 403,752 237,134
+Cash and cash equivalents, end of year $ 346,985 $ 202,869 $ 403,752
+Non-cash transactions: 
+Accrued capital expenditures $ 3,453 $ 10,909 $ 12,051
+Stock awards 2,671 2,803 2,785
+Capital lease transactions — 9,093 —
+Accrued purchases of treasury stock 6,002 — —
+ See notes to consolidated financial statements.
+F-8

@@ -1,0 +1,169 @@
+
+Page#1
+ 
+VULCAN MATERIALS COMPANY AND SUBSIDIARY COMPANIES 
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME 
+ 
+ 
+  2018  2017 
+2019 
+For the years ended December 31 
+in thousands, except per share data 
+Total revenues $ 4,929,103 $  4,382,869 $  3,890,296  
+Cost of revenues  3,673,202 3,281,924 2,896,783  
+  Gross profit  1,255,901 1,100,945 993,513  
+Selling, administrative and general expenses  370,548 333,371 324,972  
+Gain on sale of property, plant & equipment and businesses  23,752 14,944 17,827  
+Other operating expense, net  (31,647) (34,805) (47,324) 
+  Operating earnings  877,458 747,713 639,044  
+Other nonoperating income, net  9,243 13,000 13,357  
+Interest income  1,155 554 4,437  
+Interest expense  130,155 137,977 295,522  
+Earnings from continuing operations before income taxes  757,701 623,290 361,316  
+Income tax expense (benefit) 
+  Current  58,941 40,516 354  
+  Deferred  76,257 64,933 (232,429) 
+Total income tax expense (benefit)  135,198 105,449 (232,075) 
+Earnings from continuing operations  622,503 517,841 593,391  
+Earnings (loss) on discontinued operations, net of tax  (4,841) (2,036) 7,794  
+Net earnings $ 617,662 $ 515,805 $ 601,185  
+Other comprehensive income (loss), net of tax 
+  Deferred gain on interest rate derivative  0 2,496 0  
+  Amortization of prior interest rate derivative loss  227 226 1,862  
+  Adjustment for funded status of benefit plans  (26,892) (207) (14,106) 
+  Amortization of actuarial loss and prior service cost for benefit plans  1,142 4,365 2,154  
+Other comprehensive income (loss)  (25,523) 6,880 (10,090) 
+Comprehensive income $ 592,139 $ 522,685 $ 591,095  
+Basic earnings (loss) per share 
+  Continuing operations  $ 4.71 $ 3.91 $ 4.48  
+  Discontinued operations  (0.04) (0.01) 0.06  
+  Net earnings $ 4.67 $ 3.90 $ 4.54  
+Diluted earnings (loss) per share 
+  Continuing operations  $ 4.67 $ 3.87 $ 4.40  
+  Discontinued operations  (0.04) (0.02) 0.06  
+  Net earnings $ 4.63 $ 3.85 $ 4.46  
+Weighted-average common shares outstanding 
+  Basic  132,300 132,393 132,513  
+  Assuming dilution  133,385 133,926 134,878  
+T he accompanying Notes to Consolidated Financial Statements are an integral part of these statements. 
+ 
+Part II 66 
+ 
+Page#2
+ 
+VULCAN MATERIALS COMPANY AND SUBSIDIARY COMPANIES 
+CONSOLIDATED BALANCE SHEETS 
+ 
+ 
+  2018 
+2019 
+As of December 31 
+in thousands 
+Assets 
+Cash and cash equivalents  $ 271,589 $ 40,037  
+Restricted cash  2,917 4,367  
+Accounts and notes receivable 
+  Customers, less allowance for doubtful accounts 
+ 2019 — $3,125; 2018 — $2,090  532,012 512,279  
+  Other  38,104 28,499  
+Inventories  458,308 429,330  
+Other current assets  76,396 64,633  
+Total current assets  1,379,326 1,079,145  
+Investments and long-term receivables  60,709 44,615  
+Property, plant & equipment, net  4,316,038 4,237,307  
+Operating lease right-of-use assets, net  408,189 0  
+Goodwill  3,167,061 3,165,396  
+Other intangible assets, net  1,091,475 1,095,378  
+Other noncurrent assets  225,995 210,289  
+Total assets $  10,648,793 $  9,832,130  
+Liabilities 
+Current maturities of long-term debt  25 23  
+Short-term debt  0 133,000  
+Trade payables and accruals  265,159 216,473  
+Accrued salaries, wages and management incentives  97,228 91,960  
+Accrued interest  19,167 19,631  
+Other current liabilities  153,984 141,463  
+Total current liabilities  535,563 602,550  
+Long-term debt  2,784,315 2,779,357  
+Deferred income taxes, net  633,039 567,283  
+Deferred management incentive and other compensation  22,856 16,604  
+Pension benefits  142,363 119,587  
+Other postretirement benefits  35,848 35,274  
+Asset retirement obligations  210,323 225,726  
+Deferred revenue  179,880 186,397  
+Operating lease liabilities  388,042 0  
+Other noncurrent liabilities  94,707 96,449  
+Total liabilities 
+$ 5,026,936 $  4,629,227  
+Other commitments and contingencies (Note 12) 
+Equity 
+Common stock, $1 par value, Authorized 480,000 shares, 
+  Outstanding 132,371 and 131,762 shares, respectively  132,371 131,762  
+Capital in excess of par value  2,791,353 2,798,486  
+Retained earnings  2,895,871 2,444,870  
+Accumulated other comprehensive loss  (197,738) (172,215) 
+Total equity  5,621,857 5,202,903  
+Total liabilities and equity $  10,648,793 $  9,832,130  
+T he accompanying Notes to Consolidated Financial Statements are an integral part of these statements. 
+ 
+Part II 67 
+ 
+Page#3
+ 
+VULCAN MATERIALS COMPANY AND SUBSIDIARY COMPANIES 
+CONSOLIDATED STATEMENTS OF CASH FLOWS 
+ 
+ 
+ 2018 2017  
+2019  
+For the years ended December 31 
+in thousands 
+Operating Activities 
+Net earnings $ 617,662 $ 515,805 $ 601,185  
+Adjustments to reconcile net earnings to net cash provided by operating activities 
+  Depreciation, depletion, accretion and amortization  374,596 346,246 305,965  
+  Noncash operating lease expense  35,344 0 0  
+  Net gain on sale of property, plant & equipment and businesses  (23,752) (14,944) (17,827) 
+  Contributions to pension plans  (8,882) (109,631) (20,023) 
+  Share-based compensation expense  31,843 25,215 26,635  
+  Deferred tax expense (benefit)  76,011 64,639 (235,697) 
+  Cost of debt purchase  0 6,922 140,772  
+ (Increase) decrease in assets excluding the initial effects of business 
+ acquisitions and dispositions 
+ Accounts and notes receivable  (29,734) 63,230 (81,561) 
+ Inventories  (28,273) (34,976) (14,121) 
+ Prepaid expenses  5,990 (2,167) (28,445) 
+ Other assets  (61,195) (58,489) (23,759) 
+  Increase (decrease) in liabilities excluding the initial effects of business 
+ acquisitions and dispositions 
+ Accrued interest and income taxes  (4,644) 12,148 1,303  
+ Trade payables and other accruals  21,788 40,181 9,823  
+ Other noncurrent liabilities  (51,150) (26,901) (32,592) 
+Other, net  28,518 5,499 13,020  
+Net cash provided by operating activities $ 984,122 $ 832,777 $ 644,678  
+Investing Activities 
+Purchases of property, plant & equipment  (384,094) (469,088) (459,566) 
+Proceeds from sale of property, plant & equipment  22,661 22,210 15,756  
+Proceeds from sale of businesses  1,744 11,256 287,292  
+Payment for businesses acquired, net of acquired cash  (44,151) (221,419) (1,109,725) 
+Other, net  (11,997) (12,850) (3,248) 
+Net cash used for investing activities $ (415,837)  $ (669,891)  $ (1,269,491) 
+Financing Activities 
+Proceeds from short-term debt  366,900 739,900 5,000  
+Payment of short-term debt  (499,900) (606,900) (5,000) 
+Payment of current maturities and long-term debt  (23) (892,055) (1,463,308) 
+Proceeds from issuance of long-term debt  0 850,000 2,200,000  
+Debt issuance and exchange costs  0 (45,513) (15,291) 
+Settlements of interest rate derivatives  0 3,378 0  
+Purchases of common stock  (2,602) (133,983) (60,303) 
+Dividends paid  (163,973) (148,109) (132,335) 
+Share-based compensation, shares withheld for taxes  (38,585) (31,846) (25,323) 
+Net cash provided by (used for) financing activities $ (338,183)  $ (265,128)  $ 503,440  
+Net increase (decrease) in cash and cash equivalents and restricted cash  230,102 (102,242) (121,373) 
+Cash and cash equivalents and restricted cash at beginning of year  44,404 146,646 268,019  
+Cash and cash equivalents and restricted cash at end of year $ 274,506 $ 44,404 $ 146,646  
+T he accompanying Notes to Consolidated Financial Statements are an integral part of these statements. 
+ 
+ 
+Part II 68 
+ 

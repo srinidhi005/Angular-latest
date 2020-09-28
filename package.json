@@ -109,6 +109,7 @@
     "rxjs": "6.5.3",
     "sequelize": "^5.21.2",
     "tslib": "1.10.0",
+    "xlsx": "^0.16.7",
     "zone.js": "0.9.1"
   },
   "devDependencies": {

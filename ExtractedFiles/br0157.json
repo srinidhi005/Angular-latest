@@ -1,0 +1,161 @@
+[annotation_spec_id: "3276756856516640768"
+display_name: "Units"
+text_extraction {
+  score: 0.9997233748435974
+  text_segment {
+    start_offset: 138
+    end_offset: 146
+    content: "millions"
+  }
+}
+, annotation_spec_id: "4810686627938566144"
+display_name: "Year1"
+text_extraction {
+  score: 0.9999978542327881
+  text_segment {
+    start_offset: 171
+    end_offset: 175
+    content: "2019"
+  }
+}
+, annotation_spec_id: "199000609511178240"
+display_name: "Year2"
+text_extraction {
+  score: 1.0
+  text_segment {
+    start_offset: 176
+    end_offset: 180
+    content: "2018"
+  }
+}
+, annotation_spec_id: "7116529637152260096"
+display_name: "Year3"
+text_extraction {
+  score: 0.9999957084655762
+  text_segment {
+    start_offset: 181
+    end_offset: 185
+    content: "2017"
+  }
+}
+, annotation_spec_id: "3081304371028295680"
+display_name: "TotalRevenue"
+text_extraction {
+  score: 0.9999970197677612
+  text_segment {
+    start_offset: 190
+    end_offset: 195
+    content: "sales"
+  }
+}
+, annotation_spec_id: "2651952776963162112"
+display_name: "Currency"
+text_extraction {
+  score: 0.9967227578163147
+  text_segment {
+    start_offset: 196
+    end_offset: 197
+    content: "$"
+  }
+}
+, annotation_spec_id: "5963608132545413120"
+display_name: "COGS"
+text_extraction {
+  score: 0.999998927116394
+  text_segment {
+    start_offset: 226
+    end_offset: 239
+    content: "Cost of sales"
+  }
+}
+, annotation_spec_id: "5903164679831683072"
+display_name: "SGA"
+text_extraction {
+  score: 0.999995768070221
+  text_segment {
+    start_offset: 264
+    end_offset: 307
+    content: "Selling, general and administrative expense"
+  }
+}
+, annotation_spec_id: "8269451141759107072"
+display_name: "EBIT"
+text_extraction {
+  score: 0.9999833106994629
+  text_segment {
+    start_offset: 435
+    end_offset: 453
+    content: "Operating earnings"
+  }
+}
+, annotation_spec_id: "5387147380241989632"
+display_name: "EBT"
+text_extraction {
+  score: 0.39759698510169983
+  text_segment {
+    start_offset: 580
+    end_offset: 621
+    content: "Earnings before interest and income taxes"
+  }
+}
+, annotation_spec_id: "440650175552159744"
+display_name: "InterestExpense"
+text_extraction {
+  score: 0.9999423623085022
+  text_segment {
+    start_offset: 640
+    end_offset: 656
+    content: "Interest expense"
+  }
+}
+, annotation_spec_id: "5387147380241989632"
+display_name: "EBT"
+text_extraction {
+  score: 0.9999998807907104
+  text_segment {
+    start_offset: 746
+    end_offset: 774
+    content: "Earnings before income taxes"
+  }
+}
+, annotation_spec_id: "775461361814601728"
+display_name: "Taxes"
+text_extraction {
+  score: 0.9999794363975525
+  text_segment {
+    start_offset: 793
+    end_offset: 813
+    content: "Income tax provision"
+  }
+}
+, annotation_spec_id: "7692990389455683584"
+display_name: "NetIncome"
+text_extraction {
+  score: 0.9782328605651855
+  text_segment {
+    start_offset: 1129
+    end_offset: 1148
+    content: "Net (loss) earnings"
+  }
+}
+, annotation_spec_id: "2504843618724872192"
+display_name: "Company"
+text_extraction {
+  score: 0.9999901652336121
+  text_segment {
+    start_offset: 1706
+    end_offset: 1727
+    content: "BRUNSWICK CORPORATION"
+  }
+}
+, annotation_spec_id: "1351922114118025216"
+display_name: "DandA"
+text_extraction {
+  score: 0.9999954104423523
+  text_segment {
+    start_offset: 4886
+    end_offset: 4915
+    content: "Depreciation and amortization"
+  }
+}
+]

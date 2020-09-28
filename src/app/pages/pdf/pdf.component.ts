@@ -1,6 +1,7 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, ViewChild, ElementRef } from '@angular/core';
 import "../../../assets/js/pdf.js";
 import * as jsPDF from 'jspdf'; 
+import * as xlsx from 'xlsx';
 // import html2canvas from 'html2canvas';
 // import pdfMake from 'pdfmake';
 // import 'jspdf-autotable';
@@ -10,8 +11,26 @@ import * as jsPDF from 'jspdf';
   styleUrls: ['./pdf.component.scss']
 })
 export class PdfComponent implements OnInit {
-
+  @ViewChild('epltable', { static: false }) epltable: ElementRef;
   constructor() { }
+  exportToExcel() {
+  	var dt = new Date();
+	var day = dt.getDate();
+	var month = dt.getMonth()+1 ;
+	var year = dt.getFullYear();	
+			    				  
+	var postfix = month + "." + day + "." + year ;
+	var companyName = decodeURI(window.location.href).split("=")[1];
+
+	$("#myTable tr:first").after("<tr><td>"+companyName+"</td></tr>");
+	$("#myTable tr:last").after('<tr></tr><tr><td style="font-weight: bold;">RMI/INSIGHTS</td></tr>');
+	const ws: xlsx.WorkSheet = xlsx.utils.table_to_sheet(this.epltable.nativeElement);
+	$("#myTable tr:eq(1)").remove();
+	$("#myTable tr:last").remove();
+	const wb: xlsx.WorkBook = xlsx.utils.book_new();
+	xlsx.utils.book_append_sheet(wb, ws, companyName);
+	xlsx.writeFile(wb, companyName+postfix+'.xlsx');
+  }
   ngOnInit() {
   $('.cover-spin').show();
   var companyName = decodeURI(window.location.href).split("=")[1];

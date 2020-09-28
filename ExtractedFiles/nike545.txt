@@ -1,0 +1,145 @@
+
+Page#1
+ Table of Contents
+ACTIVISION BLIZZARD, INC. AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS
+(Amounts in millions, except share data)
+At December 31, At December 31,
+ 
+ 2018  2017 
+Assets 
+Current assets: 
+Cash and cash equivalents  $ 4,225 $ 4,713 
+Accounts receivable, net of allowances of $190 and $279, at December 31, 2018
+and December 31, 2017, respectively 1,035  918 
+Inventories, net 43  46 
+Software development 264  367 
+Other current assets 539  476 
+Total current assets 6,106  6,520 
+Software development 65  86 
+Property and equipment, net 282  294 
+Deferred income taxes, net 403  459 
+Other assets 482  440 
+Intangible assets, net 735  1,106 
+Goodwill 9,762  9,763 
+Total assets  $ 17,835 $ 18,668 
+Liabilities and Shareholders' Equity 
+Current liabilities: 
+Accounts payable  $ 253 $ 323 
+Deferred revenues 1,493  1,929 
+Accrued expenses and other liabilities 896  1,411 
+Total current liabilities 2,642  3,663 
+Long-term debt, net 2,671  4,390 
+Deferred income taxes, net 18  21 
+Other liabilities 1,147  1,132 
+Total liabilities 6,478  9,206 
+Commitments and contingencies (Note 22) 
+Shareholders' equity: 
+Common stock, $0.000001 par value, 2,400,000,000 shares authorized,
+1,192,093,991 and 1,186,181,666 shares issued at December 31, 2018 and
+December 31, 2017, respectively —  — 
+Additional paid-in capital 10,963  10,747 
+Less: Treasury stock, at cost, 428,676,471 shares at December 31, 2018 and
+December 31, 2017 (5,563)  (5,563)
+Retained earnings 6,558  4,916 
+Accumulated other comprehensive loss (601)  (638)
+Total shareholders' equity 11,357  9,462 
+Total liabilities and shareholders' equity  $ 17,835 $ 18,668 
+  
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+F-3
+Page#2
+ Table of Contents
+ACTIVISION BLIZZARD, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(Amounts in millions, except per share data)
+For the Years Ended
+ 
+ December 31, 
+  2018  2017  2016 
+Net revenues 
+Product sales  $ 2,255 $ 2,110 $ 2,196 
+Subscription, licensing, and other revenues 5,245  4,907  4,412 
+Total net revenues (Note 2) 7,500  7,017  6,608 
+Costs and expenses 
+Cost of revenues—product sales: 
+Product costs 719  733  741 
+Software royalties, amortization, and intellectual property licenses 371  300  331 
+Cost of revenues—subscription, licensing, and other revenues: 
+Game operations and distribution costs 1,028  984  851 
+Software royalties, amortization, and intellectual property licenses 399  484  471 
+Product development 1,101  1,069  958 
+Sales and marketing 1,062  1,378  1,210 
+General and administrative 832  760  634 
+Total costs and expenses 5,512  5,708  5,196 
+Operating income 1,988  1,309  1,412 
+Interest and other expense (income), net (Note 17) 71  146  214 
+Loss on extinguishment of debt 40  12  92 
+Income before income tax expense 1,877  1,151  1,106 
+Income tax expense 64  878  140 
+Net income  $ 1,813 $ 273 $ 966 
+Earnings per common share 
+Basic  $ 2.38 $ 0.36 $ 1.30 
+Diluted  $ 2.35 $ 0.36 $ 1.28 
+Weighted-average number of shares outstanding 
+Basic 762  754  740 
+Diluted 771  766  754 
+  
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+F-4
+Page#3
+Table of Contents
+ 
+ACTIVISION BLIZZARD, INC. AND SUBSIDIARIES 
+CONSOLIDATED STATEMENTS OF CASH FLOWS 
+(Amounts in millions) 
+For the Years Ended
+ 
+ December 31, 
+  2018  2017  2016 
+Cash flows from operating activities: 
+Net income  $ 1,813 $ 273 $ 966 
+Adjustments to reconcile net income to net cash provided by operating activities: 
+Deferred income taxes 20  (181)  (9)
+Provision for inventories 6  33  42 
+Depreciation and amortization 509  888  829 
+Amortization of capitalized software development costs and intellectual property
+licenses (1) 489  311  321 
+Loss on extinguishment of debt (Note 13) 40  12  92 
+Amortization of debt discount and financing costs 6  12  21 
+Share-based compensation expense (2) 209  176  147 
+Other 1  28  4 
+Changes in operating assets and liabilities, net of effect from business acquisitions: 
+Accounts receivable, net (114)  (165)  84 
+Inventories (5)  (26)  32 
+Software development and intellectual property licenses (372)  (301)  (362)
+Other assets (51)  (97)  (10)
+Deferred revenues (122)  220  (35)
+Accounts payable (65)  85  (50)
+Accrued expenses and other liabilities (574)  945  83 
+Net cash provided by operating activities 1,790  2,213  2,155 
+Cash flows from investing activities: 
+Proceeds from maturities of available-for-sale investments 116  80  — 
+Purchases of available-for-sale investments (209)  (135)  — 
+Acquisition of business, net of cash acquired (see Note 23) —  —  (4,586)
+Capital expenditures (131)  (155)  (136)
+Other investing activities (6)  3  (7)
+Net cash used in investing activities (230)  (207)  (4,729)
+Cash flows from financing activities: 
+Proceeds from issuance of common stock to employees 99  178  106 
+Tax payment related to net share settlements on restricted stock units (94)  (56)  (115)
+Dividends paid (259)  (226)  (195)
+Proceeds from debt issuances, net of discounts —  3,741  6,878 
+Repayment of long-term debt (1,740)  (4,251)  (6,104)
+Premium payment for early redemption of note (Note 13) (25)  —  (63)
+Other financing activities (1)  (10)  (7)
+Net cash (used in) provided by financing activities (2,020)  (624)  500 
+Effect of foreign exchange rate changes on cash and cash equivalents (31)  76  (56)
+Net increase (decrease) in cash and cash equivalents and restricted cash (491)  1,458  (2,130)
+Cash and cash equivalents and restricted cash at beginning of period 4,720  3,262  5,392 
+Cash and cash equivalents and restricted cash at end of period  $ 4,229 $ 4,720 $ 3,262 
+(1) Excludes deferral and amortization of share-based compensation expense. 
+(2) Includes the net effects of capitalization, deferral, and amortization of share-based compensation expense.
+  
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+F-7

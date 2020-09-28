@@ -1,0 +1,141 @@
+[annotation_spec_id: "2504843618724872192"
+display_name: "Company"
+text_extraction {
+  score: 0.9999994039535522
+  text_segment {
+    start_offset: 59
+    end_offset: 74
+    content: "FMC Corporation"
+  }
+}
+, annotation_spec_id: "2470331048240611328"
+display_name: "IncomeStatement"
+text_extraction {
+  score: 0.8886862397193909
+  text_segment {
+    start_offset: 75
+    end_offset: 115
+    content: "Consolidated Statements of Income (Loss)"
+  }
+}
+, annotation_spec_id: "4810686627938566144"
+display_name: "Year1"
+text_extraction {
+  score: 0.9996992945671082
+  text_segment {
+    start_offset: 140
+    end_offset: 144
+    content: "2017"
+  }
+}
+, annotation_spec_id: "199000609511178240"
+display_name: "Year2"
+text_extraction {
+  score: 0.9999984502792358
+  text_segment {
+    start_offset: 145
+    end_offset: 149
+    content: "2016"
+  }
+}
+, annotation_spec_id: "7116529637152260096"
+display_name: "Year3"
+text_extraction {
+  score: 0.9999994039535522
+  text_segment {
+    start_offset: 150
+    end_offset: 154
+    content: "2015"
+  }
+}
+, annotation_spec_id: "2651952776963162112"
+display_name: "Currency"
+text_extraction {
+  score: 0.9944912195205688
+  text_segment {
+    start_offset: 155
+    end_offset: 156
+    content: "$"
+  }
+}
+, annotation_spec_id: "5963608132545413120"
+display_name: "COGS"
+text_extraction {
+  score: 0.9999974370002747
+  text_segment {
+    start_offset: 465
+    end_offset: 479
+    content: "Costs of sales"
+  }
+}
+, annotation_spec_id: "3657765123331719168"
+display_name: "GrossProfit"
+text_extraction {
+  score: 0.9999975562095642
+  text_segment {
+    start_offset: 493
+    end_offset: 505
+    content: "Gross Margin"
+  }
+}
+, annotation_spec_id: "5903164679831683072"
+display_name: "SGA"
+text_extraction {
+  score: 0.9999895691871643
+  text_segment {
+    start_offset: 506
+    end_offset: 550
+    content: "Selling, general and administrative expenses"
+  }
+}
+, annotation_spec_id: "8269451141759107072"
+display_name: "EBIT"
+text_extraction {
+  score: 0.8831382393836975
+  text_segment {
+    start_offset: 720
+    end_offset: 727
+    content: "loss of"
+  }
+}
+, annotation_spec_id: "8269451141759107072"
+display_name: "EBIT"
+text_extraction {
+  score: 0.9604501724243164
+  text_segment {
+    start_offset: 806
+    end_offset: 813
+    content: "loss of"
+  }
+}
+, annotation_spec_id: "5387147380241989632"
+display_name: "EBT"
+text_extraction {
+  score: 0.9999551177024841
+  text_segment {
+    start_offset: 858
+    end_offset: 918
+    content: "Income (loss) from continuing operations before income taxes"
+  }
+}
+, annotation_spec_id: "775461361814601728"
+display_name: "Taxes"
+text_extraction {
+  score: 0.9999549984931946
+  text_segment {
+    start_offset: 919
+    end_offset: 945
+    content: "Provision for income taxes"
+  }
+}
+, annotation_spec_id: "7692990389455683584"
+display_name: "NetIncome"
+text_extraction {
+  score: 0.9768832921981812
+  text_segment {
+    start_offset: 1275
+    end_offset: 1285
+    content: "NET INCOME"
+  }
+}
+]

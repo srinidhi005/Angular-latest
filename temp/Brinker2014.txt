@@ -1,0 +1,143 @@
+
+Page#1
+BRINKERINTERNATIONAL,INC.
+CONSOLIDATEDSTATEMENTSOFCOMPREHENSIVEINCOME
+(Inthousands,exceptpershareamounts)
+FiscalYears
+2014 2013 2012
+Revenues:
+Companysales.......................................... $2,823,069 $2,766,618 $2,748,462
+Franchiseandotherrevenues .............................. 82,383 79,480 72,260
+Totalrevenues ...................................... 2,905,452 2,846,098 2,820,722
+OperatingCostsandExpenses:
+Companyrestaurants(excludingdepreciationandamortization)
+Costofsales ....................................... 758,028 758,377 769,729
+Restaurantlabor..................................... 905,589 892,413 891,910
+Restaurantexpenses ................................. 682,271 655,214 649,830
+Companyrestaurantexpenses .............................. 2,345,888 2,306,004 2,311,469
+Depreciationandamortization ............................. 136,081 131,481 125,054
+Generalandadministrative ................................ 132,094 134,538 143,388
+Othergainsandcharges .................................. 49,224 17,300 8,974
+Totaloperatingcostsandexpenses ...................... 2,663,287 2,589,323 2,588,885
+Operatingincome ........................................... 242,165 256,775 231,837
+Interestexpense ............................................. 28,091 29,118 26,800
+Other,net .................................................. (2,214) (2,658) (3,772)
+Incomebeforeprovisionforincometaxes ........................ 216,288 230,315 208,809
+Provisionforincometaxes .................................... 62,249 66,956 57,577
+Netincome ........................................ $ 154,039 $ 163,359 $ 151,232
+Basicnetincomepershare .................................... $ 2.33 $ 2.28 $ 1.93
+Dilutednetincomepershare................................... $ 2.26 $ 2.20 $ 1.87
+Basicweightedaveragesharesoutstanding ....................... 66,251 71,788 78,559
+Dilutedweightedaveragesharesoutstanding ...................... 68,152 74,158 80,664
+Othercomprehensiveincome(loss):
+Foreigncurrencytranslationadjustment ...................... $ (940) $ 0 $ 0
+Othercomprehensiveloss ............................. (940) 0 0
+Comprehensiveincome ................................... $ 153,099 $ 163,359 $ 151,232
+Dividendspershare .......................................... $ 0.96 $ 0.80 $ 0.64
+Seeaccompanyingnotestoconsolidatedfinancialstatements.
+F-14
+Page#2
+BRINKERINTERNATIONAL,INC.
+CONSOLIDATEDBALANCESHEETS
+(Inthousands,exceptshareandpershareamounts)
+2014 2013
+ASSETS
+CurrentAssets:
+Cashandcashequivalents .................................................... $ 57,685 $ 59,367
+Accountsreceivable ......................................................... 47,850 44,082
+Inventories ................................................................ 23,643 24,628
+Prepaidexpensesandother ................................................... 65,506 65,584
+Incometaxesreceivable ...................................................... 0 4,930
+Deferredincometaxes ....................................................... 16,170 0
+Totalcurrentassets...................................................... 210,854 198,591
+PropertyandEquipment:
+Land ..................................................................... 149,184 147,581
+Buildingsandleaseholdimprovements .......................................... 1,483,894 1,435,426
+Furnitureandequipment ..................................................... 593,344 580,115
+Construction-in-progress ..................................................... 32,844 20,588
+2,259,266 2,183,710
+Lessaccumulateddepreciationandamortization .................................. (1,202,812) (1,147,895)
+Netpropertyandequipment............................................... 1,056,454 1,035,815
+OtherAssets:
+Goodwill.................................................................. 133,434 142,103
+Deferredincometaxes ....................................................... 30,090 24,064
+Intangibles ................................................................ 18,841 10,696
+Other..................................................................... 40,931 41,334
+Totalotherassets ....................................................... 223,296 218,197
+Totalassets ............................................................ $1,490,604 $1,452,603
+LIABILITIESANDSHAREHOLDERS’EQUITY
+CurrentLiabilities:
+Currentinstallmentsoflong-termdebt .......................................... $ 27,884 $ 27,596
+Accountspayable ........................................................... 102,931 93,326
+Accruedliabilities .......................................................... 328,017 269,465
+Incometaxespayable ........................................................ 7,278 0
+Deferredincometaxes ....................................................... 0 845
+Totalcurrentliabilities ................................................... 466,110 391,232
+Long-termdebt,lesscurrentinstallments ............................................ 832,302 780,121
+Otherliabilities................................................................. 129,098 131,893
+CommitmentsandContingencies(Notes9and14)
+Shareholders’Equity:
+Commonstock—250,000,000authorizedshares;$.10parvalue;176,246,649sharesissued
+and64,558,909sharesoutstandingatJune25,2014and176,246,649sharesissuedand
+67,444,099sharesoutstandingatJune26,2013 ................................. 17,625 17,625
+Additionalpaid-incapital..................................................... 484,320 477,420
+Accumulatedothercomprehensiveloss.......................................... (940) 0
+Retainedearnings ........................................................... 2,306,532 2,217,623
+2,807,537 2,712,668
+Lesstreasurystock,atcost(111,687,740sharesatJune25,2014and108,802,550sharesat
+June26,2013) ........................................................... (2,744,443) (2,563,311)
+Totalshareholders’equity ................................................ 63,094 149,357
+Totalliabilitiesandshareholders’equity ..................................... $1,490,604 $1,452,603
+Seeaccompanyingnotestoconsolidatedfinancialstatements.
+F-15
+Page#3
+BRINKERINTERNATIONAL,INC.
+CONSOLIDATEDSTATEMENTSOFCASHFLOWS
+(Inthousands)
+FiscalYears
+2014 2013 2012
+CashFlowsfromOperatingActivities:
+Netincome ................................................... $ 154,039 $ 163,359 $ 151,232
+Adjustmentstoreconcilenetincometonetcashprovidedbyoperating
+activities:
+Depreciationandamortization ................................ 136,081 131,481 125,054
+Litigationreserves ......................................... 39,500 0 0
+Restructurechargesandotherimpairments ...................... 8,533 11,425 10,396
+Deferredincometaxes ...................................... (23,041) (4,793) 11,808
+Netloss(gain)ondisposalofassets ........................... 5,161 (6,905) 490
+Stock-basedcompensation ................................... 16,074 15,909 13,461
+(Gain)lossonequityinvestments ............................. (328) 851 1,350
+Other .................................................... 707 363 799
+Changesinassetsandliabilities:
+Accountsreceivable .................................... (5,372) 5,398 608
+Inventories ........................................... 912 908 (15)
+Prepaidexpensesandother .............................. 1,827 82 (2,984)
+Intangiblesandotherassets .............................. (3,397) (4,115) 489
+Currentincometaxes ................................... 14,087 749 (3,874)
+Accountspayable ...................................... 3,756 (9,339) 12,188
+Accruedliabilities ..................................... 14,617 (9,381) (17,197)
+Otherliabilities ........................................ (3,314) (5,304) (367)
+Netcashprovidedbyoperatingactivities 359,842 290,688 303,438
+CashFlowsfromInvestingActivities:
+Paymentsforpropertyandequipment .............................. (161,066) (131,531) (125,226)
+Proceedsfromsaleofassets ...................................... 888 17,157 8,112
+Paymentsforpurchaseofrestaurants ............................... 0 (24,622) (3,120)
+Insurancerecoveries ............................................ 0 1,152 0
+Investmentinequitymethodinvestee .............................. 0 0 (3,170)
+Netcashusedininvestingactivities (160,178) (137,844) (123,404)
+CashFlowsfromFinancingActivities:
+Purchasesoftreasurystock ...................................... (239,597) (333,384) (287,291)
+Borrowingsonrevolvingcreditfacility ............................. 120,000 110,000 40,000
+Paymentsofdividends .......................................... (63,395) (56,343) (50,081)
+Paymentsonrevolvingcreditfacility .............................. (40,000) (150,000) 0
+Proceedsfromissuancesoftreasurystock ........................... 29,295 41,190 43,416
+Paymentsonlong-termdebt...................................... (26,521) (316,380) (18,749)
+Excesstaxbenefitsfromstock-basedcompensation ................... 18,872 8,778 1,406
+Proceedsfromissuanceoflong-termdebt ........................... 0 549,528 70,000
+Paymentsfordeferredfinancingcosts .............................. 0 (5,969) (1,620)
+Netcashusedinfinancingactivities ........................... (201,346) (152,580) (202,919)
+Netchangeincashandcashequivalents ............................ (1,682) 264 (22,885)
+Cashandcashequivalentsatbeginningofyear....................... 59,367 59,103 81,988
+Cashandcashequivalentsatendofyear ............................ $ 57,685 $ 59,367 $ 59,103
+Seeaccompanyingnotestoconsolidatedfinancialstatements.
+F-17

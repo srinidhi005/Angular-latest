@@ -1,0 +1,158 @@
+
+Page#1
+ 
+ 
+SolarReserve, Inc.
+ 
+Consolidated Statements of Operations 
+For the month ended November 30, 2018 
+Unaudited 
+ 
+ 
+ 
+Revenues $ 1,191,788
+Cost of revenues ( 91,657)
+Gross profit 1,100,131
+Operating expenses
+Market and commercial development 2,581,863
+Research, development and engineering 9 2,649
+General and administrative 3,208,342
+Depreciation and amortization 2,244,222
+Total operating expenses 8,127,076
+Operating loss (7,026,945)
+Other income/(expenses)
+Interest expense (2,782,910)
+Other expense (685,277)
+Total other expense (3,468,187)
+Loss from operations before income taxes (10,495,132)
+Income tax expense 1,107
+Net loss (10,494,025)
+Losses attributable to noncontrolling interest 3,697,032
+Net loss attributable to SolarReserve, Inc. $ (6,796,993)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+3 
+ 
+Page#2
+ 
+SolarReserve, Inc. 
+Consolidated Balance Sheets 
+As of November 30, 2018 
+Unaudited 
+ 
+Assets
+Current assets
+Cash and cash equivalents $ 2 ,386,135
+Restricted cash 2 4,449,314
+Trade receivables 1,760,066
+Due from related parties 2 7,244,768
+Prepaid expenses and other current assets 3,277,601
+Total current assets 5 9,117,884
+Due from related parties 3,629,097
+Property and equipment, net 537,136,728
+Restricted cash 5 2,815,802
+Land options 1,194,413
+Deposits 88,420
+Other assets 4,433,269
+Equity method investments 9,242,981
+Total assets $ 667,658,595
+Liabilities, Convertible Preferred Stock and Stockholders’ Deficit
+Current liabilities
+Accounts payable 7,777,928
+Accrued liabilities 1 9,371,979
+Accrued interest 1 1,282,636
+Current portion of long-term debt 2 7,734,094
+Deferred rent, current portion 282,010
+Other current liabilities 127,839
+Current portion of capital lease obligations 4 ,778
+Total current liabilities 6 6,581,264
+Lease obligation, net of current portion 960
+Long-term debt 566,364,792
+Accrued interest 1 6,899,849
+Deferred rent 4,700,931
+Asset retirement obligation 3,676,147
+Other liabilities 286,897
+Due to related parties, noncurrent 4,681,662
+Total liabilities 663,192,502
+Convertible preferred stock, $0.001 par value; 
+ Series A. 80,000,000 shares authorized; 1 8,669,069
+ Series B. 50,000,000 shares authorized; 292,761,642
+ Series C. 96,000,000 shares authorized; 114,058,073
+ Series D. 44,730,000 share authorized; 5 3,947,362
+ Note receivable for preferred shares ( 10,103,055)
+Stockholders’ deficit
+Common stock, $0.001 par value; 500,000,000 shares authorized,
+1 share issued and outstanding
+Noncontrolling interest 139,779,078
+Accumulated deficit (604,646,076)
+Total stockholders’ deficit (464,866,998)
+Total liabilities, convertible preferred stock and stockholders’ deficit $ 667,658,595
+ 
+2 
+ 
+Page#3
+ 
+SolarReserve, Inc. 
+Consolidated Statements of Cash Flows 
+For the month ended November 30, 2018 
+Unaudited 
+ 
+ 
+Cash flows from operating activities:
+Net loss $  ( 10,494,025)
+Adjustments to reconcile net loss to cash flows used in operating activities:
+Depreciation and amortization expense 2,277,031
+Gain from equity method investments ( 62,258)
+Interest on note receivable ( 65,782)
+Amortization of discount on project loans 3 47,274
+Changes in operating assets and liabilities:
+Prepaid expenses and other assets 3 28,576
+Trade receivables 1,749,216
+Due from related parties ( 210,258)
+Deferred rent 7,535
+Other assets (95,313)
+Accounts payable ( 73,860)
+Other liabilities ( 11)
+Accrued interest 2,646,709
+Accrued liabilities 1,332,894
+Net cash used by operating activities (2,312,271)
+Cash flows from investing activities:
+Increase in restricted cash (1,174,206)
+Net proceeds from property and equipment 1,167,842
+Net cash used by investing activities (6,364)
+Cash flows from financing activities:
+Proceeds from notes payable 2,400,000
+Net cash provided by financing activities 2,400,000
+Net increase in cash and cash equivalents 8 1,365
+Cash and cash equivalents at the beginning of the period $ 2,304,770
+Cash and cash equivalents at the end of the period $ 2,386,135
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+ 

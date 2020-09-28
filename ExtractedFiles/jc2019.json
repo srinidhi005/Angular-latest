@@ -1,0 +1,161 @@
+[annotation_spec_id: "199000609511178240"
+display_name: "Year2"
+text_extraction {
+  score: 0.8191479444503784
+  text_segment {
+    start_offset: 1688
+    end_offset: 1692
+    content: "2019"
+  }
+}
+, annotation_spec_id: "7116529637152260096"
+display_name: "Year3"
+text_extraction {
+  score: 0.999975323677063
+  text_segment {
+    start_offset: 1706
+    end_offset: 1710
+    content: "2017"
+  }
+}
+, annotation_spec_id: "2651952776963162112"
+display_name: "Currency"
+text_extraction {
+  score: 0.8063262104988098
+  text_segment {
+    start_offset: 1759
+    end_offset: 1760
+    content: "$"
+  }
+}
+, annotation_spec_id: "3081304371028295680"
+display_name: "TotalRevenue"
+text_extraction {
+  score: 0.9999995827674866
+  text_segment {
+    start_offset: 1824
+    end_offset: 1838
+    content: "Total revenues"
+  }
+}
+, annotation_spec_id: "5963608132545413120"
+display_name: "COGS"
+text_extraction {
+  score: 0.9995526671409607
+  text_segment {
+    start_offset: 1869
+    end_offset: 1925
+    content: "Cost of goods sold, including buying and occupancy costs"
+  }
+}
+, annotation_spec_id: "3657765123331719168"
+display_name: "GrossProfit"
+text_extraction {
+  score: 0.9999997615814209
+  text_segment {
+    start_offset: 1956
+    end_offset: 1968
+    content: "Gross profit"
+  }
+}
+, annotation_spec_id: "5903164679831683072"
+display_name: "SGA"
+text_extraction {
+  score: 0.9999252557754517
+  text_segment {
+    start_offset: 1993
+    end_offset: 2037
+    content: "Selling, general and administrative expenses"
+  }
+}
+, annotation_spec_id: "8269451141759107072"
+display_name: "EBIT"
+text_extraction {
+  score: 0.9999986290931702
+  text_segment {
+    start_offset: 2101
+    end_offset: 2130
+    content: "Income (loss) from operations"
+  }
+}
+, annotation_spec_id: "440650175552159744"
+display_name: "InterestExpense"
+text_extraction {
+  score: 0.9999996423721313
+  text_segment {
+    start_offset: 2152
+    end_offset: 2168
+    content: "Interest expense"
+  }
+}
+, annotation_spec_id: "5387147380241989632"
+display_name: "EBT"
+text_extraction {
+  score: 0.9999980926513672
+  text_segment {
+    start_offset: 2226
+    end_offset: 2250
+    content: "Loss before income taxes"
+  }
+}
+, annotation_spec_id: "775461361814601728"
+display_name: "Taxes"
+text_extraction {
+  score: 0.9999724626541138
+  text_segment {
+    start_offset: 2280
+    end_offset: 2304
+    content: "Benefit for income taxes"
+  }
+}
+, annotation_spec_id: "7692990389455683584"
+display_name: "NetIncome"
+text_extraction {
+  score: 0.9368860125541687
+  text_segment {
+    start_offset: 2332
+    end_offset: 2340
+    content: "Net loss"
+  }
+}
+, annotation_spec_id: "2504843618724872192"
+display_name: "Company"
+text_extraction {
+  score: 0.9998701214790344
+  text_segment {
+    start_offset: 2799
+    end_offset: 2812
+    content: "J.CREW GROUP,"
+  }
+}
+, annotation_spec_id: "2470331048240611328"
+display_name: "IncomeStatement"
+text_extraction {
+  score: 0.7602078914642334
+  text_segment {
+    start_offset: 2818
+    end_offset: 2855
+    content: "Consolidated Statements of Operations"
+  }
+}
+, annotation_spec_id: "199000609511178240"
+display_name: "Year2"
+text_extraction {
+  score: 0.999221682548523
+  text_segment {
+    start_offset: 2946
+    end_offset: 2950
+    content: "2018"
+  }
+}
+, annotation_spec_id: "1351922114118025216"
+display_name: "DandA"
+text_extraction {
+  score: 0.601697564125061
+  text_segment {
+    start_offset: 3148
+    end_offset: 3186
+    content: "Depreciation of property and equipment"
+  }
+}
+]

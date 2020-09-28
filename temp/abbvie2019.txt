@@ -1,0 +1,118 @@
+
+Page#1
+AbbVie Inc. and Subsidiaries
+Consolidated Statements of Earnings
+years ended December 31 (in millions, except per share data) 2019 2018 2017
+Net revenues $33,266 $32,753 $28,216
+Cost of products sold 7,439 7,718 7,042
+Selling, general and administrative 6,942 7,399 6,295
+Research and development 6,407 10,329 5,007
+Acquired in-process research and development 385 424 327
+Other operating expense (income) (890) 500 —
+Total operating costs and expenses 20,283 26,370 18,671
+Operating earnings 12,983 6,383 9,545
+Interest expense, net 1,509 1,144 1,004
+Net foreign exchange loss 42 24 348
+Other expense, net 3,006 18 466
+Earnings before income tax 8,426 5,197 7,727
+Income tax expense (benefit) 544 (490) 2,418
+Net earnings $ 7,882 $ 5,687 $ 5,309
+Per share data
+Basic earnings per share $ 5.30 $ 3.67 $ 3.31
+Diluted earnings per share $ 5.28 $ 3.66 $ 3.30
+Weighted-average basic shares outstanding 1,481 1,541 1,596
+Weighted-average diluted shares outstanding 1,484 1,546 1,603
+The accompanying notes are an integral part of these consolidated financial statements.
+53 2019 Form 10-K 13NOV201221352027 53
+Page#2
+AbbVie Inc. and Subsidiaries
+Consolidated Balance Sheets
+as of December 31 (in millions, except share data) 2019 2018
+Assets
+Current assets
+Cash and equivalents $ 39,924 $ 7,289
+Short-term investments — 772
+Accounts receivable, net 5,428 5,384
+Inventories 1,813 1,605
+Prepaid expenses and other 2,354 1,895
+Total current assets 49,519 16,945
+Investments 93 1,420
+Property and equipment, net 2,962 2,883
+Intangible assets, net 18,649 21,233
+Goodwill 15,604 15,663
+Other assets 2,288 1,208
+Total assets $ 89,115 $ 59,352
+Liabilities and Equity
+Current liabilities
+Short-term borrowings $ — $ 3,699
+Current portion of long-term debt and finance lease obligations 3,753 1,609
+Accounts payable and accrued liabilities 11,832 11,931
+Total current liabilities 15,585 17,239
+Long-term debt and finance lease obligations 62,975 35,002
+Deferred income taxes 1,130 1,067
+Other long-term liabilities 17,597 14,490
+Commitments and contingencies
+Stockholders’ equity (deficit)
+Common stock, $0.01 par value, 4,000,000,000 shares authorized,
+1,781,582,608 shares issued as of December 31, 2019 and
+1,776,510,871 as of December 31, 2018 18 18
+Common stock held in treasury, at cost, 302,671,146 shares as of December 31,
+2019 and 297,686,473 as of December 31, 2018 (24,504) (24,108)
+Additional paid-in capital 15,193 14,756
+Retained earnings 4,717 3,368
+Accumulated other comprehensive loss (3,596) (2,480)
+Total stockholders’ equity (deficit) (8,172) (8,446)
+Total liabilities and equity $ 89,115 $ 59,352
+The accompanying notes are an integral part of these consolidated financial statements.
+55 2019 Form 10-K 13NOV201221352027 55
+Page#3
+AbbVie Inc. and Subsidiaries
+Consolidated Statements of Cash Flows
+years ended December 31 (in millions) (brackets denote cash outflows) 2019 2018 2017
+Cash flows from operating activities
+Net earnings $ 7,882 $ 5,687 $5,309
+Adjustments to reconcile net earnings to net cash from operating activities:
+Depreciation 464 471 425
+Amortization of intangible assets 1,553 1,294 1,076
+Change in fair value of contingent consideration liabilities 3,091 49 626
+Stock-based compensation 430 421 365
+Upfront costs and milestones related to collaborations 490 1,061 470
+Gain on divestitures (330) — —
+Intangible asset impairment 1,030 5,070 354
+Impacts related to U.S. tax reform — 424 1,242
+Other, net 43 76 84
+Changes in operating assets and liabilities:
+Accounts receivable (74) (591) (391)
+Inventories (231) (226) 93
+Prepaid expenses and other assets 97 (499) (118)
+Accounts payable and other liabilities (1,121) 190 425
+Cash flows from operating activities 13,324 13,427 9,960
+Cash flows from investing activities
+Acquisitions and investments (1,135) (736) (308)
+Acquisitions of property and equipment (552) (638) (529)
+Purchases of investment securities (583) (1,792) (2,230)
+Sales and maturities of investment securities 2,699 2,160 2,793
+Other 167 — —
+Cash flows from investing activities 596 (1,006) (274)
+Cash flows from financing activities
+Net change in commercial paper borrowings (699) 299 23
+Proceeds from issuance of other short-term borrowings — 3,002 —
+Repayments of other short-term borrowings (3,000) — —
+Proceeds from issuance of long-term debt 31,482 5,963 —
+Repayments of long-term debt and finance lease obligations (1,536) (6,035) (25)
+Debt issuance costs (424) (40) —
+Dividends paid (6,366) (5,580) (4,107)
+Purchases of treasury stock (629) (12,014) (1,410)
+Proceeds from the exercise of stock options 8 73 254
+Payments of contingent consideration liabilities (163) (78) (268)
+Other, net 35 14 21
+Cash flows from financing activities 18,708 (14,396) (5,512)
+Effect of exchange rate changes on cash and equivalents 7 (39) 29
+Net change in cash and equivalents 32,635 (2,014) 4,203
+Cash and equivalents, beginning of year 7,289 9,303 5,100
+Cash and equivalents, end of year $39,924 $ 7,289 $9,303
+Other supplemental information
+Interest paid, net of portion capitalized $ 1,794 $ 1,215 $1,099
+Income taxes paid (received) 1,447 (35) 1,696
+The accompanying notes are an integral part of these consolidated financial statements.
+57 2019 Form 10-K 13NOV201221352027 57

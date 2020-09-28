@@ -59,10 +59,11 @@ function importupload(ev){
         var industry = $("#industry").val();
         var data = new FormData();
         data.append("file", file);
-        data.append("company",company);
+        data.append("companyname",company);
         data.append("period",period);
         data.append("statementtype",statementtype);
         data.append("industry",industry);
+	data.append("createdby","admin");
         validate();
         if(!validationFlag) {
             $('.cover-spin').hide();
@@ -96,96 +97,51 @@ function importupload(ev){
                 $('.cover-spin').hide();
                 return;
             }else{
-                $.ajax({
-                      type: 'POST',
-                      enctype: 'multipart/form-data',
-                      processData: false,
-                      contentType: false,
-                      url: '/upload',
-                      data:data,
-                      success: function(data) {
-			      console.log("chandu",data);
-						  if(data.status == "FILE UPLOADED SUCCESSLY"){
-						   
-							   myWatch = setInterval(jobWatch, 2000);
-							  
-						  }
-                          /*setTimeout(function(){
-                              $('.cover-spin').hide();
-                              $("#popUpMsg").text("File uploaded successfully, please click on the statements tab to view summary and details");;
-							  $("#myModal").modal('hide');
-							  $("#popUpModal").modal('show');
-							  $("#popUpHeader").text("Success Message");
-							  $("#popUpBtn").show();
-							  
-                          }, 5000);*/
-                      },
-                      error: function(data){
-                          setTimeout(function(){
-                              $('.cover-spin').hide(); 
-                              //enableMsg(false,"Error in processing, please try again.");
-							  $("#popUpMsg").text("Error in processing, please try again.");;
-							  $("#myModal").modal('hide');
-							  $("#popUpModal").modal('show');
-							  $("#popUpHeader").text("Error Message");
-							  $("#popUpBtn").hide();
-                          }, 5000);
-                      },
-                });                
+                var uploadInput = {
+                    "url": "http://34.67.197.111:8000/upload_file",
+                    "method": "POST",
+                    "timeout": 0,
+                    "headers": {
+                        "Authorization": "Basic cm1pX3VzZXI6cm1pMzIxIUAj"
+                    },
+                    "processData": false,
+                    "mimeType": "multipart/form-data",
+                    "contentType": false,
+                    "data": data
+                };
+
+
+                $.ajax(uploadInput).done(function (response) {
+                    if(JSON.parse(response).Result == "File Uploaded Successfully"){
+                            $('.cover-spin').hide();
+                            $("#popUpMsg").text("File uploaded successfully");;
+                            $("#myModal").modal('hide');
+                            $("#popUpModal").modal('show');
+                            $("#popUpHeader").text("Success Message");
+                            $("#popUpBtn").show();
+                    }else{
+                        $('.cover-spin').hide(); 
+                        $("#popUpMsg").text("Error in extraction. Please contact administrator");;
+                        $("#myModal").modal('hide');
+                        $("#popUpModal").modal('show');
+                        $("#popUpHeader").text("Error Message");
+                        $("#popUpBtn").hide();
+                    }
+                }).fail(function(xhr){
+                     $('.cover-spin').hide(); 
+                        $("#popUpMsg").text("Error in connectivity. Please contact administrator");;
+                        $("#myModal").modal('hide');
+                        $("#popUpModal").modal('show');
+                        $("#popUpHeader").text("Error Message");
+                        $("#popUpBtn").hide();
+                });
+                
             }
 		}).fail(function(xhr){
             $("#startImportBtn").prop("disabled",true);
             $('.cover-spin').hide();
         });
 }
-
-var watchInput = {
-            "async": false,
-            "crossDomain": true,
-            "url": "http://34.67.197.111:8000/companies",
-            "method": "GET",			
-            "headers": {
-                        "authorization": "Basic cm1pX3VzZXI6cm1pMzIxIUAj",
-                        "content-type": "application/json",
-                        "cache-control": "no-cache",
-                        "postman-token": "648dcbfa-30ef-3359-f29a-31b2038f29ac"
-                        },
-            "processData": false,
-		}
-var count=0;
-function jobWatch() {
-	count++;
-	console.log(" count ", count);
-	let company = $("#company").val();
-	$.ajax(watchInput).done(function (response){
-            let companiesArrayForWatch =((JSON.parse(response)).companies);
-			if(companiesArrayForWatch.includes(company)){
-				clearInterval(myWatch);
- 				$('.cover-spin').hide();
-                $("#popUpMsg").text("File uploaded successfully");;
-				$("#myModal").modal('hide');
-				$("#popUpModal").modal('show');
-				$("#popUpHeader").text("Success Message");
-				$("#popUpBtn").show();
-				count=0;
-			}else if(count>5){
-				
-				clearInterval(myWatch);
-				$('.cover-spin').hide(); 
-                //enableMsg(false,"Error in processing, please try again.");
-				$("#popUpMsg").text("Error in extraction. Please contact administrator");;
-				$("#myModal").modal('hide');
-				$("#popUpModal").modal('show');
-				$("#popUpHeader").text("Error Message");
-				$("#popUpBtn").hide();
-				count=0;
-			}
-	});  
-
-
-
-}
-
 function goToStatement(){
 	$("#popUpModal").modal('hide');
 		 	window.location.href = "/#/statement";

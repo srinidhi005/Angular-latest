@@ -1,0 +1,2358 @@
+
+Page#1
+l
+a
+y
+i
+t
+e
+n
+l
+e r
+u
+d
+m
+B
+ﬁ
+n  o
+6
+r
+o e c 4
+c t p. :
+s 5
+a
+e
+1
+c
+v
+ 
+e 0
+l
+y
+t 2
+S n
+0
+a
+2
+v
+ 
+a
+,
+0
+3
+ 
+l
+u
+J
+Thunder Parent Inc. 
+Consolidated Financial Statements 
+December 31, 2017 
+Page#2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TABLE OF CONTENTS 
+ 
+ 
+ Page No 
+ 
+Independent Auditor's Report 1 - 2 
+ 
+Consolidated Balance Sheet 3 
+ 
+Consolidated Statement of Operations and Comprehensive Loss 4 
+ 
+Consolidated Statement of Stockholders' Equity 5 
+ 
+l
+Consolidated Statement of Cash Flows 6 
+a
+y
+i
+t
+e
+ n
+l
+e r
+u
+d
+Notes to Consolidated Financial Statements 7 - 27 
+m
+B
+ﬁ
+n  o
+6
+ r
+o e c 4
+c t p. :
+s  5
+a
+e
+1
+c
+v
+  
+e 0
+l
+y
+t 2
+S n
+ 
+0
+a
+2
+v
+ 
+a
+,
+0
+3
+ 
+l
+u
+J
+ 
+Page#3
+ 
+ 
+ 
+ 
+INDEPENDENT AUDITOR'S REPORT 
+ 
+Board of Directors 
+Thunder Parent Inc. 
+Nevada City, California 
+ 
+We have audited the accompanying consolidated financial statements of Thunder Parent Inc. and 
+subsidiaries (a Delaware Corporation) (the "Company"), which comprise the consolidated balance sheet 
+as of December 31, 2017 and the related consolidated statements of operations and comprehensive loss, 
+stockholders' equity, and cash flows for the year ended December 31, 2017, and the related notes to the 
+consolidated financial statements. 
+ 
+Management's Responsibility for the Financial Statements 
+ 
+Management is responsible for the preparation and fair presentation of these consolidated financial 
+statements in accordance with accounting principles generally accepted in the United States of America; 
+this includes the design, implementation, and maintenance of internal control relevant to the preparation 
+l
+a
+and fair presentation of consolidated financial statementsy that are free from material misstatement, 
+i
+t
+e
+n
+l
+whether due to fraud or error. e r
+u
+d
+m
+B
+ﬁ
+ 
+n  o
+6
+r
+o e c 4
+Auditor's Responsibility 
+c t p. :
+s 5
+a
+ e 1
+c
+v
+ 
+e 0
+l
+Our responsibility is to express an opiniyon on these consolidated financial statements based on our audit. 
+t 2
+S n
+0
+a
+We conducted our audit in accordance with auditing standards generally accepted in the United States of 
+2
+v
+ 
+a
+,
+America. Those standards require that we plan an0d perform the audit to obtain reasonable assurance about 
+3
+whether the consolidated financial statements are free from material misstatement. 
+l
+u
+J
+ 
+An audit involves performing procedures to obtain audit evidence about the amounts and disclosures in 
+the consolidated financial statements The procedures selected depend on the auditor's judgment, 
+including the assessment of the risks of material misstatement of the consolidated financial statements, 
+whether due to fraud or error. In making those risk assessments, the auditor considers internal control 
+relevant to the entity's preparation and fair presentation of the consolidated financial statements in order 
+to design audit procedures that are appropriate in the circumstances, but not for the purpose of expressing 
+an opinion on the effectiveness of the entity's internal control. Accordingly, we express no such opinion. 
+An audit also includes evaluating the appropriateness of accounting policies used and the reasonableness 
+of significant accounting estimates made by management, as well as evaluating the overall presentation 
+of the consolidated financial statements. 
+ 
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for 
+our audit opinion. 
+ 
+ 
+Page#4
+ 
+Opinion 
+ 
+In our opinion, the consolidated financial statements referred to above present fairly, in all material 
+respects, the financial position of Thunder Parent Inc. and subsidiaries as of December 31, 2017, and the 
+results of their operations and their cash flows for the year ended December 31, 2017, in accordance with 
+accounting principles generally accepted in the United States of America. 
+ 
+ 
+ 
+ 
+LLP
+Armanino 
+ San Ramon, California 
+ 
+June 29, 2018 
+ 
+ 
+l
+a
+y
+i
+t
+e
+n
+l
+e r
+u
+d
+m
+B
+ﬁ
+n  o
+6
+r
+o e c 4
+c t p. :
+s 5
+a
+e
+1
+c
+v
+ 
+e 0
+l
+y
+t 2
+S n
+0
+a
+2
+v
+ 
+a
+,
+0
+3
+ 
+l
+u
+J
+- 2 - 
+Page#5
+THUNDER PARENT INC.
+Consolidated Balance Sheet
+December 31, 2017
+(In thousands, except share and per share data)
+_________________________
+ASSETS
+Current assets
+Cash $ 4,960
+Accounts receivable, net of allowance of $283 26,531
+Inventories 4,446
+Prepaid and other current assets 4,574
+Income taxes receivable 107
+Total current assets 40,618
+Property and equipment, net 3,865
+Goodwill 235,257
+Intangible assets, net 85,016
+Deferred tax asset 11,101
+Other long-term assets 169
+Total assets $ 376,026
+l
+a
+y
+i
+t
+e
+n
+l
+LIABILITIES ANDe STOCKHrOLDERS' EQUITY
+u
+d
+m
+B
+ﬁ
+n  o
+6
+r
+Current liabilities o e c 4
+c t p. :
+s 5
+Accounts payable a $ 5,057
+e
+1
+c
+v
+ 
+Accrued compensation l e 0 4,787
+y
+t 2
+S n
+0
+Other accrued liabilities 1,299
+a
+2
+v
+ 
+Accrued interest a 139
+,
+0
+3
+Debt, current portion, net of debt discount 4,495
+ 
+l
+u
+Deferred revenue, current portion 35,634
+J
+Income taxes payable 991
+Total current liabilities 52,402
+Deferred revenue, net of current 3,124
+Deferred tax liabilities 19,178
+Debt, net of current portion and debt discount 177,012
+Total liabilities 251,716
+Stockholders' equity
+Common stock, $0.001 par value, 190,000,000 shares authorized; 159,173,059
+shares issued and outstanding as of December 31, 2017 159
+Additional paid-in capital 141,868
+Accumulated other comprehensive loss 175
+Accumulated deficit (17,892)
+Total stockholders' equity 124,310
+Total liabilities and stockholders' equity $ 376,026
+The accompanying notes are an integral part of these consolidated financial statements.
+- 3 -
+Page#6
+THUNDER PARENT INC.
+Consolidated Statement of Operations and Comprehensive Loss
+For the Year Ended December 31, 2017
+(In thousands)
+_________________________
+Revenues
+Software $  31,467
+Appliance 19,402
+Maintenance 33,016
+ 3,365
+Services and other
+ 87,250
+Total revenues
+Cost of revenues
+Software 3,215
+Appliance 8,697
+Maintenance 4,734
+Services and other 2,336
+ 10,403
+Amortization of acquired developed and in-process technology
+ 29,385
+Total cost of revenues
+Gross profit 57,865
+l
+a
+y
+i
+t
+e
+n
+l
+Operating expenses e r
+u
+d
+m
+B
+ﬁ
+Research and development 17,691
+n  o
+6
+r
+o e c 4
+Sales and marketing c t p. : 30,208
+s 5
+a
+e
+1
+General and administrative 15,436
+c
+v
+ 
+e 0
+l
+y
+t 2 6,884
+Amortization of intangible assets S n
+0
+a
+2
+v
+ 70,219
+Total operating expenses 
+a
+,
+0
+3
+ 
+l
+u
+Loss from operations (12,354)
+J
+Other expenses
+Interest expense, net (14,876)
+ (103)
+Other expense, net
+Total other expenses (14,979)
+Loss before income tax benefit (27,333)
+ 16,273
+Income tax benefit
+Net loss (11,060)
+Other comprehensive loss
+ 222
+Foreign currency translation adjustment, net
+$ (10,838)
+Comprehensive loss
+The accompanying notes are an integral part of these consolidated financial statements.
+- 4 -
+Page#7
+THUNDER PARENT INC.
+Consolidated Statement of Stockholders' Equity
+For the Year Ended December 31, 2017
+(In thousands, except share and per share data)
+_________________________
+Accumulated 
+Additional Other
+Common Stock Paid-in Comprehensive Accumulated Stockholders'
+Shares Par Value Capital Loss Deficit Equity
+Balance at December 31, 2015  1 52,311,501 $ 152 $ 152,806 $ ( 6) $ (6,152) $ 1 46,800
+Issuance of common stock 149,457 - 129 - - 1 29
+l
+a
+y
+i
+Cash dividend declared ($0.14 per common share) - t - e (20,594) - - (20,594)
+n
+l
+e r
+u
+Stock-based compensation expense - d - 729 - - 7 29
+m
+B
+ﬁ
+n  o
+6
+Net loss - r - - - (680) (680)
+o e c 4
+c t p. :
+s 5
+Foreign currency translation adjustment, net - - - (41) - (41)
+a
+e
+1
+c
+v
+ 
+e 0
+l
+y
+t 2
+S n
+Balance at December 31, 2016  1 52,460,958 10 52 133,070 ( 47) (6,832) 1 26,343
+a
+2
+v
+ 
+a
+,
+0
+3
+Issuance of common stock 6,813,111 7 7,995 - - 8 ,002
+ 
+l
+u
+J
+Stock redemption ( 101,010) (100) - - (100)
+Stock-based compensation expense - - 903 - - 9 03
+Net loss - - - - (11,060) (11,060)
+Foreign currency translation adjustment, net - - - 222 - 2 22
+Balance at December 31, 2017  159,173,059 $ 159 $ 141,868 $ 175 $ (17,892) $ 124,310
+The accompanying notes are an integral part of these consolidated financial statements.
+- 5 -
+Page#8
+THUNDER PARENT INC.
+Consolidated Statement of Cash Flows
+For the Year Ended December 31, 2017
+(In thousands)
+_________________________
+Cash flows from operating activities
+Net loss $ (11,060)
+Adjustments to reconcile net loss to net cash provided by operating activities
+Depreciation 1,493
+Amortization of intangible assets 17,286
+Amortization of debt discount 945
+Stock-based compensation expense 903
+Provision for doubtful accounts 156
+Loss on disposal of property and equipment 5
+Deferred income taxes, net (17,204)
+Income tax receivable 259
+Changes in operating assets and liabilities
+Accounts receivable (3,109)
+Inventories 257
+Prepaid and other current assets (1,710)
+Accounts payable (200)
+Accrued compensation 223
+Other accrued liabilities l (1,330)
+a
+y
+i
+Accrued interest t e 111
+n
+l
+e r
+Deferred revenue 18,277
+u
+d
+m
+B
+ﬁ
+Income taxes payable (1,556)
+n  o
+6
+r
+o e c 4
+Net cash provided by operating activities 3,746
+c t p. :
+s 5
+a
+e
+1
+c
+v
+ 
+Cash flows from investing activities e 0
+l
+y
+t 2
+S n
+Purchase of property and equipment (1,306)
+0
+a
+2
+Acquisition of Ineoquest, net of acquired cash v (63,106)
+ 
+a
+,
+0
+Net cash used in investing activities (64,412)
+3
+ 
+l
+u
+J
+Cash flows from financing activities
+Payments on long-term debt (1,407)
+Payments on line of credit (4,500)
+Proceeds from line of credit 3,500
+Proceeds from issuance of debt, net of debt discount 57,663
+Proceeds from issuance of common stock 8,002
+Common stock repurchased (100)
+Net cash provided by financing activities 63,158
+Effect of exchange rate changes on cash 23
+Net change in cash 2,515
+Cash at beginning of period 2,445
+Cash at end of period $ 4,960
+Supplemental cash flow information
+Cash paid for interest $ 13,820
+Cash paid for income taxes $ 2,092
+The accompanying notes are an integral part of these consolidated financial statements.
+- 6 -
+Page#9
+THUNDER PARENT INC. 
+Notes to Consolidated Financial Statements 
+December 31, 2017 
+_________________________ 
+ 
+ 
+1. The Company and Summary of Significant Accounting Policies 
+ 
+The Company 
+ 
+Thunder Parent Inc. (the "Company") is a Delaware corporation that was incorporated in January 
+2015. On January 15, 2015, the Company completed the acquisition of all the outstanding equity of 
+Telestream Holdings Corporation ("Telestream"). Telestream specializes in products that make it 
+possible to transfer video content to any audience regardless of how it is created, distributed or 
+viewed Throughout the entire digital media lifecycle, from capture to viewing, for consumers 
+through high-end professionals, Telestream products range from desktop components and cross-
+platform applications to fully-automated, enterprise-class digital media transcoding and workflow 
+systems. Telestream enables users in a broad range of business environments to leverage the value 
+of their video content. 
+ 
+Telestream customers include the world's leading media and entertainment companies, content 
+owners, creators and distributors In addition, a growing number of companies supplying and 
+servicing much larger markets such as ad agenciles, corporations, healthcare providers, government 
+a
+y
+i
+t
+and educational facilities, as well as video prosumerse and consumers, are turning to Telestream to 
+n
+l
+e r
+u
+simplify the access, creation and exchadnge of digital media The Company is headquartered in 
+m
+B
+ﬁ
+n  o
+Nevada City, California. 6
+r
+o e c 4
+ c t p. :
+s 5
+a
+e
+1
+c
+Basis of presentation  v
+ 
+e 0
+l
+y
+t 2
+ S n
+0
+a
+2
+v
+The consolidated financial statements include the accounts of Thunder Parent Inc. and its wholly-
+ 
+a
+,
+0
+owned subsidiaries. The Company owns 100% of the interests in Telestream LLC, which owns 
+3
+ 
+l
+100% of Telestream GMBH located uin Germany and Telestream UK, Ltd (FKA Vidcheck Ltd), 
+J
+located in the United Kingdom. Telestream GMBH provides sales and support services to customers 
+located in the EMEA region. Telestream UK, Ltd develops and supports the Quality Control 
+products for the Company. The Company also owns 100% of IneoQuest, Inc., which owns 100% of 
+IneoQuest Technologies Deutschland GMBH, IneoQuest Technologies Ltd., IneoQuest 
+Technologies Hong Kong, Limited, IneoQuest Technologies PTE Ltd., and IneoQuest Technologies 
+Mexico. All intercompany balances and transactions have been eliminated. 
+ 
+Use of estimates 
+ 
+The preparation of financial statements in conformity with accounting principles generally accepted 
+in the United States of America ("GAAP") requires management to make estimates and assumptions 
+that affect the reported amounts of assets and liabilities and disclosure of contingent assets and 
+liabilities at the date of the financial statements and reported amounts of revenues and expenses 
+during the reporting period. Significant estimates include the allocation of purchase price to various 
+intangibles at fair value, the useful lives of such intangibles, the Company's assessment of possible 
+impairment of its intangibles and long-lived assets, revenue recognition, allowance for doubtful 
+accounts, useful lives of long-lived assets, and income taxes. Actual results could differ from those 
+estimates. 
+- 7 - 
+Page#10
+THUNDER PARENT INC. 
+Notes to Consolidated Financial Statements 
+December 31, 2017 
+_________________________ 
+ 
+ 
+1. The Company and Summary of Significant Accounting Policies (continued) 
+ 
+Revenue recognition 
+ 
+The Company's revenues consist of sales of hardware products (which include required embedded 
+software that works together with the hardware to deliver the hardware's essential functionality), 
+software license fees and related maintenance and support contracts, and professional services 
+ 
+Revenues are recognized when all of the following conditions are met: 
+ 
+• There is persuasive evidence of an arrangement; 
+• Delivery has occurred; 
+• The amount of fees to be paid by the customer is fixed or determinable; and 
+• Collectability of the fee is reasonably assured. 
+ 
+Multiple-element arrangements are concurrent customer purchases of a combination of the 
+l
+Company's software, appliance, maintenance anad service offerings that may be delivered at various 
+y
+i
+t
+e
+n
+points in time. For multiple-element arrangements comprised only of hardware products and related 
+l
+e r
+u
+d
+services, the Company allocates the total arrangement com nsideration to the multiple elements based 
+B
+ﬁ
+n  o
+6
+r
+on each element's estimated selling price compared to the total relative selling price of all the 
+o e c 4
+c t p. :
+s 5
+elements. Each element's estimated selling price is based on management's best estimate of selling 
+a
+e
+1
+c
+v
+ 
+price ("BESP") paid by customers based one the elem0 ent's historical pricing when vendor specific 
+l
+y
+t 2
+S n
+objective evidence ("VSOE") or third party evid0ence ("TPE") does not exist The Company has 
+a
+2
+v
+ 
+established BESP for product elemeants as the average selling price the element was sold for over the 
+,
+0
+3
+past four quarters, whether sold alone or sold as part of a multiple-element transaction The 
+ 
+l
+u
+Company's internal list price for products with consideration in regards to changing factors in 
+J
+technology and in the marketplace is generated to target the desired gross margin from sales of 
+product after analyzing historical discounting trends. The Company reviews sales of the product 
+elements on an annual basis and updates, when appropriate, BESP for such elements to ensure that 
+it reflects recent pricing experience. The Company has established VSOE for most of its services 
+related elements. 
+ 
+For multiple-element arrangements comprised only of software products and related services, for 
+the undelivered elements the Company maintains VSOE for the Company allocates a portion of the 
+total arrangement consideration to the undelivered elements, primarily support agreements and 
+professional services. The remaining portion of the total arrangement consideration is allocated to 
+the delivered software, referred to as the residual method. VSOE of fair value of the undelivered 
+elements is based on the price customers pay when the element is sold separately. The Company 
+reviews the separate sales of the undelivered elements on a quarterly basis and updates, when 
+appropriate, its VSOE of fair value for such elements to ensure that it reflects recent pricing 
+experience 
+- 8 - 
+Page#11
+THUNDER PARENT INC. 
+Notes to Consolidated Financial Statements 
+December 31, 2017 
+_________________________ 
+ 
+ 
+1. The Company and Summary of Significant Accounting Policies (continued) 
+ 
+Revenue recognition (continued) 
+ 
+If the Company cannot objectively determine the VSOE of the fair value of any undelivered software 
+element, revenue is deferred until all elements are delivered and services have been performed, or 
+until fair value can objectively be determined for any remaining undelivered elements In 
+arrangements for which services are the only undelivered element, the Company recognizes 
+revenues for software upon delivery and maintenance ratably over the maintenance term. 
+ 
+For multiple-element arrangements comprised of a combination of hardware and software elements, 
+the total arrangement consideration is bifurcated between the hardware and hardware-related 
+deliverables and the software and software-related deliverables based on the relative selling prices 
+of all deliverables as a group Then, arrangement consideration for the hardware and hardware-
+related services is recognized upon delivery or as the related services are provided as outlined above 
+and revenue for the software and software-related services is allocated following the residual method 
+and recognized based upon delivery or as the rellated services are provided as outlined above. 
+a
+y
+i
+t
+ e
+n
+l
+e r
+u
+The Company's software is generally dedlivered electronically to its customers When software is 
+m
+B
+ﬁ
+n  o
+physically shipped to its customers, substantially all of these ar6rangements contain terms Freight on 
+r
+o e c 4
+Board ("FOB") shipping point. Rcevenuest from shipp.ping an:d handling are included in other revenues 
+s 5
+a
+e
+1
+c
+and its related cost is included in cosvt of other revenues. 
+ 
+e 0
+l
+y
+t 2
+ S n
+0
+a
+2
+v
+Maintenance and support contracts generally cover a one-year term and are paid for in advance. 
+ 
+a
+,
+0
+Revenues from maintenance and support contracts are recognized ratably over the term of the 
+3
+ 
+l
+contract. Professional service revenueus are recognized as the services are provided 
+J
+ 
+The Company typically grants its customers net 30 to net 90 days payment terms, but some payments 
+are collected in advance via check, wire or credit card upon receipt of an order The Company's 
+practice is to not allow its customers to return their software products and enforce the terms of the 
+contracts. Past sales returns have been insignificant. 
+ 
+The Company sells its software, appliances, and related maintenance services directly through 
+telesales and field sales organizations in North America, Latin America, EMEA and APAC and 
+indirectly through distribution partners worldwide. 
+ 
+The Company records the sale of product and services to customers as gross revenue when the 
+Company is the principal in the arrangement and net of the associated costs incurred when the 
+Company is not considered the principal in the arrangement. 
+- 9 - 
+Page#12
+THUNDER PARENT INC. 
+Notes to Consolidated Financial Statements 
+December 31, 2017 
+_________________________ 
+ 
+ 
+1. The Company and Summary of Significant Accounting Policies (continued) 
+ 
+Revenue recognition (continued) 
+ 
+Products may be sold through distributors or resellers in the United States and certain international 
+markets. Revenues from software license fees and appliances sold through distributors or resellers 
+are generally recognized on the sell-in basis. Such resellers purchase licenses solely for end-user 
+arrangements, which are specifically identified on the reseller purchase order, rather than for their 
+inventory. The Company grants no refunds or price adjustment rights to its resellers. 
+ 
+Cost of software, appliance, maintenance, and services and other 
+ 
+Cost of software and appliance revenues includes costs associated with software products, hardware 
+products, and royalties for third-party embedded software. Cost of maintenance and services and 
+other revenues includes costs to provide support and maintenance, largely consisting of salaries and 
+related expenses, for customer support personnel, and royalties for third-party embedded software 
+ l
+a
+y
+i
+t
+Property and equipment  e
+n
+l
+e r
+u
+ d
+m
+B
+ﬁ
+n  o
+Property and equipment are stated at cost less accumulated6  depreciation, computed using the 
+r
+o e c 4
+straight-line method based over thce estimatted usefpu.l lives o:f the assets, generally ranging from three 
+s 5
+a
+e
+1
+c
+to seven years. Depreciation commenvces upon placing the asset in service. Leasehold improvements 
+ 
+e 0
+l
+y
+t 2
+are amortized over the shorter ofS the usefnul life or the remaining lease term. Depreciation expense 
+0
+a
+2
+v
+was approximately $1,493,000 for the year ended December 31, 2017. The Company reviews its 
+ 
+a
+,
+0
+property and equipment for impairment whenever events or changes in circumstances indicate that 
+3
+ 
+l
+the carrying amount of an asset may nuot be recoverable. 
+J
+ 
+Debt discounts 
+ 
+Amortization of debt discounts are recorded as interest expense using the effective interest method, 
+over the term of the related debt. 
+ 
+Inventories 
+ 
+Inventories are stated at the lower of cost or market, cost being determined on a standard cost basis 
+which approximates actual costs of a first-in, first-out ("FIFO") basis and market being determined 
+as the lower of replacement cost or net realizable value The Company records write-downs of 
+inventories which are obsolete or in excess of anticipated demand or market value based on 
+consideration of appliance lifecycle stage, technology trends, appliance development plans and 
+assumptions about future demand and market conditions. 
+- 10 - 
+Page#13
+THUNDER PARENT INC. 
+Notes to Consolidated Financial Statements 
+December 31, 2017 
+_________________________ 
+ 
+ 
+1. The Company and Summary of Significant Accounting Policies (continued) 
+ 
+Inventories (continued) 
+ 
+Inventories as of December 31, 2017 are composed of approximately $2,766,000 in finished goods 
+and approximately $1,680,000 in component parts. 
+ 
+Goodwill and other intangible assets 
+ 
+Goodwill is the excess of costs over fair value of net assets of the business acquired. Goodwill and 
+other intangible assets acquired that are determined to have an indefinite useful life are not amortized 
+but are tested for impairment at least annually Intangible assets with estimable useful lives are 
+amortized over their respective useful lives and reviewed for impairment. 
+ 
+Other intangible assets are recorded at fair value, net of accumulated amortization. Amortization is 
+recognized using the straight-line method over estimated useful lives of the assets with the exception 
+of customer relationships which are amortized usling an accelerated method 
+a
+y
+i
+t
+ e
+n
+l
+e r
+u
+Impairment of long-lived assets d
+m
+B
+ﬁ
+n  o
+ 6
+r
+o e c 4
+Long-lived assets, such as prcoperty tand equpi.pment :and purchased intangibles subject to 
+s 5
+a
+e
+1
+c
+amortization, are reviewed for impavirment whenever events or changes in circumstances indicate 
+ 
+e 0
+l
+y
+t 2
+that the carrying amount of an asSset may nn ot be recoverable. Such events or circumstances include, 
+0
+a
+2
+v
+but are not limited to, significant underperformance relative to historical or projected future 
+ 
+a
+,
+0
+operating results and significant changes in the manner of use of the acquired assets or the strategy 
+3
+ 
+l
+for the Company's overall business. Ru ecoverability of assets to be held and used is measured by a 
+J
+comparison of the carrying value of the asset to the estimated undiscounted future cash flows 
+expected to be generated by the asset. If the carrying amount of an asset exceeds its estimated future 
+cash flows, an impairment charge is recognized in the amount by which the carrying amount of the 
+asset exceeds its fair value. For the year ended December 31, 2017 no impairment loss was recorded 
+related to long-lived assets. 
+ 
+Financial instruments 
+ 
+The Company's consolidated balance sheets includes the following financial instruments: cash, 
+accounts receivable, accounts payable, accrued liabilities, and debt obligations. The carrying values 
+of accounts receivable, accounts payable, and accrued liabilities approximate their fair values given 
+their short maturities. The fair value of the Company's long-term debt approximates the carrying 
+value due to the variable stated rates in these instruments approximating the fair value and the value 
+of the collateral underlying these obligations. 
+- 11 - 
+Page#14
+THUNDER PARENT INC. 
+Notes to Consolidated Financial Statements 
+December 31, 2017 
+_________________________ 
+ 
+ 
+1. The Company and Summary of Significant Accounting Policies (continued) 
+ 
+Concentration of credit risk 
+ 
+Cash and accounts receivable are financial instruments that potentially expose the Company to credit 
+risk. At times, cash balances held at financial institutions were in excess of federally insured limits; 
+however, the Company primarily places its temporary cash with high-credit quality financial 
+institutions. The Company has not experienced any losses on its deposits of cash. 
+ 
+Trade accounts receivable are recorded at invoiced or to be invoiced amounts and do not bear 
+interest The Company performs ongoing credit evaluations of its customers' financial condition 
+and, generally, requires no collateral from its customers. An allowance for doubtful accounts was 
+established based on various factors including credit profiles of the customers, contractual terms and 
+conditions, historical payments and current economic trends. The Company reviews the allowance 
+monthly by assessing individual accounts receivable over a specific aging and amount. Accounts 
+receivable are written off on a case-by-case basis, net of any amounts that may be collected. 
+ l
+a
+y
+i
+t
+No single customer accounted for more than 10% of thee Company's accounts receivable at December 
+n
+l
+e r
+u
+31, 2017. For the year ending Decemberd 31, 2017, no single customer accounted for more than 10% 
+m
+B
+ﬁ
+n  o
+of the total revenue. 6
+r
+o e c 4
+ c t p. :
+s 5
+a
+e
+1
+c
+Income taxes v
+ 
+e 0
+l
+y
+t 2
+ S n
+0
+a
+2
+v
+The income tax provision is computed using the asset and liability method, under which deferred 
+ 
+a
+,
+0
+tax assets and liabilities are recognized for the expected future tax consequences of temporary 
+3
+ 
+l
+differences between the financial repourting and tax bases of assets and liabilities, and for operating 
+J
+losses and tax credit carryforwards Deferred tax assets and liabilities are measured using the 
+currently enacted tax rates that apply to taxable income in effect for the years in which those tax 
+assets are expected to be realized or settled. The Company records a valuation allowance to reduce 
+deferred tax assets to the amount that is believed more likely than not to be realized. 
+ 
+GAAP requires, a more-likely-than-not threshold for financial statement recognition and 
+measurement of tax positions taken or expected to be taken in a tax return. The Company records a 
+liability for the difference between the benefit recognized and measured pursuant to ASC 740 and 
+the tax position taken or expected to be taken on the Company's tax return. The Company's policy 
+for classifying interest and penalties associated with unrecognized income tax benefits is to include 
+such items as tax expense. 
+- 12 - 
+Page#15
+THUNDER PARENT INC. 
+Notes to Consolidated Financial Statements 
+December 31, 2017 
+_________________________ 
+ 
+ 
+1. The Company and Summary of Significant Accounting Policies (continued) 
+ 
+Income taxes (continued) 
+ 
+To the extent that the assessment of such tax positions changes, the change in estimate is recorded 
+in the period in which the determination is made. The Company establishes reserves for tax-related 
+uncertainties based on estimates of whether, and the extent to which, additional taxes may be due. 
+These reserves are established when the Company believes that certain positions might be 
+challenged despite the Company's belief that the tax return positions are fully supportable The 
+reserves are adjusted in light of changing facts and circumstances, such as the outcome of a tax audit. 
+The income tax provision includes the impact of reserve provisions and changes to reserves that are 
+considered appropriate. 
+ 
+The Company recognizes interest accrued and penalties related to unrecognized tax benefits within 
+the income tax provision. The Company recognized no material interest and penalties for the year 
+ending December 31, 2017. 
+ l
+a
+y
+i
+t
+Warranties and indemnifications e
+n
+l
+e r
+u
+ d
+m
+B
+ﬁ
+n  o
+The Company generally provides a warranty for its software an6d appliance products and services to 
+r
+o e c 4
+its customers and accounts for itsc warrantties. Thep s.tandard: warranty period is 90 days, but warranty 
+s 5
+a
+e
+1
+c
+periods can sometimes be longer and vvary from customer to customer. The Company did not provide 
+ 
+e 0
+l
+y
+t 2
+for a separate warranty accrual asS of Decenmber 31, 2017. To date, the Company's product warranty 
+0
+a
+2
+v
+claims and expense has not been significant. 
+ 
+a
+,
+0
+ 
+3
+ 
+l
+The Company generally agrees to inudemnify its customers against legal claims that its software 
+J
+products infringe certain third-party intellectual property rights and accounts for its indemnification 
+obligations under GAAP To date, the Company has not been required to make any payment 
+resulting from infringement claims asserted against customers and has not recorded any related 
+accruals. 
+ 
+Under the Company's bylaws, the Company has certain indemnification obligations with respect to 
+its officers and directors and others serving in specified roles on behalf of and at the request of the 
+Company. To date, the Company has not been required to make any payment resulting from claims 
+asserted against the Company. 
+ 
+Loss contingencies 
+ 
+The Company is subject to the possibility of various losses arising in the ordinary course of business. 
+An estimated loss contingency is accrued when it is probable that a liability has been incurred and 
+the amount of loss can be reasonably estimated The Company regularly evaluates current 
+information available to it to determine whether any accruals should be adjusted and whether new 
+accruals are required. 
+- 13 - 
+Page#16
+THUNDER PARENT INC. 
+Notes to Consolidated Financial Statements 
+December 31, 2017 
+_________________________ 
+ 
+ 
+1. The Company and Summary of Significant Accounting Policies (continued) 
+ 
+Foreign currency translation 
+ 
+The functional currencies of the Company's foreign subsidiaries are their respective local currencies. 
+The Company translates the assets and liabilities of each of its international subsidiaries into the 
+U.S. dollar at the current rate of exchange in effect at the end of the accounting period. Revenues 
+and expenses are translated using a rate that approximates the average of those in effect during the 
+period. Gains and losses from translation adjustments are included in stockholders' equity in the 
+consolidated statement of stockholders' equity as a component of accumulated other comprehensive 
+loss. 
+ 
+Research and development costs 
+ 
+Research and development expenses are expensed as incurred. Research and development expenses 
+consist primarily of compensation and related costs for personnel responsible for the research and 
+development of new products and services, as welll as significant improvements to existing products 
+a
+y
+i
+t
+and services. e
+n
+l
+e r
+u
+ d
+m
+B
+ﬁ
+n  o
+Advertising costs 6
+r
+o e c 4
+ c t p. :
+s 5
+a
+e
+1
+c
+Advertising costs are expensed as invcurred These costs, included in sales and marketing, were 
+ 
+e 0
+l
+y
+t 2
+approximately $180,000 for the yS ear endend December 31, 2017. 
+0
+a
+2
+v
+ 
+ 
+a
+,
+0
+ 
+3
+ 
+l
+2. Business Combinations u
+J
+ 
+IneoQuest Technologies, Inc. ("IneoQuest") 
+ 
+The Company purchased IneoQuest Technologies, Inc ("IneoQuest"), a Delaware Corporation, on 
+March 24, 2017. IneoQuest QoS monitoring is a natural adjacent product offering for the Company. 
+This acquisition was done in order to expand the product offerings and customer base in content 
+delivery. 
+ 
+The components to the purchase consideration are as follows (in thousands): 
+ 
+Cash paid, net of cash acquired $62,986 
+Earnout 120 
+Total purchase consideration $63,106 
+- 14 - 
+Page#17
+THUNDER PARENT INC. 
+Notes to Consolidated Financial Statements 
+December 31, 2017 
+_________________________ 
+2. Business Combinations (continued)
+IneoQuest Technologies, Inc. ("IneoQuest") (continued) 
+The purchase price was allocated based on the fair value of the assets acquired and liabilities 
+assumed The goodwill recorded was a result of the excess of the consideration paid over the 
+estimated fair value of the net assets acquired. The results of operations attributable to IneoQuest are 
+included in the consolidated financial statements from the date of acquisition. 
+The purchase price was allocated as follows (in thousands): 
+March 24, 2017 
+Cash $ 542 
+Accounts receivable 6,848 
+Inventory  1,856 
+Prepaid expense and other  1,387 
+l
+Property, plant and equipment  2,048 
+a
+y
+i
+t
+e
+Accounts payable n (3,885) 
+l
+e r
+u
+d
+Accrued liabilities and other m  (460) 
+B
+ﬁ
+n  o
+6
+Income taxes payable r  (229) 
+o e c 4
+c t p. :
+Deferred tax liability, net  s 5 (7,873) 
+a
+e
+1
+c
+v
+Deferred revenue  (5,810) 
+e 0 
+l
+y
+t 2
+S n
+Net liabilities assumed (5,576) 
+0
+a
+2
+v
+ 
+a
+,
+0
+Intangible assets acquired 3
+ 
+l
+u
+Developed technology 7,300 
+J
+Customer relationships 22,600 
+Trademarks 1,600 
+Goodwill  37,724 
+ Total purchase consideration 63,648 
+ Less: Cash acquired  (542) 
+ Total purchase consideration, net of cash acquired $63,106 
+The fair value of the projected earnout was estimated to be $120,000 and was based on the average 
+present value of future revenue simulations The revenue related to the contingent earnout 
+provisions did not exceed $44,000,000 during the measurement year ended January 31, 2018 and 
+therefore no contingent earnout was earned by IneoQuest. 
+The excess of the purchase price over the estimated value of the net liabilities assumed was allocated 
+to various intangible assets, consisting of developed technology, customer relationships, trademarks, 
+and goodwill. 
+- 15 - 
+Page#18
+THUNDER PARENT INC. 
+Notes to Consolidated Financial Statements 
+December 31, 2017 
+_________________________ 
+ 
+ 
+2. Business Combinations (continued) 
+ 
+IneoQuest Technologies, Inc. ("IneoQuest") (continued) 
+ 
+The fair value of customer relationships of $22,600,000 was based on the present value of future 
+cashflows and will be amortized using the sum of the years digits method over 10 years. 
+ 
+The fair value of developed technology of $7,300,000 was based on the present value of future 
+cashflows from license royalty payments based on the assumption that the developed technology 
+will maintain functionality in the near term and fall off quicker in outer years and will be amortized 
+on a straight-line basis over 7 years. 
+ 
+The fair value of trademarks of $1,600,000 was based on the present value of future cashflows from 
+license royalty payments based on all sales from BEV and will be amortized on a straight-line basis 
+over 7 years. 
+ 
+In 2017, intangible amortization for customer relationships, developed technology and trademarks 
+l
+a
+was $3,779,000 i y
+t
+e
+n
+l
+ e r
+u
+d
+m
+B
+ﬁ
+The goodwill as a result of the acquisition is not being amortized. 
+n  o
+6
+r
+o e c 4
+ 
+c t p. :
+s 5
+a
+e
+ 1
+c
+v
+ 
+e 0
+l
+3. Goodwill and Other Intangible Assyets 
+t 2
+S n
+0
+a
+ 
+2
+v
+ 
+a
+,
+The following table summarizes the comp0onents of goodwill, other intangible assets and related 
+3
+accumulated amortization balances as o f December 31, 2017 (in thousands): 
+l
+u
+J
+ 
+Weighted 
+Average 
+ 
+Life  Gross Net 
+ 
+(in Carrying Accumulated Carrying 
+months) Amount Amortization Amount
+Goodwill -  $235,257 $ - $235,257
+Other intangible assets: 52 69,317 (28,100) 41,217
+Developed technology  
+In-process research and 
+ development 24 1,200 (639) 561
+Customer relationships 125 46,389 (11,455) 34,934
+Trademarks and trade name 159 11,300 (3,047) 8,253
+ - 50 - 50 
+Purchased domain names 
+Total other intangible assets 
+ -  $128,256 $(43,240) $ 85,016
+- 16 - 
+Page#19
+THUNDER PARENT INC. 
+Notes to Consolidated Financial Statements 
+December 31, 2017 
+_________________________ 
+ 
+ 
+3. Goodwill and Other Intangible Assets (continued) 
+ 
+For the year ended December 31, 2017 and the Company recognized amortization expense of 
+intangible assets of approximately $17,286,000. These amounts have been reported as separate line 
+items on the Company's consolidated statements of operations, including the amortization of 
+acquired developed and in-process technology within cost of revenues. 
+ 
+As of December 31, 2017, the estimated future amortization expense of other intangible assets in the 
+table above is as follows (in thousands): 
+ 
+ Estimated 
+ Amortization 
+ Fiscal Year Expense 
+ 2018 $13,769 
+ 2019 13,769 
+ 2020 13,488 
+l
+ 2021 13,488 
+a
+y
+i
+t
+e
+ 2022 n 7,147 
+l
+e r
+u
+d
+ Thereafter m  23,355 
+B
+ﬁ
+n  o
+6
+r
+o e c 4
+  $85,016 
+c t p. :
+s 5
+a
+e
+ 1
+c
+v
+ 
+e 0
+l
+The Company performed an annuayl impairment test for goodwill and determined that goodwill was 
+t 2
+S n
+0
+a
+not impaired. In performing the impairment tes2t, the Company determined that it had one reporting 
+v
+ 
+a
+,
+unit. The Company evaluates goodwill at le0ast on an annual basis and whenever events and changes 
+3
+ 
+in circumstances suggest that the carrying amount may not be recoverable from its estimated future 
+l
+u
+J
+cash flow. No assurances can be given that future evaluations of goodwill will not result in charges 
+as a result of future impairment. Goodwill of $195,809,000 created at inception, January 16, 2015, 
+is not deductible for tax purposes. Goodwill of $4,700,000 from the acquisition of CPC during 2013 
+and goodwill of $1,131,000 from the acquisition of PandaStream in 2015 are deductible for tax 
+purposes and are being amortized over 15 years Goodwill of $593,000 from the acquisition of 
+Vidcheck is not deductible for tax purposes Goodwill of $37,724,000 from the acquisition of 
+Ineoquest is not deductible for tax purposes. 
+- 17 - 
+Page#20
+THUNDER PARENT INC. 
+Notes to Consolidated Financial Statements 
+December 31, 2017 
+_________________________ 
+ 
+ 
+4. Property and Equipment, net 
+ 
+Significant components of property and equipment are as follows as of December 31, 2017 (in 
+thousands): 
+ 
+Property and equipment $1,820 
+Computer equipment and software 3,702 
+Furniture and fixtures 735 
+Leasehold improvements 1,122 
+Less: accumulated depreciation (3,514) 
+ 
+Property and equipment, net $3,865 
+ 
+ 
+5. Debt 
+ 
+On January 16, 2015 (inception), the Company entered into a new Credit Agreement with Silicon 
+l
+a
+Valley Bank ("SVB") that includes $120,500,000 in term loan and a revolving line of credit and a 
+y
+i
+t
+e
+n
+swingline commitment totaling $5,000,00e0, for a rltotal facility of $125,500,000 The loans were 
+u
+d
+m
+B
+funded through four notes payable execﬁuted with SVB and three additional lenders, with SVB acting 
+n  o
+6
+r
+as administrative agent for all lendoer notese. The prcoceeds o4f the term loan were used to fund the 
+c t p. :
+s 5
+acquisition of Telestream by the Compeany a
+1
+c
+v
+ 
+e 0
+l
+ 
+y
+t 2
+S n
+0
+Under the terms of the Credit Agreemeant the interest rate for both the term loan and the revolving 
+2
+v
+ 
+a
+,
+loan is set under one of two methods at the choice of the borrower: 1) 90 Day LIBOR plus 6.43% 
+0
+3
+with a LIBOR floor of 1%, or 2) Bank Reference rate plus 5.43% with a 2.75% floor for the bank 
+l
+u
+J
+rate. As of December 31, 2015, the 90 Day LIBOR rate that applied to the loan was 7.43% 
+ 
+Modification of debt 
+ 
+On February 12, 2016, the Company entered into a First Amendment ("Amendment") to the January 
+15, 2016 credit agreement between the Company and Telestream and SVB as the Issuing Lender 
+and Administrative agent for the lending group Under the Amendment, the aggregate principal 
+available under the term loans increased by $14,259,000 to $132,500,000 in total Two of the 
+existing lenders and two new lenders participated in the increase in the loan commitment. As part 
+of the Amendment, the Company paid commitments fees to the lenders of 2% of the increased 
+amount and 0.25% of the outstanding principal before the amendment, as well as the legal fees for 
+the lender. The total lender fees and expenses recorded as a discount from the loan proceeds was 
+approximately $765,000. 
+- 18 - 
+Page#21
+THUNDER PARENT INC. 
+Notes to Consolidated Financial Statements 
+December 31, 2017 
+_________________________ 
+ 
+ 
+5. Debt (continued) 
+ 
+Under the Amendment, the applicable margins for calculating interest rates increased by 0.34% and 
+the resulting rate applicable to the loan increased to 7.77% per annum effective February 13, 2016. 
+The quarterly principal payment amount was also increased from approximately $753,000 to 
+approximately $828,000 starting with the March 31, 2016 payment. The fixed charge and leverage 
+ratios for covenant purposes were also adjusted to reflect the new borrowings starting with the 
+quarter ending March 31, 2016. 
+ 
+The term loan matures January 15, 2020 and principal payments, initially set at approximately 
+$828,000 per quarter, are payable for quarters ending March 31, 2016 to December 31, 2019. The 
+loan also calls for mandatory annual principal payments of excess cash. These payments, if made, 
+result in a prorata reduction of future quarterly principal payments. Interest expense incurred during 
+the years ended December 31, 2017 totaled approximately $13,932,000. 
+ 
+On March 24, 2017 the Company completed the acquisition of all the issued and outstanding shares 
+of IneoQuest Technologies, Inc. (IneoQuest) forl the purchase price of $63,648,000. The purchase 
+a
+y
+i
+t
+was financed primarily through the issuance of newe  debt with the remainder coming from the 
+n
+l
+e r
+u
+issuance of common stock and cash on dhand. The new debt was raised under an amended credit 
+m
+B
+ﬁ
+n  o
+agreement with the existing lender group. Under the debt agr6eement three new lenders joined the 
+r
+o e c 4
+financial group. In addition, princcipal wast increaspe.d by $60:,800,000 to $187,500,000, the revolving 
+s 5
+a
+e
+1
+c
+commitment was increased to $10,00v0,000 and the loan term was extended to March 24, 2022. There 
+ 
+e 0
+l
+y
+t 2
+was a slight reduction in the aSnnual innterest rate, applicable margins and the annual principal 
+0
+a
+2
+v
+amortization was reduced to 1%. 
+ 
+a
+,
+0
+ 
+3
+ 
+l
+The applicable margins for calculatingu interest rates decreased by 17 basis points and the resulting 
+J
+rate applicable to the loan decreased to 7.60% per annum effective March 24, 2017. The quarterly 
+principal payment amount was also decreased from approximately $828,000 to approximately 
+$468,000 starting with the June 30, 2017 payment. The fixed charge and leverage ratios for covenant 
+purposes were also adjusted to reflect the new borrowings starting with the quarter ending March 
+31, 2017. 
+ 
+The term loan matures on March 24, 2022 and principal payments, initially set at approximately 
+$468,000 per quarter, are payable for quarters ending December 31, 2017 to March 31, 2018. The 
+loan also calls for mandatory annual principal payments of excess cash. These payments, if made, 
+result in a pro-rata reduction of future quarterly principal payments. 
+ 
+Interest expense incurred during the year ended December 31, 2017 totaled approximately 
+$14,876,000. 
+- 19 - 
+Page#22
+THUNDER PARENT INC. 
+Notes to Consolidated Financial Statements 
+December 31, 2017 
+_________________________ 
+ 
+ 
+5. Debt (continued) 
+ 
+The costs associated with obtaining the Credit Agreement were recorded as a reduction to the 
+carrying amount of the loan, and are being amortized as interest expense over the term of the loan. 
+The unamortized debt discount balance totaled $4,586,000 as of December 31, 2017, with 
+amortization expense totaling $945,000 for the year ending December 31, 2017. 
+ 
+A summary of the principal payments due under the debt agreement is as follows as of December 
+31, 2017 (in thousands): 
+ 
+ Fiscal Year Amount Due 
+ 2018 $  1,853 
+ 2019 1,773 
+ 2020 1,695 
+ 2021 1,608 
+ 2022  179,164 
+l
+a
+y
+  Total debt i 186,093 
+t
+e
+n
+l
+ Less: debt discount e r  (4,586) 
+ 
+u
+d
+m
+B
+ﬁ
+ Term loan, net of discount 181,507 
+n  o
+6
+r
+o e c 4
+ Less: current portion c t p. : (4,495) 
+s 5
+a
+e
+1
+c
+v
+ 
+ Long term portion e 0 $177,012 
+l
+y
+t 2
+S n
+ 0
+a
+2
+v
+ 
+As of December 31, 2017 the amounat outstanding under the revolving loan was $0. 
+,
+0
+3
+ 
+ 
+l
+u
+Credit facility covenants 
+J
+ 
+The credit facilities require the Company to maintain and meet certain financial covenants, among 
+other restrictions, including fixed charge coverage ratio and consolidated leverage ratio Further, 
+the credit facilities contain negative covenants limiting the ability of the Company and its 
+subsidiaries, among other things, to incur debt, grant liens, make acquisitions, enter into mergers, 
+consolidations, make certain restricted payments, make investments and sell assets. The events of 
+default under the credit agreements include payment defaults, breaches of covenants, and insolvency 
+events. As of and for the year ended December 31, 2017, the Company was in compliance with all 
+covenant requirements. 
+- 20 - 
+Page#23
+THUNDER PARENT INC. 
+Notes to Consolidated Financial Statements 
+December 31, 2017 
+_________________________ 
+ 
+ 
+6. Income Taxes 
+ 
+Loss before income tax benefit consists of the following for the year ended December 31, 2017 (in 
+thousands): 
+ 
+Domestic $(27,144) 
+Foreign (189) 
+ $(27,333) 
+ 
+Current  
+Federal $ 141 
+State 560 
+Foreign (80) 
+ 621 
+ 
+ 
+Deferred  
+Federal (16,075) 
+l
+a
+y
+State i (820) 
+t
+e
+n
+l
+Foreign e r - 
+u
+d
+m
+B
+ﬁ
+  (16,894) 
+n  o
+6
+r
+o e c 4
+c t p. :
+s 5
+Total income tax benefit $(16,273) 
+a
+e
+1
+c
+v
+ 
+ e 0
+l
+y
+t 2
+S n
+The income tax benefit differs from the amount0 computed by applying the U.S. federal statutory 
+a
+2
+v
+ 
+income tax rate to loss before incoma e taxes as follows for the year ended December 31, 2017 (in 
+,
+0
+3
+thousands): 
+ 
+l
+u
+ 
+J
+Federal tax benefit at statutory rate (34%) $ (9,293) 
+State tax benefit net of federal effect (1,142) 
+Foreign taxes (14) 
+Permanent differences 66 
+Research credits generated (net of reserves) (725) 
+Acquisition costs 417 
+Return to provision true-up (14) 
+Change in federal tax rate (5,490) 
+Change in accrual of uncertain positions (264)  
+Other true-up of deferred taxes 186 
+ 
+ Total income tax benefit $(16,273) 
+- 21 - 
+Page#24
+THUNDER PARENT INC. 
+Notes to Consolidated Financial Statements 
+December 31, 2017 
+_________________________ 
+ 
+ 
+6. Income Taxes (continued) 
+ 
+The primary components of the net deferred tax assets (liabilities) are as follows as of December 
+31, 2017 (in thousands): 
+ 
+Intangible assets $ (18,953) 
+Research tax credits 6,415 
+Amortizable acquisition costs 366 
+Accrued expenses 596 
+Equity compensation 588 
+Inventory reserve and unicap 250 
+Deferred revenue 2,801 
+Depreciable fixed assets  (225) 
+Net operating losses (state only) 1,287 
+Other deferred tax assets 63 
+ 
+Gross deferred tax liabilities (6,812) 
+Less: valuation allowance l (1,265) 
+a
+y
+i
+t
+e
+n
+Net deferred tax liabilities e rl $  (8,077) 
+u
+d
+m
+B
+ ﬁ 
+n  o
+6
+r
+Deferred tax assets o e c 4 $ 11,101 
+c t p. :
+s 5
+ e a 
+1
+c
+v
+ 
+e 0
+l
+Deferred tax liabilities $ (19,178) 
+y
+t 2 
+S n
+0
+ a
+2
+v
+ 
+a
+,
+At December 31, 2017 the Company had Federal net operating loss carryforwards ("NOLs") of 
+0
+3
+$5,167,000 and Massachusetts and Calif ornia state NOLs of $2,607,000. At December 31, 2017 the 
+l
+u
+J
+Company had federal research tax credit carryforwards of $3,596,000 and Massachusetts and 
+California state research tax credit carryforwards of approximately $6,121,000. The California and 
+Massachusetts state credits have no expiration date, except for a small portion of the Massachusetts 
+credits that expire in 5 years. Utilization of the credits may be subject to annual limitation due to 
+the ownership percentage change limitations provided by the Internal Revenue Code of 1986 and 
+similar state provisions The annual limitation will not result in the expiration of the California 
+credits or Massachusetts before utilization as there is no expiration date. A valuation allowance of 
+$1,265,000 has been recorded against the Deferred Tax asset for the Massachusetts credits for risk 
+of not generating enough taxable income to obtain the benefit. 
+ 
+In assessing the realizability of deferred tax assets, management considers whether it is more likely 
+than not that some portion or all of the deferred tax assets will not be realized The ultimate 
+realization of deferred tax assets is dependent upon the generation of future taxable income during 
+the periods in which those temporary differences become deductible. Based upon the reversal of 
+deferred tax liabilities and expected future income over the periods in which the deferred tax assets 
+are deductible, management believes it is more likely than not that the Company will realize the 
+benefits of these deferred tax assets (net of the valuation allowance referenced above) at 
+December 31, 2017. 
+- 22 - 
+Page#25
+THUNDER PARENT INC. 
+Notes to Consolidated Financial Statements 
+December 31, 2017 
+_________________________ 
+ 
+ 
+6. Income Taxes (continued) 
+ 
+The Company files income tax returns in the U.S. federal jurisdiction, state jurisdictions, and foreign 
+jurisdictions As of December 31, 2017 the Company was no longer subject to income tax 
+examinations for taxable years before 2014 for U.S. federal taxing authorities, and taxable years 
+generally before 2013 in the case of state taxing authorities. Net operating losses generated on a tax 
+return basis by the Company for the tax years 2012 to 2016 remain open to examination by the major 
+domestic taxing jurisdictions Credits generated in years back to 2002 remain unused and credits 
+used in open year arose in years back to 2007 and remain subject to examination. 
+ 
+As of December 31, 2017 the Company made no provision for a cumulative total of approximately 
+$935,000 of undistributed earnings for certain non-U.S. subsidiaries, which are considered to be 
+permanently reinvested 
+ 
+As of December 31, 2017, the total amount of gross unrecognized tax benefits was $810,000 
+(includes $50,000 of interest and penalties). As of December 31, 2017 the amount of unrecognized 
+tax benefits that, if recognized, would affect thle effective tax rate was $810,000 The Company 
+a
+y
+i
+t
+estimates that there will be no material change ine its uncertain tax positions in the next 12 
+n
+l
+e r
+u
+months The Company's policy is to recdognize interest and penalties accrued on any unrecognized 
+m
+B
+ﬁ
+n  o
+tax benefits as a component of income tax expense. Total int6erest and penalties recognized in the 
+r
+o e c 4
+consolidated statement of operaticons was t$50,000p .for 2017:. 
+s 5
+a
+e
+1
+c
+ v
+ 
+e 0
+l
+y
+t 2
+On December 22, 2017, the PresiSdent of thn e United States signed into law the Tax Cuts and Jobs Act 
+0
+a
+2
+v
+("TCJA"), thereby enacting the law. This law will have significant impact on the Company's U.S. 
+ 
+a
+,
+0
+taxes. Changes include, but are not limited to, a federal corporate tax rate decrease from 34% to 
+3
+ 
+l
+21%, effective for tax years beginningu after December 31, 2017, the transition of U.S. international 
+J
+taxation from a worldwide tax system to a territorial system, and a one-time transition tax on the 
+mandatory deemed repatriation of cumulative foreign earnings. The Company has calculated its best 
+estimate of the impact of the Act in its year end income tax provision in accordance with its 
+understanding of the Act and guidance available as of the date of this filing. 
+ 
+Staff Accounting Bulletin No. 118 ("SAB 118") was issued to address the application of U.S. GAAP 
+in situations when the company does not have the necessary information available, prepared, or 
+analyzed (including computations) in reasonable detail to complete the accounting for certain 
+income tax effects of the Act. The FASB has indicated that private companies may also apply SAB 
+118, which established that companies' financial statements should include: 
+ 
+1. Income tax effects of TCJA for which the ASC 740 accounting is complete; 
+2. Provisional income tax effects for specific TCJA components for which the ASC 740 
+accounting is incomplete but a reasonable estimate can be made; or 
+3. For specific TCJA components for which a reasonable estimate cannot be made, the 
+registrant should apply pre-TCJA law when determining the tax effects to include in the 
+financial statements. 
+- 23 - 
+Page#26
+THUNDER PARENT INC. 
+Notes to Consolidated Financial Statements 
+December 31, 2017 
+_________________________ 
+ 
+ 
+6. Income Taxes (continued) 
+ 
+In accordance with SAB 118, the Company has determined that the $5,490,000 benefit recorded in 
+connection with the re-measurement of certain deferred tax assets and liabilities was a provisional 
+amount and a reasonable estimate at December 31, 2017. Additional work is necessary for a more 
+detailed analysis of its deferred tax assets and liabilities. In addition, the Company has determined 
+that its calculation of the deemed repatriation of foreign earnings is provisional as it requires 
+additional analysis. The provisional amount related to the one-time transition tax on the mandatory 
+deemed repatriation of foreign earnings was immaterial based on cumulative foreign deficits from 
+its foreign subsidiaries. Any subsequent adjustment to these amounts may be recorded to current 
+tax expense in the quarter of 2018 when the analysis is complete. 
+ 
+The Act subjects a U.S. shareholder to tax on global intangible low-taxed income ("GILTI") earned 
+by certain foreign subsidiaries. The FASB Staff Q&A, Topic 740, No. 5, Accounting for Global 
+Intangible Low-Taxed Income, states that an entity can make an accounting policy election to either 
+recognize deferred taxes for temporary basis differences expected to reverse as GILTI in future years 
+or provide for the tax expense related to GILTI inl the year the tax is incurred. Given the complexity 
+a
+y
+i
+t
+of the GILTI provisions, the Company is still evaluaeting the effects of the GILTI provisions and 
+n
+l
+e r
+u
+have not yet determined its accounting pdolicy. At December 31, 2017, because the Company is still 
+m
+B
+ﬁ
+n  o
+evaluating the GILTI provisions and its analysis of future taxab6le income that is subject to GILTI, it 
+r
+o e c 4
+is unable to make a reasonable ecstimate atnd has np.ot reflec:ted any adjustments related to GILTI in 
+s 5
+a
+e
+1
+c
+its financial statements v
+ 
+e 0
+l
+y
+t 2
+ S n
+0
+a
+2
+v
+ 
+ 
+a
+,
+0
+7. Equity Incentive Plan 
+3
+ 
+l
+ u
+J
+On January 16, 2015 (inception) the Company's stockholders approved the Thunder Parent Inc. 2015 
+Equity Incentive Plan (the "2015 Plan"). The 2015 Plan allows for the issuance of stock options, 
+SARs, restricted stock awards, unrestricted stock awards, stock units including restricted stock units, 
+performance awards and awards up to 16,923,500 shares of common stock to employees, officers, 
+directors, consultants and advisers of the Company. As of December 31, 2017, the Company had 
+reserved approximately 3,150,000 shares of common stock available for future issuance of equity 
+awards under the 2015 Plan. 
+ 
+For the year ended December 31, 2017, total stock-based compensation expense for stock options 
+was approximately $903,000. For the year ended December 31, 2017, the Company recognized tax 
+benefits associated with stock options of approximately $235,000. 
+- 24 - 
+Page#27
+THUNDER PARENT INC. 
+Notes to Consolidated Financial Statements 
+December 31, 2017 
+_________________________ 
+ 
+ 
+7. Equity Incentive Plan (continued) 
+ 
+The Company uses the Black-Scholes-Merton option pricing model to determine the fair value of 
+the Company's stock option awards This model requires the input of subjective assumptions, 
+including expected stock price volatility and the estimated term of each award. The estimated fair 
+value of the Company's stock-based awards, less expected forfeitures, is amortized over the awards' 
+vesting period on a straight-line basis. Expected volatilities are based on the average of comparable 
+company's historical stock price volatility and implied volatility from traded options in its stock. 
+The Company uses historical data to estimate the expected term of options granted within the 
+valuation model. The risk-free interest rate for periods commensurate with the expected term of the 
+option is based on the U.S. Treasury yield rate in effect at the time of grant. The expected dividend 
+yield is zero, as the Company currently does not pay a dividend and does not anticipate doing so in 
+the future. 
+ 
+Stock options are issued with a maximum term of 10 years The Company grants options with 
+service and performance-based vesting components. Generally, the service-based component vests 
+at a rate of 20% annually over five years. The plerformance-based component will vest at a rate of 
+a
+y
+i
+t
+50% upon the achievement of certain financial targetes. The options cease vesting once the grantee 
+n
+l
+e r
+u
+is no longer an employee or providing sedrvices to the Company. 
+m
+B
+ﬁ
+n  o
+ 6
+r
+o e c 4
+The grant-date fair values of the cCompanty's stockp. option a:wards granted during the period ending 
+s 5
+a
+e
+1
+c
+December 31, 2017 were estimated uvsing the Black-Scholes option pricing model with the following 
+ 
+e 0
+l
+y
+t 2
+weighted-average assumptions: S n
+0
+a
+2
+v
+ 
+ 
+a
+,
+0
+Expected term (in years) 5.6 - 10 
+3
+ 
+l
+Risk-free interest rate u 2.0 - 2.4% 
+J
+Expected volatility 37.6 - 42.9% 
+Dividend yield 0% 
+ 
+The following table summarizes stock option activity for the year ended December 31, 2017: 
+ 
+ Average 
+  Exercise Remaining 
+ Shares Options Price per Contractual 
+ Available Outstanding Share Term (Years) 
+Balance, December 31, 2016  3,150,465 13,623,578 $0.87 8.5 
+Granted  (6,068,525) 6,068,525 $1.09 
+Cancelled upon termination 3,581,537 (3,581,537)  $0.98 
+ 
+Balance, December 31, 2017 663,477 16,110,566 $0.93 7.9 
+Exercisable, December 31, 2017 - 2,706,579 $0.86 7.4 
+Vested or expected to vest, 663,477 16,110,566 $0.93 7.9 
+ December 31, 2017  
+- 25 - 
+Page#28
+THUNDER PARENT INC. 
+Notes to Consolidated Financial Statements 
+December 31, 2017 
+_________________________ 
+ 
+ 
+7. Stock Options (continued) 
+ 
+The total pre-tax intrinsic value of options exercised during the year ended December 31, 2017 was 
+approximately $19,000. The total fair value of options vested for the year ended December 31, 2017 
+was approximately $864,000. The weighted average estimated fair value of options granted during 
+the year ended December 31, 2017 was $0.53 per share 
+ 
+As of December 31, 2017, the total stock-based compensation expense related to unvested options 
+granted under the Company's stock option plans but not yet recognized was $6,202,000 Of this 
+unrecognized expense, $2,032,000 relates to service based components which will be recognized on 
+a straight-line basis over a weighted-average remaining term of 1.5 years. The remaining $4,170,000 
+in unrecognized share-based compensation expense related to performance based vesting will be 
+recognized if and when the performance based components are achieved. 
+ 
+ 
+8. Employee Benefit Plans 
+ l
+a
+y
+i
+t
+The Company sponsors a 401(k) defined contributione plan covering eligible employees. Under the 
+n
+l
+e r
+u
+plan, employees are permitted to contribdute a portion of gross compensation not to exceed standard 
+m
+B
+ﬁ
+n  o
+limitations provided by the Internal Revenue Service The C6ompany matches 50% of employee 
+r
+o e c 4
+contributions up to 6% of an emcployee's tbase payp The m:atching contributions to the 401(k) plan 
+s 5
+a
+e
+1
+c
+totaled approximately $690,000 for tvhe year ending December 31, 2017. 
+ 
+e 0
+l
+y
+t 2
+ S n
+0
+a
+2
+v
+ 
+ 
+a
+,
+0
+9. Related Party Transactions 
+3
+ 
+l
+ u
+J
+The Company has agreements with Genstar Capital, L.P., Steven Mankoff, and Clyde Smith, all 
+affiliates of the majority shareholder of the Company, for financial and management advisory 
+services. During the year ending December 31, 2017, the Company paid $80,000 related to these 
+services. In addition, the Company reimbursed the majority stockholders of the Company for travel 
+related expenses During the year ending December 31, 2017 the Company paid approximately 
+$34,000 related to these expenses. The related expenses are reflected in general and administrative 
+expense in the consolidated statement of operations and comprehensive loss. 
+ 
+ 
+10. Commitments and Contingencies 
+ 
+ Facility leases 
+ 
+The Company leases office space and equipment under non-cancelable operating lease agreements 
+that expire at various dates through 2018. The Company recognizes rent expense on a straight-line 
+basis over the lease period and has accrued for rent expense incurred but not paid. Rent expense for 
+the year ending December 31, 2017 was approximately $1,361,000. 
+- 26 - 
+Page#29
+THUNDER PARENT INC. 
+Notes to Consolidated Financial Statements 
+December 31, 2017 
+_________________________ 
+ 
+ 
+10. Commitments and Contingencies (continued) 
+ 
+ Facility leases (continued) 
+ 
+As of December 31, 2017, the future annual minimum payments under non-cancellable operating 
+lease agreements are as follows (in thousands): 
+ 
+Fiscal Year 
+2018 $455,000 
+ 2019 273,000 
+ 2020 156,000 
+ 2021 70,000 
+  Total $954,000 
+ 
+Legal proceedings 
+ l
+a
+y
+i
+t
+From time to time, the Company may become a parety to legal proceedings arising in the normal 
+n
+l
+e r
+u
+course of business The Company mady also be indirectly affected by administrative or court 
+m
+B
+ﬁ
+n  o
+proceedings or actions in which the Company is not involved b6ut which have general applicability. 
+r
+o e c 4
+ c t p. :
+s 5
+a
+e
+1
+c
+ v
+ 
+e 0
+l
+y
+t 2
+11. Subsequent Events S n
+0
+a
+2
+v
+ 
+ 
+a
+,
+0
+The Company has evaluated subsequent events through June 29, 2018, the date the consolidated 
+3
+ 
+l
+financial statements were available to ube distributed. 
+J
+ 
+On June 5, 2018, the Company entered into a non-cancellable operating lease agreement for office 
+space in Westwood, MA. The lease is for 10 years and 4 months 
+ 
+The future minimum payments under this non-cancellable operating lease are as follows (in 
+thousands): 
+ 
+Fiscal Year 
+2018 $ -  
+ 2019 600,000 
+ 2020 670,000 
+ 2021 686,000 
+ Thereafter  5,342,000 
+  Total $7,298,000 
+ 
+- 27 - 

@@ -1,0 +1,173 @@
+
+Page#1
+GAMESTOP CORP.
+CONSOLIDATED BALANCE SHEETS
+(in millions, except par value per share)
+February 1, February 2, 
+2020 2019
+ASSETS
+Current assets:
+Cash and cash equivalents $ 499.4 $ 1,624.4
+Receivables, net 141.9 134.2
+Merchandise inventories, net 859.7 1,250.5
+Prepaid expenses and other current assets 120.9 118.6
+Assets held for sale 11.8 —
+Total current assets 1,633.7 3,127.7
+Property and equipment, net 275.9 321.3
+Operating lease right-of-use assets 767.0 —
+Deferred income taxes 83.0 147.3
+Goodwill — 363.9
+Other noncurrent assets 60.1 84.1
+Total assets $ 2,819.7 $ 4,044.3
+LIABILITIES AND STOCKHOLDERS’ EQUITY
+Current liabilities:
+Accounts payable $ 380.8 $ 1,051.9
+Accrued liabilities and other current liabilities 617.5 780.0
+Current portion of operating lease liabilities 239.4 —
+Current portion of debt, net — 349.2
+Total current liabilities 1,237.7 2,181.1
+Long-term debt, net 419.8 471.6
+Operating lease liabilities 529.3 —
+Other long-term liabilities 21.4 55.4
+Total liabilities 2,208.2 2,708.1
+Commitments and contingencies (Note 12)
+Stockholders’ equity:
+Class A common stock — $.001 par value; authorized 300.0 shares; 64.3 and
+102.0 shares issued, 64.3 and 102.0 shares outstanding, respectively 0.1 0.1
+Additional paid-in capital — 27.7
+Accumulated other comprehensive loss (78.8) (54.3)
+Retained earnings 690.2 1,362.7
+Total stockholders' equity 611.5 1,336.2
+Total liabilities and stockholders’ equity $ 2,819.7 $ 4,044.3
+See accompanying notes to consolidated financial statements.
+F-3
+Page#2
+GAMESTOP CORP.
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(in millions, except per share data)
+Fiscal Year
+2019 2018 2017
+Net sales $ 6,466.0 $ 8,285.3 $ 8,547.1
+Cost of sales 4,557.3 5,977.2 6,062.2
+Gross profit 1,908.7 2,308.1 2,484.9
+Selling, general and administrative expenses 1,922.7 1,994.2 2,031.9
+Goodwill impairments 363.9 970.7 —
+Asset impairments 21.7 45.2 13.8
+Operating (loss) earnings (399.6) (702.0) 439.2
+Interest income (11.3) (5.7) (1.5)
+Interest expense 38.5 56.8 56.8
+(Loss) earnings from continuing operations before income taxes (426.8) (753.1) 383.9
+Income tax expense 37.6 41.7 153.5
+Net (loss) income from continuing operations (464.4) (794.8) 230.4
+(Loss) income from discontinued operations, net of tax (6.5) 121.8 (195.7)
+Net (loss) income $ (470.9) $ (673.0) $ 34.7
+Basic (loss) earnings per share:
+Continuing operations $ (5.31) $ (7.79) $ 2.27
+Discontinued operations (0.08) 1.19 (1.93)
+Basic (loss) earnings per share $ (5.38) $ (6.59) $ 0.34
+Diluted (loss) earnings per share:
+Continuing operations $ (5.31) $ (7.79) $ 2.27
+Discontinued operations (0.08) 1.19 (1.93)
+Diluted (loss) earnings per share $ (5.38) $ (6.59) $ 0.34
+Weighted-average shares outstanding:
+Basic 87.5 102.1 101.4
+Diluted 87.5 102.1 101.5
+ 
+See accompanying notes to consolidated financial statements.
+F-4
+Page#3
+GAMESTOP CORP.
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (LOSS)
+(in millions)
+Fiscal Year
+2019 2018 2017
+Net (loss) income $ (470.9) $ (673.0) $ 34.7
+Other comprehensive income (loss):
+Foreign currency translation adjustments (24.5) (63.4) 59.5
+Reclassification of realized gain on foreign currency translation
+adjustments, net of tax of $0 — (3.1) —
+Total comprehensive (loss) income $ (495.4) $ (739.5) $ 94.2
+See accompanying notes to consolidated financial statements.
+F-5
+Page#4
+GAMESTOP CORP.
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+(in millions, except for per share data)
+Accumulated
+Class A
+Additional Other Total
+Common Stock
+Paid-in Comprehensive Retained Stockholders'
+Shares Amount Capital Income (Loss) Earnings Equity
+Balance at January 28, 2017 101.0 $ 0.1 $ — $ (47.3) $ 2,301.3 $ 2,254.1
+Net income — — — — 34.7 34.7
+Foreign currency translation — — — 59.5 — 59.5
+Dividends declared, $1.52 per common share — — — — (155.9) (155.9)
+Stock-based compensation expense — — 25.6 — — 25.6
+Settlement of stock-based awards 0.3 — (3.5) — — (3.5)
+Balance at February 3, 2018 101.3 0.1 22.1 12.2 2,180.1 2,214.5
+Adoption of ASU 2014-09 (Note 1) — — — — 11.5 11.5
+Net loss — — — — (673.0) (673.0)
+Foreign currency translation — — — (66.5) — (66.5)
+Dividends declared, $1.52 per common share — — — — (155.9) (155.9)
+Stock-based compensation expense — — 10.7 — — 10.7
+Settlement of stock-based awards 0.7 — (5.1) — — (5.1)
+Balance at February 2, 2019 102.0 0.1 27.7 (54.3) 1,362.7 1,336.2
+Net loss — — — — (470.9) (470.9)
+Foreign currency translation — — — (24.5) — (24.5)
+Dividends declared, $0.38 per common share — — — — (38.5) (38.5)
+Stock-based compensation expense — — 8.9 — — 8.9
+Repurchase of common shares (38.1) — (35.6) — (163.1) (198.7)
+Settlement of stock-based awards 0.4 — (1.0) — — (1.0)
+Balance at February 1, 2020 64.3 $ 0.1 $ — $ (78.8) $ 690.2 $ 611.5
+See accompanying notes to consolidated financial statements.
+F-6
+Page#5
+GAMESTOP CORP.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(in millions)
+Fiscal Year
+2019 2018 2017
+Cash flows from operating activities:
+Net (loss) income $ (470.9) $ (673.0) $ 34.7
+Adjustments to reconcile net (loss) income to net cash flows from operating
+activities:
+Depreciation and amortization (including amounts in cost of sales) 96.2 126.9 151.9
+Goodwill and asset impairments 385.6 1,015.9 395.1
+Stock-based compensation expense 8.9 10.7 25.6
+Deferred income taxes 61.4 (4.1) (107.9)
+Loss on disposal of property and equipment 1.9 2.0 8.5
+Loss (gain) on divestiture 9.1 (100.8) (6.4)
+Other 4.1 6.9 (10.5)
+Changes in operating assets and liabilities:
+Receivables, net (10.9) (34.4) 35.7
+Merchandise inventories 361.1 12.6 (197.2)
+Prepaid expenses and other current assets 3.6 2.2 (1.2)
+Prepaid income taxes and income taxes payable (75.9) (18.7) (24.7)
+Accounts payable and accrued liabilities (792.8) (26.0) 146.1
+Operating lease right-of-use assets and lease liabilities 4.1 — —
+Changes in other long-term liabilities — 4.9 (14.8)
+Net cash flows (used in) provided by operating activities (414.5) 325.1 434.9
+Cash flows from investing activities:
+Purchase of property and equipment (78.5) (93.7) (113.4)
+Proceeds from divestiture, net of cash sold 5.2 727.9 58.5
+Proceeds from company-owned life insurance, net 12.0 — —
+Acquisitions, net of cash acquired — — (8.5)
+Other 0.4 1.3 2.8
+Net cash flows (used in) provided by investing activities (60.9) 635.5 (60.6)
+Cash flows from financing activities:
+Repayments of senior notes (404.5) — —
+Repurchase of common shares (198.7) — (22.0)
+Dividends paid (40.5) (157.4) (155.2)
+Borrowings from the revolver — 154.0 373.0
+Repayments of revolver borrowings — (154.0) (373.0)
+Repayment of acquisition-related debt — (12.2) (21.8)
+Tax withholdings on share-based awards (1.0) (5.1) (3.5)
+Net cash flows used in financing activities (644.7) (174.7) (202.5)
+Exchange rate effect on cash and cash equivalents and restricted cash (6.9) (24.7) 28.0
+Decrease (increase) in cash held for sale — 10.2 (5.4)
+(Decrease) increase in cash and cash equivalents (1,127.0) 771.4 194.4
+Cash and cash equivalents and restricted cash at beginning of period 1,640.5 869.1 674.7
+Cash and cash equivalents and restricted cash at end of period $ 513.5 $ 1,640.5 $ 869.1
+See accompanying notes to consolidated financial statements.
+F-7

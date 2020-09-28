@@ -1,0 +1,195 @@
+
+Page#1
+PART II PART II﻿
+ITEM 8 Financial Statements and Supplementary Data
+FMC Corporation
+Consolidated Statements of Income (Loss)
+Year Ended December 31,
+2017 2016 2015
+(in Millions, Except Per Share Data)
+Revenue $ 2,878.6 $ 2,538.9 $ 2,491.0
+Costs and Expenses
+Costs of sales and services $ 1,777.3 $ 1,607.7 $ 1,690.6
+Gross Margin $ 1,101.3 $ 931.2 $ 800.4
+Selling, general and administrative expenses $ 618.6 $ 458.5 $ 660.7
+Research and development expenses 141.5 134.5 135.9
+Restructuring and other charges (income) 81.4 95.0 150.3
+Total costs and expenses 2,618.8 2,295.7 2,637.5
+Income (loss) from continuing operations before equity in (earnings) loss of affiliates, 
+interest income and expense and income taxes $ 259.8 $ 243.2 $ (146.5)
+Equity in (earnings) loss of affiliates (0.1) (0.5) —
+Interest income (0.9) (0.6) (1.3)
+Interest expense 80.0 63.5 62.2
+Income (loss) from continuing operations before income taxes $ 180.8 $ 180.8 $ (207.4)
+Provision for income taxes 264.1 50.1 5.2
+Income (loss) from continuing operations $ (83.3) $ 130.7 $ (212.6)
+Discontinued operations, net of income taxes 621.7 81.0 711.1
+Net income $ 538.4 $ 211.7 $ 498.5
+Less: Net income attributable to noncontrolling interests 2.6 2.6 9.5
+Net income attributable to FMC stockholders $ 535.8 $ 209.1 $ 489.0
+Amounts attributable to FMC stockholders:
+Continuing operations, net of income taxes $ (85.9) $ 128.4 $ (222.0)
+Discontinued operations, net of income taxes 621.7 80.7 711.0
+NET INCOME ATTRIBUTABLE TO FMC STOCKHOLDERS $ 535.8 $ 209.1 $ 489.0
+Basic earnings (loss) per common share attributable to FMC stockholders:
+Continuing operations $ (0.64) $ 0.96 $ (1.66)
+Discontinued operations 4.63 0.60 5.32
+NET INCOME ATTRIBUTABLE TO FMC STOCKHOLDERS $ 3.99 $ 1.56 $ 3.66
+Diluted earnings (loss) per common share attributable to FMC stockholders:
+Continuing operations $ (0.64) $ 0.96 $ (1.66)
+Discontinued operations 4.63 0.60 5.32
+NET INCOME ATTRIBUTABLE TO FMC STOCKHOLDERS $ 3.99 $ 1.56 $ 3.66
+The accompanying notes are an integral part of these consolidated financial statements.
+FMC CORPORATION - Form 10-K 33
+Page#2
+PART II PART II﻿
+ITEM 8 Financial Statements and Supplementary Data
+FMC Corporation
+Consolidated Balance Sheets
+December 31,
+2017 2016
+(in Millions, Except Share and Par Value Data)
+ASSETS
+Current assets
+Cash and cash equivalents $ 283.0 $ 64.2
+Trade receivables, net of allowance of $38.7 in 2017 and $17.6 in 2016 2,043.5 1,692.5
+Inventories 992.5 478.9
+Prepaid and other current assets 326.4 232.1
+Current assets of discontinued operations held for sale 7.3 381.5
+Total current assets $ 3,652.7 $ 2,849.2
+Investments 1.4 1.0
+Property, plant and equipment, net 1,025.2 538.1
+Goodwill 1,198.9 498.7
+Other intangibles, net 2,631.8 719.9
+Other assets including long-term receivables, net 443.6 454.7
+Deferred income taxes 252.7 242.1
+Noncurrent assets of discontinued operations held for sale — 835.6
+TOTAL ASSETS
+$ 9,206.3 $ 6,139.3
+LIABILITIES AND EQUITY
+Current liabilities
+Short-term debt and current portion of long-term debt $ 192.6 $ 94.2
+Accounts payable, trade and other 714.2 317.4
+Advance payments from customers 380.6 239.8
+Accrued and other liabilities 497.7 358.5
+Accrued customer rebates 266.6 246.7
+Guarantees of vendor financing 51.5 104.5
+Accrued pension and other postretirement benefits, current 5.7 7.1
+Income taxes 99.2 11.0
+Current liabilities of discontinued operations held for sale 1.3 59.0
+Total current liabilities $ 2,209.4 $ 1,438.2
+Long-term debt, less current portion 2,993.0 1,798.8
+Accrued pension and other postretirement benefits, long-term 59.3 137.3
+Environmental liabilities, continuing and discontinued 346.2 306.4
+Deferred income taxes 173.2 130.4
+Noncurrent liabilities of discontinued operations held for sale — 67.7
+Other long-term liabilities 718.1 267.5
+Commitments and contingent liabilities (Note 18)
+Equity
+Preferred stock, no par value, authorized 5,000,000 shares; no shares issued in 2017 or 2016 $ — $ —
+Common stock, $0.10 par value, authorized 260,000,000 shares in 2017 and 2016; 185,983,792 
+shares issued in 2017 and 2016 18.6 18.6
+Capital in excess of par value of common stock 450.7 418.6
+Retained earnings 3,952.4 3,505.5
+Accumulated other comprehensive income (loss) (240.3) (478.4)
+Treasury stock, common, at cost - 2017: 51,653,236 shares, 2016: 52,293,686 shares (1,499.6) (1,506.6)
+Total FMC stockholders’ equity $ 2,681.8 $ 1,957.7
+Noncontrolling interests 25.3 35.3
+Total equity $ 2,707.1 $ 1,993.0
+TOTAL LIABILITIES AND EQUITY $ 6,139.3
+$ 9,206.3
+The accompanying notes are an integral part of these consolidated financial statements.
+FMC CORPORATION - Form 10-K 35
+Page#3
+PART II PART II﻿
+ITEM 8 Financial Statements and Supplementary Data
+FMC Corporation
+Consolidated Statements of Cash Flows
+Year Ended December 31,
+2017 2016 2015
+(in Millions)
+Cash provided (required) by operating activities of continuing operations:
+Net income $ 538.4 $ 211.7 $ 498.5
+Discontinued operations (621.7) (81.0) (711.1)
+Income (loss) from continuing operations $ (83.3) $ 130.7 $ (212.6)
+Adjustments from income from continuing operations to cash provided (required) 
+by operating activities of continuing operations:
+Depreciation and amortization $ 113.0 $ 100.6 $ 76.8
+Equity in (earnings) loss of affiliates (0.1) (0.5) —
+Restructuring and other charges (income) 81.4 95.0 150.3
+Deferred income taxes 104.2 53.3 18.2
+Pension and other postretirement benefits 25.9 32.5 42.5
+Share-based compensation 21.1 20.2 15.4
+Excess tax benefits from share-based compensation — (0.4) (1.4)
+Changes in operating assets and liabilities, net of effect of acquisitions and divestitures:
+Trade receivables, net $ (262.4) $ 11.8 $ 140.6
+Guarantees of vendor financing (54.7) 55.0 11.5
+Inventories (96.8) 79.0 27.8
+Accounts payable, trade and other 331.7 (29.7) (294.4)
+Advance payments from customers 140.5 (10.0) 60.6
+Accrued customer rebates 16.9 (5.2) 9.5
+Income taxes(1) 122.1 (31.9) (265.3)
+Pension and other postretirement benefit contributions (56.5) (65.8) (75.4)
+Environmental spending, continuing, net of recoveries (20.5) (28.1) (32.2)
+Restructuring and other spending (8.2) (18.0) (24.7)
+Acquisition-related charges(2) (78.9) (23.4) (264.8)
+Change in other operating assets and liabilities, net(3) 19.1 3.8 146.4
+Cash provided (required) by operating activities of continuing operations $ 314.5 $ 368.9 $ (471.2)
+Cash provided (required) by operating activities of discontinued operations:
+Environmental spending, discontinued, net of recoveries $ (32.3) $ (21.8) $ (17.9)
+Operating activities of discontinued operations, net of divestiture costs 86.1 176.3 166.0
+Other discontinued spending (32.8) (25.6) (35.0)
+Cash provided (required) by operating activities of discontinued operations $ 21.0 $ 128.9 $ 113.1
+(1) The twelve months ended December 31, 2015 includes approximately $340.3 million in income tax payments principally driven by the sale of our Alkali 
+Chemicals business. See Note 9 for more details.
+(2) Total cash payments during the year ended December 31, 2015 associated with the Cheminova acquisition hedges were $264.8 million, which includes 
+$165.2 million that were accrued and paid within the period.
+(3) Changes in all periods represent timing of payments associated with all other operating assets and liabilities.
+The accompanying notes are an integral part of these consolidated financial statements.
+36 FMC CORPORATION - Form 10-K
+Page#4
+PART II PART II﻿
+ITEM 8 Financial Statements and Supplementary Data
+FMC Corporation
+Consolidated Statements of Cash Flows (Continued)
+Year Ended December 31,
+2017 2016 2015
+(in Millions)
+Cash provided (required) by investing activities of continuing operations:
+Capital expenditures $ (85.7) $ (91.2) $ (53.4)
+Proceeds from disposal of property, plant and equipment 2.2 1.9 1.9
+Acquisitions, net(3) (1,225.6) — (1,205.1)
+Proceeds from sale of investments — — 66.4
+Other investing activities (40.4) (11.5) (40.2)
+Cash provided (required) by investing activities of continuing operations $ (1,349.5) $ (100.8) $ (1,230.4)
+Cash provided (required) by investing activities of discontinued operations:
+Proceeds from divestiture $ 38.0 $ — $ 1,649.8
+Other discontinued investing activities (22.3) (34.4) (70.7)
+Cash provided (required) by investing activities of discontinued operations $ 15.7 $ (34.4) $ 1,579.1
+Cash provided (required) by financing activities of continuing operations:
+Increase (decrease) in short-term debt $ (3.1) $ (19.4) $ (547.3)
+Proceeds from borrowing of long-term debt 1,598.9 2.8 1,650.0
+Financing fees (11.0) (0.7) —
+Repayments of long-term debt (302.3) (242.6) (1,036.6)
+Acquisitions of noncontrolling interests — (20.0) —
+Transactions with noncontrolling interests (0.5) — —
+Dividends paid(4) (88.8) (88.6) (86.4)
+Issuances of common stock, net 22.5 4.1 5.9
+Excess tax benefits from share-based compensation — 0.4 1.4
+Repurchases of common stock under publicly announced program — (11.2) —
+Other repurchases of common stock (2.6) (1.8) (3.7)
+Cash provided (required) by financing activities $ 1,213.1 $ (377.0) $ (16.7)
+Effect of exchange rate changes on cash and cash equivalents 4.0 — (4.8)
+Increase (decrease) in cash and cash equivalents $ 218.8 $ (14.4) $ (30.9)
+Cash and cash equivalents, beginning of period 64.2 78.6 109.5
+CASH AND CASH EQUIVALENTS, END OF PERIOD $ 283.0 $ 64.2 $ 78.6
+(3) Represents the cash portion of the total purchase consideration paid for the DuPont Crop Protection Business Acquisition. See Note 3 for more information on the 
+non-cash consideration transferred to DuPont.
+(4) See Note 15 regarding quarterly cash dividend.
+Cash paid for interest, net of capitalized interest was $98.8 million, $81.6 million and $74.7 million, and income taxes paid, net of refunds was 
+$33.3 million, $62.8 million and $340.3 million in December 31, 2017, 2016 and 2015, respectively. Net interest payments of $16.6 million, 
+$19.6 million, and $17.9 million and tax payments, net of refunds of $8.3 million, $12.6 million, and $9.2 million were allocated to discontinued 
+operations for the year ended December 31, 2017, 2016 and 2015, respectively. Accrued additions to property, plant and equipment at December 
+31, 2017, 2016 and 2015 were $11.6 million, $3.4 million and $19.4 million respectively.
+The accompanying notes are an integral part of these consolidated financial statements.
+FMC CORPORATION - Form 10-K 37

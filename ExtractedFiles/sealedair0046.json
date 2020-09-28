@@ -1,0 +1,161 @@
+[annotation_spec_id: "4810686627938566144"
+display_name: "Year1"
+text_extraction {
+  score: 0.9953684210777283
+  text_segment {
+    start_offset: 3434
+    end_offset: 3438
+    content: "2018"
+  }
+}
+, annotation_spec_id: "199000609511178240"
+display_name: "Year2"
+text_extraction {
+  score: 0.9999626874923706
+  text_segment {
+    start_offset: 3439
+    end_offset: 3443
+    content: "2017"
+  }
+}
+, annotation_spec_id: "7116529637152260096"
+display_name: "Year3"
+text_extraction {
+  score: 0.9999944567680359
+  text_segment {
+    start_offset: 3444
+    end_offset: 3448
+    content: "2016"
+  }
+}
+, annotation_spec_id: "3081304371028295680"
+display_name: "TotalRevenue"
+text_extraction {
+  score: 0.9999995231628418
+  text_segment {
+    start_offset: 3453
+    end_offset: 3458
+    content: "sales"
+  }
+}
+, annotation_spec_id: "2651952776963162112"
+display_name: "Currency"
+text_extraction {
+  score: 0.9841687679290771
+  text_segment {
+    start_offset: 3459
+    end_offset: 3460
+    content: "$"
+  }
+}
+, annotation_spec_id: "5963608132545413120"
+display_name: "COGS"
+text_extraction {
+  score: 0.9999657273292542
+  text_segment {
+    start_offset: 3489
+    end_offset: 3502
+    content: "Cost of sales"
+  }
+}
+, annotation_spec_id: "3657765123331719168"
+display_name: "GrossProfit"
+text_extraction {
+  score: 0.9999985098838806
+  text_segment {
+    start_offset: 3533
+    end_offset: 3545
+    content: "Gross profit"
+  }
+}
+, annotation_spec_id: "5903164679831683072"
+display_name: "SGA"
+text_extraction {
+  score: 0.9999781847000122
+  text_segment {
+    start_offset: 3570
+    end_offset: 3614
+    content: "Selling, general and administrative expenses"
+  }
+}
+, annotation_spec_id: "8269451141759107072"
+display_name: "EBIT"
+text_extraction {
+  score: 0.9999785423278809
+  text_segment {
+    start_offset: 3745
+    end_offset: 3761
+    content: "Operating profit"
+  }
+}
+, annotation_spec_id: "440650175552159744"
+display_name: "InterestExpense"
+text_extraction {
+  score: 0.9999923706054688
+  text_segment {
+    start_offset: 3780
+    end_offset: 3796
+    content: "Interest expense"
+  }
+}
+, annotation_spec_id: "5387147380241989632"
+display_name: "EBT"
+text_extraction {
+  score: 0.9999916553497314
+  text_segment {
+    start_offset: 4015
+    end_offset: 4051
+    content: "Earnings before income tax provision"
+  }
+}
+, annotation_spec_id: "775461361814601728"
+display_name: "Taxes"
+text_extraction {
+  score: 0.9999948143959045
+  text_segment {
+    start_offset: 4070
+    end_offset: 4090
+    content: "Income tax provision"
+  }
+}
+, annotation_spec_id: "7692990389455683584"
+display_name: "NetIncome"
+text_extraction {
+  score: 0.9850460886955261
+  text_segment {
+    start_offset: 4298
+    end_offset: 4310
+    content: "Net earnings"
+  }
+}
+, annotation_spec_id: "2504843618724872192"
+display_name: "Company"
+text_extraction {
+  score: 1.0
+  text_segment {
+    start_offset: 4846
+    end_offset: 4868
+    content: "SEALED AIR CORPORATION"
+  }
+}
+, annotation_spec_id: "2470331048240611328"
+display_name: "IncomeStatement"
+text_extraction {
+  score: 0.9967058897018433
+  text_segment {
+    start_offset: 4886
+    end_offset: 4923
+    content: "Consolidated Statements of Operations"
+  }
+}
+, annotation_spec_id: "1351922114118025216"
+display_name: "DandA"
+text_extraction {
+  score: 0.999975860118866
+  text_segment {
+    start_offset: 5125
+    end_offset: 5154
+    content: "Depreciation and amortization"
+  }
+}
+]

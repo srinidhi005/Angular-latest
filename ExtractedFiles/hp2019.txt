@@ -1,0 +1,129 @@
+
+Page#1
+HP Inc. and Subsidiaries
+Consolidated Statements of Earnings
+FOR THE FISCAL YEARS ENDED OCTOBER 31
+2019 2018 2017
+IN MILLIONS, EXCEPT PER SHARE AMOUNTS
+Net revenue  $58,756 $58,472 $52,056
+Costs and expenses:
+Cost of revenue  47,586 47,803 42,478
+Research and development  1,499 1,404 1,190
+Selling, general and administrative 5,368 5,099 4,532
+Restructuring and other charges 275 132 362
+Acquisition-related charges  35 123 125
+Amortization of intangible assets 116 80 1
+Total costs and expenses  54,879 54,641 48,688
+Earnings from operations  3,877 3,831 3,368
+Interest and other, net  (1,354) (818) (92)
+Earnings before taxes  2,523 3,013 3,276
+Benefit from (provision for) taxes 629 2,314 (750)
+Net earnings  $3,152 $5,327 $2,526
+Net earnings per share:
+Basic  $2.08 $3.30 $1.50
+Diluted  $2.07 $3.26 $1.48
+Weighted-average shares used to compute net earnings per share:
+Basic  1,515 1,615 1,688
+Diluted  1,524 1,634 1,702
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+55
+2019 Form 10-K  I 
+Page#2
+HP Inc. and Subsidiaries
+Consolidated Balance Sheets
+AS OF OCTOBER 31
+2019 2018
+IN MILLIONS, EXCEPT 
+PAR VALUE
+ASSETS
+Current assets:
+Cash and cash equivalents  $4,537 $5,166
+Accounts receivable, net  6,031 5,113
+Inventory  5,734 6,062
+Other current assets  3,875 5,046
+Total current assets  20,177 21,387
+Property, plant and equipment, net  2,794 2,198
+Goodwill  6,372 5,968
+Other non-current assets  4,124 5,069
+Total assets  $33,467 $34,622
+LIABILITIES AND STOCKHOLDERS’ DEFICIT
+Current liabilities:
+Notes payable and short-term borrowings  $357 $1,463
+Accounts payable  14,793 14,816
+Other current liabilities  10,143 8,852
+Total current liabilities  25,293 25,131
+Long-term debt  4,780 4,524
+Other non-current liabilities  4,587 5,606
+Commitments and contingencies
+Stockholders’ deficit:
+Preferred stock, $0.01 par value (300 shares authorized; none issued) — —
+Common stock, $0.01 par value (9,600 shares authorized; 1,458 and 1,560 shares issued and 
+outstanding at October 31, 2019, and 2018 respectively) 15 16
+Additional paid-in capital  835 663
+Accumulated deficit  (818) (473)
+Accumulated other comprehensive loss  (1,225) (845)
+Total stockholders’ deficit  (1,193) (639)
+Total liabilities and stockholders’ deficit  $33,467 $34,622
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+57
+2019 Form 10-K  I 
+Page#3
+HP Inc. and Subsidiaries
+Consolidated Statements of Cash Flows
+FOR THE FISCAL YEARS ENDED OCTOBER 31
+2019 2018 2017
+IN MILLIONS
+Cash flows from operating activities:
+Net earnings  $3,152 $5,327 $2,526
+Adjustments to reconcile net earnings to net cash provided by operating activities:
+Depreciation and amortization 744 528 354
+Stock-based compensation expense 297 268 224
+Restructuring and other charges 275 132 362
+Deferred taxes on earnings  133 (3,653) 238
+Other, net  254 319 134
+Changes in operating assets and liabilities, net of acquisitions:
+Accounts receivable  (761) (491) (453)
+Inventory  (68) (136) (1,346)
+Accounts payable  (53) 1,429 2,161
+Taxes on earnings  (851) 389 73
+Restructuring and other (154) (237) (233)
+Other assets and liabilities 1,686 653 (363)
+Net cash provided by operating activities 4,654 4,528 3,677
+Cash flows from investing activities:
+Investment in property, plant and equipment (671) (546) (402)
+Proceeds from sale of property, plant and equipment — 172 69
+Purchases of available-for-sale securities and other investments (80) (367) (1,400)
+Maturities and sales of available-for-sale securities and other investments 771 847 231
+Collateral posted for derivative instruments (32) (1,165) (1,170)
+Collateral returned for derivative instruments 32 1,379 955
+Payments made in connection with business acquisitions, net of cash acquired (458) (1,036) —
+Net cash used in investing activities (438) (716) (1,717)
+58
+ I  2019 Form 10-K
+Page#4
+FOR THE FISCAL YEARS ENDED OCTOBER 31
+2019 2018 2017
+IN MILLIONS
+Cash flows from financing activities:
+(Payments of) Proceeds from short-term borrowings with original maturities less 
+than 90 days, net  (856) 743 202
+Proceeds from short-term borrowings with original maturities greater than 90 days — 712 887
+Proceeds from debt, net of issuance costs 127 — 5
+Payment of short-term borrowings with original maturities greater than 90 days — (1,596) (3)
+Payment of debt  (680) (2,098) (84)
+Settlement of cash flow hedges  — — (9)
+Stock-based award activities  (61) 52 57
+Repurchase of common stock  (2,405) (2,557) (1,412)
+Cash dividends paid  (970) (899) (894)
+Net cash used in financing activities (4,845) (5,643) (1,251)
+(Decrease) Increase in cash and cash equivalents (629) (1,831) 709
+Cash and cash equivalents at beginning of period 5,166 6,997 6,288
+Cash and cash equivalents at end of period $4,537 $5,166 $6,997
+Supplemental cash flow disclosures:
+Income taxes paid, net of refunds $89 $951 $438
+Interest expense paid  $240 $329 $322
+Supplemental schedule of non-cash activities:
+Purchase of assets under capital leases $366 $258 $200
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+59
+2019 Form 10-K  I 

@@ -1,0 +1,174 @@
+
+Page#1
+ 
+J.CREW GROUP, INC.
+Consolidated Balance Sheets
+(in thousands, except share data)
+ 
+January 30, January 31,
+ 2016 2015 
+ASSETS 
+Current assets: 
+Cash and cash equivalents  $ 87,812 $ 111,097 
+Merchandise inventories 372,410 367,851 
+Prepaid expenses and other current assets 65,605 60,734 
+Total current assets 525,827 539,682 
+Property and equipment, at cost 645,065 593,410 
+Less accumulated depreciation (246,821) (188,958) 
+Property and equipment, net 398,244 404,452 
+Deferred financing costs, net 19,109 22,883 
+Intangible assets, net 460,744 836,608 
+Goodwill 107,900 1,124,715 
+Other assets 4,453 3,993 
+Total assets  $ 1,516,277 $ 2,932,333 
+LIABILITIES AND STOCKHOLDERS’ EQUITY 
+Current liabilities: 
+Accounts payable  $ 248,342 $ 244,367 
+Other current liabilities 157,765 155,697 
+Interest payable 5,279 5,408 
+Income taxes payable 7,086 3,192 
+Current portion of long-term debt 15,670 15,670 
+Total current liabilities 434,142 424,334 
+Long-term debt, net 1,518,218 1,532,769 
+Lease-related deferred credits, net 131,812 112,153 
+Deferred income taxes, net 148,819 304,487 
+Other liabilities 52,273 42,566 
+Total liabilities 2,285,264 2,416,309 
+Stockholders’ equity: 
+Common stock $0.01 par value; 1,000 shares authorized, issued and outstanding — — 
+Additional paid-in capital 979,333 1,014,930 
+Accumulated other comprehensive loss (16,791) (10,053) 
+Accumulated deficit (1,731,529) (488,853) 
+Total stockholders’ equity (deficit) (768,987) 516,024 
+Total liabilities and stockholders’ equity  $ 1,516,277 $ 2,932,333 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The accompanying notes are an integral part of these consolidated financial statements.
+ 
+ 
+F-3
+Page#2
+ 
+J.CREW GROUP, INC.
+Consolidated Statements of Operations and Comprehensive Income (Loss)
+(in thousands)
+ 
+ For the Year Ended 
+January 30, January 31, February 1,
+ 2016 2015 2014 
+Revenues: 
+Net sales  $ 2,447,692 $ 2,540,449 $ 2,394,085 
+Other 58,135 39,246 34,172 
+Total revenues 2,505,827 2,579,695 2,428,257 
+Cost of goods sold, including buying and occupancy costs 1,610,256 1,608,777 1,422,143 
+Gross profit 895,571 970,918 1,006,114 
+Selling, general and administrative expenses 834,137 845,953 754,345 
+Impairment losses 1,381,642 709,985 1,874 
+Income (loss) from operations (1,320,208) (585,020) 249,895 
+Interest expense, net 69,801 74,352 104,221 
+Loss on refinancings — 58,960 — 
+Income (loss) before income taxes (1,390,009) (718,332) 145,674 
+Provision (benefit) for income taxes (147,333) (60,559) 57,550 
+Net income (loss)  $ (1,242,676) $ (657,773) $ 88,124 
+Other comprehensive income (loss): 
+Reclassification of realized losses on cash flow hedges, net of tax, to earnings 74 13,652 7,339 
+Unrealized loss on cash flow hedge, net of tax (7,012) (10,634) (802) 
+Foreign currency translation adjustments 200 2,113 (1,532) 
+Comprehensive income (loss)  $ (1,249,414) $ (652,642) $ 93,129 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The accompanying notes are an integral part of these consolidated financial statements.
+ 
+ 
+ 
+F-4
+Page#3
+ 
+J.CREW GROUP, INC.
+Consolidated Statements of Cash Flows
+(in thousands)
+ 
+ For the Year Ended 
+January 30, January 31, February 1,
+ 2016 2015 2014 
+CASH FLOWS FROM OPERATING ACTIVITIES: 
+Net income (loss)  $ (1,242,676) $ (657,773) $ 88,124 
+Adjustments to reconcile to cash flows from operating activities: 
+Impairment losses 1,381,642 709,985 1,874 
+Depreciation of property and equipment 103,966 93,458 77,520 
+Amortization of intangible assets 15,559 15,944 17,886 
+Amortization of deferred financing costs and debt discount 5,030 5,657 9,940 
+Share-based compensation 2,580 5,968 5,784 
+Foreign currency transaction losses 2,027 5,480 389 
+Realized hedging losses 119 — 12,131 
+Loss on refinancings — 58,960 — 
+Excess tax benefits from share-based awards — (8) (728) 
+Deferred income taxes (151,232) (75,015) (5,234) 
+Changes in operating assets and liabilities: 
+Merchandise inventories (5,351) (15,071) (88,935) 
+Prepaid expenses and other current assets (4,265) (4,585) (5,280) 
+Other assets (701) (832) (2,021) 
+Accounts payable and other liabilities 16,910 4,934 108,658 
+Federal and state income taxes 11,945 11,016 12,417 
+Net cash provided by operating activities 135,553 158,118 232,525 
+CASH FLOWS FROM INVESTING ACTIVITIES: 
+Capital expenditures (103,657) (127,874) (131,440) 
+Other investing activities — (4,817) — 
+Net cash used in investing activities (103,657) (132,691) (131,440) 
+CASH FLOWS FROM FINANCING ACTIVITIES: 
+Proceeds from Term Loan Facility, net of discount — 1,559,165 — 
+Repayments of former term loan — (1,167,000) — 
+Redemption of Senior Notes — (400,000) — 
+Costs paid in connection with refinancings of debt (137) (22,182) — 
+Dividend and contribution to Parent (38,177) (27,730) (712) 
+Excess tax benefit from share-based awards — 8 728 
+Principal repayments of Term Loan Facility (15,670) (11,753) (12,000) 
+Net cash used in financing activities (53,984) (69,492) (11,984) 
+Effects of changes in foreign exchange rates on cash and cash equivalents (1,197) (1,487) (851) 
+Increase (decrease) in cash and cash equivalents (23,285) (45,552) 88,250 
+Beginning balance 111,097 156,649 68,399 
+Ending balance  $ 87,812 $ 111,097 $ 156,649 
+Supplemental cash flow information: 
+Income taxes paid  $ 1,328 $ 3,985 $ 53,427 
+Interest paid  $ 73,923  $ 92,973  $ 92,195 
+ 
+The accompanying notes are an integral part of these consolidated financial statements.
+ 
+ 
+F-6

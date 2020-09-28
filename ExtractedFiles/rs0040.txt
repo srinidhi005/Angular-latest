@@ -1,0 +1,253 @@
+
+Page#1
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+Consolidated Statements of Earnings
+Year Ended
+Year Ended Year Ended
+February 1, 2020
+($000, except per share data) February 2, 2019 February 3, 2018
+Sales $ 16,039,073  
+$ 14,983,541  $ 14,134,732  
+Costs and Expenses
+11,536,187  
+Cost of goods sold 10,726,277  10,042,638  
+2,356,704  
+Selling, general and administrative 2,216,550  2,043,698  
+(18,106) 
+Interest (income) expense, net  (10,162)  7,676  
+13,874,785  
+Total costs and expenses 12,932,665  12,094,012  
+2,164,288  
+Earnings before taxes 2,050,876  2,040,720  
+503,360  
+Provision for taxes on earnings 463,419  677,967  
+$ 1,660,928  
+Net earnings $ 1,587,457  $ 1,362,753  
+Earnings per share
+$ 4.63  
+Basic $ 4.30  $ 3.58  
+$ 4.60  
+Diluted $ 4.26  $ 3.55  
+Weighted-average shares outstanding (000)
+358,462  
+Basic 369,533  381,174  
+361,182  
+Diluted 372,678  384,329  
+The accompanying notes are an integral part of these consolidated financial statements.
+36
+Page#2
+Consolidated Statements of Comprehensive Income
+Year Ended
+Year Ended Year Ended
+February 1, 2020
+($000) February 2, 2019 February 3, 2018
+$ 1,660,928  
+Net earnings $ 1,587,457  $ 1,362,753  
+Other comprehensive income (loss):
+—  
+Change in unrealized gain (loss) on investments, net of tax (27)  (64) 
+$ 1,660,928  
+Comprehensive income $ 1,587,430  $ 1,362,689  
+The accompanying notes are an integral part of these consolidated financial statements.
+37
+Page#3
+Consolidated Balance Sheets
+February 1, 2020
+($000, except share data) February 2, 2019
+Assets
+Current Assets
+$ 1,351,205  
+Cash and cash equivalents $ 1,412,912  
+102,236  
+Accounts receivable 96,711  
+1,832,339  
+Merchandise inventory 1,750,442  
+147,048  
+Prepaid expenses and other 143,954  
+3,432,828  
+Total current assets 3,404,019  
+Property and Equipment
+1,177,262  
+Land and buildings 1,126,051  
+3,115,003  
+Fixtures and equipment 2,783,198  
+1,219,736  
+Leasehold improvements 1,175,921  
+189,536  
+Construction-in-progress 171,538  
+5,701,537  
+5,256,708  
+3,048,101  
+Less accumulated depreciation and amortization 2,781,507  
+2,653,436  
+Property and equipment, net 2,475,201  
+3,053,782  
+Operating lease assets —  
+208,321  
+Other long-term assets 194,471  
+$ 9,348,367  
+Total assets $ 6,073,691  
+Liabilities and Stockholders’ Equity
+Current Liabilities
+$ 1,296,482  
+Accounts payable $ 1,177,104  
+462,111  
+Accrued expenses and other 431,596  
+564,481  
+Current operating lease liabilities —  
+364,435  
+Accrued payroll and benefits 363,035  
+14,425  
+Income taxes payable 37,749  
+2,701,934  
+Total current liabilities 2,009,484  
+312,891  
+Long-term debt 312,440  
+2,610,528  
+Non-current operating lease liabilities —  
+214,086  
+Other long-term liabilities 321,713  
+149,679  
+Deferred income taxes 124,308  
+Commitments and contingencies
+Stockholders’ Equity
+3,568  
+Common stock, par value $0.01 per share 3,682  
+Authorized 1,000,000,000 shares
+Issued and outstanding 356,775,000 and
+368,242,000 shares, respectively
+1,458,307  
+Additional paid-in capital 1,375,965  
+(433,328) 
+Treasury stock (372,663) 
+2,330,702  
+Retained earnings 2,298,762  
+3,359,249  
+Total stockholders’ equity 3,305,746  
+$ 9,348,367  
+Total liabilities and stockholders’ equity $ 6,073,691  
+The accompanying notes are an integral part of these consolidated financial statements.
+38
+Page#4
+Consolidated Statements of Stockholders’ Equity
+Accumulated
+other
+Common stock
+Additional Treasury comprehensive Retained
+(000) Shares  Amount paid-in capital stock income (loss) earnings Total
+Balance at January 28, 2017
+391,893  $ 3,919  $ 1,215,715  $ (272,846)  $ 91  $ 1,801,138  $ 2,748,017  
+Net earnings —  —  —  —  —  1,362,753  1,362,753  
+Cumulative effect of adoption of
+accounting standard
+(stock-compensation), net —  —  1,789  —  —  (1,113)  676  
+Unrealized investment loss, net —  —  —  —  (64)  —  (64) 
+Common stock issued under stock
+plans, net of shares
+used for tax withholding 1,214  12  18,456  (45,433)  —  —  (26,965) 
+Stock-based compensation —  —  87,417  —  —  —  87,417  
+Common stock repurchased (13,489)  (135)  (31,013)  —  —  (843,852)  (875,000) 
+Dividends declared ($0.64 per share) —  —  —  —  —  (247,526)  (247,526) 
+Balance at February 3, 2018
+379,618  $ 3,796  $ 1,292,364  $ (318,279)  $ 27  $ 2,071,400  $ 3,049,308  
+Net earnings —  —  —  —  —  1,587,457  1,587,457  
+Cumulative effect of adoption of
+accounting standard
+(revenue recognition), net —  —  —  —  —  19,884  19,884  
+Unrealized investment loss, net —  —  —  —  (27)  —  (27) 
+Common stock issued under stock
+plans, net of shares
+used for tax withholding 1,097  11  20,101  (54,384)  —  —  (34,272) 
+Stock-based compensation —  —  95,585  —  —  —  95,585  
+Common stock repurchased (12,473)  (125)  (32,085)  —  —  (1,042,790)  (1,075,000) 
+Dividends declared ($0.90 per share) —  —  —  —  —  (337,189)  (337,189) 
+Balance at February 2, 2019
+368,242  $ 3,682  $ 1,375,965  $ (372,663)  $ —  $ 2,298,762  $ 3,305,746  
+Net earnings —  —  —  —  —  1,660,928  1,660,928  
+Cumulative effect of adoption of
+accounting standard (leases), net —  —  —  —  —  (19,614)  (19,614) 
+Common stock issued under stock
+plans, net of shares
+used for tax withholding 793  8  22,201  (60,665)  —  —  (38,456) 
+Stock-based compensation —  —  95,438  —  —  —  95,438  
+Common stock repurchased (12,260)  (122)  (35,297)  —  —  (1,239,581)  (1,275,000) 
+Dividends declared ($1.02 per share) —  —  —  —  —  (369,793)  (369,793) 
+Balance at February 1, 2020 356,775  $ 3,568  $ 1,458,307  $ (433,328)  $ —  $ 2,330,702  $ 3,359,249  
+The accompanying notes are an integral part of these consolidated financial statements.
+39
+Page#5
+Consolidated Statements of Cash Flows
+Year Ended
+Year Ended Year Ended
+February 1, 2020
+($000) February 2, 2019 February 3, 2018 1
+Cash Flows From Operating Activities
+$ 1,660,928  
+Net earnings $ 1,587,457  $ 1,362,753  
+Adjustments to reconcile net earnings to net cash provided
+by operating activities:
+350,892  
+Depreciation and amortization 330,357  313,163  
+95,438  
+Stock-based compensation 95,585  87,417  
+—  
+Gain on sale of assets —  (6,328) 
+32,009  
+Deferred income taxes 31,777  (34,903) 
+Change in assets and liabilities:
+(81,897) 
+Merchandise inventory (108,707)  (128,849) 
+(10,315) 
+Other current assets (30,789)  (23,051) 
+114,153  
+Accounts payable 110,483  41,322  
+30,513  
+Other current liabilities 37,080  65,221  
+(35,239) 
+Income taxes 3,706  (1,740) 
+15,631  
+Operating lease assets and liabilities, net —  —  
+(567) 
+Other long-term, net 9,728  6,333  
+2,171,546  
+Net cash provided by operating activities 2,066,677  1,681,338  
+Cash Flows From Investing Activities
+(555,483) 
+Additions to property and equipment (413,898)  (371,423) 
+—  
+Proceeds from sale of property and equipment —  15,981  
+517  
+Proceeds from investments 3,489  687  
+(554,966) 
+Net cash used in investing activities (410,409)  (354,755) 
+Cash Flows From Financing Activities
+—  
+Payment of long-term debt (85,000)  —  
+22,209  
+Issuance of common stock related to stock plans 20,112  18,468  
+(60,665) 
+Treasury stock purchased (54,384)  (45,433) 
+(1,275,000) 
+Repurchase of common stock (1,075,000)  (875,000) 
+(369,793) 
+Dividends paid (337,189)  (247,526) 
+(1,683,249) 
+Net cash used in financing activities (1,531,461)  (1,149,491) 
+Net (decrease) increase in cash, cash equivalents, and
+(66,669) 
+restricted cash and cash equivalents 124,807  177,092  
+Cash and cash equivalents, and restricted cash and cash
+equivalents:
+1,478,079  
+Beginning of year 1 1,353,272  1,176,180  
+$ 1,411,410  
+End of year $ 1,478,079  $ 1,353,272  
+Supplemental Cash Flow Disclosures
+$ 12,682  
+Interest paid $ 18,105  $ 18,105  
+$ 506,591  
+Income taxes paid $ 427,930  $ 714,566  
+1 As the result of the adoption of ASU 2016-18, Statement of Cash Flow (Topic 230): Restricted Cash, in fiscal 2018, the prior year amounts were retrospectively adjusted to
+include restricted cash and cash equivalents. See Note A.
+The accompanying notes are an integral part of these consolidated financial statements.
+40

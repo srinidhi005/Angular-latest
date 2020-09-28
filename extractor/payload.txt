@@ -1,0 +1,60 @@
+[annotation_spec_id: "2470331048240611328"
+display_name: "IncomeStatement"
+text_extraction {
+  score: 0.9999999403953552
+  text_segment {
+    end_offset: 37
+    content: "CONSOLIDATED STATEMENTS OF OPERATIONS"
+  }
+}
+, annotation_spec_id: "7116529637152260096"
+display_name: "Year3"
+text_extraction {
+  score: 0.998873233795166
+  text_segment {
+    start_offset: 80
+    end_offset: 84
+    content: "2016"
+  }
+}
+, annotation_spec_id: "3081304371028295680"
+display_name: "TotalRevenue"
+text_extraction {
+  score: 0.9956938624382019
+  text_segment {
+    start_offset: 85
+    end_offset: 93
+    content: "REVENUES"
+  }
+}
+, annotation_spec_id: "5903164679831683072"
+display_name: "SGA"
+text_extraction {
+  score: 0.933394730091095
+  text_segment {
+    start_offset: 228
+    end_offset: 254
+    content: "General and administrative"
+  }
+}
+, annotation_spec_id: "5903164679831683072"
+display_name: "SGA"
+text_extraction {
+  score: 0.9994000792503357
+  text_segment {
+    start_offset: 256
+    end_offset: 282
+    content: "General and administrative"
+  }
+}
+, annotation_spec_id: "5903164679831683072"
+display_name: "SGA"
+text_extraction {
+  score: 0.5719528794288635
+  text_segment {
+    start_offset: 413
+    end_offset: 448
+    content: "general and administrative expenses"
+  }
+}
+]

@@ -1,0 +1,137 @@
+
+Page#1
+36 The Procter & Gamble Company
+Consolidated Statements of Earnings
+Amounts in millions except per share amounts; Years ended June 30 2017 2016 2015
+NET SALES $ 65,058 $ 65,299 $ 70,749
+Cost of products sold 32,535 32,909 37,056
+Selling, general and administrative expense 18,568 18,949 20,616
+Venezuela deconsolidation charge — — 2,028
+OPERATING INCOME 13,955 13,441 11,049
+Interest expense 465 579 626
+Interest income 171 182 149
+Other non-operating income/(expense), net (404) 325 440
+EARNINGS FROM CONTINUING OPERATIONS BEFORE INCOME TAXES 13,257 13,369 11,012
+Income taxes on continuing operations 3,063 3,342 2,725
+NET EARNINGS FROM CONTINUING OPERATIONS 10,194 10,027 8,287
+NET EARNINGS/(LOSS) FROM DISCONTINUED OPERATIONS 5,217 577 (1,143)
+NET EARNINGS 15,411 10,604 7,144
+Less: Net earnings attributable to noncontrolling interests 85 96 108
+NET EARNINGS ATTRIBUTABLE TO PROCTER & GAMBLE $ 15,326 $ 10,508 $ 7,036
+BASIC NET EARNINGS PER COMMON SHARE: (1)
+Earnings from continuing operations $ 3.79 $ 3.59 $ 2.92
+Earnings/(loss) from discontinued operations 2.01 0.21 (0.42)
+BASIC NET EARNINGS PER COMMON SHARE $ 5.80 $ 3.80 $ 2.50
+DILUTED NET EARNINGS PER COMMON SHARE: (1)
+Earnings from continuing operations $ 3.69 $ 3.49 $ 2.84
+Earnings/(loss) from discontinued operations 1.90 0.20 (0.40)
+DILUTED NET EARNINGS PER COMMON SHARE $ 5.59 $ 3.69 $ 2.44
+DIVIDENDS PER COMMON SHARE $ 2.70 $ 2.66 $ 2.59
+(1) Basic net earnings per common share and Diluted net earnings per common share are calculated on Net earnings attributable to Procter & 
+Gamble.
+See accompanying Notes to Consolidated Financial Statements. 
+Page#2
+38 The Procter & Gamble Company
+Consolidated Balance Sheets
+Amounts in millions; As of June 30 2017 2016
+Assets
+CURRENT ASSETS
+Cash and cash equivalents $ 5,569 $ 7,102
+Available-for-sale investment securities 9,568 6,246
+Accounts receivable 4,594 4,373
+INVENTORIES
+Materials and supplies 1,308 1,188
+Work in process 529 563
+Finished goods 2,787 2,965
+Total inventories 4,624 4,716
+Deferred income taxes — 1,507
+Prepaid expenses and other current assets 2,139 2,653
+Current assets held for sale — 7,185
+TOTAL CURRENT ASSETS 26,494 33,782
+PROPERTY, PLANT AND EQUIPMENT, NET 19,893 19,385
+GOODWILL 44,699 44,350
+TRADEMARKS AND OTHER INTANGIBLE ASSETS, NET 24,187 24,527
+OTHER NONCURRENT ASSETS 5,133 5,092
+TOTAL ASSETS $ 120,406 $ 127,136
+Liabilities and Shareholders' Equity
+CURRENT LIABILITIES
+Accounts payable $ 9,632 $ 9,325
+Accrued and other liabilities 7,024 7,449
+Current liabilities held for sale — 2,343
+Debt due within one year 13,554 11,653
+TOTAL CURRENT LIABILITIES 30,210 30,770
+LONG-TERM DEBT 18,038 18,945
+DEFERRED INCOME TAXES 8,126 9,113
+OTHER NONCURRENT LIABILITIES 8,254 10,325
+TOTAL LIABILITIES 64,628 69,153
+SHAREHOLDERS' EQUITY
+Convertible Class A preferred stock, stated value $1 per share (600 shares authorized) 1,006 1,038
+Non-Voting Class B preferred stock, stated value $1 per share (200 shares authorized) — —
+Common stock, stated value $1 per share (10,000 shares authorized; shares issued:
+2017 - 4,009.2, 2016 - 4,009.2 ) 4,009 4,009
+Additional paid-in capital 63,641 63,714
+Reserve for ESOP debt retirement (1,249) (1,290)
+Accumulated other comprehensive income/(loss) (14,632) (15,907)
+Treasury stock, at cost (shares held: 2017 -1,455.9, 2016 - 1,341.2) (93,715) (82,176)
+Retained earnings 96,124 87,953
+Noncontrolling interest 594 642
+TOTAL SHAREHOLDERS' EQUITY 55,778 57,983
+TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY $ 120,406 $ 127,136
+See accompanying Notes to Consolidated Financial Statements. 
+Page#3
+40 The Procter & Gamble Company
+Consolidated Statements of Cash Flows
+Amounts in millions; Years ended June 30 2017 2016 2015
+CASH AND CASH EQUIVALENTS, BEGINNING OF YEAR $ 7,102 $ 6,836 $ 8,548
+OPERATING ACTIVITIES
+Net earnings 15,411 10,604 7,144
+Depreciation and amortization 2,820 3,078 3,134
+Loss on early extinguishment of debt 543 — —
+Share-based compensation expense 351 335 337
+Deferred income taxes (601) (815) (803)
+Gain on sale of assets (5,490) (41) (766)
+Venezuela deconsolidation charge — — 2,028
+Goodwill and intangible asset impairment charges — 450 2,174
+Change in accounts receivable (322) 35 349
+Change in inventories 71 116 313
+Change in accounts payable, accrued and other liabilities (149) 1,285 928
+Change in other operating assets and liabilities (43) 204 (976)
+Other 162 184 746
+TOTAL OPERATING ACTIVITIES 12,753 15,435 14,608
+INVESTING ACTIVITIES
+Capital expenditures (3,384) (3,314) (3,736)
+Proceeds from asset sales 571 432 4,498
+Cash related to deconsolidated Venezuela operations — — (908)
+Acquisitions, net of cash acquired (16) (186) (137)
+Purchases of short-term investments (4,843) (2,815) (3,647)
+Proceeds from sales and maturities of short-term investments 1,488 1,354 1,203
+Pre-divestiture addition of restricted cash related to the Beauty Brands divestiture (874) (996) —
+Cash transferred at closing related to the Beauty Brands divestiture (475) — —
+Release of restricted cash upon closing of the Beauty Brands divestiture 1,870 — —
+Cash transferred in Batteries divestiture — (143) —
+Change in other investments (26) 93 (163)
+TOTAL INVESTING ACTIVITIES (5,689) (5,575) (2,890)
+FINANCING ACTIVITIES
+Dividends to shareholders (7,236) (7,436) (7,287)
+Change in short-term debt 2,727 (418) (2,580)
+Additions to long-term debt 3,603 3,916 2,138
+(1)
+Reductions of long-term debt (4,931) (2,213) (3,512)
+Treasury stock purchases (5,204) (4,004) (4,604)
+Treasury stock from cash infused in Batteries divestiture — (1,730) —
+Impact of stock options and other 2,473 2,672 2,826
+TOTAL FINANCING ACTIVITIES (8,568) (9,213) (13,019)
+EFFECT OF EXCHANGE RATE CHANGES ON CASH AND CASH
+EQUIVALENTS (29) (381) (411)
+CHANGE IN CASH AND CASH EQUIVALENTS (1,533) 266 (1,712)
+CASH AND CASH EQUIVALENTS, END OF YEAR $ 5,569 $ 7,102 $ 6,836
+SUPPLEMENTAL DISCLOSURE
+Cash payments for interest $ 518 $ 569 $ 678
+Cash payment for income taxes 3,714 3,730 4,558
+Divestiture of Batteries business in exchange for shares of P&G stock (2) — 4,213 —
+Divestiture of Beauty business in exchange for shares of P&G stock and assumption of debt 11,360 — —
+Assets acquired through non-cash capital leases are immaterial for all periods.
+(
+1) Includes $543 of costs related to early extinguishment of debt.
+(2) Includes $1,730 from cash infused into the Batteries business pursuant to the divestiture agreement (see Note 13).
+See accompanying Notes to Consolidated Financial Statements. 

@@ -1,0 +1,185 @@
+
+Page#1
+Item 1. Financial Statements of Revlon, Inc. and Subsidiaries
+Audited Financial Statements
+REVLON, INC. AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS
+(dollars in millions, except share and per share amounts)
+December 31, 2019 December 31, 2018
+ASSETS
+Current assets:
+Cash and cash equivalents $ 104.3  $ 87.3  
+Trade receivables, less allowance for doubtful accounts of $11.4 and $15.6 as of December 31, 2019 and December 31, 2018,
+423.4  431.3  
+respectively
+Inventories 448.4  523.2  
+Prepaid expenses and other assets 135.3  152.0  
+Total current assets 1,111.4  1,193.8  
+Property, plant and equipment, net of accumulated depreciation of $488.1 and $425.2 as of December 31, 2019 and December
+408.6  354.5  
+31, 2018, respectively
+Deferred income taxes 175.1  131.8  
+Goodwill 673.7  673.9  
+Intangible assets, net of accumulated amortization of $226.4 and $187.3 as of December 31, 2019 and December 31, 2018,
+490.7  532.0  
+respectively
+Other assets 121.1  130.8  
+$ 2,980.6  $ 3,016.8  
+Total assets
+LIABILITIES AND STOCKHOLDERS’ DEFICIENCY
+Current liabilities:
+Short-term borrowings $ 2.2  $ 9.3  
+Current portion of long-term debt 288.0  348.1  
+Accounts payable 251.8  332.1  
+Accrued expenses and other current liabilities 414.9  430.9  
+Total current liabilities 956.9  1,120.4  
+Long-term debt 2,906.2  2,727.7  
+Long-term pension and other post-retirement plan liabilities 181.2  169.0  
+Other long-term liabilities 157.5  56.5  
+Stockholders’ deficiency:
+Class A Common Stock, par value $0.01 per share: 900,000,000 shares authorized; 56,470,490 and 55,556,466 shares issued
+0.5  0.5  
+as of December 31, 2019 and December 31, 2018, respectively
+Additional paid-in capital 1,071.9  1,063.8  
+Treasury stock, at cost: 1,625,580 and 1,533,320 shares of Class A Common Stock as of December 31, 2019 and December
+(33.5)  (31.9) 
+31, 2018, respectively
+Accumulated deficit (2,012.7)  (1,855.0) 
+Accumulated other comprehensive loss (247.4)  (234.2) 
+Total stockholders’ deficiency (1,221.2)  (1,056.8) 
+$ 2,980.6  $ 3,016.8  
+Total liabilities and stockholders’ deficiency
+See Accompanying Notes to Consolidated Financial Statements
+F-5
+Page#2
+Table of Contents
+REVLON, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE LOSS
+(dollars in millions, except share and per share amounts)
+Year Ended December 31,
+2019 2018
+$ 2,419.6  $ 2,564.5  
+Net sales
+1,052.2  1,117.0  
+Cost of sales
+1,367.4  1,447.5  
+ Gross profit
+1,316.6  1,460.5  
+Selling, general and administrative expenses
+3.9  13.9  
+Acquisition, integration and divestiture costs
+12.8  20.2  
+Restructuring charges and other, net
+Impairment charges —  18.0  
+(Gain) loss on divested assets (26.6)  20.1  
+60.7  (85.2) 
+ Operating income (loss)
+Other expenses:
+196.6  176.6  
+  Interest expense, net
+14.6  13.0  
+  Amortization of debt issuance costs
+(1.9)  15.8  
+  Foreign currency (gains) losses, net
+16.4  1.3  
+  Miscellaneous, net
+225.7  206.7  
+ Other expenses
+Loss from continuing operations before income taxes (165.0)  (291.9) 
+Provision for income taxes 0.2  2.2  
+Loss from continuing operations, net of taxes (165.2)  (294.1) 
+Income (loss) from discontinued operations, net of taxes 7.5  (0.1) 
+$ (157.7)  $ (294.2) 
+Net loss
+Other comprehensive (loss) income:
+(2.9)  (9.4) 
+  Foreign currency translation adjustments(a)
+9.0  8.4  
+  Amortization of pension related costs, net of tax(b)(c)
+(19.3)  (5.5) 
+Pension re-measurement, net of tax (d)
+—  0.7  
+Reclassification into earnings of accumulated losses from the de-designated 2013 Interest Rate Swap, net of tax(e)
+Other comprehensive loss, net (13.2)  (5.8) 
+$ (170.9)  $ (300.0) 
+Total comprehensive loss
+Basic and Diluted (loss) earnings per common share:
+Continuing operations $ (3.11)  $ (5.57) 
+Discontinued operations 0.14  —  
+$ (2.97)  $ (5.57) 
+Net loss
+Weighted average number of common shares outstanding:
+53,081,321  52,797,686  
+ Basic
+53,081,321  52,797,686  
+ Diluted
+(a) Net of tax expense of $1.8 million and a tax benefit of $0.1 million for 2019 and 2018, respectively.
+(b) Net of tax expense of $1.1 million and $1.0 million for 2019 and 2018, respectively.
+(c) This amount is included in the computation of net periodic benefit costs (income). See Note 12, "Pension and Post-Retirement Benefits," for additional information regarding net periodic
+benefit costs (income).
+(d) Net of tax benefit of $5.2 million and $2.5 million for 2019 and 2018, respectively.
+(e) Net of tax benefit of nil and $0.5 million for 2019 and 2018, respectively.
+See Accompanying Notes to Consolidated Financial Statements
+F-6
+Page#3
+Table of Contents
+REVLON, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(dollars in millions)
+Year Ended December 31,
+2019 2018
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Net loss $ (157.7)  $ (294.2) 
+Adjustments to reconcile net loss to net cash used in operating activities:
+  Depreciation and amortization 162.9  177.2  
+  Foreign currency (gains) losses from re-measurement (1.9)  15.8  
+  Amortization of debt discount 1.6  1.4  
+  Stock-based compensation amortization 8.1  17.2  
+Impairment charges —  18.0  
+  (Benefit from) provision for deferred income taxes (29.8)  1.7  
+  Amortization of debt issuance costs 14.6  13.0  
+  Non-cash loss (gain) on divested assets 0.9  (0.7) 
+  (Gain) loss on divested assets (26.6)  20.1  
+  Pension and other post-retirement cost 7.2  2.6  
+  Change in assets and liabilities:
+Decrease (increase) in trade receivables 9.3  (0.3) 
+Decrease (increase) in inventories 74.5  (36.4) 
+Decrease (increase) in prepaid expenses and other current assets 16.8  (42.8) 
+(Decrease) increase in accounts payable (73.2)  1.6  
+(Decrease) increase in accrued expenses and other current liabilities (42.4)  23.9  
+Pension and other post-retirement plan contributions (12.1)  (8.8) 
+Purchases of permanent displays (46.2)  (80.7) 
+Other, net 25.7  0.6  
+Net cash used in operating activities (68.3)  (170.8) 
+CASH FLOWS FROM INVESTING ACTIVITIES:
+Capital expenditures (29.0)  (57.2) 
+Proceeds from the sale of certain assets 31.1  —  
+Net cash provided by (used in) investing activities 2.1  (57.2) 
+CASH FLOWS FROM FINANCING ACTIVITIES:
+Net decrease in short-term borrowings and overdraft (17.3)  (1.1) 
+Net (repayments) borrowings under the Amended 2016 Revolving Credit Facility (62.6)  178.0  
+Net borrowings under the 2019 Term Loan Facility 200.0  —  
+Net borrowings under the 2018 Foreign Asset-Based Term Loan —  88.9  
+Repayments under the 2016 Term Loan Facility (18.0)  (18.0) 
+Payment of financing costs (15.3)  (9.7) 
+Tax withholdings related to net share settlements of restricted stock units and awards (1.6)  (3.6) 
+Other financing activities (0.9)  (1.4) 
+Net cash provided by financing activities 84.3  233.1  
+Effect of exchange rate changes on cash, cash equivalents and restricted cash (1.1)  (5.0) 
+17.0  0.1  
+  Net increase in cash, cash equivalents and restricted cash
+87.5  87.4  
+  Cash, cash equivalents and restricted cash at beginning of period (a)
+$ 104.5  $ 87.5  
+  Cash, cash equivalents and restricted cash at end of period (a)
+Supplemental schedule of cash flow information:(b)
+  Cash paid during the period for:
+Interest $ 194.6  $ 163.7  
+Income taxes, net of refunds 9.9  16.0  
+(a) These amounts include restricted cash of $0.2 million and $0.2 million as of December 31, 2019 and 2018, respectively, which represent cash on deposit in lieu of a mandatory prepayment
+under the 2018 Foreign Asset-Based Term Facility, and cash on deposit to support outstanding undrawn letters of credit, which were included within other assets in the Company's consolidated
+balance sheets.
+(b) See Note 6, "Property, Plant, and Equipment," for supplemental disclosure of non-cash financing and investing activities in relation to the lease liabilities arising from obtaining right-of-use
+assets following the implementation of ASC Topic 842, Leases.
+See Accompanying Notes to Consolidated Financial Statements
+F 8

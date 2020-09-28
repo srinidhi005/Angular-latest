@@ -75,6 +75,7 @@ $("#dashBoardId").attr("href","#/dashboard?companyName="+companyName);
 $("#actualsId").attr("href","/actual?CompanyName="+companyName);
 $("#financialId").attr("href","/FinancialModel?CompanyName="+companyName);
 $("#metricsbtn").attr("href","#/pdf?CompanyName="+companyName+"##");
+$("#balanceId").attr("href","/balance-actuals?companName="+companyName);
 
  assumptionArray = [];
 let actualsInput = {
@@ -1037,7 +1038,7 @@ let actualsInput = {
             }
         }
     });
-
+   
       
       $("#deletebtn").click(function(){
 $("#popUpMsg").text("are you sure you want to delete "+companyName+" statement");
@@ -1300,22 +1301,22 @@ function loadData(){
 
     $("#scenario1").click(function(){
 	$(".cover-spin").show();
-    window.location.href='https://app.rmiinsights.com/#/FinancialModel?companyName='+companyName+'&senario=1';
+    window.location.href='/#/FinancialModel?companyName='+companyName+'&senario=1';
 	            location.reload();
 		    });
 		    $("#scenario2").click(function(){ 
 			$(".cover-spin").show();
-		    window.location.href='https://app.rmiinsights.com/#/FinancialModel?companyName='+companyName+'&senario=2';	    
+		    window.location.href='/#/FinancialModel?companyName='+companyName+'&senario=2';	    
 		                location.reload();
 				});
 				$("#scenario3").click(function(){
 				$(".cover-spin").show();
-				window.location.href='https://app.rmiinsights.com/#/FinancialModel?companyName='+companyName+'&senario=3';	    
+				window.location.href='/#/FinancialModel?companyName='+companyName+'&senario=3';	    
 				            location.reload();
 					            });
 						    $("#scenario4").click(function(){
 							$(".cover-spin").show();
-						    window.location.href='https://app.rmiinsights.com/#/FinancialModel?companyName='+companyName+'&senario=4';	    
+						    window.location.href='/#/FinancialModel?companyName='+companyName+'&senario=4';	    
 						                location.reload();
 								        });
 
@@ -1323,7 +1324,7 @@ function loadData(){
 
 									$("#addNewScenario").click(function(){
 									$(".cover-spin").show();
-									window.location.href='https://app.rmiinsights.com/#/FinancialModel?companyName='+companyName+'&senario='+nextScenarioNo;
+									window.location.href='/#/FinancialModel?companyName='+companyName+'&senario='+nextScenarioNo;
 									location.reload();
 									});
 
@@ -1440,6 +1441,19 @@ function loadData(){
 		 window.location.href="/#/FinancialModel?companyname="+companyName+"&scenario="+scerno;
 							         window.location.reload();
 																											            });
+
+																												    $("#sel4").change(function(){
+																												    let pl=$("#sel4").val();
+																												    if(pl=="pl"){
+																												    window.location.href="#/pdf?CompanyName="+companyName+"##";
+																												    window.location.reload();
+																												    }else if(pl=="bs"){
+																												    window.location.href="/#/rmi?CompanyName="+companyName+"##";
+		window.location.reload();																										    }
+																									
+																												    });
+																									
+
 
 
     }

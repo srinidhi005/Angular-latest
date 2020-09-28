@@ -1,0 +1,326 @@
+
+Page#1
+THUNDER GRANDPARENT INC.
+Consolidated Balance Sheets
+December 31, 2019 and 2018
+(In thousands, except share and per share data)
+_________________________
+ASSETS
+2019 2018
+Current assets
+Cash $ 6,741 $ 6,048
+Accounts receivable, net of allowance of $375 and $294, respectively 36,009 24,645
+Inventories 6,577 4,506
+Prepaid and other current assets (1) 4,961 3,322
+Income taxes receivable 1,377 745
+Total current assets 55,665 39,266
+Property and equipment, net 6,383 5,757
+Goodwill (1) 266,289 232,726
+Intangible assets, net 102,397 67,680
+Other long-term assets 360 99
+Total assets $ 431,094 $ 345,528
+LIABILITIES AND STOCKHOLDERS' EQUITY
+l
+a
+y
+i
+t
+e
+Current liabilities n
+l
+e r
+Accounts payable d u $ 5,659 $ 2,618
+m
+B
+ﬁ
+Accrued compensation n  o 5,940 5,346
+6
+r
+o e c 4
+Other accrued liabilities c t p. : 2,003 946
+s 5
+a
+e
+Accrued interest 1 1,406 12
+c
+v
+ 
+e 0
+l
+Line of credit - 2,000
+y
+t 2
+S n
+0
+Debt, current portion, net of debt discount 678 2,818
+a
+2
+v
+ 
+Deferred revenue, current portion (1) a 34,048 23,773
+,
+0
+Income taxes payable 3 971 2,128
+ 
+l
+u
+Total current liabilities 50,705 39,641
+J
+Deferred revenue, net of current (1) 528 4,618
+Deferred tax liabilities (1) 11,979 9,983
+Debt, net of current portion and debt discount 185,252 175,859
+Other long-term liabilities 1,947 1,234
+Total liabilities 250,411 231,335
+Stockholders' equity
+Common stock, $0.001 par value, 326,500,000 shares authorized; 239,372,284 
+and 159,555,902 shares issued and outstanding as of December 31, 2019 167 160
+and 2018, respectively
+Additional paid-in capital 230,946 143,409
+Accumulated other comprehensive loss 121 (48)
+Accumulated deficit (50,551) (29,328)
+Total stockholders' equity 180,683 114,193
+Total liabilities and stockholders' equity $ 431,094 $ 345,528
+(1) Adjusted to reflect the retrospective adoption of ASC 606 - -
+The accompanying notes are an integral part of these consolidated financial statements.
+- 3 -
+Page#2
+THUNDER PARENT INC.
+Consolidated Statements of Operations and Comprehensive Loss
+For the Years Ended December 31, 2019 and 2018
+(In thousands)
+_________________________
+2019 2018 (1)
+Revenues
+Software $  20,623 $  2 7,051
+Appliance (1) 48,397 3 1,250
+Maintenance (1) 47,008 4 2,656
+ 3,877 3 ,816
+Services and other (1)
+  119,905 1 04,773
+Total revenues
+Cost of revenues 
+Software 2,325 2 ,885
+Appliance (1) 16,509 1 1,513
+Maintenance (1) 6,880 5 ,488
+Services and other (1) 4,360 2 ,235
+ 15,190 1 0,078
+Amortization of acquired developed and in-process technology
+ 45,264 3 2,199
+Total cost of revenues
+Gross profit 74,641 7 2,574
+l
+a
+y
+i
+t
+e
+n
+Operating expenses l
+e r
+u
+d
+m
+Research and development B 23,190 1 8,901
+ﬁ
+n  o
+6
+r
+Sales and marketing 35,717 3 1,496
+o e c 4
+c t p. :
+General and administrative s 5 22,086 1 5,255
+a
+e
+1
+c
+v
+ 8,758 7 ,203
+Amortization of intangible assets
+e 0
+l
+y
+t 2
+S n 89,751 7 2,855
+Total operating expenses 0
+a
+2
+v
+ 
+a
+,
+0
+Income (loss) from operations 3  (15,110) (281)
+ 
+l
+u
+J
+Other expenses
+Interest expense, net  (17,938) (17,207)
+ (1) (453)
+Other expenses, net
+Total other expenses  (17,939) (17,660)
+Loss before income tax benefit  (33,049) (17,941)
+ 11,826 (1,859)
+Income tax (expense) benefit (1)
+Net loss  (21,223) (19,800)
+Other comprehensive loss
+ 169 (223)
+Foreign currency translation adjustment, net
+$ (21,054) $  (20,023)
+Comprehensive loss
+(1) Adjusted to reflect the retrospective adoption of ASC 606
+The accompanying notes are an integral part of these consolidated financial statements.
+- 4 -
+Page#3
+THUNDER GRANDPARENT INC.
+Consolidated Statements of Stockholders' Equity
+For the Years Ended December 31, 2019 and 2018
+(In thousands, except share and per share data)
+_________________________
+Accumulated 
+Additional Other
+Common Stock Paid-in Comprehensive Accumulated Stockholders'
+Shares Par Value Capital Loss Deficit Equity
+Balance at December 31, 2017  159,274,069 $ 1 59 $ 1 41,868 $ 175 $ ( 17,892) $ 124,310
+Prior period adjustment, net of income taxes 8,364 8,364
+Options exercised 281,833 1 242 - - 243
+Stock redemption - - - - - 
+l
+a
+y
+Stock-based compensation expense - i - 1,299 - - 1,299
+t
+e
+n
+l
+e r
+Net loss (1) - - - - (19,800) ( 19,800)
+u
+d
+m
+B
+ﬁ
+Foreign currency translation adjustment, net - - - (223) - ( 223)
+n  o
+6
+r
+o e c 4
+c t p. :
+s 5
+Balance at December 31, 2018 (1)  159,555,9e02 a 1 60  1 43,409 ( 48) ( 29,328) 114,193
+1
+c
+v
+ 
+e 0
+l
+y
+t 2
+S n
+0
+Issuance of common stock in connection with acquisit i o 7n9,790,76a1 7 86,392 - 86,399
+2
+v
+ 
+a
+,
+Options exercised 25,621 0 - 22 - 22
+3
+Stock-based compensation expense - - 1,123 - 1,123
+l
+u
+J
+Net loss - - - - (21,223) ( 21,223)
+Foreign currency translation adjustment, net - - - 169 - 169
+Balance at December 31, 2019  239,372,284 $ 167 $ 230,946 $ 121 $ (50,551) $ 180,683
+(1) Adjusted to reflect the retrospective adoption of ASC 606
+The accompanying notes are an integral part of these consolidated financial statements.
+- 5 -
+Page#4
+THUNDER GRANDPARENT INC.
+Consolidated Statements of Cash Flows
+For the Years Ended December 31, 2019 and 2018
+_________________________
+2019 2018
+Cash flows from operating activities
+Net loss $  ( 21,223) $  ( 19,800)
+Adjustments to reconcile net loss to net cash provided by operating activities
+Depreciation 2,047 1,721
+Amortization of intangible assets 23,990 17,281
+Amortization of debt discount 1,139 1,045
+Stock-based compensation expense 1,123 1,299
+Provision for doubtful accounts - 1 1
+Loss on disposal of property and equipment - -
+Deferred income taxes, net (12,371) (1,091)
+Income tax receivable (416) 113
+Changes in operating assets and liabilities
+Accounts receivable (7,041) 1,875
+Inventories 3,178 182
+Prepaid and other current assets 170 205
+Other long-term assets 3,191 7 0
+Accounts payable 2,162 (2,439)
+Accrued compensation 8 9 559
+Other accrued liabilities (2,986) (237)
+Accrued interest 1,394 (127)
+l
+a
+Deferred revenue i y 3,156 3,668
+t
+e
+n
+Income taxes payable l 2 7 1,120
+e r
+u
+d
+Lease incentives m - 1,118
+B
+ﬁ
+n  o
+Net cash provided by (used in) operating activities r 6 (2,371) 6,573
+o e c 4
+c t p. :
+s 5
+a
+e
+1
+Cash flows from investing activities
+c
+v
+ 
+e 0
+l
+Purchase of property and equipment y (1,924) (3,474)
+t 2
+S n
+0
+Acquisition of Tek Video, net of acquired cash a 699 -
+2
+v
+ 
+Net cash used in investing activities (1,225) (3,474)
+a
+,
+0
+3
+ 
+l
+Cash flows from financing activities
+u
+J
+Payments on long-term debt (3,355) (3,875)
+Payments on line of credit (9,430) (2,000)
+Proceeds from line of credit 7,430 4,000
+Proceeds from long-term debt, net of debt discount 9,469 -
+Proceeds from issuance of common stock 2 2 243
+Common stock repurchased - -
+Net cash provided by (used in) financing activities 4,136 (1,632)
+Effect of exchange rate changes on cash 153 (379)
+Net change in cash 693 1,088
+Cash at beginning of period 6,048 4,960
+Cash at end of period $ 6,741 $ 6,048
+Supplemental cash flow information
+Cash paid for interest $ 16,838 $ 16,289
+Cash paid for income taxes $ 1,397 $ 1,675
+(1) Adjusted to reflect the retrospective adoption of ASC 606
+The accompanying notes are an integral part of these consolidated financial statements.
+- 6 -

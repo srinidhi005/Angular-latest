@@ -1,0 +1,147 @@
+
+Page#1
+Table of Contents
+ADOBE INC.
+ CONSOLIDATED BALANCE SHEETS
+(In thousands, except par value)
+November 29, November 30, 
+2019 2018
+ASSETS
+Current assets:
+Cash and cash equivalents $ 2,650,221 $ 1,642,775
+Short-term investments 1,526,755 1,586,187
+Trade receivables, net of allowances for doubtful accounts of $9,650 and of $14,981, respectively 1,534,809 1,315,578
+Prepaid expenses and other current assets 783,140 312,499
+Total current assets 6,494,925 4,857,039
+Property and equipment, net 1,293,015 1,075,072
+Goodwill 10,691,199 10,581,048
+Other intangibles, net 1,720,565 2,069,001
+Other assets 562,696 186,522
+Total assets $ 20,762,400 $ 18,768,682
+LIABILITIES AND STOCKHOLDERS’ EQUITY
+Current liabilities:
+Trade payables $ 209,499 $ 186,258
+Accrued expenses 1,398,548 1,163,185
+Debt 3,149,343 —
+Deferred revenue 3,377,986 2,915,974
+Income taxes payable 55,562 35,709
+Total current liabilities 8,190,938 4,301,126
+Long-term liabilities:
+Debt 988,924 4,124,800
+Deferred revenue 122,727 137,630
+Income taxes payable 616,102 644,101
+Deferred income taxes 140,498 46,702
+Other liabilities 173,056 152,209
+Total liabilities 10,232,245 9,406,568
+Commitments and contingencies
+Stockholders’ equity:
+Preferred stock, $0.0001 par value; 2,000 shares authorized; none issued — —
+Common stock, $0.0001 par value; 900,000 shares authorized; 600,834 shares issued; 
+61 61
+ 482,339 and 487,663 shares outstanding, respectively
+Additional paid-in-capital 6,504,800 5,685,337
+Retained earnings 14,828,562 11,815,597
+Accumulated other comprehensive income (loss) (188,034) (148,130)
+Treasury stock, at cost (118,495 and 113,171 shares, respectively), net of re-issuances (10,615,234) (7,990,751)
+Total stockholders’ equity 10,530,155 9,362,114
+Total liabilities and stockholders’ equity $ 20,762,400 $ 18,768,682
+See accompanying Notes to Consolidated Financial Statements.
+57
+Page#2
+Table of Contents
+ADOBE INC.
+CONSOLIDATED STATEMENTS OF INCOME
+(In thousands, except per share data)
+Years Ended
+November 29, November 30, December 1, 
+2019 2018 2017
+Revenue:
+Subscription $ 9,994,463 $ 7,922,152 $ 6,133,869
+Product 647,788 622,153 706,767
+Services and support 529,046 485,703 460,869
+Total revenue 11,171,297 9,030,008 7,301,505
+ 
+Cost of revenue:
+Subscription 1,222,520 807,221 623,048
+Product 39,625 46,009 57,082
+Services and support 410,575 341,769 330,361
+Total cost of revenue 1,672,720 1,194,999 1,010,491
+ 
+Gross profit 9,498,577 7,835,009 6,291,014
+ 
+Operating expenses:
+Research and development 1,930,228 1,537,812 1,224,059
+Sales and marketing 3,244,347 2,620,829 2,197,592
+General and administrative 880,637 744,898 624,706
+Amortization of intangibles 175,244 91,101 76,562
+Total operating expenses 6,230,456 4,994,640 4,122,919
+ 
+Operating income 3,268,121 2,840,369 2,168,095
+ 
+Non-operating income (expense):
+Interest and other income (expense), net 42,255 39,536 36,395
+Interest expense (157,214) (89,242) (74,402)
+Investment gains (losses), net 51,579 3,213 7,553
+Total non-operating income (expense), net (63,380) (46,493) (30,454)
+Income before income taxes 3,204,741 2,793,876 2,137,641
+Provision for income taxes 253,283 203,102 443,687
+Net income $ 2,951,458 $ 2,590,774 $ 1,693,954
+Basic net income per share $ 6.07 $ 5.28 $ 3.43
+Shares used to compute basic net income per share 486,291 490,564 493,632
+Diluted net income per share $ 6.00 $ 5.20 $ 3.38
+Shares used to compute diluted net income per share 491,572 497,843 501,123
+ See accompanying Notes to Consolidated Financial Statements.
+58
+Page#3
+Table of Contents
+ADOBE INC.
+ CONSOLIDATED STATEMENTS OF CASH FLOWS
+(In thousands)
+Years Ended
+November 29, November 30, December 1, 
+2019 2018 2017
+Cash flows from operating activities:
+Net income $ 2,951,458 $ 2,590,774 $ 1,693,954
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation, amortization and accretion 736,669 346,492 325,997
+Stock-based compensation 787,705 609,562 454,472
+Deferred income taxes 2,707 (468,936) 51,605
+Unrealized losses (gains) on investments, net (47,626) 793 (5,494)
+Other non-cash items 13,835 7,193 4,625
+Changes in operating assets and liabilities, net of acquired assets and 
+  assumed liabilities:
+Trade receivables, net (187,826) (1,983) (187,173)
+Prepaid expenses and other assets (531,054) (77,225) 28,040
+Trade payables 23,129 54,920 (45,186)
+Accrued expenses 171,705 43,837 151,104
+Income taxes payable 4,152 479,184 (34,493)
+Deferred revenue 496,959 444,693 475,402
+Net cash provided by operating activities 4,421,813 4,029,304 2,912,853
+Cash flows from investing activities:
+Purchases of short-term investments (699,893) (566,084) (1,931,011)
+Maturities of short-term investments 699,540 765,860 759,737
+Proceeds from sales of short-term investments 86,137 1,709,480 1,393,929
+Acquisitions, net of cash acquired (100,704) (6,314,382) (459,626)
+Purchases of property and equipment (394,479) (266,579) (178,122)
+Purchases of long-term investments, intangibles and other assets (48,735) (18,513) (29,918)
+Proceeds from sale of long-term investments and other assets 2,550 4,923 2,134
+Net cash used for investing activities (455,584) (4,685,295) (442,877)
+Cash flows from financing activities:
+Purchases of treasury stock (2,750,000) (2,050,000) (1,100,000)
+Proceeds from re-issuance of treasury stock 232,932 190,990 158,351
+Taxes paid related to net share settlement of equity awards (439,984) (393,193) (240,126)
+Proceeds from debt issuance, net of costs — 2,248,342 —
+Other financing activities, net 11,008 (1,707) (1,960)
+Net cash used for financing activities (2,946,044) (5,568) (1,183,735)
+Effect of foreign currency exchange rates on cash and cash equivalents (12,739) (1,738) 8,516
+Net increase (decrease) in cash and cash equivalents 1,007,446 (663,297) 1,294,757
+Cash and cash equivalents at beginning of year 1,642,775 2,306,072 1,011,315
+Cash and cash equivalents at end of year $ 2,650,221 $ 1,642,775 $ 2,306,072
+Supplemental disclosures:
+Cash paid for income taxes, net of refunds $ 352,478 $ 210,369 $ 396,668
+Cash paid for interest $ 152,075 $ 81,258 $ 69,430
+Non-cash investing activities:
+Investment in lease receivable applied to building purchase $ — $ — $ 80,439
+Issuance of common stock and stock awards assumed in business acquisitions $ — $ 2,784 $ 10,348
+See accompanying Notes to Consolidated Financial Statements.
+61

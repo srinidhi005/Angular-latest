@@ -1,0 +1,122 @@
+
+Page#1
+ENTERGY CORPORATION AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+ For the Years Ended December 31,
+ 2019 2018 2017
+ (In Thousands)
+Net Income $1,258,244 $862,555 $425,353
+Other comprehensive income (loss) 
+Cash flow hedges net unrealized gain (loss) 
+(net of tax expense (benefit) of $28,516, $5,830, and ($22,570)) 115,026 22,098 (41,470)
+Pension and other postretirement liabilities 
+(net of tax expense (benefit) of ($6,539), $30,299, and ($4,057)) (25,150) 90,143 (61,653)
+Net unrealized investment gains (losses) 
+(net of tax expense of $14,023, $6,393, and $80,069) 27,183 (28,771) 115,311
+Foreign currency translation 
+(net of tax benefit of $-, $-, and $403) — — (748)
+Other comprehensive income 117,059 83,470 11,440
+Comprehensive Income 1,375,303 946,025 436,793
+Preferred dividend requirements of subsidiaries 17,018 13,894 13,741
+Comprehensive Income Attributable to Entergy Corporation $1,358,285 $932,131 $423,052
+See Notes to Financial Statements 
+43
+Page#2
+ENTERGY CORPORATION AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+ For the Years Ended December 31,
+ 2019 2018 2017
+ (In Thousands)
+OPERATING ACTIVITIES 
+Consolidated net income $1,258,244 $862,555 $425,353
+Adjustments to reconcile consolidated net income to net cash flow 
+provided by operating activities:
+Depreciation, amortization, and decommissioning, including nuclear fuel
+2,182,313 2,040,555 2,078,578
+amortization
+Deferred income taxes, investment tax credits, and non-current taxes
+193,950 (256,848) 529,053
+accrued
+Asset write-offs, impairments, and related charges 226,678 491,739 357,251
+Changes in working capital: 
+Receivables (101,227) 98,546 (97,637)
+Fuel inventory (28,173) 45,839 (3,043)
+Accounts payable (71,898) 97,312 101,802
+Taxes accrued (20,784) 39,272 33,853
+Interest accrued 937 5,220 742
+Deferred fuel costs 172,146 (25,829) 56,290
+Other working capital accounts (3,108) (164,173) (4,331)
+Changes in provisions for estimated losses 19,914 35,706 (3,279)
+Changes in other regulatory assets (545,559) 189,193 595,504
+Changes in other regulatory liabilities (14,781) (803,323) 2,915,795
+Deferred tax rate change recognized as regulatory liability / asset — — (3,665,498)
+Changes in pensions and other postretirement liabilities 187,124 (304,941) (130,686)
+Other (639,149) 34,424 (566,247)
+Net cash flow provided by operating activities 2,816,627 2,385,247 2,623,500
+INVESTING ACTIVITIES 
+Construction/capital expenditures (4,197,667) (3,942,010) (3,607,532)
+Allowance for equity funds used during construction 144,862 130,195 96,000
+Nuclear fuel purchases (128,366) (302,584) (377,324)
+Payment for purchase of plant or assets (305,472) (26,623) (16,762)
+Proceeds from sale of assets 28,932 24,902 100,000
+Insurance proceeds received for property damages 7,040 18,270 26,157
+Changes in securitization account 3,298 (5,844) 1,323
+Payments to storm reserve escrow account (8,038) (6,551) (2,878)
+Receipts from storm reserve escrow account — — 11,323
+Decrease (increase) in other investments 30,319 (54,500) 1,078
+Litigation proceeds for reimbursement of spent nuclear fuel storage costs 2,369 59,643 25,493
+Proceeds from nuclear decommissioning trust fund sales 4,121,351 6,484,791 3,162,747
+Investment in nuclear decommissioning trust funds (4,208,870) (6,485,676) (3,260,674)
+Net cash flow used in investing activities (4,510,242) (4,105,987) (3,841,049)
+See Notes to Financial Statements 
+44
+Page#3
+ENTERGY CORPORATION AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS
+ASSETS
+December 31,
+2019 2018
+(In Thousands)
+CURRENT ASSETS
+Cash and cash equivalents:
+Cash $34,242 $56,690
+Temporary cash investments 391,480 424,285
+Total cash and cash equivalents 425,722 480,975
+Accounts receivable:
+Customer 595,509 558,494
+Allowance for doubtful accounts (7,404) (7,322)
+Other 219,870 167,722
+Accrued unbilled revenues 400,617 395,511
+Total accounts receivable 1,208,592 1,114,405
+Deferred fuel costs — 27,251
+Fuel inventory - at average cost 145,476 117,304
+Materials and supplies - at average cost 824,989 752,843
+Deferred nuclear refueling outage costs 157,568 230,960
+Prepayments and other 283,645 234,326
+TOTAL 3,045,992 2,958,064
+OTHER PROPERTY AND INVESTMENTS
+Decommissioning trust funds 6,404,030 6,920,164
+Non-utility property - at cost (less accumulated depreciation) 332,864 304,382
+Other 496,452 437,265
+TOTAL 7,233,346 7,661,811
+PROPERTY, PLANT, AND EQUIPMENT
+Electric 54,271,467 49,831,486
+Natural gas 547,110 496,150
+Construction work in progress 2,823,291 2,888,639
+Nuclear fuel 677,181 861,272
+TOTAL PROPERTY, PLANT, AND EQUIPMENT 58,319,049 54,077,547
+Less - accumulated depreciation and amortization 23,136,356 22,103,101
+PROPERTY, PLANT, AND EQUIPMENT - NET 35,182,693 31,974,446
+DEFERRED DEBITS AND OTHER ASSETS
+Regulatory assets:
+Other regulatory assets (includes securitization property of $239,219 as of December 31,
+5,292,055 4,746,496
+2019 and $360,790 as of December 31, 2018)
+Deferred fuel costs 239,892 239,496
+Goodwill 377,172 377,172
+Accumulated deferred income taxes 64,461 54,593
+Other 288,301 262,988
+TOTAL 6,261,881 5,680,745
+TOTAL ASSETS $51,723,912 $48,275,066
+See Notes to Financial Statements.
+46

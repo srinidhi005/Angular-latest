@@ -1,0 +1,164 @@
+
+Page#1
+TEREX CORPORATION AND SUBSIDIARIES
+CONSOLIDATED STATEMENT OF INCOME (LOSS)
+(in millions, except per share data)
+Year Ended
+December 31,
+2019 2018 2017
+$ 4,353.1 $ 4,517.2 $ 3,793.7
+Net sales
+(3,465.3) (3,555.3) (3,026.4)
+Cost of goods sold
+887.8 961.9 767.3
+Gross profit
+(552.8) (549.4) (539.1)
+Selling, general and administrative expenses
+335.0 412.5 228.2
+Income (loss) from operations
+Other income (expense)
+6.5 8.7 6.3
+Interest income
+(87.9) (72.8) (67.2)
+Interest expense
+— (0.7) (52.6)
+Loss on early extinguishment of debt
+(6.1) (60.6) 48.7
+Other income (expense) – net 
+247.5 287.1 163.4
+Income (loss) from continuing operations before income taxes
+(37.8) (45.4) (52.4)
+(Provision for) benefit from income taxes
+209.7 241.7 111.0
+Income (loss) from continuing operations
+(155.4) (130.4) (49.6)
+Income (loss) from discontinued operations – net of tax
+0.1 2.4 67.3
+Gain (loss) on disposition of discontinued operations – net of tax
+$ 54.4 $ 113.7 $ 128.7
+Net income (loss)
+Basic earnings (loss) per share:
+$ 2.95 $ 3.21 $ 1.20
+Income (loss) from continuing operations
+(2.18) (1.73) (0.53)
+Income (loss) from discontinued operations – net of tax
+— 0.03 0.72
+Gain (loss) on disposition of discontinued operations – net of tax
+$ 0.77 $ 1.51 $ 1.39
+Net income (loss)
+Diluted earnings (loss) per share:
+$ 2.92 $ 3.14 $ 1.17
+Income (loss) from continuing operations
+(2.16) (1.69) (0.52)
+Income (loss) from discontinued operations – net of tax
+— 0.03 0.71
+Gain (loss) on disposition of discontinued operations – net of tax
+$ 0.76 $ 1.48 $ 1.36
+Net income (loss)
+Weighted average number of shares outstanding in per share calculation
+71.1 75.4 92.8
+Basic
+71.8 76.9 94.9
+Diluted
+The accompanying notes are an integral part of these consolidated financial statements.
+F-5
+Page#2
+TEREX CORPORATION AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEET
+(in millions, except par value)
+December 31,
+2019 2018
+Assets
+Current assets
+Cash and cash equivalents $ 535.1 $ 339.5
+401.9 535.0
+Trade receivables (net of allowance of $9.9 and $9.1 at December 31, 2019 and 2018, respectively)
+Inventories 847.7 918.9
+Prepaid and other current assets 225.8 170.1
+Current assets held for sale 9.2 459.5
+Total current assets 2,019.7 2,423.0
+Non-current assets
+Property, plant and equipment – net 389.4 317.3
+Goodwill 269.9 265.2
+Intangible assets – net 9.7 11.4
+Other assets 506.3 400.6
+Non-current assets held for sale 0.6 68.4
+Total assets $ 3,195.6 $ 3,485.9
+Liabilities and Stockholders’ Equity
+Current liabilities
+Current portion of long-term debt $ 6.9 $ 4.1
+Trade accounts payable 508.1 687.2
+Accrued compensation and benefits 100.3 123.1
+Other current liabilities 248.7 220.8
+Current liabilities held for sale 8.4 179.5
+Total current liabilities 872.4 1,214.7
+Non-current liabilities
+Long-term debt, less current portion 1,168.8 1,210.6
+Other non-current liabilities 220.9 113.1
+Non-current liabilities held for sale 1.2 86.5
+Total liabilities 2,263.3 2,624.9
+Commitments and contingencies
+Stockholders’ equity
+Common stock, $.01 par value – authorized 300.0 shares; issued 82.2 and 81.3 shares at December
+0.8 0.8
+31, 2019 and 2018, respectively
+Additional paid-in capital 824.4 797.3
+Retained earnings 771.4 749.0
+Accumulated other comprehensive income (loss) (257.5) (284.8)
+Less cost of shares of common stock in treasury – 11.8 and 11.7 shares at December 31, 2019 and
+(406.8) (401.8)
+2018, respectively
+Total Terex Corporation stockholders’ equity 932.3 860.5
+Noncontrolling interest — 0.5
+Total stockholders’ equity 932.3 861.0
+Total liabilities and stockholders’ equity $ 3,195.6 $ 3,485.9
+The accompanying notes are an integral part of these consolidated financial statements.
+F-7
+Page#3
+TEREX CORPORATION AND SUBSIDIARIES
+CONSOLIDATED STATEMENT OF CASH FLOWS
+(in millions)
+Year Ended December 31,
+2019 2018 2017
+Operating Activities
+Net income (loss) $ 54.4 $ 113.7 $ 128.7
+Adjustments to reconcile net income (loss) to net cash provided by (used in) operating
+activities:
+Depreciation and amortization 49.6 59.7 66.5
+(Gain) loss on disposition of discontinued operations (0.1) (2.4) (68.7)
+Deferred taxes (17.6) (9.1) 37.6
+Impairments 83.6 9.0 6.8
+(Gain) loss on sale of assets (9.8) (1.9) (58.0)
+Loss on early extinguishment of debt — 0.7 52.6
+Stock-based compensation expense 43.1 36.7 38.5
+Pension plan settlements — 67.8 1.5
+Inventory and other non-cash charges 47.6 30.3 34.0
+Changes in operating assets and liabilities (net of effects of acquisitions and
+divestitures):
+Trade receivables 176.1 (107.9) (0.5)
+Inventories 20.3 (284.2) (33.5)
+Trade accounts payable (220.1) 213.2 25.0
+Other assets and liabilities (57.0) (25.1) (46.0)
+Foreign exchange and other operating activities, net 3.3 (6.3) (31.5)
+Net cash provided by (used in) operating activities 173.4 94.2 153.0
+Investing Activities
+Capital expenditures (108.9) (103.8) (43.5)
+Proceeds from sale of capital assets 4.3 2.8 20.2
+Proceeds from disposition of investments 30.7 19.3 783.2
+Proceeds (payments) from disposition of discontinued operations 177.7 2.5 775.7
+Other investing activities, net — (6.7) —
+Net cash provided by (used in) investing activities 103.8 (85.9) 1,535.6
+Financing Activities
+Repayments of debt (1,660.5) (1,150.1) (1,594.1)
+Proceeds from issuance of debt 1,616.6 1,382.3 1,010.7
+Payment of debt extinguishment costs — (0.5) (36.4)
+Share repurchases (7.4) (427.5) (924.9)
+Dividends paid (31.4) (30.0) (29.5)
+Other financing activities, net (21.0) (19.1) (32.3)
+Net cash provided by (used in) financing activities (103.7) (244.9) (1,606.5)
+Effect of Exchange Rate Changes on Cash and Cash Equivalents (5.5) (21.4) 46.1
+Net Increase (Decrease) in Cash and Cash Equivalents 168.0 (258.0) 128.2
+Cash and Cash Equivalents at Beginning of Period 372.1 630.1 501.9
+Cash and Cash Equivalents at End of Period $ 540.1 $ 372.1 $ 630.1
+The accompanying notes are an integral part of these consolidated financial statements.
+F-9

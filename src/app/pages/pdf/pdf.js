@@ -187,7 +187,7 @@ function appendTotable(){
 	console.log("yearsarray",yearsArray);
 	var str ='<td style="width:400px">&nbsp</td>';
 	for (let i=0;i<yearsArray.length;i++) {
-		str = str +  '<td style="font-weight:bold;text-align:center;font-size:12px;width:85px">'+yearsArray[i]+'</td>';	
+		str = str +  '<td style="font-weight:bold;text-align:right;font-size:12px;width:85px;padding-right:20px">'+yearsArray[i]+'</td>';	
 	}
 	$('#myTable tr:last').after('<tr>'+str+'</tr>');
 	

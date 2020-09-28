@@ -1,0 +1,121 @@
+
+Page#1
+
+Page#2
+PARTII
+NIKE, Inc. Consolidated Statements of Income
+YearEndedMay31,
+(Inmillions,exceptpersharedata) 2018 2017 2016
+Revenues $ 36,397 $ 34,350 $ 32,376
+Costofsales 20,441 19,038 17,405
+Grossprofit 15,956 15,312 14,971
+Demandcreationexpense 3,577 3,341 3,278
+Operatingoverheadexpense 7,934 7,222 7,191
+Totalsellingandadministrativeexpense 11,511 10,563 10,469
+Interestexpense(income),net 54 59 19
+Otherexpense(income),net 66 (196) (140)
+Incomebeforeincometaxes 4,325 4,886 4,623
+Incometaxexpense 2,392 646 863
+NETINCOME $ 1,933 $ 4,240 $ 3,760
+Earningspercommonshare:
+Basic $ 1.19 $ 2.56 $ 2.21
+Diluted $ 1.17 $ 2.51 $ 2.16
+Dividendsdeclaredpercommonshare $ 0.78 $ 0.70 $ 0.62
+TheaccompanyingNotestotheConsolidatedFinancialStatementsareanintegralpartofthisstatement.
+94
+Page#3
+PARTII
+NIKE, Inc. Consolidated Balance Sheets
+May31,
+(Inmillions) 2018 2017
+ASSETS
+Currentassets:
+Cashandequivalents $ 4,249 $ 3,808
+Short-terminvestments 996 2,371
+Accountsreceivable,net 3,498 3,677
+Inventories 5,261 5,055
+Prepaidexpensesandothercurrentassets 1,130 1,150
+Totalcurrentassets 15,134 16,061
+Property,plantandequipment,net 4,454 3,989
+Identifiableintangibleassets,net 285 283
+Goodwill 154 139
+Deferredincometaxesandotherassets 2,509 2,787
+TOTALASSETS $ 22,536 $ 23,259
+LIABILITIESANDSHAREHOLDERS’EQUITY
+Currentliabilities:
+Currentportionoflong-termdebt $ 6 $ 6
+Notespayable 336 325
+Accountspayable 2,279 2,048
+Accruedliabilities 3,269 3,011
+Incometaxespayable 150 84
+Totalcurrentliabilities 6,040 5,474
+Long-termdebt 3,468 3,471
+Deferredincometaxesandotherliabilities 3,216 1,907
+Commitmentsandcontingencies(Note15)
+Redeemablepreferredstock — —
+Shareholders’equity:
+Commonstockatstatedvalue:
+ClassAconvertible—329and329sharesoutstanding — —
+ClassB—1,272and1,314sharesoutstanding 3 3
+Capitalinexcessofstatedvalue 6,384 5,710
+Accumulatedothercomprehensiveloss (92) (213)
+Retainedearnings 3,517 6,907
+Totalshareholders’equity 9,812 12,407
+TOTALLIABILITIESANDSHAREHOLDERS’EQUITY $ 22,536 $ 23,259
+TheaccompanyingNotestotheConsolidatedFinancialStatementsareanintegralpartofthisstatement.
+96
+Page#4
+PARTII
+NIKE, Inc. Consolidated Statements of Cash Flows
+YearEndedMay31,
+(Inmillions) 2018 2017 2016
+Cashprovidedbyoperations:
+Netincome $ 1,933 $ 4,240 $ 3,760
+Adjustmentstoreconcilenetincometonetcashprovidedbyoperations:
+Depreciation 747 706 649
+Deferredincometaxes 647 (273) (80)
+Stock-basedcompensation 218 215 236
+Amortizationandother 27 10 13
+Netforeigncurrencyadjustments (99) (117) 98
+Changesincertainworkingcapitalcomponentsandotherassetsandliabilities:
+Decrease(increase)inaccountsreceivable 187 (426) 60
+(Increase)ininventories (255) (231) (590)
+Decrease(increase)inprepaidexpensesandothercurrentandnon-currentassets 35 (120) (161)
+Increase(decrease)inaccountspayable,accruedliabilitiesandothercurrentand
+non-currentliabilities 1,515 (158) (586)
+Cashprovidedbyoperations 4,955 3,846 3,399
+Cashprovided(used)byinvestingactivities:
+Purchasesofshort-terminvestments (4,783) (5,928) (5,367)
+Maturitiesofshort-terminvestments 3,613 3,623 2,924
+K
+Salesofshort-terminvestments 2,496 2,423 2,386 -
+0
+Investmentsinreverserepurchaseagreements — — 150
+1
+Additionstoproperty,plantandequipment (1,028) (1,105) (1,143) M
+Disposalsofproperty,plantandequipment 3 13 10
+R
+Otherinvestingactivities (25) (34) 6 O
+Cashprovided(used)byinvestingactivities 276 (1,008) (1,034) F
+Cashusedbyfinancingactivities:
+Netproceedsfromlong-termdebtissuance — 1,482 981
+Long-termdebtpayments,includingcurrentportion (6) (44) (106)
+Increase(decrease)innotespayable 13 327 (67)
+Paymentsoncapitalleaseandotherfinancingobligations (23) (17) (7)
+Proceedsfromexerciseofstockoptionsandotherstockissuances 733 489 507
+Repurchaseofcommonstock (4,254) (3,223) (3,238)
+Dividends—commonandpreferred (1,243) (1,133) (1,022)
+Taxpaymentsfornetsharesettlementofequityawards (55) (29) (22)
+Cashusedbyfinancingactivities (4,835) (2,148) (2,974)
+Effectofexchangeratechangesoncashandequivalents 45 (20) (105)
+Netincrease(decrease)incashandequivalents 441 670 (714)
+Cashandequivalents,beginningofyear 3,808 3,138 3,852
+CASHANDEQUIVALENTS,ENDOFYEAR $ 4,249 $ 3,808 $ 3,138
+Supplementaldisclosureofcashflowinformation:
+Cashpaidduringtheyearfor:
+Interest,netofcapitalizedinterest $ 125 $ 98 $ 70
+Incometaxes 529 703 748
+Non-cashadditionstoproperty,plantandequipment 294 266 252
+Dividendsdeclaredandnotpaid 320 300 271
+TheaccompanyingNotestotheConsolidatedFinancialStatementsareanintegralpartofthisstatement.
+NIKE,INC. 2018AnnualReportandNoticeofAnnualMeeting 97

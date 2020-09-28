@@ -1,0 +1,121 @@
+[annotation_spec_id: "4810686627938566144"
+display_name: "Year1"
+text_extraction {
+  score: 0.9582929015159607
+  text_segment {
+    start_offset: 2299
+    end_offset: 2303
+    content: "2019"
+  }
+}
+, annotation_spec_id: "7116529637152260096"
+display_name: "Year3"
+text_extraction {
+  score: 0.9914612174034119
+  text_segment {
+    start_offset: 2304
+    end_offset: 2308
+    content: "2018"
+  }
+}
+, annotation_spec_id: "3081304371028295680"
+display_name: "TotalRevenue"
+text_extraction {
+  score: 0.9999999403953552
+  text_segment {
+    start_offset: 2419
+    end_offset: 2433
+    content: "Total Revenues"
+  }
+}
+, annotation_spec_id: "5963608132545413120"
+display_name: "COGS"
+text_extraction {
+  score: 0.5905271768569946
+  text_segment {
+    start_offset: 2583
+    end_offset: 2601
+    content: "Sales of Equipment"
+  }
+}
+, annotation_spec_id: "8269451141759107072"
+display_name: "EBIT"
+text_extraction {
+  score: 0.9999814033508301
+  text_segment {
+    start_offset: 2904
+    end_offset: 2924
+    content: "LOSS FROM OPERATIONS"
+  }
+}
+, annotation_spec_id: "440650175552159744"
+display_name: "InterestExpense"
+text_extraction {
+  score: 0.9999999403953552
+  text_segment {
+    start_offset: 2950
+    end_offset: 2966
+    content: "INTEREST EXPENSE"
+  }
+}
+, annotation_spec_id: "5387147380241989632"
+display_name: "EBT"
+text_extraction {
+  score: 0.9999929666519165
+  text_segment {
+    start_offset: 2987
+    end_offset: 3011
+    content: "LOSS BEFORE INCOME TAXES"
+  }
+}
+, annotation_spec_id: "775461361814601728"
+display_name: "Taxes"
+text_extraction {
+  score: 0.9999438524246216
+  text_segment {
+    start_offset: 3038
+    end_offset: 3056
+    content: "INCOME TAX EXPENSE"
+  }
+}
+, annotation_spec_id: "7692990389455683584"
+display_name: "NetIncome"
+text_extraction {
+  score: 0.9998098611831665
+  text_segment {
+    start_offset: 3067
+    end_offset: 3075
+    content: "NET LOSS"
+  }
+}
+, annotation_spec_id: "2504843618724872192"
+display_name: "Company"
+text_extraction {
+  score: 0.9993616938591003
+  text_segment {
+    start_offset: 3106
+    end_offset: 3132
+    content: "VRI ULTIMATE HOLDINGS, LLC"
+  }
+}
+, annotation_spec_id: "2470331048240611328"
+display_name: "IncomeStatement"
+text_extraction {
+  score: 0.9999784827232361
+  text_segment {
+    start_offset: 3150
+    end_offset: 3187
+    content: "Consolidated Statements of Operations"
+  }
+}
+, annotation_spec_id: "1351922114118025216"
+display_name: "DandA"
+text_extraction {
+  score: 0.9999969601631165
+  text_segment {
+    start_offset: 4372
+    end_offset: 4401
+    content: "Depreciation and Amortization"
+  }
+}
+]

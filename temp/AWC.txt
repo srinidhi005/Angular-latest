@@ -1,0 +1,24 @@
+
+Page#1
+ 
+ 
+ATLANTIC GRID A LLC
+CONSOLIDATED STATEMENTS OF OPERATIONS
+FOR THE YEARS ENDED DECEMBER 31, 2017 AND 2016
+2017 2016
+REVENUES $         -      $         -     
+EXPENSES:
+Project Development
+     Engineering and Design        10,631            -     
+     Regulatory and Legal          9,970            -     
+Total Project Development        20,601            -     
+General and administrative:
+    General and administrative      207,322      228,080
+    Salaries and wages      191,192      180,683
+    Rent and office expense        16,791        17,678
+    Management fee—AGD      255,833      230,417
+Total general and administrative expenses      671,139      656,858
+Total expenses      691,740      656,858
+NET LOSS $ (691,740) $ (656,858)
+See notes to consolidated financial statements.
+- 4 - 

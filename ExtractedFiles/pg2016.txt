@@ -1,0 +1,132 @@
+
+Page#1
+34 The Procter & Gamble Company
+Consolidated Statements of Earnings
+Amounts in millions except per share amounts; Years ended June 30 2016 2015 2014
+NET SALES $ 65,299 $ 70,749 $ 74,401
+Cost of products sold 32,909 37,056 39,030
+Selling, general and administrative expense 18,949 20,616 21,461
+Venezuela deconsolidation charge — 2,028 —
+OPERATING INCOME 13,441 11,049 13,910
+Interest expense 579 626 709
+Interest income 182 149 99
+Other non-operating income, net 325 440 209
+EARNINGS FROM CONTINUING OPERATIONS BEFORE INCOME TAXES 13,369 11,012 13,509
+Income taxes on continuing operations 3,342 2,725 2,851
+NET EARNINGS FROM CONTINUING OPERATIONS 10,027 8,287 10,658
+NET EARNINGS/(LOSS) FROM DISCONTINUED OPERATIONS 577 (1,143) 1,127
+NET EARNINGS 10,604 7,144 11,785
+Less: Net earnings attributable to noncontrolling interests 96 108 142
+NET EARNINGS ATTRIBUTABLE TO PROCTER & GAMBLE $ 10,508 $ 7,036 $ 11,643
+BASIC NET EARNINGS PER COMMON SHARE: (1)
+Earnings from continuing operations $ 3.59 $ 2.92 $ 3.78
+Earnings/(loss) from discontinued operations 0.21 (0.42) 0.41
+BASIC NET EARNINGS PER COMMON SHARE $ 3.80 $ 2.50 $ 4.19
+DILUTED NET EARNINGS PER COMMON SHARE: (1)
+Earnings from continuing operations $ 3.49 $ 2.84 $ 3.63
+Earnings/(loss) from discontinued operations 0.20 (0.40) 0.38
+DILUTED NET EARNINGS PER COMMON SHARE $ 3.69 $ 2.44 $ 4.01
+DIVIDENDS PER COMMON SHARE $ 2.66 $ 2.59 $ 2.45
+(1) Basic net earnings per common share and Diluted net earnings per common share are calculated on Net earnings attributable to Procter &
+Gamble.
+See accompanying Notes to Consolidated Financial Statements.
+Page#2
+36 The Procter & Gamble Company
+Consolidated Balance Sheets
+Amounts in millions; Years ended June 30 2016 2015
+Assets
+CURRENT ASSETS
+Cash and cash equivalents $ 7,102 $ 6,836
+Available-for-sale investment securities 6,246 4,767
+Accounts receivable 4,373 4,568
+INVENTORIES
+Materials and supplies 1,188 1,266
+Work in process 563 525
+Finished goods 2,965 3,188
+Total inventories 4,716 4,979
+Deferred income taxes 1,507 1,356
+Prepaid expenses and other current assets 2,653 2,708
+Current assets held for sale 7,185 4,432
+TOTAL CURRENT ASSETS 33,782 29,646
+PROPERTY, PLANT AND EQUIPMENT, NET 19,385 19,655
+GOODWILL 44,350 44,622
+TRADEMARKS AND OTHER INTANGIBLE ASSETS, NET 24,527 25,010
+NONCURRENT ASSETS HELD FOR SALE — 5,204
+OTHER NONCURRENT ASSETS 5,092 5,358
+TOTAL ASSETS $ 127,136 $ 129,495
+Liabilities and Shareholders' Equity
+CURRENT LIABILITIES
+Accounts payable $ 9,325 $ 8,138
+Accrued and other liabilities 7,449 8,091
+Current liabilities held for sale 2,343 1,543
+Debt due within one year 11,653 12,018
+TOTAL CURRENT LIABILITIES 30,770 29,790
+LONG-TERM DEBT 18,945 18,327
+DEFERRED INCOME TAXES 9,113 9,179
+NONCURRENT LIABILITIES HELD FOR SALE — 717
+OTHER NONCURRENT LIABILITIES 10,325 8,432
+TOTAL LIABILITIES 69,153 66,445
+SHAREHOLDERS' EQUITY
+Convertible Class A preferred stock, stated value $1 per share (600 shares authorized) 1,038 1,077
+Non-Voting Class B preferred stock, stated value $1 per share (200 shares authorized) — —
+Common stock, stated value $1 per share (10,000 shares authorized; shares issued:
+2016 - 4,009.2, 2015 - 4,009.2 ) 4,009 4,009
+Additional paid-in capital 63,714 63,852
+Reserve for ESOP debt retirement (1,290) (1,320)
+Accumulated other comprehensive income/(loss) (15,907) (12,780)
+Treasury stock, at cost (shares held: 2016 - 1,341.2, 2015 - 1,294.7) (82,176) (77,226)
+Retained earnings 87,953 84,807
+Noncontrolling interest 642 631
+TOTAL SHAREHOLDERS' EQUITY 57,983 63,050
+TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY $ 127,136 $ 129,495
+See accompanying Notes to Consolidated Financial Statements.
+Page#3
+38 The Procter & Gamble Company
+Consolidated Statements of Cash Flows
+Amounts in millions; Years ended June 30 2016 2015 2014
+CASH AND CASH EQUIVALENTS, BEGINNING OF YEAR $ 6,836 $ 8,548 $ 5,930
+OPERATING ACTIVITIES
+Net earnings 10,604 7,144 11,785
+Depreciation and amortization 3,078 3,134 3,141
+Share-based compensation expense 335 337 360
+Deferred income taxes (815) (803) (44)
+Gain on sale of businesses (41) (766) (154)
+Venezuela deconsolidation charge — 2,028 —
+Goodwill and intangible asset impairment charges 450 2,174 —
+Change in accounts receivable 35 349 87
+Change in inventories 116 313 8
+Change in accounts payable, accrued and other liabilities 1,285 928 1
+Change in other operating assets and liabilities 204 (976) (1,557)
+Other 184 746 331
+TOTAL OPERATING ACTIVITIES 15,435 14,608 13,958
+INVESTING ACTIVITIES
+Capital expenditures (3,314) (3,736) (3,848)
+Proceeds from asset sales 432 4,498 577
+Cash related to deconsolidated Venezuela operations — (908) —
+Acquisitions, net of cash acquired (186) (137) (24)
+Purchases of short-term investments (2,815) (3,647) (568)
+Proceeds from sales of short-term investments 1,354 1,203 24
+Cash transferred in Batteries divestiture (143) — —
+Restricted cash related to Beauty Brands divestiture (996) — —
+Change in other investments 93 (163) (261)
+TOTAL INVESTING ACTIVITIES (5,575) (2,890) (4,100)
+FINANCING ACTIVITIES
+Dividends to shareholders (7,436) (7,287) (6,911)
+Change in short-term debt (418) (2,580) 3,304
+Additions to long-term debt 3,916 2,138 4,334
+Reductions of long-term debt (2,213) (3,512) (4,095)
+Treasury stock purchases (4,004) (4,604) (6,005)
+Treasury stock from cash infused in Batteries divestiture (1,730) — —
+Impact of stock options and other 2,672 2,826 2,094
+TOTAL FINANCING ACTIVITIES (9,213) (13,019) (7,279)
+EFFECT OF EXCHANGE RATE CHANGES ON CASH AND CASH EQUIVALENTS (381) (411) 39
+CHANGE IN CASH AND CASH EQUIVALENTS 266 (1,712) 2,618
+CASH AND CASH EQUIVALENTS, END OF YEAR $ 7,102 $ 6,836 $ 8,548
+SUPPLEMENTAL DISCLOSURE
+Cash payments for:
+Interest $ 569 $ 678 $ 686
+Income taxes 3,730 4,558 3,320
+Divestiture of Batteries business in exchange for shares of P&G stock (1) 4,213 — —
+Assets acquired through non-cash capital leases are immaterial for all periods.
+(1) Includes $1,730 from cash infused into the Batteries business pursuant to the divestiture agreement (see Note 13).
+See accompanying Notes to Consolidated Financial Statements.

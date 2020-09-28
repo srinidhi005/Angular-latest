@@ -1,0 +1,151 @@
+[annotation_spec_id: "4810686627938566144"
+display_name: "Year1"
+text_extraction {
+  score: 0.9999758005142212
+  text_segment {
+    start_offset: 2665
+    end_offset: 2669
+    content: "2019"
+  }
+}
+, annotation_spec_id: "199000609511178240"
+display_name: "Year2"
+text_extraction {
+  score: 0.9999998807907104
+  text_segment {
+    start_offset: 2670
+    end_offset: 2674
+    content: "2018"
+  }
+}
+, annotation_spec_id: "7116529637152260096"
+display_name: "Year3"
+text_extraction {
+  score: 0.9999700784683228
+  text_segment {
+    start_offset: 2675
+    end_offset: 2679
+    content: "2017"
+  }
+}
+, annotation_spec_id: "2651952776963162112"
+display_name: "Currency"
+text_extraction {
+  score: 0.7526820302009583
+  text_segment {
+    start_offset: 2716
+    end_offset: 2717
+    content: "$"
+  }
+}
+, annotation_spec_id: "3081304371028295680"
+display_name: "TotalRevenue"
+text_extraction {
+  score: 0.9999901056289673
+  text_segment {
+    start_offset: 2813
+    end_offset: 2826
+    content: "Total revenue"
+  }
+}
+, annotation_spec_id: "5903164679831683072"
+display_name: "SGA"
+text_extraction {
+  score: 0.997992753982544
+  text_segment {
+    start_offset: 3394
+    end_offset: 3429
+    content: "General and administrative expenses"
+  }
+}
+, annotation_spec_id: "8269451141759107072"
+display_name: "EBIT"
+text_extraction {
+  score: 0.902413547039032
+  text_segment {
+    start_offset: 3669
+    end_offset: 3692
+    content: "Operating income (loss)"
+  }
+}
+, annotation_spec_id: "440650175552159744"
+display_name: "InterestExpense"
+text_extraction {
+  score: 0.9999830722808838
+  text_segment {
+    start_offset: 3784
+    end_offset: 3800
+    content: "Interest expense"
+  }
+}
+, annotation_spec_id: "5387147380241989632"
+display_name: "EBT"
+text_extraction {
+  score: 0.9999997615814209
+  text_segment {
+    start_offset: 3939
+    end_offset: 3972
+    content: "Income (loss) before income taxes"
+  }
+}
+, annotation_spec_id: "775461361814601728"
+display_name: "Taxes"
+text_extraction {
+  score: 0.9655078053474426
+  text_segment {
+    start_offset: 4003
+    end_offset: 4024
+    content: "Income tax (provision"
+  }
+}
+, annotation_spec_id: "7692990389455683584"
+display_name: "NetIncome"
+text_extraction {
+  score: 0.9976216554641724
+  text_segment {
+    start_offset: 4067
+    end_offset: 4084
+    content: "Net income (loss)"
+  }
+}
+, annotation_spec_id: "7692990389455683584"
+display_name: "NetIncome"
+text_extraction {
+  score: 0.9430438280105591
+  text_segment {
+    start_offset: 4213
+    end_offset: 4223
+    content: "Net income"
+  }
+}
+, annotation_spec_id: "2504843618724872192"
+display_name: "Company"
+text_extraction {
+  score: 0.9960078597068787
+  text_segment {
+    start_offset: 5430
+    end_offset: 5454
+    content: "DISH NETWORK CORPORATION"
+  }
+}
+, annotation_spec_id: "2470331048240611328"
+display_name: "IncomeStatement"
+text_extraction {
+  score: 0.7050753235816956
+  text_segment {
+    start_offset: 5455
+    end_offset: 5492
+    content: "CONSOLIDATED STATEMENTS OF OPERATIONS"
+  }
+}
+, annotation_spec_id: "1351922114118025216"
+display_name: "DandA"
+text_extraction {
+  score: 0.9997673034667969
+  text_segment {
+    start_offset: 5913
+    end_offset: 5942
+    content: "Depreciation and amortization"
+  }
+}
+]

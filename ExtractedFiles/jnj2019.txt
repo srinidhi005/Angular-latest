@@ -1,0 +1,135 @@
+
+Page#1
+JOHNSON & JOHNSON AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS
+At December 29, 2019 and December 30, 2018
+(Dollars in Millions Except Share and Per Share Amounts) (Note 1)
+2019 2018
+Assets
+Current assets
+Cash and cash equivalents (Notes 1 and 2) $17,305 18,107
+Marketable securities (Notes 1 and 2) 1,982 1,580
+Accounts receivable trade, less allowances for doubtful accounts $226 (2018, $248) 14,481 14,098
+Inventories (Notes 1 and 3) 9,020 8,599
+Prepaid expenses and other receivables 2,392 2,699
+Assets held for sale (Note 20) 94 950
+Total current assets 45,274 46,033
+Property, plant and equipment, net (Notes 1 and 4) 17,658 17,035
+Intangible assets, net (Notes 1 and 5) 47,643 47,611
+Goodwill (Notes 1 and 5) 33,639 30,453
+Deferred taxes on income (Note 8) 7,819 7,640
+Other assets 5,695 4,182
+Total assets $157,728 152,954
+Liabilities and Shareholders’ Equity
+Current liabilities
+Loans and notes payable (Note 7) $1,202 2,796
+Accounts payable 8,544 7,537
+Accrued liabilities 9,715 7,601
+Accrued rebates, returns and promotions 10,883 9,380
+Accrued compensation and employee related obligations 3,354 3,098
+Accrued taxes on income (Note 8) 2,266 818
+Total current liabilities 35,964 31,230
+Long-term debt (Note 7) 26,494 27,684
+Deferred taxes on income (Note 8) 5,958 7,506
+Employee related obligations (Notes 9 and 10) 10,663 9,951
+Long-term taxes payable (Note 8) 7,444 8,242
+Other liabilities 11,734 8,589
+Total liabilities 98,257 93,202
+Commitments and Contingencies (Note 21)
+Shareholders’ equity
+Preferred stock — without par value (authorized and unissued 2,000,000 shares) — —
+Common stock — par value $1.00 per share (Note 12) (authorized 4,320,000,000 shares; issued
+3,119,843,000 shares) 3,120 3,120
+Accumulated other comprehensive income (loss) (Note 13) (15,891) (15,222)
+Retained earnings 110,659 106,216
+97,888 94,114
+Less: common stock held in treasury, at cost (Note 12) (487,336,000 shares and 457,519,000 shares) 38,417 34,362
+Total shareholders’ equity 59,471 59,752
+Total liabilities and shareholders’ equity $157,728 152,954
+See Notes to Consolidated Financial Statements
+36 • Johnson & Johnson 2019 Annual Report
+Page#2
+JOHNSON & JOHNSON AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF EARNINGS
+(Dollars and Shares in Millions Except Per Share Amounts) (Note 1)
+2019 2018 2017
+Sales to customers $82,059 81,581 76,450
+Cost of products sold 27,556 27,091 25,439
+Gross profit 54,503 54,490 51,011
+Selling, marketing and administrative expenses 22,178 22,540 21,520
+Research and development expense 11,355 10,775 10,594
+In-process research and development (Note 5) 890 1,126 408
+Interest income (357) (611) (385)
+Interest expense, net of portion capitalized (Note 4) 318 1,005 934
+Other (income) expense, net 2,525 1,405 (42)
+Restructuring (Note 22) 266 251 309
+Earnings before provision for taxes on income 17,328 17,999 17,673
+Provision for taxes on income (Note 8) 2,209 2,702 16,373
+Net earnings $15,119 15,297 1,300
+Net earnings per share (Notes 1 and 15)
+Basic $5.72 5.70 0.48
+Diluted $5.63 5.61 0.47
+Average shares outstanding (Notes 1 and 15)
+Basic 2,645.1 2,681.5 2,692.0
+Diluted 2,684.3 2,728.7 2,745.3
+See Notes to Consolidated Financial Statements
+Johnson & Johnson 2019 Annual Report • 37
+Page#3
+JOHNSON & JOHNSON AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(Dollars in Millions) (Note 1)
+2019 2018 2017
+Cash flows from operating activities
+Net earnings $15,119 15,297 1,300
+Adjustments to reconcile net earnings to cash flows from operating activities:
+Depreciation and amortization of property and intangibles 7,009 6,929 5,642
+Stock based compensation 977 978 962
+Asset write-downs 1,096 1,258 795
+Gain on sale of assets/businesses (2,154) (1,217) (1,307)
+Deferred tax provision (2,476) (1,016) 2,406
+Accounts receivable allowances (20) (31) 17
+Changes in assets and liabilities, net of effects from acquisitions and divestitures:
+Increase in accounts receivable (289) (1,185) (633)
+(Increase)/Decrease in inventories (277) (644) 581
+Increase in accounts payable and accrued liabilities 4,060 3,951 2,725
+Increase in other current and non-current assets (1,054) (275) (411)
+Increase/(Decrease) in other current and non-current liabilities 1,425 (1,844) 8,979
+Net cash flows from operating activities 23,416 22,201 21,056
+Cash flows from investing activities
+Additions to property, plant and equipment (3,498) (3,670) (3,279)
+Proceeds from the disposal of assets/businesses, net 3,265 3,203 1,832
+Acquisitions, net of cash acquired (Note 20) (5,810) (899) (35,151)
+Purchases of investments (3,920) (5,626) (6,153)
+Sales of investments 3,387 4,289 28,117
+Proceeds from credit support agreements 338 — —
+Other 44 (464) (234)
+Net cash used by investing activities (6,194) (3,167) (14,868)
+Cash flows from financing activities
+Dividends to shareholders (9,917) (9,494) (8,943)
+Repurchase of common stock (6,746) (5,868) (6,358)
+Proceeds from short-term debt 39 80 869
+Repayment of short-term debt (100) (2,479) (1,330)
+Proceeds from long-term debt, net of issuance costs 3 5 8,992
+Repayment of long-term debt (2,823) (1,555) (1,777)
+Proceeds from the exercise of stock options/employee withholding tax on stock awards, net 954 949 1,062
+Other 575 (148) (188)
+Net cash used by financing activities (18,015) (18,510) (7,673)
+Effect of exchange rate changes on cash and cash equivalents (9) (241) 337
+(Decrease)/Increase in cash and cash equivalents (802) 283 (1,148)
+Cash and cash equivalents, beginning of year (Note 1) 18,107 17,824 18,972
+Cash and cash equivalents, end of year (Note 1) $17,305 18,107 17,824
+Supplemental cash flow data
+Cash paid during the year for:
+Interest $995 1,049 960
+Interest, net of amount capitalized 925 963 866
+Income taxes 4,191 4,570 3,312
+Supplemental schedule of non-cash investing and financing activities
+Treasury stock issued for employee compensation and stock option plans, net of cash proceeds/ employee
+withholding tax on stock awards $1,736 2,095 2,062
+Conversion of debt 1 6 16
+Acquisitions
+Fair value of assets acquired $7,228 1,047 36,937
+Fair value of liabilities assumed and noncontrolling interests (1,418) (148) (1,786)
+Net cash paid for acquisitions (Note 20) $5,810 899 35,151
+See Notes to Consolidated Financial Statements
+40 • Johnson & Johnson 2019 Annual Report

@@ -1,0 +1,144 @@
+
+Page#1
+ZOETIS INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF INCOME
+Year Ended December 31,
+(MILLIONS OF DOLLARS AND SHARES, EXCEPT PER SHARE DATA) 2017 2016 2015
+Revenue $ 5,307 $ 4,888 $ 4,765
+Costs and expenses:
+Cost of sales(a) 1,775 1,666 1,738
+Selling, general and administrative expenses(a) 1,334 1,364 1,532
+Research and development expenses(a) 382 376 364
+Amortization of intangible assets 91 85 61
+Restructuring charges and certain acquisition-related costs 19 5 320
+Interest expense, net of capitalized interest 175 166 124
+Other (income)/deductions––net 6 (2) 81
+Income before provision for taxes on income 1,525 1,228 545
+Provision for taxes on income 663 409 206
+Net income before allocation to noncontrolling interests 862 819 339
+  Less: Net loss attributable to noncontrolling interests (2) (2) —
+Net income attributable to Zoetis $ 864 $ 821 $ 339
+Earnings per share attributable to Zoetis Inc. stockholders:
+ Basic $ 1.76 $ 1.66 $ 0.68
+ Diluted $ 1.75 $ 1.65 $ 0.68
+Weighted-average common shares outstanding:
+ Basic 489.918 495.715 499.707
+ Diluted 493.161 498.225 502.019
+Dividends declared per common share $ 0.441 $ 0.390 $ 0.344
+(a) Exclusive of amortization of intangible assets, except as disclosed in Note 3. Significant Accounting Policies—Amortization of Intangible Assets, Depreciation and 
+Certain Long-Lived Assets. 
+See Notes to Consolidated Financial Statements, which are an integral part of these statements.
+61 |
+Page#2
+ZOETIS INC. AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS 
+December 31, December 31,
+(MILLIONS OF DOLLARS, EXCEPT PER SHARE DATA) 2017 2016
+Assets
+Cash and cash equivalents(a) $ 1,564 $ 727
+Accounts receivable, less allowance for doubtful accounts of $25 in 2017 and $30 in 2016 998 913
+Inventories 1,427 1,502
+Other current assets 228 248
+Total current assets 4,217 3,390
+Property, plant and equipment, less accumulated depreciation of $1,471 in 2017 and $1,358 in 2016 1,435 1,381
+Goodwill 1,510 1,481
+Identifiable intangible assets, less accumulated amortization 1,269 1,228
+Noncurrent deferred tax assets 80 96
+Other noncurrent assets 75 73
+Total assets $ 8,586 $ 7,649
+Liabilities and Equity
+Accounts payable $ 261 $ 265
+Dividends payable 61 52
+Accrued expenses 432 464
+Accrued compensation and related items 236 224
+Income taxes payable 60 71
+Other current liabilities 44 41
+Total current liabilities 1,094 1,117
+Long-term debt, net of discount and issuance costs 4,953 4,468
+Noncurrent deferred tax liabilities 380 244
+Other taxes payable 172 73
+Other noncurrent liabilities 201 248
+Total liabilities 6,800 6,150
+Commitments and contingencies (Note 17)
+Stockholders' equity:
+Preferred stock, $0.01 par value; 1,000,000,000 authorized, none issued — —
+Common stock, $0.01 par value: 6,000,000,000 authorized, 501,891,243 and 501,891,243 shares issued;  
+486,130,461 and 492,855,297 shares outstanding at December 31, 2017 and 2016, respectively 5 5
+Treasury stock, at cost, 15,760,782 and 9,035,946 shares of common stock at December 31, 2017 and 2016,
+respectively (852) (421)
+Additional paid-in capital 1,013 1,024
+Retained earnings 2,109 1,477
+Accumulated other comprehensive loss (505) (598)
+Total Zoetis Inc. equity 1,770 1,487
+Equity attributable to noncontrolling interests 16 12
+Total equity 1,786 1,499
+Total liabilities and equity $ 8,586 $ 7,649
+(a) As of December 31, 2017, includes $6 million of restricted cash.
+See Notes to Consolidated Financial Statements, which are an integral part of these statements.
+63 |
+Page#3
+ZOETIS INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+Year Ended December 31,
+(MILLIONS OF DOLLARS) 2017 2016 2015
+Operating Activities
+Net income before allocation to noncontrolling interests $ 862 $ 819 $ 339
+Adjustments to reconcile net income before noncontrolling interests to net cash
+provided by operating activities:
+Depreciation and amortization expense 242 240 199
+Share-based compensation expense 44 37 43
+Restructuring 19 5 203
+Asset write-offs and asset impairments 3 5 60
+Loss/(gain) on sales of assets 11 (26) —
+Provision for losses on inventory 54 105 94
+Deferred taxes 127 (55) (85)
+Foreign currency loss related to Venezuela Revaluation, excluding impact on cash — — 6
+Employee benefit plan contribution from Pfizer Inc. 3 3 3
+Other non-cash adjustments 10 19 10
+Other changes in assets and liabilities, net of acquisitions and divestitures and transfers with Pfizer Inc.
+Accounts receivable (50) 15 (58)
+Inventories 19 (101) (262)
+Other assets (16) (50) (9)
+Accounts payable (10) (28) 17
+Other liabilities (57) (295) 70
+Other tax accounts, net 85 20 34
+Net cash provided by operating activities 1,346 713 664
+Investing Activities
+Capital expenditures (224) (216) (224)
+Acquisitions (82) (88) (883)
+Net proceeds from sales of assets 37 90 2
+Other investing activities (1) — (10)
+Net cash used in investing activities (270) (214) (1,115)
+Financing Activities
+Decrease in short-term borrowings, net — (5) (2)
+Principal payments on long-term debt (750) (400) —
+Proceeds from issuance of long-term debt—senior notes, net of discount and fees 1,231 — 1,236
+Payment of contingent consideration related to previously acquired assets (7) (32) —
+Share-based compensation-related proceeds, net of taxes paid on withholding shares and excess tax benefits(a) 24 25 11
+Purchases of treasury stock(b) (500) (300) (203)
+Cash dividends paid (206) (188) (168)
+Cash paid to settle Pharmaq debt — — (119)
+Acquisition of noncontrolling interest (43) — —
+Payment of debt issuance costs — (3) —
+Net cash (used in)/provided by financing activities (251) (903) 755
+Effect of exchange-rate changes on cash and cash equivalents 12 (23) (32)
+Net increase/(decrease) in cash and cash equivalents 837 (427) 272
+Cash and cash equivalents at beginning of period 727 1,154 882
+Cash and cash equivalents at end of period $ 1,564 $ 727 $ 1,154
+See Notes to Consolidated Financial Statements, which are an integral part of these statements.
+65 |
+Page#4
+Supplemental cash flow information
+Cash paid during the period for:
+ Income taxes $ 455 $ 408 $ 224
+ Interest, net of capitalized interest 167 165 117
+Non-cash transactions:
+ Capital expenditures $ 5 8 11
+ Contingent purchase price consideration(c) 29 27 23
+ Dividends declared, not paid 61 52 47
+(a) Effective 2016, excess tax benefits are reflected within operating activities. See Note 3. Significant Accounting Policies for additional information. 
+(b) Reflects the acquisition of treasury shares in connection with the share repurchase program. For additional information, see Note 15. Stockholders' Equity.
+(c) For 2016, relates primarily to the non-cash portion of the acquisition of a livestock business in South America and a veterinary diagnostics business in Denmark. 
+For 2015, relates primarily to the non-cash portion of the acquisition of certain assets of Abbott Animal Health. 
+See Notes to Consolidated Financial Statements, which are an integral part of these statements.
+66 |

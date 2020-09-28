@@ -1,0 +1,110 @@
+[annotation_spec_id: "4810686627938566144"
+display_name: "Year1"
+text_extraction {
+  score: 0.9969705939292908
+  text_segment {
+    end_offset: 4
+    content: "2016"
+  }
+}
+, annotation_spec_id: "199000609511178240"
+display_name: "Year2"
+text_extraction {
+  score: 0.6624734401702881
+  text_segment {
+    start_offset: 5
+    end_offset: 9
+    content: "2015"
+  }
+}
+, annotation_spec_id: "3081304371028295680"
+display_name: "TotalRevenue"
+text_extraction {
+  score: 0.9999969005584717
+  text_segment {
+    start_offset: 136
+    end_offset: 149
+    content: "Total revenue"
+  }
+}
+, annotation_spec_id: "5963608132545413120"
+display_name: "COGS"
+text_extraction {
+  score: 0.9508581161499023
+  text_segment {
+    start_offset: 233
+    end_offset: 251
+    content: "cost of goods sold"
+  }
+}
+, annotation_spec_id: "5903164679831683072"
+display_name: "SGA"
+text_extraction {
+  score: 0.981886088848114
+  text_segment {
+    start_offset: 412
+    end_offset: 459
+    content: "Selling, administrative and engineering expense"
+  }
+}
+, annotation_spec_id: "8269451141759107072"
+display_name: "EBIT"
+text_extraction {
+  score: 0.999996542930603
+  text_segment {
+    start_offset: 545
+    end_offset: 561
+    content: "Operating income"
+  }
+}
+, annotation_spec_id: "440650175552159744"
+display_name: "InterestExpense"
+text_extraction {
+  score: 0.9999990463256836
+  text_segment {
+    start_offset: 628
+    end_offset: 644
+    content: "Interest expense"
+  }
+}
+, annotation_spec_id: "5387147380241989632"
+display_name: "EBT"
+text_extraction {
+  score: 0.999995231628418
+  text_segment {
+    start_offset: 665
+    end_offset: 705
+    content: "Income before provision for income taxes"
+  }
+}
+, annotation_spec_id: "775461361814601728"
+display_name: "Taxes"
+text_extraction {
+  score: 0.9999992847442627
+  text_segment {
+    start_offset: 736
+    end_offset: 762
+    content: "Provision for income taxes"
+  }
+}
+, annotation_spec_id: "7692990389455683584"
+display_name: "NetIncome"
+text_extraction {
+  score: 0.9999908804893494
+  text_segment {
+    start_offset: 787
+    end_offset: 797
+    content: "Net income"
+  }
+}
+, annotation_spec_id: "2504843618724872192"
+display_name: "Company"
+text_extraction {
+  score: 0.9999963641166687
+  text_segment {
+    start_offset: 1050
+    end_offset: 1070
+    content: "HARLEY-DAVIDSON, INC"
+  }
+}
+]

@@ -1,0 +1,141 @@
+[annotation_spec_id: "2504843618724872192"
+display_name: "Company"
+text_extraction {
+  score: 0.9999692440032959
+  text_segment {
+    start_offset: 1711
+    end_offset: 1722
+    content: "MATTEL, INC"
+  }
+}
+, annotation_spec_id: "2470331048240611328"
+display_name: "IncomeStatement"
+text_extraction {
+  score: 0.7936139702796936
+  text_segment {
+    start_offset: 1741
+    end_offset: 1778
+    content: "CONSOLIDATED STATEMENTS OF OPERATIONS"
+  }
+}
+, annotation_spec_id: "3081304371028295680"
+display_name: "TotalRevenue"
+text_extraction {
+  score: 0.9999639987945557
+  text_segment {
+    start_offset: 1802
+    end_offset: 1807
+    content: "Sales"
+  }
+}
+, annotation_spec_id: "5963608132545413120"
+display_name: "COGS"
+text_extraction {
+  score: 0.9967966675758362
+  text_segment {
+    start_offset: 1808
+    end_offset: 1821
+    content: "Cost of sales"
+  }
+}
+, annotation_spec_id: "3657765123331719168"
+display_name: "GrossProfit"
+text_extraction {
+  score: 0.9999664425849915
+  text_segment {
+    start_offset: 1822
+    end_offset: 1834
+    content: "Gross Profit"
+  }
+}
+, annotation_spec_id: "5903164679831683072"
+display_name: "SGA"
+text_extraction {
+  score: 0.9999598264694214
+  text_segment {
+    start_offset: 1876
+    end_offset: 1911
+    content: "selling and administrative expenses"
+  }
+}
+, annotation_spec_id: "8269451141759107072"
+display_name: "EBIT"
+text_extraction {
+  score: 0.9954448342323303
+  text_segment {
+    start_offset: 1912
+    end_offset: 1935
+    content: "Operating Income (Loss)"
+  }
+}
+, annotation_spec_id: "440650175552159744"
+display_name: "InterestExpense"
+text_extraction {
+  score: 0.9999638199806213
+  text_segment {
+    start_offset: 1936
+    end_offset: 1952
+    content: "Interest expense"
+  }
+}
+, annotation_spec_id: "5387147380241989632"
+display_name: "EBT"
+text_extraction {
+  score: 0.999998927116394
+  text_segment {
+    start_offset: 2004
+    end_offset: 2028
+    content: "Loss Before Income Taxes"
+  }
+}
+, annotation_spec_id: "775461361814601728"
+display_name: "Taxes"
+text_extraction {
+  score: 0.9999926090240479
+  text_segment {
+    start_offset: 2029
+    end_offset: 2055
+    content: "Provision for income taxes"
+  }
+}
+, annotation_spec_id: "7692990389455683584"
+display_name: "NetIncome"
+text_extraction {
+  score: 0.9996908903121948
+  text_segment {
+    start_offset: 2056
+    end_offset: 2064
+    content: "Net Loss"
+  }
+}
+, annotation_spec_id: "4810686627938566144"
+display_name: "Year1"
+text_extraction {
+  score: 0.9505789875984192
+  text_segment {
+    start_offset: 2277
+    end_offset: 2281
+    content: "2019"
+  }
+}
+, annotation_spec_id: "199000609511178240"
+display_name: "Year2"
+text_extraction {
+  score: 0.908684492111206
+  text_segment {
+    start_offset: 2282
+    end_offset: 2286
+    content: "2018"
+  }
+}
+, annotation_spec_id: "1351922114118025216"
+display_name: "DandA"
+text_extraction {
+  score: 0.9744758009910583
+  text_segment {
+    start_offset: 3198
+    end_offset: 3210
+    content: "Depreciation"
+  }
+}
+]

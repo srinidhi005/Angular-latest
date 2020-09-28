@@ -10,6 +10,10 @@ import { TargetvActualComponent } from "../../pages/TargetvActual/TargetvActual.
 import {PdfComponent} from "../../pages/pdf/pdf.component";
 import {ProfileComponent} from "../../pages/user/profile.component";
 import {KpiComponent} from "../../pages/kpi/kpi.component";
+import {RmitemplateComponent} from "../../pages/rmitemplate/rmitemplate.component";
+import {MetricsComponent} from "../../pages/metrics/metrics.component";
+import {PlComponent} from "../../pages/pl/pl.component";
+import {BsheetComponent} from "../../pages/bsheet/bsheet.component";
 export const AdminLayoutRoutes: Routes = [
   { path: "dashboard", component: DashboardComponent },
   { path: "addcompany", component: IconsComponent },
@@ -20,5 +24,9 @@ export const AdminLayoutRoutes: Routes = [
    { path: "FinancialModel", component: UserComponent },
    { path: "pdf", component: PdfComponent },
    {path:"user",component:ProfileComponent},
-{path:"kpi",component:KpiComponent}
+   {path:"kpi",component:KpiComponent},
+   {path:"metrics",component:MetricsComponent},
+   {path:"rmi",component:RmitemplateComponent},
+   {path:"pl",component:PlComponent},
+   {path:"bsheet",component:BsheetComponent}
 ];

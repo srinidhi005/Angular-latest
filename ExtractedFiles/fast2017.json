@@ -1,0 +1,141 @@
+[annotation_spec_id: "199000609511178240"
+display_name: "Year2"
+text_extraction {
+  score: 0.8724680542945862
+  text_segment {
+    start_offset: 1395
+    end_offset: 1399
+    content: "2017"
+  }
+}
+, annotation_spec_id: "7116529637152260096"
+display_name: "Year3"
+text_extraction {
+  score: 0.9991723299026489
+  text_segment {
+    start_offset: 1400
+    end_offset: 1404
+    content: "2016"
+  }
+}
+, annotation_spec_id: "3081304371028295680"
+display_name: "TotalRevenue"
+text_extraction {
+  score: 0.9999948740005493
+  text_segment {
+    start_offset: 1420
+    end_offset: 1425
+    content: "sales"
+  }
+}
+, annotation_spec_id: "2651952776963162112"
+display_name: "Currency"
+text_extraction {
+  score: 0.6175707578659058
+  text_segment {
+    start_offset: 1426
+    end_offset: 1427
+    content: "$"
+  }
+}
+, annotation_spec_id: "5963608132545413120"
+display_name: "COGS"
+text_extraction {
+  score: 0.9999998807907104
+  text_segment {
+    start_offset: 1452
+    end_offset: 1465
+    content: "Cost of sales"
+  }
+}
+, annotation_spec_id: "3657765123331719168"
+display_name: "GrossProfit"
+text_extraction {
+  score: 0.9999997615814209
+  text_segment {
+    start_offset: 1490
+    end_offset: 1502
+    content: "Gross profit"
+  }
+}
+, annotation_spec_id: "5903164679831683072"
+display_name: "SGA"
+text_extraction {
+  score: 0.18547868728637695
+  text_segment {
+    start_offset: 1527
+    end_offset: 1564
+    content: "Operating and administrative expenses"
+  }
+}
+, annotation_spec_id: "8269451141759107072"
+display_name: "EBIT"
+text_extraction {
+  score: 0.9999644160270691
+  text_segment {
+    start_offset: 1646
+    end_offset: 1662
+    content: "Operating income"
+  }
+}
+, annotation_spec_id: "440650175552159744"
+display_name: "InterestExpense"
+text_extraction {
+  score: 0.9999998807907104
+  text_segment {
+    start_offset: 1709
+    end_offset: 1725
+    content: "Interest expense"
+  }
+}
+, annotation_spec_id: "5387147380241989632"
+display_name: "EBT"
+text_extraction {
+  score: 1.0
+  text_segment {
+    start_offset: 1744
+    end_offset: 1772
+    content: "Earnings before income taxes"
+  }
+}
+, annotation_spec_id: "775461361814601728"
+display_name: "Taxes"
+text_extraction {
+  score: 0.9999980330467224
+  text_segment {
+    start_offset: 1791
+    end_offset: 1809
+    content: "Income tax expense"
+  }
+}
+, annotation_spec_id: "7692990389455683584"
+display_name: "NetIncome"
+text_extraction {
+  score: 0.9999982118606567
+  text_segment {
+    start_offset: 1828
+    end_offset: 1840
+    content: "Net earnings"
+  }
+}
+, annotation_spec_id: "2504843618724872192"
+display_name: "Company"
+text_extraction {
+  score: 0.9133982062339783
+  text_segment {
+    start_offset: 2138
+    end_offset: 2171
+    content: "FASTENAL COMPANY AND SUBSIDIARIES"
+  }
+}
+, annotation_spec_id: "1351922114118025216"
+display_name: "DandA"
+text_extraction {
+  score: 0.9580454230308533
+  text_segment {
+    start_offset: 2497
+    end_offset: 2535
+    content: "Depreciation of property and equipment"
+  }
+}
+]

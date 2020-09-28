@@ -1,0 +1,259 @@
+
+Page#1
+THUNDER PARENT INC.
+Consolidated Balance Sheet
+December 31, 2017
+(In thousands, except share and per share data)
+_________________________
+ASSETS
+Current assets
+Cash $ 4,960
+Accounts receivable, net of allowance of $283 26,531
+Inventories 4,446
+Prepaid and other current assets 4,574
+Income taxes receivable 107
+Total current assets 40,618
+Property and equipment, net 3,865
+Goodwill 235,257
+Intangible assets, net 85,016
+Deferred tax asset 11,101
+Other long-term assets 169
+Total assets $ 376,026
+l
+a
+y
+i
+t
+e
+n
+l
+LIABILITIES ANDe STOCKHrOLDERS' EQUITY
+u
+d
+m
+B
+ﬁ
+n  o
+6
+r
+Current liabilities o e c 4
+c t p. :
+s 5
+Accounts payable a $ 5,057
+e
+1
+c
+v
+ 
+Accrued compensation l e 0 4,787
+y
+t 2
+S n
+0
+Other accrued liabilities 1,299
+a
+2
+v
+ 
+Accrued interest a 139
+,
+0
+3
+Debt, current portion, net of debt discount 4,495
+ 
+l
+u
+Deferred revenue, current portion 35,634
+J
+Income taxes payable 991
+Total current liabilities 52,402
+Deferred revenue, net of current 3,124
+Deferred tax liabilities 19,178
+Debt, net of current portion and debt discount 177,012
+Total liabilities 251,716
+Stockholders' equity
+Common stock, $0.001 par value, 190,000,000 shares authorized; 159,173,059
+shares issued and outstanding as of December 31, 2017 159
+Additional paid-in capital 141,868
+Accumulated other comprehensive loss 175
+Accumulated deficit (17,892)
+Total stockholders' equity 124,310
+Total liabilities and stockholders' equity $ 376,026
+The accompanying notes are an integral part of these consolidated financial statements.
+- 3 -
+Page#2
+THUNDER PARENT INC.
+Consolidated Statement of Operations and Comprehensive Loss
+For the Year Ended December 31, 2017
+(In thousands)
+_________________________
+Revenues
+Software $  31,467
+Appliance 19,402
+Maintenance 33,016
+ 3,365
+Services and other
+ 87,250
+Total revenues
+Cost of revenues
+Software 3,215
+Appliance 8,697
+Maintenance 4,734
+Services and other 2,336
+ 10,403
+Amortization of acquired developed and in-process technology
+ 29,385
+Total cost of revenues
+Gross profit 57,865
+l
+a
+y
+i
+t
+e
+n
+l
+Operating expenses e r
+u
+d
+m
+B
+ﬁ
+Research and development 17,691
+n  o
+6
+r
+o e c 4
+Sales and marketing c t p. : 30,208
+s 5
+a
+e
+1
+General and administrative 15,436
+c
+v
+ 
+e 0
+l
+y
+t 2 6,884
+Amortization of intangible assets S n
+0
+a
+2
+v
+ 70,219
+Total operating expenses 
+a
+,
+0
+3
+ 
+l
+u
+Loss from operations (12,354)
+J
+Other expenses
+Interest expense, net (14,876)
+ (103)
+Other expense, net
+Total other expenses (14,979)
+Loss before income tax benefit (27,333)
+ 16,273
+Income tax benefit
+Net loss (11,060)
+Other comprehensive loss
+ 222
+Foreign currency translation adjustment, net
+$ (10,838)
+Comprehensive loss
+The accompanying notes are an integral part of these consolidated financial statements.
+- 4 -
+Page#3
+THUNDER PARENT INC.
+Consolidated Statement of Cash Flows
+For the Year Ended December 31, 2017
+(In thousands)
+_________________________
+Cash flows from operating activities
+Net loss $ (11,060)
+Adjustments to reconcile net loss to net cash provided by operating activities
+Depreciation 1,493
+Amortization of intangible assets 17,286
+Amortization of debt discount 945
+Stock-based compensation expense 903
+Provision for doubtful accounts 156
+Loss on disposal of property and equipment 5
+Deferred income taxes, net (17,204)
+Income tax receivable 259
+Changes in operating assets and liabilities
+Accounts receivable (3,109)
+Inventories 257
+Prepaid and other current assets (1,710)
+Accounts payable (200)
+Accrued compensation 223
+Other accrued liabilities l (1,330)
+a
+y
+i
+Accrued interest t e 111
+n
+l
+e r
+Deferred revenue 18,277
+u
+d
+m
+B
+ﬁ
+Income taxes payable (1,556)
+n  o
+6
+r
+o e c 4
+Net cash provided by operating activities 3,746
+c t p. :
+s 5
+a
+e
+1
+c
+v
+ 
+Cash flows from investing activities e 0
+l
+y
+t 2
+S n
+Purchase of property and equipment (1,306)
+0
+a
+2
+Acquisition of Ineoquest, net of acquired cash v (63,106)
+ 
+a
+,
+0
+Net cash used in investing activities (64,412)
+3
+ 
+l
+u
+J
+Cash flows from financing activities
+Payments on long-term debt (1,407)
+Payments on line of credit (4,500)
+Proceeds from line of credit 3,500
+Proceeds from issuance of debt, net of debt discount 57,663
+Proceeds from issuance of common stock 8,002
+Common stock repurchased (100)
+Net cash provided by financing activities 63,158
+Effect of exchange rate changes on cash 23
+Net change in cash 2,515
+Cash at beginning of period 2,445
+Cash at end of period $ 4,960
+Supplemental cash flow information
+Cash paid for interest $ 13,820
+Cash paid for income taxes $ 2,092
+The accompanying notes are an integral part of these consolidated financial statements.
+- 6 -

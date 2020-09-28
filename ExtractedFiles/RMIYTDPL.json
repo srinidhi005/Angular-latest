@@ -1,0 +1,31 @@
+[annotation_spec_id: "3657765123331719168"
+display_name: "GrossProfit"
+text_extraction {
+  score: 0.9999734163284302
+  text_segment {
+    start_offset: 53
+    end_offset: 65
+    content: "GROSS PROFIT"
+  }
+}
+, annotation_spec_id: "8269451141759107072"
+display_name: "EBIT"
+text_extraction {
+  score: 0.3775857388973236
+  text_segment {
+    start_offset: 483
+    end_offset: 499
+    content: "OPERATING INCOME"
+  }
+}
+, annotation_spec_id: "7692990389455683584"
+display_name: "NetIncome"
+text_extraction {
+  score: 0.5983364582061768
+  text_segment {
+    start_offset: 513
+    end_offset: 523
+    content: "NET INCOME"
+  }
+}
+]

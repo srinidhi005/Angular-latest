@@ -1,0 +1,247 @@
+
+Page#1
+K01 eh93262 65
+5
+6
+2
+HESS CORPORATION AND CONSOLIDATED SUBSIDIARIES
+6
+2
+3
+9
+CONSOLIDATED BALANCE SHEET
+h
+e
+ 
+1
+0
+K
+December 31,
+2019 2018
+(In millions,
+except share amounts)
+Assets
+Current Assets:
+Cash and cash equivalents  $ 1,545 $ 2,694
+Accounts receivable:  
+From contracts with customers  940 771
+Joint venture and other  230 230
+Inventories  261 245
+Other current assets  180 519
+Total current assets  3,156 4,459
+Property, plant and equipment:  
+Total  at cost  35,820 33,222
+Less: Reserves for depreciation, depletion, amortization and lease impairment 19,006 17,139
+Property, plant and equipment  net 16,814 16,083
+Operating lease right-of-use assets  net 447 
+Finance lease right-of-use assets  net 299 
+Goodwill  360 360
+Deferred income taxes  80  21
+Other assets  626 510
+Total Assets  $ 21,782 $ 21,433
+Liabilities
+Current Liabilities:  
+Accounts payable  $ 411 $ 495
+Accrued liabilities  1,803 1,560
+Taxes payable  97  81
+Current maturities of long-term debt    67
+Current portion of operating and finance lease obligations 199 
+Total current liabilities  2,510 2,203
+Long-term debt  7,142 6,605
+Long-term operating lease obligations  353 
+Long-term finance lease obligations  238 
+Deferred income taxes  415 421
+Asset retirement obligations  897 741
+Other liabilities and deferred credits  521 575
+Total Liabilities  12,076 10,545
+Equity 
+Hess Corporation stockholders equity:  
+Preferred stock, par value $1.00; Authorized  20,000,000 shares:  
+Series A 8% Cumulative Mandatory Convertible; $1,000 per share liquidation preference;
+Issued  zero shares (2018: 574,997)   1
+Common stock, par value $1.00; Authorized  600,000,000 shares:  
+Issued  304,955,472 shares (2018: 291,434,534) 305 291
+Capital in excess of par value  5,591 5,386
+Retained earnings  3,535 4,257
+Accumulated other comprehensive income (loss) (699) (306)
+Total Hess Corporation stockholders equity 8,732 9,629
+Noncontrolling interests  974 1,259
+Total equity  9,706 10,888
+Total Liabilities and Equity $ 21,782 $ 21,433
+The consolidated financial statements reflect the successful efforts method of accounting for oil and gas exploration and
+production activities.
+K
+0
+1
+See accompanying Notes to Consolidated Financial Statements. 
+e
+h
+9
+3
+2
+6
+2
+54
+6
+5
+56 26239he 10K
+26239he_10K.indd 56 2/25/20 10:38 PM
+02.25.2020 22:44PM 26239he
+8.500 in x 11.000 in Hess Corp
+K
+26239he 10K
+tmurray file://sanjfs5.sa1.com/Sandy2/26239he
+Page#2
+K01 eh93262 75
+5
+7
+2
+HESS CORPORATION AND CONSOLIDATED SUBSIDIARIES
+6
+2
+3
+9
+STATEMENT OF CONSOLIDATED INCOME
+h
+e
+ 
+1
+0
+K
+Years Ended December 31,
+2019 2018 2017
+(In millions, except per share amounts)
+Revenues and Non-Operating Income
+Sales and other operating revenues $ 6,495 $ 6,323 $ 5,466
+Gains (losses) on asset sales, net 22 32 (86)
+Other, net  (7) 111 11
+Total revenues and non-operating income 6,510 6,466 5,391
+ 
+Costs and Expenses
+Marketing, including purchased oil and gas 1,736 1,771 1,267
+Operating costs and expenses 1,237 1,134 1,443
+Production and severance taxes 184 171 119
+Exploration expenses, including dry holes and lease impairment 233 362 507
+General and administrative expenses 397 473 422
+Interest expense  380 399 325
+Loss on debt extinguishment  53 
+Depreciation, depletion and amortization 2,122 1,883 2,883
+Impairment    4,203
+Total costs and expenses 6,289 6,246 11,169
+Income (Loss) Before Income Taxes 221 220 (5,778)
+Provision (benefit) for income taxes 461 335 (1,837)
+Net Income (Loss)  (240) (115) (3,941)
+Less: Net income (loss) attributable to noncontrolling interests 168 167 133
+Net Income (Loss) Attributable to Hess Corporation (408) (282) (4,074)
+Less: Preferred stock dividends 4 46 46
+Net Income (Loss) Attributable to Hess Corporation Common Stockholders $ (412) $ (328) $ (4,120)
+Net Income (Loss) Attributable to Hess Corporation Per Common Share
+Basic  $ (1.37) $ (1.10) $ (13.12)
+Diluted  $ (1.37) $ (1.10) $ (13.12)
+Weighted Average Number of Common Shares Outstanding (Diluted) 301.2 298.2 314.1
+Common Stock Dividends Per Share $ 1.00 $ 1.00 $ 1.00
+See accompanying Notes to Consolidated Financial Statements.
+K
+0
+1
+ 
+e
+h
+9
+3
+2
+6
+2
+55
+7
+5
+57 26239he 10K
+26239he_10K.indd 57 2/25/20 10:38 PM
+02.25.2020 22:44PM 26239he
+8.500 in x 11.000 in Hess Corp
+K
+26239he 10K
+tmurray file://sanjfs5.sa1.com/Sandy2/26239he
+Page#3
+K01 eh93262 95
+5
+9
+2
+6 HESS CORPORATION AND CONSOLIDATED SUBSIDIARIES
+2
+3
+9
+h STATEMENT OF CONSOLIDATED CASH FLOWS
+e
+ 
+1
+0
+K 
+Years Ended December 31,
+2019 2018 2017
+(In millions)
+Cash Flows From Operating Activities 
+Net income (loss)  $ (240) $ (115) $ (3,941)
+Adjustments to reconcile net income (loss) to net cash provided by (used in) operating
+activities:
+(Gains) losses on asset sales, net (22) (32) 86
+Depreciation, depletion and amortization 2,122 1,883 2,883
+Impairment    4,203
+Exploratory dry hole costs 49 165 268
+Exploration lease and other impairment 17 37 44
+Pension settlement loss  93 4 19
+Stock compensation expense 85 72 86
+Noncash (gains) losses on commodity derivatives, net 116 182 97
+Provision (benefit) for deferred income taxes and other tax accruals 17 (120) (2,001)
+Loss on debt extinguishment  53 
+Changes in operating assets and liabilities:
+(Increase) decrease in accounts receivable (383) (138) (340)
+(Increase) decrease in inventories (16) (12) (64)
+Increase (decrease) in accounts payable and accrued liabilities 4 88 (44)
+Increase (decrease) in taxes payable 16 (2) (34)
+Changes in other operating assets and liabilities (216) (126) (317)
+Net cash provided by (used in) operating activities 1,642 1,939 945
+Cash Flows From Investing Activities 
+Additions to property, plant and equipment - E&P (2,433) (1,854) (1,788)
+Additions to property, plant and equipment - Midstream (396) (243) (149)
+Payments for Midstream equity investments (33) (67) 
+Proceeds from asset sales, net of cash sold 22 607 3,296
+Other, net  (3) (9) (1)
+Net cash provided by (used in) investing activities (2,843) (1,566) 1,358
+Cash Flows From Financing Activities 
+Net borrowings (repayments) of debt with maturities of 90 days or less 32  (153)
+Debt with maturities of greater than 90 days:
+Borrowings  760  800
+Repayments  (8) (633) (459)
+Payments on finance lease obligations (49)  
+Proceeds from issuance of Hess Midstream Partnership LP units   366
+Common stock acquired and retired (25) (1,365) (110)
+Cash dividends paid  (316) (345) (363)
+Noncontrolling interests, net (353) (211) (243)
+Other, net  11 28 (26)
+Net cash provided by (used in) financing activities 52 (2,526) (188)
+Net Increase (Decrease) in Cash and Cash Equivalents (1,149) (2,153) 2,115
+Cash and Cash Equivalents at Beginning of Year 2,694 4,847 2,732
+Cash and Cash Equivalents at End of Year $ 1,545 $ 2,694 $ 4,847
+See accompanying Notes to Consolidated Financial Statements.
+K
+0
+1
+ 
+e
+h
+9
+3
+2
+6
+2
+57
+9
+5
+59 26239he 10K
+26239he_10K.indd 59 2/25/20 10:38 PM
+02.25.2020 22:44PM 26239he
+8.500 in x 11.000 in Hess Corp
+K
+26239he 10K
+tmurray file://sanjfs5.sa1.com/Sandy2/26239he

@@ -24,7 +24,7 @@ $.ajax({
   
       for (index = 0; index < resData.length; index++) {
           var obj=resData;
-          $("#dtBasicExample tr:last").after('<tr style="color:black"><td> '+ obj[index].uid + '</td> <td style="color:black ;text-align:left">'+'<a href="#/FinancialModel?companyname='+ obj[index].companyname +'&scenario=1" style="color:black;">'+ obj[index].companyname +'</a>' + '</td> <td style="text-align:left"> '+ obj[index].company  + '</td> <td style="text-align:center"> '+ obj[index].industry  +' </td> <td style="text-align:center"> '+ obj[index].filename  +' </td><td style="text-align:center"> '+ obj[index].createdon  + '</td> <td style="text-align:center">' +obj[index].createdby+'</td><td></td> </tr>');
+          $("#dtBasicExample tr:last").after('<tr style="color:black"><td> '+ obj[index].uid + '</td> <td style="color:black ;text-align:left">'+'<a href="#/FinancialModel?companyname='+ obj[index].companyname +'&scenario=1" style="color:black;">'+ obj[index].companyname +'</a>' + '</td> <td style="text-align:left"> '+ obj[index].company  + '</td> <td style="text-align:center"> '+ obj[index].industry  +' </td> <td style="text-align:center"> '+ obj[index].filename  +' </td><td style="text-align:center"> '+ obj[index].createdon  + '</td> <td style="text-align:center">' +obj[index].createdby+'</td><td><i class="fas fa-trash deleteStatement" style="cursor: pointer;"  ></i></td> </tr>');
       }
        
                                     }

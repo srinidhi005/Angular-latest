@@ -1,0 +1,238 @@
+
+Page#1
+SEALED AIR CORPORATION AND SUBSIDIARIES
+Consolidated Balance Sheets
+  
+(In millions) December 31, 2018 December 31, 2017
+  
+ASSETS  
+Current assets:  
+  
+Cash and cash equivalents  
+$ 271.7 $ 594.0
+Trade receivables, net of allowance for doubtful accounts of $9.1 in 2018 and $6.5 in 2017  
+473.4 552.4
+Income tax receivables  
+58.4 85.1
+Other receivables  
+81.3 90.2
+Inventories, net of inventory reserves of $18.1 in 2018 and $15.5 in 2017  
+544.9 506.8
+Assets held for sale  
+0.6 4.0
+Prepaid expenses and other current assets  
+124.5 33.9
+Total current assets  
+1,554.8 1,866.4
+  
+Property and equipment, net 1,036.2 998.4
+Goodwill  
+1,947.6 1,939.8
+Identifiable intangible assets, net  
+101.7 83.6
+Deferred taxes  
+170.5 176.2
+  
+Other non-current assets 239.4 215.9
+Total assets  
+$ 5,050.2 $ 5,280.3
+ 
+LIABILITIES AND STOCKHOLDERS’ (DEFICIT) EQUITY
+Current liabilities:  
+  
+Short-term borrowings  
+$ 232.8 $ 25.3
+Current portion of long-term debt  
+4.9 2.2
+Accounts payable  
+765.0 723.8
+Current liabilities held for sale  
+— 2.2
+Accrued restructuring costs  
+33.5 15.4
+Income tax payable  
+23.5 47.3
+Other current liabilities  
+428.9 562.0
+Total current liabilities  
+1,488.6 1,378.2
+  
+Long-term debt, less current portion 3,236.5 3,230.5
+Deferred taxes  
+20.4 28.5
+  
+Other non-current liabilities 653.3 490.8
+Total liabilities  
+5,398.8 5,128.0
+Commitments and Contingencies - Note 18  
+Stockholders’ (deficit) equity: 
+Preferred stock, $0.10 par value per share, 50,000,000 shares authorized; no shares issued in 2018 and 2017  
+— —
+Common stock, $0.10 par value per share, 400,000,000 shares authorized; shares issued: 231,619,037 in 2018 and
+  
+230,080,944 in 2017; shares outstanding: 155,654,370 in 2018 and 168,595,521 in 2017 23.2 23.0
+Additional paid-in capital  
+2,049.6 1,939.6
+Retained earnings  
+1,835.5 1,735.2
+Common stock in treasury, 75,964,667 shares in 2018 and 61,485,423 shares in 2017  
+(3,336.5) (2,700.6)
+Accumulated other comprehensive loss, net of taxes: 
+Unrecognized pension items  
+(136.4) (103.4)
+Cumulative translation adjustment  
+(744.8) (694.4)
+Unrealized net loss on net investment hedges  
+(41.9) (46.8)
+Unrealized net gain (loss) on cash flow hedges  
+2.7 (0.3)
+Total accumulated other comprehensive loss, net of taxes  
+(920.4) (844.9)
+Total stockholders’ (deficit) equity  
+(348.6) 152.3
+Total liabilities and stockholders’ (deficit) equity  
+$ 5,050.2 $ 5,280.3
+See accompanying Notes to Consolidated Financial Statements.
+ 
+58
+Page#2
+SEALED AIR CORPORATION AND SUBSIDIARIES
+ 
+Consolidated Statements of Operations
+  
+Year Ended December 31,
+ 
+(In millions, except per share data) 2018 2017 2016
+Net sales  $ 4,732.7 $ 4,461.6  $ 4,211.3
+Cost of sales(1)(2)  3,230.6 3,049.5  2,810.3
+Gross profit  1,502.1 1,412.1  1,401.0
+Selling, general and administrative expenses  782.3 815.6  754.3
+Amortization expense of intangible assets acquired  15.7  13.1  15.0
+Restructuring and other charges  47.8 12.1  2.8
+Operating profit  656.3 571.3  628.9
+Interest expense, net  (177.9) (184.2)  (191.9)
+Foreign currency exchange loss due to highly inflationary economies  (2.5) —  (1.7)
+Charge related to Venezuelan subsidiaries(3)  — —  (47.3)
+Other (expense) income, net(1)(2)  (18.1) 6.2  (0.1)
+Earnings before income tax provision  457.8 393.3  387.9
+Income tax provision  307.5  330.5  95.6
+Net earnings from continuing operations  150.3  62.8  292.3
+Gain on sale of discontinued operations, net of tax  42.8  640.7  —
+Net earnings from discontinued operations, net of tax  —  111.4  194.1
+Net earnings  $ 193.1  $ 814.9  $ 486.4
+Basic:
+ 
+Continuing operations  $ 0.94 $ 0.34 1.50
+Discontinued operations  0.27 3.99 0.99
+Net earnings per common share - basic  $ 1.21  $ 4.33  $ 2.49
+Diluted:
+ 
+Continuing operations  $ 0.94 $ 0.33 $ 1.48
+Discontinued operations  0.26 3.96 0.98
+Net earnings per common share - diluted  $ 1.20  $ 4.29  $ 2.46
+Dividends per common share
+ $ 0.64 $ 0.64 $ 0.61
+Weighted average number of common shares outstanding:
+ 
+Basic  159.4  186.9  194.3
+Diluted
+ 160.2  188.9  197.2
+ 
+See accompanying Notes to Consolidated Financial Statements.
+ 
+(1) Due to the adoption of ASU 2017-07, certain amounts related to defined benefit and other post-employment benefit plans were reclassified from cost
+of sales to other expense, net. Refer to Note 2, "Recently Adopted and Issued Accounting Standards," in the Notes to Consolidated Financial
+Statements for more information.
+(2) As part of our review of costs included in the corporate segment, amounts related to division operations were identified and reclassified out of other
+expense, net to cost of sales. The impact for the years ended December 31, 2017 and 2016 was $8.1 million and $6.4 million, respectively.
+(3) Due to the ongoing challenging economic situation in Venezuela, the Company approved a program in the second quarter of 2016 to cease operations
+in the country. Refer to Note 2, “Summary of Significant Accounting Policies and Recently Issued Accounting Standards” under the “Impact of
+Inflation and Currency Fluctuation” section of the Notes to the Consolidated Financial Statements for further details.
+59
+Page#3
+SEALED AIR CORPORATION AND SUBSIDIARIES
+Consolidated Statements of Cash Flows
+  
+Year Ended December 31,
+ 
+(In millions) 2018 2017 2016
+Net earnings  $ 193.1  $ 814.9  $ 486.4
+Adjustments to reconcile net earnings to net cash provided by operating activities 
+Depreciation and amortization  131.2  149.3  214.0
+Share-based incentive compensation  29.2  44.9  59.9
+Profit sharing expense  21.6  23.2  24.6
+Charges related to Venezuelan subsidiaries  —  —  46.0
+Provisions for bad debt  2.3  2.9  4.3
+Provisions for inventory obsolescence  4.8  3.6  6.4
+Deferred taxes, net  10.9  121.0  (61.7)
+Net (gain) loss on sale of businesses  (42.5)  (641.2)  1.9
+Foreign currency losses (gains)  13.7  29.9  (4.9)
+Other non-cash items  11.1  11.1  0.9
+Changes in operating assets and liabilities: 
+Trade receivables, net  (0.9)  (81.4)  (33.9)
+Inventories  (61.2)  (55.4)  (17.1)
+Accounts payable  42.6  154.1  228.0
+Income tax receivable/payable (16.4)  (207.1)  7.3
+Other assets and liabilities  88.5  54.6  (55.2)
+Net cash provided by operating activities  $ 428.0  $ 424.4  $ 906.9
+Cash flows from investing activities: 
+Capital expenditures  $ (168.6)  $ (183.8)  $ (275.7)
+Proceeds from sale of business  6.8  1.0  7.8
+Businesses acquired in purchase transactions, net of cash acquired  (68.4)  (119.2)  (5.8)
+Proceeds from sales of property, equipment and other assets  —  1.7  4.9
+Loss from settlement of cross currency swaps  —  (61.8)  —
+Investment in equity investments  (7.5)  —  —
+Impact of sale of Diversey  (15.3)  2,156.9  —
+Settlement of foreign currency forward contracts  (11.1)  (8.7)  (46.0)
+Other investing activities  (2.6)  —  —
+Net cash (used in) provided by investing activities  $ (266.7)  $ 1,786.1  $ (314.8)
+Cash flows from financing activities: 
+Net proceeds (payments) from short-term borrowings  $ 224.0  $ (93.7)  $ (154.2)
+Proceeds from cross currency swap  —  17.4  —
+Payments of long-term debt(1)  (1.6)  (369.5)  (27.1)
+Dividends paid on common stock  (104.1)  (119.7)  (121.6)
+Repurchases of common stock(2)  (582.6)  (1,302.1)  (217.0)
+Payments for debt modification/extinguishment costs (6.1) —  (0.1)
+Acquisition of common stock for tax withholding (7.9) (22.1)  (30.7)
+Other financing activities — —  6.2
+Net cash used in financing activities $ (478.3) $ (1,889.7) $ (544.5)
+Effect of foreign currency exchange rate changes on cash and cash equivalents $ (5.3) $ (113.4)  $ (39.2)
+Cash Reconciliation(3): 
+Cash and cash equivalents  594.0  333.7  321.7
+Restricted cash and cash equivalents(4)  —  52.9  56.5
+Balance, beginning of period $ 594.0 $ 386.6  $ 378.2
+Net change during the period (322.3) 207.4  8.4
+Cash and cash equivalents  271.7  594.0  333.7
+Restricted cash and cash equivalents(4)  —  —  52.9
+Balance, end of period $ 271.7 $ 594.0  $ 386.6
+ 
+63
+Page#4
+SEALED AIR CORPORATION AND SUBSIDIARIES
+  
+Year Ended December 31,
+ 
+(In millions) 2018 2017 2016
+Supplemental Cash Flow Information: 
+Interest payments, net of amounts capitalized  $ 191.4 $ 210.8  $ 215.1
+Income tax payments  $ 155.0 $ 161.7  $ 125.8
+Payments related to sale of Diversey  $ 51.6 $ 180.8  $ —
+Restructuring payments including associated costs  $ 12.1 $ 49.3  $ 66.1
+Non-cash items: 
+Transfers of shares of our common stock from treasury for our 2017, 2016 and 2015 profit-sharing plan
+contributions  $ 23.5  $ 22.3  $ 37.6
+See accompanying Notes to Consolidated Financial Statements.
+(1) Payments of borrowings included in financing activities excludes amounts which were paid using cash proceeds from the sale of Diversey. As a
+result, $755.2 million of payments of borrowings is included within investing activities for a total payment of borrowings of $1.1 billion through the
+year ended December 31, 2017.
+(2) The Company entered into an accelerated share repurchase agreement with a third-party financial institution to repurchase $400.0 million of the
+Company’s common stock. The full amount was paid as of December 31, 2017; however, only $320.0 million was used to repurchase shares at that
+point in time. The ASR program concluded in February 2018.
+(3) Due to the adoption of ASU 2016-18, the Company now is required to include restricted cash as part of the change in the total cash balance. As a
+result, amounts which were previously classified as cash flows from financing activities related to Sealed Air continuing operations and amounts
+which were previously classified as cash flows from investing activities related to restricted cash sold with the sale of Diversey have been
+reclassified as they are recognized in the total change in cash. Refer to Note 2, "Recently Adopted and Issued Accounting Standards," of the Notes to
+Consolidated Financial Statements for more information.
+(4) Restricted cash and cash equivalents included compensating balance deposits related to certain short-term borrowings and were included in prepaid
+expenses and other current assets on the Consolidated Balance Sheets as of December 31, 2016.
+64

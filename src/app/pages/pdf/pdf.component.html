@@ -31,10 +31,10 @@ background-color: Transparent;
 	<div class="btn-group float-right" role="group" style="padding-top:10px">
 		<select type="button"  onchange="updateProjectionPdf()" class="export" id="sel2" style="padding-top: 0; padding-bottom: 0;" >
 		</select>
-		<button  type="button" (click)="tableToExcel('myTable','RMI_Insights_Export')"class="export"  style="padding-left: 25px">
+		<button  type="button" (click)="exportToExcel()"class="export"  style="padding-left: 25px">
 			<i class="far fa-file-excel" style="
 				    padding-right: 5px;
-				    "></i>	Export to XLS
+				    "></i>	Export to XLSX
 		</button>  
 		
 		<button  type="button" (click)="download()" class="export" >
@@ -48,7 +48,7 @@ background-color: Transparent;
 				    "></i> Visuals
 		</button>
 	</div>
-	<div class="mt-5 mb-3 ml-3">
+	<div class="mt-5 mb-3 ml-3" #epltable>
 		<table  id="myTable" border="0" cellspacing="0" cellpadding="0" style="border-radius: 5px;margin-left: -5px;">
 			<tr></tr>
 		</table>

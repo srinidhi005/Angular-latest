@@ -1,0 +1,184 @@
+
+Page#1
+SQUARE,
+INC.
+CONSOLIDATED
+BALANCE
+SHEETS
+(In thousands, except share and per share data)
+ December
+31,
+ 2018  2017
+Assets 
+Current assets: 
+Cash and cash equivalents $ 583,173  $ 696,474
+Short-term investments 540,991  169,576
+Restricted cash 33,838  28,805
+Settlements receivable 364,946  620,523
+Customer funds 334,017  103,042
+Loans held for sale 89,974  73,420
+Other current assets 164,966  86,454
+Total current assets 2,111,905  1,778,294
+Property and equipment, net 142,402  91,496
+Goodwill 261,705  58,327
+Acquired intangible assets, net 77,102  14,334
+Long-term investments 464,680  203,667
+Restricted cash 15,836  9,802
+Build-to-suit lease asset 149,000  —
+Other non-current assets 58,393  31,350
+Total assets $ 3,281,023  $ 2,187,270
+Liabilities
+and
+Stockholders’
+Equity 
+Current liabilities: 
+Customers payable 749,215  733,736
+Settlements payable 54,137  114,788
+Accrued transaction losses 33,682  26,893
+Accrued expenses 82,354  52,280
+Other current liabilities 99,153  45,130
+Total current liabilities 1,018,541  972,827
+Long-term debt (Note 12) 899,695  358,572
+Build-to-suit lease liability 149,000  —
+Other non-current liabilities 93,286  69,538
+Total liabilities 2,160,522  1,400,937
+Commitments and contingencies (Note 17) 
+Stockholders’ equity:  
+Preferred stock, $0.0000001 par value: 100,000,000 shares authorized at December 31, 2018 and December 31, 2017. None
+issued and outstanding at December 31, 2018 and December 31, 2017. —  —
+Class A common stock, $0.0000001 par value: 1,000,000,000 shares authorized at December 31, 2018 and December 31, 2017;
+323,546,864 and 280,400,813 issued and outstanding at December 31, 2018 and December 31, 2017, respectively. —  —
+Class B common stock, $0.0000001 par value: 500,000,000 shares authorized at December 31, 2018 and December 31, 2017;
+93,501,142 and 114,793,262 issued and outstanding at December 31, 2018 and December 31, 2017, respectively. —  —
+Additional paid-in capital 2,012,328  1,630,386
+Accumulated other comprehensive loss (6,053)  (1,318)
+Accumulated deficit (885,774)  (842,735)
+Total stockholders’ equity 1,120,501  786,333
+Total liabilities and stockholders’ equity $ 3,281,023  $ 2,187,270
+See accompanying notes to consolidated financial statements.
+74
+Page#2
+SQUARE,
+INC.
+CONSOLIDATED
+STATEMENTS
+OF
+OPERATIONS
+(In thousands, except per share data)
+ Year
+Ended
+December
+31,
+ 2018  2017  2016
+Revenue: 
+Transaction-based revenue $ 2,471,451  $ 1,920,174  $ 1,456,160
+Starbucks transaction-based revenue —  —  78,903
+Subscription and services-based revenue 591,706  252,664  129,351
+Hardware revenue 68,503  41,415  44,307
+Bitcoin revenue 166,517  —  —
+Total net revenue 3,298,177  2,214,253  1,708,721
+Cost of revenue: 
+Transaction-based costs 1,558,562  1,230,290  943,200
+Starbucks transaction-based costs —  —  69,761
+Subscription and services-based costs 169,884  75,720  43,132
+Hardware costs 94,114  62,393  68,562
+Bitcoin costs 164,827  —  —
+Amortization of acquired technology 7,090  6,544  8,028
+Total cost of revenue 1,994,477  1,374,947  1,132,683
+Gross profit 1,303,700  839,306  576,038
+Operating expenses: 
+Product development 497,479  321,888  268,537
+Sales and marketing 411,151  253,170  173,876
+General and administrative 339,245  250,553  251,993
+Transaction, loan and advance losses 88,077  67,018  51,235
+Amortization of acquired customer assets 4,362  883  850
+Total operating expenses 1,340,314  893,512  746,491
+Operating loss (36,614)  (54,206)  (170,453)
+Interest expense, net 17,982  10,053  (533)
+Other income, net (18,469)  (1,595)  (247)
+Loss before income tax (36,127)  (62,664)  (169,673)
+Provision for income taxes 2,326  149  1,917
+Net loss $ (38,453)  $ (62,813)  $ (171,590)
+Net loss per share: 
+Basic $ (0.09)  $ (0.17)  $ (0.50)
+Diluted $ (0.09)  $ (0.17)  $ (0.50)
+Weighted-average shares used to compute net loss per share: 
+Basic 405,731  379,344  341,555
+Diluted 405,731  379,344  341,555
+See accompanying notes to consolidated financial statements.
+75
+Page#3
+SQUARE,
+INC.
+CONSOLIDATED
+STATEMENTS
+OF
+CASH
+FLOWS
+(In thousands)
+ Year
+Ended
+December
+31,
+ 2018  2017  2016
+Cash
+flows
+from
+operating
+activities: 
+Net loss $ (38,453)  $ (62,813)  $ (171,590)
+Adjustments to reconcile net loss to net cash provided by operating activities: 
+Depreciation and amortization 60,961  37,279  37,745
+Non-cash interest and other expense 31,257  14,421  (49)
+Loss on extinguishment of long-term debt 5,047  —  —
+Share-based compensation 216,881  155,836  138,786
+Replacement stock awards issued in connection with acquisition 899  —  —
+Gain on revaluation of equity investment (20,342)  —  —
+Recovery of common stock in connection with indemnification settlement agreement (2,745)  —  —
+Transaction, loan and advance losses 88,077  67,018  51,235
+Change in deferred income taxes (646)  (1,385)  58
+Changes in operating assets and liabilities: 
+Settlements receivable 245,795  (305,831)  (177,662)
+Customer funds (131,004)  (59,468)  (34,128)
+Purchase of loans held for sale (1,609,611)  (1,184,630)  (668,976)
+Sales and principal payments of loans held for sale 1,579,834  1,145,314  627,627
+Other current assets (77,405)  (26,119)  16,116
+Other non-current assets (6,641)  (3,274)  631
+Customers payable 15,597  301,778  206,574
+Settlements payable (60,651)  63,637  38,046
+Charge-offs to accrued transaction losses (58,192)  (46,148)  (47,931)
+Accrued expenses 7,190  12,207  (409)
+Other current liabilities 35,294  8,198  3,909
+Other non-current liabilities 13,938  11,691  3,149
+Net cash provided by operating activities 295,080  127,711  23,131
+Cash
+flows
+from
+investing
+activities: 
+Purchase of marketable debt securities (1,000,346)  (544,910)  (164,766)
+Proceeds from maturities of marketable debt securities 197,454  168,224  43,200
+Proceeds from sale of marketable debt securities 171,992  89,087  34,222
+Purchase of marketable debt securities from customer funds (148,096)  —  —
+Proceeds from sale of marketable debt securities from customer funds 48,334  —  —
+Purchase of property and equipment (61,203)  (26,097)  (25,433)
+Proceeds from sale of property and equipment —  —  296
+Purchase of equity investment —  (25,000)  —
+Purchase of intangible assets (1,584)  —  (400)
+Business combinations, net of cash acquired (112,399)  (1,915)  (1,360)
+Net cash used in investing activities: (905,848)  (340,611)  (114,241)
+Cash
+flows
+from
+financing
+activities: 
+Proceeds from issuance of convertible senior notes, net 855,663  428,250  —
+Purchase of convertible senior note hedges (172,586)  (92,136)  —
+Proceeds from issuance of warrants 112,125  57,244  —
+Principal payment on conversion of senior notes (219,384)  —  —
+Payment of deferred purchase consideration (848)  —  —
+Payment for termination of Starbucks warrant —  (54,808)  —
+Payments of offering costs related to initial public offering —  —  (5,530)
+Principal payments on capital lease obligation (3,941)  (1,439)  (168)
+Proceeds from the exercise of stock options and purchases under the employee stock purchase plan, net 133,850  162,504  96,439
+Payments for tax withholding related to vesting of restricted stock units (189,124)  (44,682)  —

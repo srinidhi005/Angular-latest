@@ -1,0 +1,30 @@
+
+Page#1
+Rocky Mountain Innovations LLC
+PROFIT AND LOSS
+January - August, 2020
+TOTAL
+Income
+Sales 66,569.99
+Total Income $66,569.99
+GROSS PROFIT $66,569.99
+Expenses
+Bank Charges & Fees 415.00
+Car & Truck 20,158.42
+Contractors 9,500.00
+Interest Paid 19.35
+Meals & Entertainment 1,849.14
+Office Supplies & Software 788.56
+Other Business Expenses 3,489.92
+Payroll Expenses 0.00
+Taxes 3,200.82
+Wages 34,384.64
+Total Payroll Expenses 37,585.46
+Rent & Lease 11,367.11
+Software Development - Product 11,949.25
+Travel 1.50
+Utilities 554.02
+Total Expenses $97,677.73
+NET OPERATING INCOME $ -31,107.74
+NET INCOME $ -31,107.74
+Accrual Basis Monday, August 31, 2020 06:37 PM GMT-06:00  1/1

@@ -1,0 +1,178 @@
+
+Page#1
+ONEOK, Inc. and Subsidiaries 
+CONSOLIDATED STATEMENTS OF INCOME 
+ Years Ended December 31,
+ 2017 2016 2015
+ (Thousands of dollars, except per share amounts)
+Revenues
+Commodity sales $ 9,862,652 $ 6,858,456 $ 6,098,343
+Services 2,311,255 2,062,478 1,664,863
+Total revenues 12,173,907 8,920,934 7,763,206
+Cost of sales and fuel (exclusive of items shown separately below) 9,538,045 6,496,124 5,641,052
+Operations and maintenance 735,190 668,335 605,748
+Depreciation and amortization 406,335 391,585 354,620
+Impairment of long-lived assets (Note E) 15,970 — 83,673
+General taxes 98,396 88,849 87,583
+Gain on sale of assets (924) (9,635) (5,629)
+Operating income 1,380,895 1,285,676 996,159
+Equity in net earnings from investments (Note N) 159,278 139,690 125,300
+Impairment of equity investments (Note N) (4,270) — (180,583)
+Allowance for equity funds used during construction 107 209 2,179
+Other income 15,385 6,091 368
+Other expense (24,936) (4,059) (4,760)
+Interest expense (net of capitalized interest of $5,510, $10,591 and $36,572,
+respectively) (485,658) (469,651) (416,787)
+Income before income taxes 1,040,801 957,956 521,876
+Income taxes (Note M) (447,282) (212,406) (136,600)
+Income from continuing operations 593,519 745,550 385,276
+Income (loss) from discontinued operations, net of tax — (2,051) (6,081)
+Net income 593,519 743,499 379,195
+Less: Net income attributable to noncontrolling interests 205,678 391,460 134,218
+Net income attributable to ONEOK 387,841 352,039 244,977
+Less: Preferred stock dividends 767 — —
+Net income available to common shareholders $ 387,074 $ 352,039 $ 244,977
+Amounts available to common shareholders:
+Income from continuing operations $ 387,074 $ 354,090 $ 251,058
+Income (loss) from discontinued operations — (2,051) (6,081)
+Net income $ 387,074 $ 352,039 $ 244,977
+Basic earnings per common share:
+Income from continuing operations (Note J) $ 1.30 $ 1.68 $ 1.19
+Income (loss) from discontinued operations — (0.01) (0.02)
+Net income $ 1.30 $ 1.67 $ 1.17
+Diluted earnings per common share:
+Income from continuing operations (Note J) $ 1.29 $ 1.67 $ 1.19
+Income (loss) from discontinued operations — (0.01) (0.03)
+Net income $ 1.29 $ 1.66 $ 1.16
+Average shares (thousands)
+Basic 297,477 211,128 210,208
+Diluted 299,780 212,383 210,541
+Dividends declared per share of common stock $ 2.72 $ 2.46 $ 2.43
+See accompanying Notes to Consolidated Financial Statements.
+68
+Page#2
+ONEOK, Inc. and Subsidiaries  
+CONSOLIDATED BALANCE SHEETS  
+ December 31, December 31,
+ 2017 2016
+Assets (Thousands of dollars)
+Current assets  
+Cash and cash equivalents $ 37,193 $ 248,875
+Accounts receivable, net 1,202,951 872,430
+Materials and supplies 90,301 60,912
+Natural gas and natural gas liquids in storage 342,293 140,034
+Commodity imbalances 38,712 60,896
+Other current assets 53,008 45,986
+Assets of discontinued operations — 551
+Total current assets 1,764,458 1,429,684
+Property, plant and equipment  
+Property, plant and equipment 15,559,667 15,078,497
+Accumulated depreciation and amortization 2,861,541 2,507,094
+Net property, plant and equipment (Note E) 12,698,126 12,571,403
+Investments and other assets  
+Investments in unconsolidated affiliates (Note N) 1,003,156 958,807
+Goodwill and intangible assets (Note F) 993,460 1,005,359
+Deferred income taxes (Note M) 205,907 —
+Other assets 180,830 162,998
+Assets of discontinued operations — 10,500
+Total investments and other assets 2,383,353 2,137,664
+Total assets $ 16,845,937 $ 16,138,751
+70
+Page#3
+ONEOK, Inc. and Subsidiaries  
+CONSOLIDATED BALANCE SHEETS  
+(Continued) December 31, December 31,
+ 2017 2016
+Liabilities and equity (Thousands of dollars)
+Current liabilities  
+Current maturities of long-term debt (Note G) $ 432,650 $ 410,650
+Short-term borrowings (Note G) 614,673 1,110,277
+Accounts payable 1,140,571 874,731
+Commodity imbalances 164,161 142,646
+Accrued interest 135,309 112,514
+Other current liabilities 179,971 166,042
+Liabilities of discontinued operations — 19,841
+Total current liabilities 2,667,335 2,836,701
+Long-term debt, excluding current maturities (Note G) 8,091,629 7,919,996
+Deferred credits and other liabilities
+Deferred income taxes (Note M) 52,697 1,623,822
+Other deferred credits 348,924 321,846
+Liabilities of discontinued operations — 7,471
+Total deferred credits and other liabilities 401,621 1,953,139
+Commitments and contingencies (Note O)
+Equity (Note H)  
+ONEOK shareholders’ equity:  
+Preferred stock, $0.01 par value:
+issued 20,000 shares at December 31, 2017, and no shares at December 31, 2016 — —
+Common stock, $0.01 par value:
+authorized 1,200,000,000 shares; issued 423,166,234 shares and outstanding
+388,703,543 shares at December 31, 2017; authorized 600,000,000 shares; issued 245,811,180 
+shares and outstanding 210,681,661 shares at December 31, 2016 4,232 2,458
+Paid-in capital 6,588,878 1,234,314
+Accumulated other comprehensive loss (Note I) (188,530) (154,350)
+Retained earnings — —
+Treasury stock, at cost: 34,462,691 shares at December 31, 2017, and
+35,129,519 shares at December 31, 2016 (876,713) (893,677)
+Total ONEOK shareholders’ equity 5,527,867 188,745
+Noncontrolling interests in consolidated subsidiaries 157,485 3,240,170
+Total equity 5,685,352 3,428,915
+Total liabilities and equity $ 16,845,937 $ 16,138,751
+See accompanying Notes to Consolidated Financial Statements.
+71
+Page#4
+ONEOK, Inc. and Subsidiaries 
+CONSOLIDATED STATEMENTS OF CASH FLOWS  
+ Years Ended December 31,
+ 2017 2016 2015
+ (Thousands of dollars)
+Operating activities 
+Net income $ 593,519 $ 743,499 $ 379,195
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation and amortization 406,335 391,585 354,620
+Impairment charges 20,240 — 264,256
+Noncash contribution of preferred stock, net of tax 12,600 — —
+Equity in net earnings from investments (159,278) (139,690) (125,300)
+Distributions received from unconsolidated affiliates 167,372 144,673 122,003
+Deferred income taxes 437,917 211,638 137,737
+Share-based compensation expense 26,262 40,563 16,435
+Pension and postretirement benefit expense, net of contributions 4,079 11,643 14,814
+Allowance for equity funds used during construction (107) (209) (2,179)
+Gain on sale of assets (924) (9,635) (5,629)
+Changes in assets and liabilities: 
+Accounts receivable (330,521) (285,806) 157,051
+Natural gas and natural gas liquids in storage (202,259) (11,950) 6,050
+Accounts payable 261,305 287,632 (205,143)
+Commodity imbalances, net 43,699 45,971 (4,083)
+Settlement of exit activities liabilities (9,707) (19,906) (38,536)
+Accrued interest 22,795 (16,529) 24,166
+Risk-management assets and liabilities 37,617 (78,136) (32,370)
+Other assets and liabilities, net (15,532) 37,998 (40,259)
+Cash provided by operating activities 1,315,412 1,353,341 1,022,828
+Investing activities 
+Capital expenditures (less allowance for equity funds used during construction) (512,393) (624,634) (1,188,312)
+Contributions to unconsolidated affiliates (87,861) (68,275) (27,540)
+Distributions received from unconsolidated affiliates in excess of cumulative earnings 28,742 52,044 33,915
+Proceeds from sale of assets 3,879 25,420 3,825
+Other — — (12,607)
+Cash used in investing activities (567,633) (615,445) (1,190,719)
+Financing activities 
+Dividends paid (829,414) (517,601) (509,197)
+Distributions to noncontrolling interests (276,260) (549,419) (535,825)
+Borrowing (repayment) of short-term borrowings, net (495,604) 563,937 (508,956)
+Issuance of long-term debt, net of discounts 1,190,496 1,000,000 1,291,506
+Debt financing costs (11,425) (2,770) (17,515)
+Repayment of long-term debt (994,776) (1,108,040) (7,753)
+Issuance of common stock 471,358 21,971 20,669
+Issuance of common units, net of issuance costs — — 375,660
+Other (13,836) 5,403 (15,848)
+Cash provided by (used in) financing activities (959,461) (586,519) 92,741
+Change in cash and cash equivalents (211,682) 151,377 (75,150)
+Change in cash and cash equivalents included in discontinued operations — (121) (43)
+Change in cash and cash equivalents from continuing operations (211,682) 151,256 (75,193)
+Cash and cash equivalents at beginning of period 248,875 97,619 172,812
+Cash and cash equivalents at end of period $ 37,193 $ 248,875 $ 97,619
+Supplemental cash flow information: 
+Cash paid for interest, net of amounts capitalized $ 432,210 $ 461,208 $ 367,835
+Cash paid for income taxes $ 6,633 $ 361 $ 3,324
+See accompanying Notes to Consolidated Financial Statements.
+73

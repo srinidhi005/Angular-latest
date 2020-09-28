@@ -1,0 +1,151 @@
+[annotation_spec_id: "2504843618724872192"
+display_name: "Company"
+text_extraction {
+  score: 0.9908668994903564
+  text_segment {
+    start_offset: 1621
+    end_offset: 1674
+    content: "Intermed Intermediate Holdings, Inc. and Subsidiaries"
+  }
+}
+, annotation_spec_id: "2470331048240611328"
+display_name: "IncomeStatement"
+text_extraction {
+  score: 0.9902592301368713
+  text_segment {
+    start_offset: 1675
+    end_offset: 1712
+    content: "Consolidated Statements of Operations"
+  }
+}
+, annotation_spec_id: "199000609511178240"
+display_name: "Year2"
+text_extraction {
+  score: 0.9998400211334229
+  text_segment {
+    start_offset: 1772
+    end_offset: 1776
+    content: "2018"
+  }
+}
+, annotation_spec_id: "7116529637152260096"
+display_name: "Year3"
+text_extraction {
+  score: 0.999163031578064
+  text_segment {
+    start_offset: 1793
+    end_offset: 1797
+    content: "2018"
+  }
+}
+, annotation_spec_id: "3081304371028295680"
+display_name: "TotalRevenue"
+text_extraction {
+  score: 0.9999974966049194
+  text_segment {
+    start_offset: 1802
+    end_offset: 1807
+    content: "Sales"
+  }
+}
+, annotation_spec_id: "2651952776963162112"
+display_name: "Currency"
+text_extraction {
+  score: 0.9950253367424011
+  text_segment {
+    start_offset: 1808
+    end_offset: 1809
+    content: "$"
+  }
+}
+, annotation_spec_id: "5963608132545413120"
+display_name: "COGS"
+text_extraction {
+  score: 0.9999999403953552
+  text_segment {
+    start_offset: 1833
+    end_offset: 1851
+    content: "Cost of Goods Sold"
+  }
+}
+, annotation_spec_id: "5903164679831683072"
+display_name: "SGA"
+text_extraction {
+  score: 0.9999963641166687
+  text_segment {
+    start_offset: 1891
+    end_offset: 1936
+    content: "Selling, general, and administrative expenses"
+  }
+}
+, annotation_spec_id: "440650175552159744"
+display_name: "InterestExpense"
+text_extraction {
+  score: 0.9999967217445374
+  text_segment {
+    start_offset: 2017
+    end_offset: 2033
+    content: "Interest expense"
+  }
+}
+, annotation_spec_id: "775461361814601728"
+display_name: "Taxes"
+text_extraction {
+  score: 0.45521584153175354
+  text_segment {
+    start_offset: 2083
+    end_offset: 2111
+    content: "Income Tax Expense/(Benefit)"
+  }
+}
+, annotation_spec_id: "3657765123331719168"
+display_name: "GrossProfit"
+text_extraction {
+  score: 0.9999998807907104
+  text_segment {
+    start_offset: 2132
+    end_offset: 2144
+    content: "Gross profit"
+  }
+}
+, annotation_spec_id: "8269451141759107072"
+display_name: "EBIT"
+text_extraction {
+  score: 0.9999998807907104
+  text_segment {
+    start_offset: 2212
+    end_offset: 2226
+    content: "Operating loss"
+  }
+}
+, annotation_spec_id: "5387147380241989632"
+display_name: "EBT"
+text_extraction {
+  score: 0.9998745322227478
+  text_segment {
+    start_offset: 2289
+    end_offset: 2313
+    content: "Loss before income taxes"
+  }
+}
+, annotation_spec_id: "7692990389455683584"
+display_name: "NetIncome"
+text_extraction {
+  score: 0.9971868991851807
+  text_segment {
+    start_offset: 2338
+    end_offset: 2346
+    content: "Net loss"
+  }
+}
+, annotation_spec_id: "1351922114118025216"
+display_name: "DandA"
+text_extraction {
+  score: 0.9999232888221741
+  text_segment {
+    start_offset: 2928
+    end_offset: 2940
+    content: "Depreciation"
+  }
+}
+]

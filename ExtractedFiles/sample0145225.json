@@ -1,0 +1,90 @@
+[annotation_spec_id: "2504843618724872192"
+display_name: "Company"
+text_extraction {
+  score: 0.9992809295654297
+  text_segment {
+    end_offset: 10
+    content: "HoldCo Inc"
+  }
+}
+, annotation_spec_id: "4810686627938566144"
+display_name: "Year1"
+text_extraction {
+  score: 0.6404365301132202
+  text_segment {
+    start_offset: 59
+    end_offset: 63
+    content: "2017"
+  }
+}
+, annotation_spec_id: "199000609511178240"
+display_name: "Year2"
+text_extraction {
+  score: 0.6361756920814514
+  text_segment {
+    start_offset: 64
+    end_offset: 68
+    content: "2018"
+  }
+}
+, annotation_spec_id: "3081304371028295680"
+display_name: "TotalRevenue"
+text_extraction {
+  score: 0.5559965968132019
+  text_segment {
+    start_offset: 74
+    end_offset: 81
+    content: "Revenue"
+  }
+}
+, annotation_spec_id: "5963608132545413120"
+display_name: "COGS"
+text_extraction {
+  score: 0.9999555349349976
+  text_segment {
+    start_offset: 94
+    end_offset: 112
+    content: "Cost of goods sold"
+  }
+}
+, annotation_spec_id: "3657765123331719168"
+display_name: "GrossProfit"
+text_extraction {
+  score: 0.9999991059303284
+  text_segment {
+    start_offset: 122
+    end_offset: 134
+    content: "Gross Profit"
+  }
+}
+, annotation_spec_id: "5387147380241989632"
+display_name: "EBT"
+text_extraction {
+  score: 0.9997121095657349
+  text_segment {
+    start_offset: 258
+    end_offset: 284
+    content: "Income before income taxes"
+  }
+}
+, annotation_spec_id: "775461361814601728"
+display_name: "Taxes"
+text_extraction {
+  score: 0.9964137673377991
+  text_segment {
+    start_offset: 294
+    end_offset: 320
+    content: "Provision for income taxes"
+  }
+}
+, annotation_spec_id: "7692990389455683584"
+display_name: "NetIncome"
+text_extraction {
+  score: 0.9736402630805969
+  text_segment {
+    start_offset: 327
+    end_offset: 337
+    content: "Net income"
+  }
+}
+]

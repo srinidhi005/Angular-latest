@@ -1,0 +1,161 @@
+[annotation_spec_id: "2504843618724872192"
+display_name: "Company"
+text_extraction {
+  score: 0.999687910079956
+  text_segment {
+    start_offset: 127
+    end_offset: 155
+    content: "ONEOK, Inc. and Subsidiaries"
+  }
+}
+, annotation_spec_id: "2470331048240611328"
+display_name: "IncomeStatement"
+text_extraction {
+  score: 0.9999690651893616
+  text_segment {
+    start_offset: 156
+    end_offset: 189
+    content: "CONSOLIDATED STATEMENTS OF INCOME"
+  }
+}
+, annotation_spec_id: "4810686627938566144"
+display_name: "Year1"
+text_extraction {
+  score: 0.9998478293418884
+  text_segment {
+    start_offset: 215
+    end_offset: 219
+    content: "2017"
+  }
+}
+, annotation_spec_id: "199000609511178240"
+display_name: "Year2"
+text_extraction {
+  score: 0.9999997615814209
+  text_segment {
+    start_offset: 220
+    end_offset: 224
+    content: "2016"
+  }
+}
+, annotation_spec_id: "7116529637152260096"
+display_name: "Year3"
+text_extraction {
+  score: 0.9999999403953552
+  text_segment {
+    start_offset: 225
+    end_offset: 229
+    content: "2015"
+  }
+}
+, annotation_spec_id: "2651952776963162112"
+display_name: "Currency"
+text_extraction {
+  score: 0.9857056140899658
+  text_segment {
+    start_offset: 304
+    end_offset: 305
+    content: "$"
+  }
+}
+, annotation_spec_id: "3081304371028295680"
+display_name: "TotalRevenue"
+text_extraction {
+  score: 0.9999916553497314
+  text_segment {
+    start_offset: 379
+    end_offset: 393
+    content: "Total revenues"
+  }
+}
+, annotation_spec_id: "5963608132545413120"
+display_name: "COGS"
+text_extraction {
+  score: 0.9998945593833923
+  text_segment {
+    start_offset: 425
+    end_offset: 438
+    content: "Cost of sales"
+  }
+}
+, annotation_spec_id: "775461361814601728"
+display_name: "Taxes"
+text_extraction {
+  score: 0.9196332693099976
+  text_segment {
+    start_offset: 684
+    end_offset: 697
+    content: "General taxes"
+  }
+}
+, annotation_spec_id: "8269451141759107072"
+display_name: "EBIT"
+text_extraction {
+  score: 0.9988679885864258
+  text_segment {
+    start_offset: 764
+    end_offset: 780
+    content: "Operating income"
+  }
+}
+, annotation_spec_id: "440650175552159744"
+display_name: "InterestExpense"
+text_extraction {
+  score: 0.9999958276748657
+  text_segment {
+    start_offset: 1079
+    end_offset: 1095
+    content: "Interest expense"
+  }
+}
+, annotation_spec_id: "5387147380241989632"
+display_name: "EBT"
+text_extraction {
+  score: 1.0
+  text_segment {
+    start_offset: 1201
+    end_offset: 1227
+    content: "Income before income taxes"
+  }
+}
+, annotation_spec_id: "775461361814601728"
+display_name: "Taxes"
+text_extraction {
+  score: 0.9977198839187622
+  text_segment {
+    start_offset: 1254
+    end_offset: 1275
+    content: "Income taxes (Note M)"
+  }
+}
+, annotation_spec_id: "7692990389455683584"
+display_name: "NetIncome"
+text_extraction {
+  score: 0.9999873638153076
+  text_segment {
+    start_offset: 1437
+    end_offset: 1447
+    content: "Net income"
+  }
+}
+, annotation_spec_id: "7692990389455683584"
+display_name: "NetIncome"
+text_extraction {
+  score: 0.9327801465988159
+  text_segment {
+    start_offset: 1554
+    end_offset: 1564
+    content: "Net income"
+  }
+}
+, annotation_spec_id: "1351922114118025216"
+display_name: "DandA"
+text_extraction {
+  score: 0.9999942183494568
+  text_segment {
+    start_offset: 6784
+    end_offset: 6813
+    content: "Depreciation and amortization"
+  }
+}
+]

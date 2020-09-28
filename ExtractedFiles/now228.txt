@@ -1,0 +1,119 @@
+
+Page#1
+ 
+NOW INC.
+CONSOLIDATED BALANCE SHEETS
+(In millions, except share data)
+ 
+  December 31, 
+  2018 2017 
+ASSETS 
+Current assets: 
+Cash and cash equivalents  $ 116  $ 98 
+Receivables, net 482 423 
+Inventories, net 602 590 
+Prepaid and other current assets 19 18 
+Total current assets 1,219 1,129 
+Property, plant and equipment, net 106 119 
+Deferred income taxes 2 2 
+Goodwill 314 328 
+Intangibles, net 144 166 
+Other assets 10 5 
+Total assets  $ 1,795  $ 1,749 
+LIABILITIES AND STOCKHOLDERS' EQUITY 
+Current liabilities: 
+Accounts payable  $ 329  $ 290 
+Accrued liabilities 110 103 
+Other current liabilities 2 1 
+Total current liabilities 441 394 
+Long-term debt 132 162 
+Deferred income taxes 6 7 
+Other long-term liabilities 2 1 
+Total liabilities 581 564 
+Commitments and contingencies 
+Stockholders' equity: 
+Preferred stock—par value $0.01; 20 million shares authorized; no shares issued
+  and outstanding — — 
+Common stock - par value $0.01; 330 million shares authorized; 108,426,962 and 108,030,438 shares
+issued and outstanding at December 31, 2018 and 2017, respectively 1 1 
+Additional paid-in capital 2,034 2,019 
+Accumulated deficit (678)  (730)
+Accumulated other comprehensive loss (143)  (105)
+Total stockholders' equity 1,214 1,185 
+Total liabilities and stockholders' equity  $ 1,795  $ 1,749
+ 
+See notes to consolidated financial statements.
+ 
+50
+Page#2
+ 
+NOW INC.
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(In millions, except per share data)
+ 
+  Year Ended December 31, 
+  2018 2017 2016 
+Revenue  $ 3,127  $ 2,648  $ 2,107 
+Operating expenses: 
+Cost of products 2,497 2,147 1,762 
+Warehousing, selling and administrative 557 542 567 
+Operating profit (loss) 73 (41)  (222)
+Other expense (15)  (11)  (8)
+Income (loss) before income taxes 58 (52)  (230)
+Income tax provision (benefit) 6 — 4 
+Net income (loss)  $ 52  $ (52) $ (234)
+Earnings (loss) per share: 
+Basic earnings (loss) per common share  $ 0.47  $ (0.48) $ (2.18)
+Diluted earnings (loss) per common share  $ 0.47  $ (0.48) $ (2.18)
+Weighted-average common shares outstanding, basic 108 108 107 
+Weighted-average common shares outstanding, diluted 109 108 107
+ 
+See notes to consolidated financial statements.
+51
+Page#3
+ 
+NOW INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(In millions)
+ 
+ Year Ended December 31, 
+  2018 2017 2016 
+Cash flows from operating activities: 
+Net income (loss)  $ 52  $ (52) $ (234)
+Adjustments to reconcile net income (loss) to net cash provided by (used in) operating 
+activities: 
+Depreciation and amortization 41 50 53 
+Deferred income taxes (1)  (1)  (2)
+Stock-based compensation 16 20 23 
+Provision for doubtful accounts 2 3 17 
+Provision for inventory 8 11 36 
+Other, net 1 (11)  — 
+Change in operating assets and liabilities, net of acquisitions: 
+Receivables (69)  (64)  102 
+Inventories (30)  (110)  190 
+Prepaid and other current assets (1)  (2)  4 
+Accounts payable and accrued liabilities 54 43 22 
+Income taxes receivable, net — — 25 
+Other assets / liabilities, net — (2)  (1)
+Net cash provided by (used in) operating activities 73 (115)  235 
+Cash flows from investing activities: 
+Purchases of property, plant and equipment (11)  (4)  (4)
+Business acquisitions, net of cash acquired — (4)  (175)
+Purchases of intangible assets — — (7)
+Proceeds from disposal of assets, and other 2 16 3 
+Net cash provided by (used in) investing activities (9)  8 (183)
+Cash flows from financing activities: 
+Borrowing under the revolving credit facility 503 359 253 
+Repayments under the revolving credit facility (533)  (262)  (296)
+Other, net (7)  (3)  (4)
+Net cash provided by (used in) financing activities (37)  94 (47)
+Effect of exchange rates on cash and cash equivalents (9)  5 11 
+Net change in cash and cash equivalents 18 (8)  16 
+Cash and cash equivalents, beginning of period 98 106 90 
+Cash and cash equivalents, end of period  $ 116  $ 98  $ 106 
+Supplemental disclosures of cash flow information: 
+Income taxes paid (refunded), net  $ 6  $ 2  $ (23)
+Interest paid  $ 9  $ 6  $ 4
+ 
+See notes to consolidated financial statements.
+53

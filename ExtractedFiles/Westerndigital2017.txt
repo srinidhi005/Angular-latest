@@ -1,0 +1,161 @@
+
+Page#1
+WESTERN DIGITAL CORPORATION
+CONSOLIDATED BALANCE SHEETS
+(in millions, except par value)
+June 30, July 1,
+2017 2016
+ASSETS
+Current assets:
+Cash and cash equivalents  $ 6,354 $ 8,151
+Short-term investments  24 227
+Accounts receivable, net  1,948 1,461
+Inventories  2,341 2,129
+Other current assets  389 616
+Total current assets  11,056 12,584
+Property, plant and equipment, net 3,033 3,503
+Notes receivable and investments in Flash Ventures 1,340 1,171
+Goodwill  10,014 9,951
+Other intangible assets, net  3,823 5,034
+Other non-current assets  594 619
+Total assets  $29,860 $32,862
+LIABILITIES AND SHAREHOLDERS’ EQUITY
+Current liabilities:
+Accounts payable  $ 2,144 $ 1,888
+Accounts payable to Flash Ventures 206 168
+Accrued expenses  1,069 995
+Accrued compensation  506 392
+Accrued warranty  186 172
+Bridge loan  — 2,995
+Current portion of long-term debt 233 339
+Total current liabilities  4,344 6,949
+Long-term debt  12,918 13,660
+Other liabilities  1,180 1,108
+Total liabilities  18,442 21,717
+Commitments and contingencies (Notes 6, 9, 13 and 17)
+Shareholders’ equity:
+Preferred stock, $0.01 par value; authorized — 5 shares; issued and outstanding — none — —
+Common stock, $0.01 par value; authorized — 450 shares; issued — 312 shares in 2017
+and 2016; outstanding — 294 shares in 2017 and 284 shares in 2016 3 3
+Additional paid-in capital  4,506 4,429
+Accumulated other comprehensive income (loss) (58) 103
+Retained earnings  8,633 8,848
+Treasury stock — common shares at cost; 18 shares in 2017 and 28 shares in 2016 (1,666) (2,238)
+Total shareholders’ equity 11,418 11,145
+Total liabilities and shareholders’ equity $29,860 $32,862
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+62
+Page#2
+WESTERN DIGITAL CORPORATION
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(in millions, except per share amounts)
+Year Ended
+June 30, July 1, July 3,
+2017 2016 2015
+Revenue, net  $19,093 $12,994 $14,572
+Cost of revenue  13,021 9,559 10,351
+Gross profit  6,072 3,435 4,221
+Operating expenses:
+Research and development 2,441 1,627 1,646
+Selling, general and administrative 1,445 997 788
+Employee termination, asset impairment, and other charges 232 345 176
+Total operating expenses 4,118 2,969 2,610
+Operating income 1,954 466 1,611
+Interest and other income (expense):
+Interest income 26 26 14
+Interest expense (847) (266) (49)
+Other income (expense), net (364) (73) 1
+Total interest and other expense, net (1,185) (313) (34)
+Income before taxes 769 153 1,577
+Income tax expense (benefit) 372 (89) 112
+Net income  $ 397 $ 242 $ 1,465
+Income per common share
+Basic  $ 1.38 $ 1.01 $ 6.31
+Diluted  $ 1.34 $ 1.00 $ 6.18
+Weighted average shares outstanding:
+Basic  288 239 232
+Diluted  296 242 237
+Cash dividends declared per share $ 2.00 $ 2.00 $ 1.80
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+63
+Page#3
+WESTERN DIGITAL CORPORATION
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(in millions)
+Year Ended
+June 30, July 1, July 3,
+2017 2016 2015
+Cash flows from operating activities
+Net income  $ 397 $ 242 $ 1,465
+Adjustments to reconcile net income to net cash provided by operations:
+Depreciation and amortization 2,128 1,154 1,114
+Stock-based compensation 394 191 162
+Deferred income taxes 12 (149) 28
+Loss on disposal of assets 18 22 17
+Write-off of issuance costs and amortization of debt discounts 285 39 —
+Loss on convertible debt and related instruments 5 58 —
+Non-cash portion of employee termination, asset impairment and other
+charges  13 41 86
+Other non-cash operating activities, net 94 11 (37)
+Changes in:
+Accounts receivable, net (487) 466 458
+Inventories  (204) 306 (143)
+Accounts payable 223 (299) (148)
+Accounts payable to related parties 38 (115) —
+Accrued arbitration award — — (758)
+Accrued expenses 231 102 35
+Accrued compensation 115 (94) (134)
+Other assets and liabilities, net 175 8 97
+Net cash provided by operations 3,437 1,983 2,242
+Cash flows from investing activities
+Purchases of property, plant and equipment (578) (584) (612)
+Proceeds from the sale of property, plant and equipment 21 — —
+Acquisitions, net of cash acquired — (9,835) (257)
+Purchases of investments (281) (632) (857)
+Proceeds from sale of investments 94 1,204 505
+Proceeds from maturities of investments 417 405 263
+Investments in Flash Ventures (20) — —
+Notes receivable issuances to Flash Ventures (549) (106) —
+Notes receivable proceeds from Flash Ventures 292 16 —
+Strategic investments and other, net (32) (76) 5
+Net cash used in investing activities (636) (9,608) (953)
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+65
+Page#4
+WESTERN DIGITAL CORPORATION
+CONSOLIDATED STATEMENTS OF CASH FLOWS — (Continued)
+(in millions)
+Year Ended
+June 30, July 1, July 3,
+2017 2016 2015
+Cash flows from financing activities
+Issuance of stock under employee stock plans 235 117 212
+Taxes paid on vested stock awards under employee stock plans (124) (50) (64)
+Excess tax benefits from employee stock plans 119 7 19
+Proceeds from acquired call option 61 409 —
+Settlement of convertible debt (492) (2,611) —
+Repurchases of common stock — (60) (970)
+Proceeds from revolving credit facility — 125 —
+Repayment of revolving credit facility — (380) —
+Dividends paid to shareholders (574) (464) (396)
+Settlement of debt hedge contracts (21) — —
+Repayment of debt (11,697) (2,313) (125)
+Proceeds from debt 7,908 17,108 255
+Debt issuance costs (10) (524) —
+Payment upon settlement of acquired warrants — (613) —
+Net cash provided by (used in) financing activities (4,595) 10,751 (1,069)
+Effect of exchange rate changes on cash (3) 1 —
+Net increase (decrease) in cash and cash equivalents (1,797) 3,127 220
+Cash and cash equivalents, beginning of year 8,151 5,024 4,804
+Cash and cash equivalents, end of year $ 6,354 $ 8,151 $ 5,024
+Supplemental disclosure of cash flow information:
+Cash paid for income taxes $ 184 $ 26 $ 47
+Cash paid for interest $ 777 $ 113 $ 45
+Supplemental disclosure of non-cash investing and financing activities:
+Common stock issued and equity awards assumed in connection with
+acquisition  $ — $ 1,822 $ —
+Shares issued in conjunction with settlement of convertible notes $ 16 $ 94 $ —
+Shares received in conjunction with assumed call options $ (11) $ (70) $ —
+Accrual of cash dividend declared $ 147 $ 142 $ 116
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+66

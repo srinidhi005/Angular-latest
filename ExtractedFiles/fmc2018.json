@@ -1,0 +1,151 @@
+[annotation_spec_id: "2504843618724872192"
+display_name: "Company"
+text_extraction {
+  score: 0.9999994039535522
+  text_segment {
+    start_offset: 59
+    end_offset: 74
+    content: "FMC Corporation"
+  }
+}
+, annotation_spec_id: "2470331048240611328"
+display_name: "IncomeStatement"
+text_extraction {
+  score: 0.8913458585739136
+  text_segment {
+    start_offset: 75
+    end_offset: 115
+    content: "Consolidated Statements of Income (Loss)"
+  }
+}
+, annotation_spec_id: "4810686627938566144"
+display_name: "Year1"
+text_extraction {
+  score: 1.0
+  text_segment {
+    start_offset: 140
+    end_offset: 144
+    content: "2018"
+  }
+}
+, annotation_spec_id: "199000609511178240"
+display_name: "Year2"
+text_extraction {
+  score: 1.0
+  text_segment {
+    start_offset: 145
+    end_offset: 149
+    content: "2017"
+  }
+}
+, annotation_spec_id: "7116529637152260096"
+display_name: "Year3"
+text_extraction {
+  score: 0.9999352693557739
+  text_segment {
+    start_offset: 150
+    end_offset: 154
+    content: "2016"
+  }
+}
+, annotation_spec_id: "3081304371028295680"
+display_name: "TotalRevenue"
+text_extraction {
+  score: 0.8099433779716492
+  text_segment {
+    start_offset: 403
+    end_offset: 410
+    content: "Revenue"
+  }
+}
+, annotation_spec_id: "5963608132545413120"
+display_name: "COGS"
+text_extraction {
+  score: 0.8947347402572632
+  text_segment {
+    start_offset: 430
+    end_offset: 457
+    content: "Costs of sales and services"
+  }
+}
+, annotation_spec_id: "3657765123331719168"
+display_name: "GrossProfit"
+text_extraction {
+  score: 0.9999964237213135
+  text_segment {
+    start_offset: 458
+    end_offset: 470
+    content: "Gross Margin"
+  }
+}
+, annotation_spec_id: "5903164679831683072"
+display_name: "SGA"
+text_extraction {
+  score: 0.999997615814209
+  text_segment {
+    start_offset: 471
+    end_offset: 515
+    content: "Selling, general and administrative expenses"
+  }
+}
+, annotation_spec_id: "440650175552159744"
+display_name: "InterestExpense"
+text_extraction {
+  score: 0.40965405106544495
+  text_segment {
+    start_offset: 757
+    end_offset: 773
+    content: "interest expense"
+  }
+}
+, annotation_spec_id: "440650175552159744"
+display_name: "InterestExpense"
+text_extraction {
+  score: 0.1761505901813507
+  text_segment {
+    start_offset: 910
+    end_offset: 926
+    content: "Interest expense"
+  }
+}
+, annotation_spec_id: "5387147380241989632"
+display_name: "EBT"
+text_extraction {
+  score: 0.9999879598617554
+  text_segment {
+    start_offset: 927
+    end_offset: 987
+    content: "Income (loss) from continuing operations before income taxes"
+  }
+}
+, annotation_spec_id: "775461361814601728"
+display_name: "Taxes"
+text_extraction {
+  score: 0.9998368620872498
+  text_segment {
+    start_offset: 988
+    end_offset: 1024
+    content: "Provision (benefit) for income taxes"
+  }
+}
+, annotation_spec_id: "7692990389455683584"
+display_name: "NetIncome"
+text_extraction {
+  score: 0.5618389844894409
+  text_segment {
+    start_offset: 1375
+    end_offset: 1385
+    content: "NET INCOME"
+  }
+}
+, annotation_spec_id: "1351922114118025216"
+display_name: "DandA"
+text_extraction {
+  score: 0.9993801116943359
+  text_segment {
+    start_offset: 5290
+    end_offset: 5319
+    content: "Depreciation and amortization"
+  }
+}
+]

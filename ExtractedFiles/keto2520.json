@@ -1,0 +1,91 @@
+[annotation_spec_id: "4810686627938566144"
+display_name: "Year1"
+text_extraction {
+  score: 0.7668685913085938
+  text_segment {
+    start_offset: 76
+    end_offset: 80
+    content: "2016"
+  }
+}
+, annotation_spec_id: "199000609511178240"
+display_name: "Year2"
+text_extraction {
+  score: 0.9809794425964355
+  text_segment {
+    start_offset: 81
+    end_offset: 85
+    content: "2017"
+  }
+}
+, annotation_spec_id: "7116529637152260096"
+display_name: "Year3"
+text_extraction {
+  score: 0.9117344617843628
+  text_segment {
+    start_offset: 86
+    end_offset: 90
+    content: "2018"
+  }
+}
+, annotation_spec_id: "5963608132545413120"
+display_name: "COGS"
+text_extraction {
+  score: 0.45165586471557617
+  text_segment {
+    start_offset: 199
+    end_offset: 212
+    content: "Cost of Sales"
+  }
+}
+, annotation_spec_id: "3657765123331719168"
+display_name: "GrossProfit"
+text_extraction {
+  score: 0.9998661279678345
+  text_segment {
+    start_offset: 264
+    end_offset: 276
+    content: "Gross Profit"
+  }
+}
+, annotation_spec_id: "8269451141759107072"
+display_name: "EBIT"
+text_extraction {
+  score: 0.9998877644538879
+  text_segment {
+    start_offset: 481
+    end_offset: 497
+    content: "Operating Income"
+  }
+}
+, annotation_spec_id: "440650175552159744"
+display_name: "InterestExpense"
+text_extraction {
+  score: 0.9998010396957397
+  text_segment {
+    start_offset: 562
+    end_offset: 578
+    content: "Interest Expense"
+  }
+}
+, annotation_spec_id: "5387147380241989632"
+display_name: "EBT"
+text_extraction {
+  score: 0.42873021960258484
+  text_segment {
+    start_offset: 728
+    end_offset: 747
+    content: "Profit Before Taxes"
+  }
+}
+, annotation_spec_id: "7692990389455683584"
+display_name: "NetIncome"
+text_extraction {
+  score: 0.8777607679367065
+  text_segment {
+    start_offset: 869
+    end_offset: 879
+    content: "Net Profit"
+  }
+}
+]

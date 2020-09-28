@@ -72,10 +72,10 @@ def parse_table(project_id,input_uri):
             response += document.text[start_index:end_index]
         
         return response
-    pdf_filename = re.findall("[ \w-]+?(?=\.)", input_uri)
+    pdf_filename = re.findall("[\w.-]+?(?=\.)", input_uri)
     pdf_filename=pdf_filename[0]
     print("pdf_filename",pdf_filename)
-    file_name_txt='/home/srinidhi/angular/uploads/'+pdf_filename+'.txt'
+    file_name_txt='/home/srinidhi/angular/upload/'+pdf_filename+'.txt'
     for page in document.pages:
         file=open(file_name_txt,"a")
         # file.write('Page number: {}'.format(page.page_number))

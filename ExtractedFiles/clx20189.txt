@@ -1,0 +1,164 @@
+
+Page#1
+FINANCIAL STATEMENTS
+Condensed Consolidated Statements of Earni ngs
+Years ended June 30
+2018 2017 2016
+Dollars in millions, except share and per share data 
+ 
+Net sales $ 6,124 $ 5,973 $ 5,761
+Cost of products sold  3,449  3,302  3,163
+ 
+Gross profit  2,675  2,671  2,598
+Selling and administrative expenses  837  810  806
+Advertising costs  570  599  587
+Research and development costs  132  135  141
+Interest expense  85  88  88
+Other (income) expense, net  (3)  6  (7)
+ 
+Earnings from continuing operations before income taxes  1,054  1,033  983
+Income taxes on continuing operations  231  330  335
+ 
+Earnings from continuing operations  823  703  648
+Losses from discontinued operations, net of tax  —  (2)  —
+ 
+Net earnings $ 823 $ 701 $ 648
+ 
+Net earnings (losses) per share
+ Basic
+  Continuing operations $ 6.37 $ 5.45 $ 5.01
+  Discontinued operations  —  (0.02)  —
+ 
+ Basic net earnings per share $ 6.37 $ 5.43 $ 5.01
+ 
+ Diluted 
+  Continuing operations $ 6.26 $ 5.35 $ 4.92
+  Discontinued operations  —  (0.02)  —
+ 
+ Diluted net earnings per share $ 6.26 $ 5.33 $ 4.92
+ 
+Weighted average shares outstanding (in thousands)
+ Basic 129,293  128,953  129,472
+ Diluted  131,581  131,566  131,717
+  
+44
+The Clorox Company 2018 Integrated Annual Report
+Page#2
+FINANCIAL STATEMENTS
+Condensed Consolidated Balance Sheets
+As of June 30
+2018 2017
+Dollars in millions, except share and per share data 
+  
+ASSETS 
+Current assets
+ Cash and cash equivalents $ 131 $ 418
+ Receivables, net 600  565
+ Inventories, net 506  459
+ Prepaid expenses and other current assets 74  72
+  
+  Total current assets 1,311  1,514
+  
+Property, plant and equipment, net 996  931
+Goodwill 1,602  1,196
+Trademarks, net 795  654
+Other intangible assets, net 134  68
+Other assets 222  210
+  
+Total assets $ 5,060 $ 4,573
+  
+LIABILITIES AND STOCKHOLDERS’ EQUITY 
+Current liabilities
+ Notes and loans payable $ 199 $ 404
+ Current maturities of long-term debt —  400
+ Accounts payable and accrued liabilities 1,001  1,005
+  
+  Total current liabilities 1,200  1,809
+Long-term debt 2,284  1,391
+Other liabilities 778  770
+Deferred income taxes 72  61
+  
+  Total liabilities 4,334  4,031
+  
+Commitments and contingencies
+Stockholders’ equity
+Preferred stock: $1.00 par value; 5,000,000 shares authorized; none issued or outstanding —  — 
+Common stock: $1.00 par value; 750,000,000 shares authorized; 158,741,461 shares issued 
+ as of June 30, 2018 and 2017; and 127,982,767 and 129,014,172 shares outstanding as of 
+ June 30, 2018 and 2017, respectively 159  159
+Additional paid-in capital 975  928
+Retained earnings 2,797  2,440
+Treasury shares, at cost: 30,758,694 and 29,727,289 shares as of June 30, 2018 and 2017, respectively  (2,658)  (2,442)
+Accumulated other comprehensive net (losses) income (547)  (543)
+  
+Stockholders’ equity 726  542
+  
+Total liabilities and stockholders’ equity $ 5,060 $ 4,573
+  
+  
+46
+The Clorox Company 2018 Integrated Annual Report
+Page#3
+FINANCIAL STATEMENTS
+Condensed Consolidated Statements of Cash Flows
+Years ended June 30
+2018 2017 2016
+Dollars in millions 
+ 
+Operating activities:
+ Net earnings  $ 823  $ 701  $ 648 
+ Deduct: Losses from discontinued operations, net of tax  —  (2)  —
+ 
+ Earnings from continuing operations  823  703 648 
+ Adjustments to reconcile earnings from continuing operations to net cash 
+  provided by continuing operations: 
+ Depreciation and amortization  166  163 165 
+ Stock-based compensation  53  51 45 
+ Deferred income taxes  (23)  (35)  5 
+ Other  43  36 1 
+ Changes in:
+ Receivables, net  (24)  (1)  (52)
+ Inventories, net  (21)  (19)  (45)
+ Prepaid expenses and other current assets  3  (5)  6 
+ Accounts payable and accrued liabilities  (47)  (34)  57 
+ Income taxes payable  1  12 (62)
+ 
+Net cash provided by continuing operations  974  871 768 
+Net cash (used for) provided by discontinued operations  —  (3)  10 
+ 
+Net cash provided by operations  974  868 778 
+ 
+Investing activities:
+ Capital expenditures  (194)  (231)  (172)
+ Businesses acquired, net of cash acquired  (681)  —  (290)
+ Other 16  26 32 
+ 
+Net cash used for investing activities  (859)  (205)  (430)
+ 
+Financing activities:
+ Notes and loans payable, net  (214)  (125)  426 
+ Long-term debt borrowings, net of issuance costs  891  —  —
+ Long-term debt repayments  (400)  —  (300)
+ Treasury stock purchased  (271)  (183)  (254)
+ Cash dividends paid  (450)  (412)  (398)
+ Issuance of common stock for employee stock plans and other  45  75 210 
+ 
+Net cash used for financing activities  (399)  (645)  (316)
+ 
+Effect of exchange rate changes on cash and cash equivalents  (3)  (1)  (13)
+ 
+Net increase (decrease) in cash and cash equivalents  (287)  17 19 
+ 
+Cash and cash equivalents:
+ Beginning of year  418  401  382
+ 
+ End of year $ 131 $ 418  $ 401 
+ 
+Supplemental cash flow information:
+ Interest paid $ 75 $ 78  $ 79 
+ Income taxes paid, net of refunds  245  347  323
+Non-cash financing activities:
+ Cash dividends declared and accrued, but not paid  123  108  104
+  
+48
+The Clorox Company 2018 Integrated Annual Report

@@ -1,0 +1,61 @@
+[annotation_spec_id: "3081304371028295680"
+display_name: "TotalRevenue"
+text_extraction {
+  score: 0.9998232126235962
+  text_segment {
+    start_offset: 1169
+    end_offset: 1183
+    content: "Total Revenues"
+  }
+}
+, annotation_spec_id: "5387147380241989632"
+display_name: "EBT"
+text_extraction {
+  score: 0.9994535446166992
+  text_segment {
+    start_offset: 2014
+    end_offset: 2067
+    content: "Income from Continuing Operations before Income Taxes"
+  }
+}
+, annotation_spec_id: "775461361814601728"
+display_name: "Taxes"
+text_extraction {
+  score: 0.9999629259109497
+  text_segment {
+    start_offset: 2137
+    end_offset: 2155
+    content: "Income Tax Expense"
+  }
+}
+, annotation_spec_id: "7692990389455683584"
+display_name: "NetIncome"
+text_extraction {
+  score: 0.9999001026153564
+  text_segment {
+    start_offset: 2553
+    end_offset: 2563
+    content: "Net Income"
+  }
+}
+, annotation_spec_id: "2504843618724872192"
+display_name: "Company"
+text_extraction {
+  score: 0.9999672770500183
+  text_segment {
+    start_offset: 3535
+    end_offset: 3570
+    content: "KEMPER CORPORATION AND SUBSIDIARIES"
+  }
+}
+, annotation_spec_id: "1351922114118025216"
+display_name: "DandA"
+text_extraction {
+  score: 0.9995999336242676
+  text_segment {
+    start_offset: 10770
+    end_offset: 10799
+    content: "Depreciation and Amortization"
+  }
+}
+]

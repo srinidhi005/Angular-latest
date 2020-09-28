@@ -1,0 +1,131 @@
+
+Page#1
+Table of Contents
+ Union Carbide Corporation and Subsidiaries
+Consolidated Statements of Income
+2018 2017 2016
+(In millions) For the years ended Dec 31, 
+Net trade sales $ 136 $ 143 $ 108
+Net sales to related companies 5,310 5,022 4,811
+Total Net Sales 5,446 5,165 4,919
+Cost of sales 4,047 4,184 3,724
+Research and development expenses 21 19 18
+Selling, general and administrative expenses 6 6 7
+Asbestos-related charge — — 1,113
+Restructuring and asset related charges - net 3 74 4
+Integration and separation costs 3 1 —
+Equity in earnings of a nonconsolidated affiliate — — 2
+Sundry income (expense) - net (34) (3) 27
+Interest expense and amortization of debt discount 30 28 25
+Income Before Income Taxes 1,302 850 57
+Provision (Credit) for income taxes 247 645 (32)
+Net Income Attributable to Union Carbide Corporation $ 1,055 $ 205 $ 89
+See Notes to the Consolidated Financial Statements.
+20
+Page#2
+Table of Contents
+Union Carbide Corporation and Subsidiaries
+Consolidated Balance Sheets
+2018 2017
+(In millions, except share amounts) At Dec 31,
+Assets
+Current Assets  
+Cash and cash equivalents $ 13 $ 13
+Accounts receivable: 
+Trade (net of allowance for doubtful receivables 2018: $-; 2017: $-) 21 21
+Related companies 1,029 972
+Other 31 50
+Income taxes receivable 330 281
+Notes receivable from related companies 1,281 1,238
+Inventories 304 278
+Other current assets 15 35
+Total current assets 3,024 2,888
+Investments  
+Investments in related companies 639 639
+Other investments 23 25
+Noncurrent receivables 67 62
+Noncurrent receivables from related companies 54 54
+Total investments 783 780
+Property  
+Property 7,430 7,309
+Less accumulated depreciation 5,982 5,930
+Net property 1,448 1,379
+Other Assets  
+Intangible assets (net of accumulated amortization 2018: $87; 2017: $82) 25 25
+Deferred income tax assets 463 511
+Deferred charges and other assets 34 36
+Total other assets 522 572
+Total Assets $ 5,777 $ 5,619
+Liabilities and Equity
+Current Liabilities  
+Notes payable to related companies $ 28 $ 28
+Notes payable - other 1 —
+Long-term debt due within one year 1 1
+Accounts payable:
+Trade 247 270
+Related companies 515 684
+Other 39 22
+Income taxes payable 24 24
+Asbestos-related liabilities - current 118 132
+Accrued and other current liabilities 163 174
+Total current liabilities 1,136 1,335
+Long-Term Debt 473 474
+Other Noncurrent Liabilities  
+Pension and other postretirement benefits - noncurrent 979 1,054
+Asbestos-related liabilities - noncurrent 1,142 1,237
+Other noncurrent obligations 132 151
+Total other noncurrent liabilities 2,253 2,442
+Stockholders' Equity  
+Common stock (authorized: 1,000 shares of $0.01 par value each; issued: 935.51 shares) — —
+Page#3
+Table of Contents
+Union Carbide Corporation and Subsidiaries
+Consolidated Statements of Cash Flows
+2018 2017 2016
+(In millions) For the years ended Dec 31,
+Operating Activities 
+Net income attributable to Union Carbide Corporation $ 1,055 $ 205 $ 89
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation and amortization 207 200 190
+Provision (Credit) for deferred income tax 35 414 (297)
+Earnings of nonconsolidated affiliate in excess of dividends received — — (1)
+Net gain on sales of property and investments — (26) (51)
+Net gain on sale of ownership interest in nonconsolidated affiliate — (4) —
+Asbestos-related charge — — 1,113
+Restructuring and asset related charges - net 3 74 4
+Net periodic pension benefit cost 43 28 27
+Pension contributions (42) (162) (52)
+Other, net — — (1)
+Changes in assets and liabilities: 
+Accounts and notes receivable 23 7 (7)
+Related company receivables (100) 44 132
+Inventories (26) 29 (4)
+Accounts payable (6) 36 18
+Related company payables (169) 166 45
+Asbestos-related payments (109) (121) (61)
+Other assets and liabilities (113) (112) (457)
+Cash provided by operating activities 801 778 687
+Investing Activities 
+Capital expenditures (250) (223) (267)
+Proceeds from sale of ownership interest in nonconsolidated affiliate — 22 —
+Changes in noncurrent receivable from related company — 3 5
+Proceeds from sales of property — 18 60
+Purchases of investments (1) (1) (1)
+Proceeds from sales of investments 3 9 5
+Cash used for investing activities (248) (172) (198)
+Financing Activities 
+Dividends paid to parent (553) (603) (500)
+Changes in short-term notes payable 1 — —
+Payments on long-term debt (1) (1) (1)
+Cash used for financing activities (553) (604) (501)
+Summary 
+Increase (Decrease) in cash and cash equivalents — 2 (12)
+Cash and cash equivalents at beginning of year 13 11 23
+Cash and cash equivalents at end of year $ 13 $ 13 $ 11
+ 
+Supplemental Cash Flow Information 
+Cash paid during year for: 
+Interest, net of amounts capitalized $ 37 $ 37 $ 38
+Income taxes $ 269 $ 254 $ 697
+See Notes to the Consolidated Financial Statements .
+23

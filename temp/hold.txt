@@ -1,0 +1,15 @@
+
+Page#1
+HoldCo Inc.
+Consolidated Statement of Income
+(In millions, except per share data)
+2019 2018 2017
+Revenue  100 120 150
+Cost of goods sold 50 60 75
+Gross Profit 50 60 75
+Selling, general and administrative expenses 20 22 24
+Total operating expenses 30 38 51
+Interest expense 5 5 5
+Income before income taxes 25 33 46
+Taxes 3 4 5
+Net Income 22 29 41

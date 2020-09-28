@@ -1,0 +1,177 @@
+
+Page#1
+Table of Contents
+MEDNAX, INC.
+CONSOLIDATED BALANCE SHEETS
+(in thousands)
+ December 31, 
+ 2019 2018 
+ASSETS 
+Current assets: 
+Cash and cash equivalents  $ 112,767  $ 25,491 
+Restricted cash — 20,000 
+Short-term investments 74,510 21,923 
+Accounts receivable, net 498,869 506,723 
+Prepaid expenses 21,919 17,123 
+Other current assets 23,442 17,166 
+Assets held for sale — 51,551 
+Total current assets 731,507 659,977 
+Investments — 69,699 
+Property and equipment, net 94,492 90,434 
+Goodwill 2,710,292 4,061,439 
+Intangible assets, net 274,407 313,165 
+Operating lease right-of-use assets 82,824 —  
+Deferred income tax assets 162,385 21,910 
+Other assets 89,994 81,224 
+Assets held for sale — 639,633 
+Total assets  $4,145,901  $5,937,481 
+LIABILITIES & SHAREHOLDERS’ EQUITY 
+Current liabilities: 
+Accounts payable and accrued expenses  $ 511,866  $ 448,567 
+Current portion of finance lease liabilities 130 253 
+Current portion of operating lease liabilities 23,317 —  
+Income taxes payable 6,505 30,598 
+Liabilities held for sale — 23,344 
+Total current liabilities 541,818 502,762 
+Line of credit — 739,500 
+Long-term debt and finance lease liabilities, net 1,730,295 1,234,781 
+Long-term operating lease liabilities 67,005 —  
+Long-term professional liabilities 226,892 209,060 
+Deferred income tax liabilities 57,995 95,581 
+Other liabilities 22,900 31,828 
+Liabilities held for sale — 36,085 
+Total liabilities 2,646,905 2,849,597 
+Commitments and contingencies 
+Shareholders’ equity: 
+Preferred stock; $.01 par value; 1,000 shares authorized; none issued — —  
+Common stock; $.01 par value; 200,000 shares authorized; 84,248 and 87,820 shares issued and outstanding,  
+respectively  842  878 
+Additional paid-in capital 987,942 992,647 
+Retained earnings 510,212 2,094,359 
+Total shareholders’ equity 1,498,996 3,087,884 
+Total liabilities and shareholders’ equity  $4,145,901  $5,937,481 
+ 
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+ 
+80
+ 
+Page#2
+Table of Contents 
+MEDNAX, INC.
+CONSOLIDATED STATEMENTS OF INCOME
+(in thousands, except for per share data)
+ Years Ended December 31, 
+ 2019 2018 2017 
+Net revenue  $ 3,513,542  $3,454,810  $3,253,391 
+Operating expenses: 
+Practice salaries and benefits 2,508,778 2,426,376 2,227,335 
+Practice supplies and other operating expenses 112,766 108,851 106,444 
+General and administrative expenses 404,643 403,934 385,864 
+Depreciation and amortization 78,860 83,832 78,856 
+Transformational and restructuring related expenses 95,329 — —  
+Goodwill impairment 1,449,215 — —  
+Total operating expenses 4,649,591 3,022,993 2,798,499 
+(Loss) income from operations (1,136,049) 431,817 454,892 
+Investment and other income 5,671 5,211 4,385 
+Interest expense (119,381) (88,789) (74,556)
+Equity in earnings of unconsolidated affiliates 7,779 6,825 952 
+Total non-operating expenses (105,931) (76,753) (69,219)
+(Loss) income from continuing operations before income taxes (1,241,980) 355,064 385,673 
+Income tax benefit (provision) 91,886 (96,453) (80,231)
+(Loss) income from continuing operations (1,150,094) 258,611 305,442 
+(Loss) income from discontinued operations, net of tax (347,608) 10,018 14,930 
+Net (loss) income  $(1,497,702)  $ 268,629  $ 320,372 
+Per common and common equivalent share data: 
+ 
+(Loss) income from continuing operations: 
+Basic  $ (13.78)  $ 2.84  $ 3.31 
+Diluted 
+$ (13.78) $ 2.82 $ 3.29 
+(Loss) income from discontinued operations: 
+ 
+Basic  $ (4.16)  $ 0.11  $ 0.16 
+Diluted 
+$ (4.16) $ 0.11 $ 0.16 
+Net (loss) income: 
+ 
+Basic  $ (17.94)  $ 2.95  $ 3.47 
+Diluted 
+$ (17.94) $ 2.93 $ 3.45 
+Weighted average common shares: 
+ 
+Basic 83,495 91,104 92,431 
+Diluted 
+ 83,495  91,606  92,958 
+ 
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+ 
+81
+ 
+Page#3
+Table of Contents 
+MEDNAX, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(in thousands)
+ Years Ended December 31, 
+ 2019 2018 2017 
+Cash flows from operating activities: 
+Net (loss) income  $ (1,497,702)  $ 268,629  $ 320,372 
+Loss (income) from discontinued operations 347,608 (10,018) (14,930)
+Adjustments to reconcile net income to net cash provided from operating activities: 
+Depreciation and amortization 78,860 83,832 78,856 
+Goodwill impairment 1,449,215 — —  
+Amortization of premiums, discounts and issuance costs 5,672 4,572 5,514 
+Stock-based compensation expense 35,351 37,910 28,778 
+Deferred income taxes (177,000) (25,647) (61,233)
+Other 389 (10,903) (3,782)
+Changes in assets and liabilities: 
+Accounts receivable 7,854 (43,408) 10,784 
+Prepaid expenses and other current assets (9,998) (6,074) (3,015)
+Other long-term assets 37,989 68 (2,950)
+Accounts payable and accrued expenses 104,161 45,943 34,882 
+Income taxes payable (24,119) (61,256) 73,050 
+Payments of contingent consideration liabilities (1,170) (1,093) (750)
+Long-term professional liabilities 9,844 (4,490) 18,478 
+Other liabilities (28,487) (3,957) (687) 
+Net cash provided by operating activities – continuing operations 338,467 274,108 483,367 
+Net cash provided by operating activities – discontinued operations 8,170 15,817 28,011 
+Net cash provided by operating activities 346,637 289,925 511,378 
+Cash flows from investing activities: 
+Acquisition payments, net of cash acquired (111,975) (114,491) (531,232)
+Purchases of investments (35,101) (15,884) (27,723)
+Proceeds from maturities or sales of investments 51,105 13,710 25,410 
+Purchases of property and equipment (31,881) (30,479) (26,150)
+Proceeds from sales of businesses 249,730 22,764 —  
+Other — — 6,705 
+Net cash provided by (used in) investing activities – continuing operations 121,878 (124,380) (552,990)
+Net cash used in investing activities – discontinued operations (19,423) (18,389) (23,623)
+Net cash provided by (used in) investing activities 102,455 (142,769) (576,613)
+Cash flows from financing activities: 
+Borrowings on credit agreement 1,247,300 1,723,500 2,846,000 
+Payments on credit agreement (1,986,800) (2,094,500) (2,699,000)
+Proceeds from issuance of senior notes 500,000 500,000 —  
+Payments for financing costs (9,194) (7,090) (3,525)
+Payments of contingent consideration liabilities (10,120) (5,263) (5,449)
+Payments on finance lease obligations (234) (1,339) (1,659)
+Proceeds from issuance of common stock 11,258 16,258 23,276 
+Contribution from noncontrolling interests — — 894 
+Repurchases of common stock (145,280) (302,160) (70,192)
+Net cash (used in) provided by financing activities – continuing operations (393,070) (170,594) 90,345 
+Net cash used in financing activities – discontinued operations — (17) (608)
+Net cash (used in) provided by financing activities (393,070) (170,611) 89,737 
+Net increase (decrease) in cash and cash equivalents 56,022 (23,455) 24,502 
+Cash, cash equivalents and restricted cash at beginning of year 56,745 80,200 55,698 
+Less cash and cash equivalents of discontinued operations at end of year — (11,254) (13,843)
+Cash and cash equivalents and restricted cash at end of year  $ 112,767  $ 45,491  $ 66,357 
+Supplemental disclosure of cash flow information: 
+Cash paid for: 
+Interest  $ 95,444  $ 82,540  $ 73,837 
+Income taxes  $ 86,268  $ 185,416  $ 75,427 
+Non-cash investing and financing activities: 
+Value of common stock issued for acquisitions  $ — $ — $ 2,657 
+Equipment financed through finance leases  $ — $ — $ 684 
+Property and equipment included in accounts payable  $ 2,400  $  2,415  $ 1,918 
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+ 
+83
+ 

@@ -1,0 +1,156 @@
+
+Page#1
+Part IV 57
+PayPal Holdings, Inc.
+Consolidated Balance Sheets
+As of December 31,
+2018 2017
+(In millions, except
+par value)
+ASSETS
+Current assets:
+Cash and cash equivalents $ 7,575 $ 2,883
+Short-term investments 1,534 2,812
+Accounts receivable, net 313 283
+Loans and interest receivable, net of allowances of $172 in 2018 and $129 in 2017 2,532 1,314
+Loans and interest receivable, held for sale — 6,398
+Funds receivable and customer accounts 20,062 18,242
+Prepaid expenses and other current assets 947 713
+Total current assets 32,963 32,645
+Long-term investments 971 1,961
+Property and equipment, net 1,724 1,528
+Goodwill 6,284 4,339
+Intangible assets, net 825 168
+Other assets 565 133
+Total assets $ 43,332 $40,774
+LIABILITIES AND EQUITY
+Current liabilities: A
+n
+Accounts payable $ 281 $ 257 n
+u
+Notes payable 1,998 1,000 a
+l
+R
+Funds payable and amounts due to customers 21,562 19,742
+e
+p
+Accrued expenses and other current liabilities 2,002 1,781
+o
+r
+Income taxes payable 61 83 t
+Total current liabilities 25,904 22,863
+Deferred tax liability and other long-term liabilities 2,042 1,917
+Total liabilities 27,946 24,780
+Commitments and contingencies (Note 13)
+Equity:
+Common stock, $0.0001 par value; 4,000 shares authorized; 1,174 and 1,200 shares outstanding as of
+December 31, 2018 and 2017, respectively — —
+Treasury stock at cost, 91 and 47 shares as of December 31, 2018 and 2017, respectively (5,511) (2,001)
+Additional paid-in-capital 14,939 14,314
+Retained earnings 5,880 3,823
+Accumulated other comprehensive income (loss) 78 (142)
+Total equity 15,386 15,994
+Total liabilities and equity $ 43,332 $40,774
+The accompanying notes are an integral part of these consolidated financial statements.
+www.paypal.com
+Page#2
+58 Part IV
+PayPal Holdings, Inc.
+Consolidated Statements of Income
+Year Ended December 31,
+2018 2017 2016
+(In millions, except for per
+share amounts)
+Net revenues $15,451 $13,094 $10,842
+Operating expenses:
+Transaction expense 5,581 4,419 3,346
+Transaction and loan losses 1,274 1,011 1,088
+Customer support and operations 1,482 1,364 1,267
+Sales and marketing 1,313 1,128 969
+Product development 1,071 953 834
+General and administrative 1,451 1,155 1,028
+Depreciation and amortization 776 805 724
+Restructuring and other charges 309 132 —
+Total operating expenses 13,257 10,967 9,256
+Operating income 2,194 2,127 1,586
+Other income (expense), net 182 73 45
+Income before income taxes 2,376 2,200 1,631
+Income tax expense 319 405 230
+Net income $ 2,057 $ 1,795 $ 1,401
+Net income per share:
+Basic $ 1.74 $ 1.49 $ 1.16
+Diluted $ 1.71 $ 1.47 $ 1.15
+Weighted average shares:
+Basic 1,184 1,203 1,210
+Diluted 1,203 1,221 1,218
+The accompanying notes are an integral part of these consolidated financial statements.
+2018 Annual Report
+Page#3
+Part IV 61
+PayPal Holdings, Inc.
+Consolidated Statements of Cash Flows
+Year Ended December 31,
+2018 2017 2016
+(In millions)
+Cash flows from operating activities:
+Net income $ 2,057 $ 1,795 $ 1,401
+Adjustments:
+Transaction and loan losses 1,274 1,011 1,088
+Depreciation and amortization 776 805 724
+Stock-based compensation 853 733 438
+Deferred income taxes (171) (1,299) 52
+Excess tax benefits from stock-based compensation — — (40)
+Cost basis adjustments to loans and interest receivable held for sale 244 92 —
+Other (172) (25) (24)
+Changes in assets and liabilities:
+Accounts receivable (59) 12 (77)
+Changes in loans and interest receivable held for sale, net 1,407 (1,308) 24
+Transaction loss allowance for cash losses, net (1,046) (817) (643)
+Other current assets and non-current assets (112) (188) (145)
+Accounts payable 26 62 11
+Income taxes payable (44) 19 69
+Other current liabilities and non-current liabilities 450 1,639 280
+Net cash provided by operating activities 5,483 2,531 3,158
+Cash flows from investing activities:
+Purchases of property and equipment (823) (667) (669)
+Proceeds from sales of property and equipment 3 — —
+Changes in principal loans receivable, net 3,121 (920) (1,523)
+Purchases of investments (22,381) (19,418) (21,041)
+A
+Maturities and sales of investments 21,898 18,448 18,429 n
+n
+Acquisitions, net of cash and restricted cash acquired (2,124) (323) (19)
+u
+a
+Funds receivable 1,146 (1,605) (1,081)
+l
+R
+Net cash provided by (used in) investing activities 840 (4,485) (5,904)
+e
+Cash flows from financing activities: p
+o
+Proceeds from issuance of common stock 144 144 109
+r
+t
+Purchases of treasury stock (3,520) (1,006) (995)
+Excess tax benefits from stock-based compensation — — 40
+Tax withholdings related to net share settlements of restricted stock units and restricted stock awards (419) (166) (118)
+Borrowings under financing arrangements 2,075 1,800 —
+Repayments under financing arrangements (1,115) (980) (21)
+Funds payable and amounts due to customers 1,573 4,292 3,023
+Net cash (used in) provided by financing activities (1,262) 4,084 2,038
+Effect of exchange rate changes on cash, cash equivalents, and restricted cash (113) 36 —
+Net change in cash, cash equivalents, and restricted cash 4,948 2,166 (708)
+Cash, cash equivalents, and restricted cash at beginning of period 8,285 6,119 6,827
+Cash, cash equivalents, and restricted cash at end of period $ 13,233 $ 8,285 $ 6,119
+Supplemental cash flow disclosures:
+Cash paid for interest $ 69 $ 6 $ 4
+Cash paid for income taxes, net $ 328 $ 117 $ 48
+The below table reconciles cash, cash equivalents, and restricted cash as reported in the consolidated
+balance sheets to the total of the same amounts shown in the consolidated statements of cash flows:
+Cash and cash equivalents $ 7,575 $ 2,883 $ 1,590
+Short term investments 16 15 17
+Funds receivable and customer accounts 5,642 5,387 4,512
+Total cash, cash equivalents, and restricted cash shown in the consolidated statements of cash flows $ 13,233 $ 8,285 $ 6,119
+The accompanying notes are an integral part of these consolidated financial statements.
+www.paypal.com

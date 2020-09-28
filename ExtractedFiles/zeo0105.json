@@ -1,0 +1,131 @@
+[annotation_spec_id: "4810686627938566144"
+display_name: "Year1"
+text_extraction {
+  score: 0.9991527199745178
+  text_segment {
+    start_offset: 274
+    end_offset: 278
+    content: "2019"
+  }
+}
+, annotation_spec_id: "199000609511178240"
+display_name: "Year2"
+text_extraction {
+  score: 0.9999992847442627
+  text_segment {
+    start_offset: 279
+    end_offset: 283
+    content: "2018"
+  }
+}
+, annotation_spec_id: "7116529637152260096"
+display_name: "Year3"
+text_extraction {
+  score: 0.9999988079071045
+  text_segment {
+    start_offset: 284
+    end_offset: 288
+    content: "2017"
+  }
+}
+, annotation_spec_id: "3081304371028295680"
+display_name: "TotalRevenue"
+text_extraction {
+  score: 0.9997343420982361
+  text_segment {
+    start_offset: 289
+    end_offset: 296
+    content: "Revenue"
+  }
+}
+, annotation_spec_id: "2651952776963162112"
+display_name: "Currency"
+text_extraction {
+  score: 0.978227972984314
+  text_segment {
+    start_offset: 297
+    end_offset: 298
+    content: "$"
+  }
+}
+, annotation_spec_id: "5963608132545413120"
+display_name: "COGS"
+text_extraction {
+  score: 0.9999997615814209
+  text_segment {
+    start_offset: 341
+    end_offset: 354
+    content: "Cost of sales"
+  }
+}
+, annotation_spec_id: "5903164679831683072"
+display_name: "SGA"
+text_extraction {
+  score: 0.9999964237213135
+  text_segment {
+    start_offset: 376
+    end_offset: 420
+    content: "Selling, general and administrative expenses"
+  }
+}
+, annotation_spec_id: "440650175552159744"
+display_name: "InterestExpense"
+text_extraction {
+  score: 0.9999923706054688
+  text_segment {
+    start_offset: 605
+    end_offset: 621
+    content: "Interest expense"
+  }
+}
+, annotation_spec_id: "5387147380241989632"
+display_name: "EBT"
+text_extraction {
+  score: 0.9999893307685852
+  text_segment {
+    start_offset: 706
+    end_offset: 749
+    content: "Income before provision for taxes on income"
+  }
+}
+, annotation_spec_id: "775461361814601728"
+display_name: "Taxes"
+text_extraction {
+  score: 0.9995800852775574
+  text_segment {
+    start_offset: 768
+    end_offset: 797
+    content: "Provision for taxes on income"
+  }
+}
+, annotation_spec_id: "2504843618724872192"
+display_name: "Company"
+text_extraction {
+  score: 0.7113936543464661
+  text_segment {
+    start_offset: 1288
+    end_offset: 1316
+    content: "ZOETIS INC. AND SUBSIDIARIES"
+  }
+}
+, annotation_spec_id: "2470331048240611328"
+display_name: "IncomeStatement"
+text_extraction {
+  score: 0.9985278844833374
+  text_segment {
+    start_offset: 1317
+    end_offset: 1350
+    content: "CONSOLIDATED STATEMENTS OF INCOME"
+  }
+}
+, annotation_spec_id: "1351922114118025216"
+display_name: "DandA"
+text_extraction {
+  score: 0.8775625824928284
+  text_segment {
+    start_offset: 4203
+    end_offset: 4240
+    content: "Depreciation and amortization expense"
+  }
+}
+]

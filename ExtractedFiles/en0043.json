@@ -1,0 +1,11 @@
+[annotation_spec_id: "1351922114118025216"
+display_name: "DandA"
+text_extraction {
+  score: 0.7282387614250183
+  text_segment {
+    start_offset: 1153
+    end_offset: 1224
+    content: "Depreciation, amortization, and decommissioning, including nuclear fuel"
+  }
+}
+]

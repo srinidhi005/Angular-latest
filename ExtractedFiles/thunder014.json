@@ -1,0 +1,281 @@
+[annotation_spec_id: "1168518077046849536"
+display_name: "CashEquivalents"
+text_extraction {
+  score: 0.9957767128944397
+  text_segment {
+    start_offset: 15
+    end_offset: 19
+    content: "Cash"
+  }
+}
+, annotation_spec_id: "2651952776963162112"
+display_name: "Currency"
+text_extraction {
+  score: 0.9253124594688416
+  text_segment {
+    start_offset: 26
+    end_offset: 27
+    content: "$"
+  }
+}
+, annotation_spec_id: "4066302962283053056"
+display_name: "AccountsReceivable"
+text_extraction {
+  score: 0.9385115504264832
+  text_segment {
+    start_offset: 28
+    end_offset: 47
+    content: "Accounts receivable"
+  }
+}
+, annotation_spec_id: "4428420519821312000"
+display_name: "Inventories"
+text_extraction {
+  score: 0.9999995827674866
+  text_segment {
+    start_offset: 81
+    end_offset: 92
+    content: "Inventories"
+  }
+}
+, annotation_spec_id: "7495512603548975104"
+display_name: "TotalCurrentAssets"
+text_extraction {
+  score: 0.9921145439147949
+  text_segment {
+    start_offset: 166
+    end_offset: 186
+    content: "Total current assets"
+  }
+}
+, annotation_spec_id: "4313156516858298368"
+display_name: "PPE"
+text_extraction {
+  score: 0.8899165391921997
+  text_segment {
+    start_offset: 194
+    end_offset: 216
+    content: "Property and equipment"
+  }
+}
+, annotation_spec_id: "83994991780691968"
+display_name: "Goodwill"
+text_extraction {
+  score: 0.9999938011169434
+  text_segment {
+    start_offset: 228
+    end_offset: 236
+    content: "Goodwill"
+  }
+}
+, annotation_spec_id: "6103759581203136512"
+display_name: "IntangibleAssets"
+text_extraction {
+  score: 0.9987398982048035
+  text_segment {
+    start_offset: 245
+    end_offset: 262
+    content: "Intangible assets"
+  }
+}
+, annotation_spec_id: "1730905080514740224"
+display_name: "AccountsPayable"
+text_extraction {
+  score: 0.9522400498390198
+  text_segment {
+    start_offset: 348
+    end_offset: 364
+    content: "Accounts payable"
+  }
+}
+, annotation_spec_id: "8015678360510267392"
+display_name: "AccruedLiabilities"
+text_extraction {
+  score: 0.9666109681129456
+  text_segment {
+    start_offset: 373
+    end_offset: 393
+    content: "Accrued compensation"
+  }
+}
+, annotation_spec_id: "8015678360510267392"
+display_name: "AccruedLiabilities"
+text_extraction {
+  score: 0.9494495391845703
+  text_segment {
+    start_offset: 406
+    end_offset: 425
+    content: "accrued liabilities"
+  }
+}
+, annotation_spec_id: "8015678360510267392"
+display_name: "AccruedLiabilities"
+text_extraction {
+  score: 0.8857734203338623
+  text_segment {
+    start_offset: 432
+    end_offset: 448
+    content: "Accrued interest"
+  }
+}
+, annotation_spec_id: "3789331585199767552"
+display_name: "TotalCurrentLiabilities"
+text_extraction {
+  score: 0.9298955202102661
+  text_segment {
+    start_offset: 569
+    end_offset: 594
+    content: "Total current liabilities"
+  }
+}
+, annotation_spec_id: "3101688217095634944"
+display_name: "TotalLiabilities"
+text_extraction {
+  score: 0.9933290481567383
+  text_segment {
+    start_offset: 728
+    end_offset: 745
+    content: "Total liabilities"
+  }
+}
+, annotation_spec_id: "8415372827439398912"
+display_name: "TotalShareholdersEquity"
+text_extraction {
+  score: 0.9730166792869568
+  text_segment {
+    start_offset: 1013
+    end_offset: 1039
+    content: "Total stockholders\' equity"
+  }
+}
+, annotation_spec_id: "7058522702205681664"
+display_name: "TotalAssets"
+text_extraction {
+  score: 0.5284452438354492
+  text_segment {
+    start_offset: 1048
+    end_offset: 1060
+    content: "Total assets"
+  }
+}
+, annotation_spec_id: "1975506835276300288"
+display_name: "TotalLiabilitiesAndEquity"
+text_extraction {
+  score: 0.6213864088058472
+  text_segment {
+    start_offset: 1115
+    end_offset: 1157
+    content: "Total liabilities and stockholders\' equity"
+  }
+}
+, annotation_spec_id: "6853749656648679424"
+display_name: "BalanceSheetStatement"
+text_extraction {
+  score: 0.9647687673568726
+  text_segment {
+    start_offset: 1276
+    end_offset: 1302
+    content: "Consolidated Balance Sheet"
+  }
+}
+, annotation_spec_id: "3081304371028295680"
+display_name: "TotalRevenue"
+text_extraction {
+  score: 0.8499351143836975
+  text_segment {
+    start_offset: 1590
+    end_offset: 1604
+    content: "Total revenues"
+  }
+}
+, annotation_spec_id: "5963608132545413120"
+display_name: "COGS"
+text_extraction {
+  score: 0.3880738615989685
+  text_segment {
+    start_offset: 1771
+    end_offset: 1793
+    content: "Total cost of revenues"
+  }
+}
+, annotation_spec_id: "5903164679831683072"
+display_name: "SGA"
+text_extraction {
+  score: 0.7691585421562195
+  text_segment {
+    start_offset: 1879
+    end_offset: 1905
+    content: "General and administrative"
+  }
+}
+, annotation_spec_id: "8269451141759107072"
+display_name: "EBIT"
+text_extraction {
+  score: 0.5951363444328308
+  text_segment {
+    start_offset: 1985
+    end_offset: 2005
+    content: "Loss from operations"
+  }
+}
+, annotation_spec_id: "440650175552159744"
+display_name: "InterestExpense"
+text_extraction {
+  score: 0.8637925982475281
+  text_segment {
+    start_offset: 2030
+    end_offset: 2046
+    content: "Interest expense"
+  }
+}
+, annotation_spec_id: "5387147380241989632"
+display_name: "EBT"
+text_extraction {
+  score: 0.4558204710483551
+  text_segment {
+    start_offset: 2116
+    end_offset: 2146
+    content: "Loss before income tax benefit"
+  }
+}
+, annotation_spec_id: "775461361814601728"
+display_name: "Taxes"
+text_extraction {
+  score: 0.9512399435043335
+  text_segment {
+    start_offset: 2156
+    end_offset: 2174
+    content: "Income tax benefit"
+  }
+}
+, annotation_spec_id: "7692990389455683584"
+display_name: "NetIncome"
+text_extraction {
+  score: 0.774091362953186
+  text_segment {
+    start_offset: 2182
+    end_offset: 2190
+    content: "Net loss"
+  }
+}
+, annotation_spec_id: "2470331048240611328"
+display_name: "IncomeStatement"
+text_extraction {
+  score: 0.7303781509399414
+  text_segment {
+    start_offset: 2432
+    end_offset: 2468
+    content: "Consolidated Statement of Operations"
+  }
+}
+, annotation_spec_id: "3276756856516640768"
+display_name: "Units"
+text_extraction {
+  score: 0.9961118102073669
+  text_segment {
+    start_offset: 2533
+    end_offset: 2542
+    content: "thousands"
+  }
+}
+]

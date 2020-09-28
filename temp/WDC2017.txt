@@ -1,0 +1,161 @@
+
+Page#1
+WESTERNDIGITALCORPORATION
+CONSOLIDATEDBALANCESHEETS
+(inmillions,exceptparvalue)
+June30, July1,
+2017 2016
+ASSETS
+Currentassets:
+Cashandcashequivalents ................................................... $ 6,354 $ 8,151
+Short-terminvestments .................................................... 24 227
+Accountsreceivable,net .................................................... 1,948 1,461
+Inventories .............................................................. 2,341 2,129
+Othercurrentassets ....................................................... 389 616
+Totalcurrentassets ...................................................... 11,056 12,584
+Property,plantandequipment,net ............................................. 3,033 3,503
+NotesreceivableandinvestmentsinFlashVentures ................................. 1,340 1,171
+Goodwill ................................................................. 10,014 9,951
+Otherintangibleassets,net.................................................... 3,823 5,034
+Othernon-currentassets ...................................................... 594 619
+Totalassets ............................................................ $29,860 $32,862
+LIABILITIESANDSHAREHOLDERS’EQUITY
+Currentliabilities:
+Accountspayable ......................................................... $ 2,144 $ 1,888
+AccountspayabletoFlashVentures ........................................... 206 168
+Accruedexpenses ......................................................... 1,069 995
+Accruedcompensation ..................................................... 506 392
+Accruedwarranty ......................................................... 186 172
+Bridgeloan .............................................................. — 2,995
+Currentportionoflong-termdebt ............................................ 233 339
+Totalcurrentliabilities ................................................... 4,344 6,949
+Long-termdebt............................................................. 12,918 13,660
+Otherliabilities ............................................................ 1,180 1,108
+Totalliabilities ......................................................... 18,442 21,717
+Commitmentsandcontingencies(Notes6,9,13and17)
+Shareholders’equity:
+Preferredstock,$0.01parvalue;authorized—5shares;issuedandoutstanding—none ... — —
+Commonstock,$0.01parvalue;authorized—450shares;issued—312sharesin2017
+and2016;outstanding—294sharesin2017and284sharesin2016 ............... 3 3
+Additionalpaid-incapital ................................................... 4,506 4,429
+Accumulatedothercomprehensiveincome(loss) .................................. (58) 103
+Retainedearnings ......................................................... 8,633 8,848
+Treasurystock—commonsharesatcost;18sharesin2017and28sharesin2016 ....... (1,666) (2,238)
+Totalshareholders’equity ................................................. 11,418 11,145
+Totalliabilitiesandshareholders’equity ...................................... $29,860 $32,862
+TheaccompanyingnotesareanintegralpartoftheseConsolidatedFinancialStatements.
+62
+Page#2
+WESTERNDIGITALCORPORATION
+CONSOLIDATEDSTATEMENTSOFOPERATIONS
+(inmillions,exceptpershareamounts)
+YearEnded
+June30, July1, July3,
+2017 2016 2015
+Revenue,net ..................................................... $19,093 $12,994 $14,572
+Costofrevenue ................................................... 13,021 9,559 10,351
+Grossprofit .................................................... 6,072 3,435 4,221
+Operatingexpenses:
+Researchanddevelopment ......................................... 2,441 1,627 1,646
+Selling,generalandadministrative .................................. 1,445 997 788
+Employeetermination,assetimpairment,andothercharges ............... 232 345 176
+Totaloperatingexpenses ........................................ 4,118 2,969 2,610
+Operatingincome ................................................. 1,954 466 1,611
+Interestandotherincome(expense):
+Interestincome ................................................. 26 26 14
+Interestexpense ................................................. (847) (266) (49)
+Otherincome(expense),net ........................................ (364) (73) 1
+Totalinterestandotherexpense,net ............................... (1,185) (313) (34)
+Incomebeforetaxes ................................................ 769 153 1,577
+Incometaxexpense(benefit) ......................................... 372 (89) 112
+Netincome ...................................................... $ 397 $ 242 $ 1,465
+Incomepercommonshare
+Basic ......................................................... $ 1.38 $ 1.01 $ 6.31
+Diluted ....................................................... $ 1.34 $ 1.00 $ 6.18
+Weightedaveragesharesoutstanding:
+Basic ......................................................... 288 239 232
+Diluted ....................................................... 296 242 237
+Cashdividendsdeclaredpershare ..................................... $ 2.00 $ 2.00 $ 1.80
+TheaccompanyingnotesareanintegralpartoftheseConsolidatedFinancialStatements.
+63
+Page#3
+WESTERNDIGITALCORPORATION
+CONSOLIDATEDSTATEMENTSOFCASHFLOWS
+(inmillions)
+YearEnded
+June30, July1, July3,
+2017 2016 2015
+Cashflowsfromoperatingactivities
+Netincome ...................................................... $ 397 $ 242 $1,465
+Adjustmentstoreconcilenetincometonetcashprovidedbyoperations:
+Depreciationandamortization ...................................... 2,128 1,154 1,114
+Stock-basedcompensation ......................................... 394 191 162
+Deferredincometaxes ............................................ 12 (149) 28
+Lossondisposalofassets .......................................... 18 22 17
+Write-offofissuancecostsandamortizationofdebtdiscounts .............. 285 39 —
+Lossonconvertibledebtandrelatedinstruments ........................ 5 58 —
+Non-cashportionofemployeetermination,assetimpairmentandother
+charges ..................................................... 13 41 86
+Othernon-cashoperatingactivities,net............................... 94 11 (37)
+Changesin:
+Accountsreceivable,net ........................................ (487) 466 458
+Inventories................................................... (204) 306 (143)
+Accountspayable .............................................. 223 (299) (148)
+Accountspayabletorelatedparties ................................ 38 (115) —
+Accruedarbitrationaward ....................................... — — (758)
+Accruedexpenses .............................................. 231 102 35
+Accruedcompensation .......................................... 115 (94) (134)
+Otherassetsandliabilities,net ................................... 175 8 97
+Netcashprovidedbyoperations ................................ 3,437 1,983 2,242
+Cashflowsfrominvestingactivities
+Purchasesofproperty,plantandequipment ............................. (578) (584) (612)
+Proceedsfromthesaleofproperty,plantandequipment .................... 21 — —
+Acquisitions,netofcashacquired ..................................... — (9,835) (257)
+Purchasesofinvestments ............................................ (281) (632) (857)
+Proceedsfromsaleofinvestments ..................................... 94 1,204 505
+Proceedsfrommaturitiesofinvestments ................................ 417 405 263
+InvestmentsinFlashVentures ........................................ (20) — —
+NotesreceivableissuancestoFlashVentures ............................. (549) (106) —
+NotesreceivableproceedsfromFlashVentures ........................... 292 16 —
+Strategicinvestmentsandother,net ................................... (32) (76) 5
+Netcashusedininvestingactivities ............................. (636) (9,608) (953)
+TheaccompanyingnotesareanintegralpartoftheseConsolidatedFinancialStatements.
+65
+Page#4
+WESTERNDIGITALCORPORATION
+CONSOLIDATEDSTATEMENTSOFCASHFLOWS—(Continued)
+(inmillions)
+YearEnded
+June30, July1, July3,
+2017 2016 2015
+Cashflowsfromfinancingactivities
+Issuanceofstockunderemployeestockplans............................. 235 117 212
+Taxespaidonvestedstockawardsunderemployeestockplans ............... (124) (50) (64)
+Excesstaxbenefitsfromemployeestockplans ............................ 119 7 19
+Proceedsfromacquiredcalloption .................................... 61 409 —
+Settlementofconvertibledebt ........................................ (492) (2,611) —
+Repurchasesofcommonstock ........................................ — (60) (970)
+Proceedsfromrevolvingcreditfacility .................................. — 125 —
+Repaymentofrevolvingcreditfacility .................................. — (380) —
+Dividendspaidtoshareholders ....................................... (574) (464) (396)
+Settlementofdebthedgecontracts .................................... (21) — —
+Repaymentofdebt ................................................ (11,697) (2,313) (125)
+Proceedsfromdebt ................................................ 7,908 17,108 255
+Debtissuancecosts ................................................ (10) (524) —
+Paymentuponsettlementofacquiredwarrants ........................... — (613) —
+Netcashprovidedby(usedin)financingactivities .................. (4,595) 10,751 (1,069)
+Effectofexchangeratechangesoncash ................................. (3) 1 —
+Netincrease(decrease)incashandcashequivalents ........................ (1,797) 3,127 220
+Cashandcashequivalents,beginningofyear ............................. 8,151 5,024 4,804
+Cashandcashequivalents,endofyear .................................. $ 6,354 $ 8,151 $5,024
+Supplementaldisclosureofcashflowinformation:
+Cashpaidforincometaxes ........................................... $ 184 $ 26 $ 47
+Cashpaidforinterest ............................................... $ 777 $ 113 $ 45
+Supplementaldisclosureofnon-cashinvestingandfinancingactivities:
+Commonstockissuedandequityawardsassumedinconnectionwith
+acquisition ..................................................... $ — $ 1,822 $ —
+Sharesissuedinconjunctionwithsettlementofconvertiblenotes ............. $ 16 $ 94 $ —
+Sharesreceivedinconjunctionwithassumedcalloptions ................... $ (11) $ (70) $ —
+Accrualofcashdividenddeclared ..................................... $ 147 $ 142 $ 116
+TheaccompanyingnotesareanintegralpartoftheseConsolidatedFinancialStatements.
+66

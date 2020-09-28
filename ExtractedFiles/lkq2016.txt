@@ -1,0 +1,162 @@
+
+Page#1
+LKQ CORPORATION AND SUBSIDIARIES
+Consolidated Statements of Income
+(In thousands, except per share data)
+Year Ended December 31,
+ 2016 2015 2014
+Revenue $ 8,584,031 $ 7,192,633 $ 6,740,064
+Cost of goods sold 5,232,328 4,359,104 4,088,151
+Gross margin 3,351,703 2,833,529 2,651,913
+Facility and warehouse expenses 688,918 556,041 526,291
+Distribution expenses 683,812 602,897 577,341
+Selling, general and administrative expenses 986,380 828,333 762,888
+Restructuring and acquisition related expenses 37,762 19,511 14,806
+Depreciation and amortization 191,433 122,120 120,719
+Operating income 763,398 704,627 649,868
+Other expense (income):
+Interest expense 88,263 57,860 64,542
+Loss on debt extinguishment 26,650 — 324
+Gain on foreign exchange contracts - acquisition related (18,342) — —
+Gain on bargain purchase (8,207) — —
+Interest and other income, net (2,247) (2,263) (2,886)
+Total other expense, net 86,117 55,597 61,980
+Income from continuing operations before provision for income taxes 677,281 649,030 587,888
+Provision for income taxes 220,566 219,703 204,264
+Equity in earnings (loss) of unconsolidated subsidiaries (592) (6,104) (2,105)
+Income from continuing operations 456,123 423,223 381,519
+Income from discontinued operations, net of tax 7,852 — —
+Net income $ 463,975 $ 423,223 $ 381,519
+Basic earnings per share:
+Income from continuing operations $ 1.49 $ 1.39 $ 1.26
+Income from discontinued operations 0.03 — —
+Net income (1) $ 1.51 $ 1.39 $ 1.26
+Diluted earnings per share:
+Income from continuing operations $ 1.47 $ 1.38 $ 1.25
+Income from discontinued operations 0.03 — —
+Net income (1) $ 1.50 $ 1.38 $ 1.25
+(1) The sum of the individual earnings per share amounts may not equal the total due to rounding.
+Consolidated Statements of Comprehensive Income
+(In thousands)
+Year Ended December 31,
+ 2016 2015 2014
+Net income $ 463,975 $ 423,223 $ 381,519
+Other comprehensive (loss) income:
+Foreign currency translation (175,639) (69,817) (51,979)
+Net change in unrecognized gains/losses on derivative instruments, net of tax 9,023 2,469 2,195
+Net change in unrealized gains/losses on pension plans, net of tax 4,911 2,103 (10,452)
+Total other comprehensive loss (161,705) (65,245) (60,236)
+Total comprehensive income $ 302,270 $ 357,978 $ 321,283
+The accompanying notes are an integral part of the consolidated financial statements. 
+59
+Page#2
+LKQ CORPORATION AND SUBSIDIARIES
+Consolidated Balance Sheets
+(In thousands, except share and per share data)
+December 31,
+2016 2015
+Assets
+Current Assets:
+Cash and equivalents $ 227,400 $ 87,397
+Receivables, net 860,549 590,160
+Inventories 1,935,237 1,556,552
+Prepaid expenses and other current assets 87,768 106,603
+Assets of discontinued operations 456,640 —
+Total Current Assets 3,567,594 2,340,712
+Property and Equipment, net 811,576 696,567
+Intangible Assets:
+Goodwill 3,054,769 2,319,246
+Other intangibles, net 584,231 215,117
+Equity Method Investments 183,467 2,755
+Other Assets 101,562 73,440
+Total Assets $ 8,303,199 $ 5,647,837
+Liabilities and Stockholders’ Equity
+Current Liabilities:
+Accounts payable $ 633,773 $ 415,588
+Accrued expenses:
+Accrued payroll-related liabilities 118,755 86,527
+Self-insurance reserves 39,548 37,759
+Other accrued expenses 169,553 124,466
+Other current liabilities 37,943 31,596
+Current portion of long-term obligations 66,109 56,034
+Liabilities of discontinued operations 145,104 —
+Total Current Liabilities 1,210,785 751,970
+Long-Term Obligations, Excluding Current Portion 3,275,662 1,528,668
+Deferred Income Taxes 199,657 127,239
+Other Noncurrent Liabilities 174,146 125,278
+Commitments and Contingencies
+Stockholders’ Equity:
+Common stock, $0.01 par value, 1,000,000,000 shares authorized, 307,544,759 and
+305,574,384 shares issued and outstanding at December 31, 2016 and 2015,
+respectively 3,075 3,055
+Additional paid-in capital 1,116,690 1,090,713
+Retained earnings 2,590,359 2,126,384
+Accumulated other comprehensive loss (267,175) (105,470)
+Total Stockholders' Equity 3,442,949 3,114,682
+Total Liabilities and Stockholders’ Equity $ 8,303,199 $ 5,647,837
+The accompanying notes are an integral part of the consolidated financial statements. 
+60
+Page#3
+LKQ CORPORATION AND SUBSIDIARIES
+Consolidated Statements of Cash Flows
+(In thousands)
+Year Ended December 31,
+ 2016 2015 2014
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Net income $ 463,975 $ 423,223 $ 381,519
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation and amortization 206,086 128,192 125,437
+Stock-based compensation expense 22,472 21,336 22,021
+Loss on debt extinguishment 26,650 — 324
+Impairment on net assets of discontinued operations 26,677 — —
+Gain on foreign exchange contracts - acquisition related (18,342) — —
+Gain on bargain purchase (8,207) — —
+Deferred income taxes (16,162) 22,388 6,242
+Other 19,550 7,348 6,269
+Changes in operating assets and liabilities, net of effects from acquisitions:
+Receivables, net (50,801) 14,704 (61,739)
+Inventories (64,114) (83,188) (122,590)
+Prepaid income taxes/income taxes payable 14,944 17,474 18,428
+Accounts payable 18,577 (4,222) (5,474)
+Other operating assets and liabilities (6,291) (2,973) 18,274
+Net cash provided by operating activities 635,014 544,282 388,711
+CASH FLOWS FROM INVESTING ACTIVITIES:
+Purchases of property and equipment (207,074) (170,490) (140,950)
+Acquisitions, net of cash acquired (1,349,339) (160,517) (775,921)
+Investments in unconsolidated subsidiaries (185,671) (9,682) (2,240)
+Proceeds from foreign exchange contracts 18,342 — —
+Other investing activities, net 13,814 10,696 (1,883)
+Net cash used in investing activities (1,709,928) (329,993) (920,994)
+CASH FLOWS FROM FINANCING ACTIVITIES:
+Proceeds from exercise of stock options 7,963 8,168 9,324
+Taxes paid related to net share settlements of stock-based compensation awards (4,438) (7,581) (443)
+Debt issuance costs (16,554) (97) (3,750)
+Proceeds from issuance of Euro notes 563,450 — —
+Borrowings under revolving credit facilities 2,636,596 313,142 1,587,644
+Repayments under revolving credit facilities (1,748,664) (445,282) (1,098,518)
+Borrowings under term loans 582,115 — 11,250
+Repayments under term loans (255,792) (22,500) (16,875)
+Borrowings under receivables securitization facility 106,400 3,858 95,050
+Repayments under receivables securitization facility (69,400) (35,758) (150)
+Repayments of other debt, net (31,156) (29,696) (40,051)
+Payments of Rhiag debt and related payments (543,347) — —
+Payments of other obligations (1,436) (22,791) (41,992)
+Other financing activities, net — — (300)
+Net cash provided by (used in) financing activities 1,225,737 (238,537) 501,189
+Effect of exchange rate changes on cash and equivalents (3,704) (2,960) (4,789)
+Net increase (decrease) in cash and equivalents 147,119 (27,208) (35,883)
+Cash and equivalents, beginning of period 87,397 114,605 150,488
+Cash and equivalents of continuing and discontinued operations, end of period 234,516 87,397 114,605
+Less: Cash and equivalents of discontinued operations, end of period (7,116) — —
+Cash and equivalents, end of period $ 227,400 $ 87,397 $ 114,605
+Supplemental disclosure of cash paid for:
+Income taxes, net of refunds $ 230,036 $ 180,126 $ 176,955
+Interest 86,021 54,917 59,678
+Supplemental disclosure of noncash investing and financing activities:
+Notes payable and other financing obligations, including notes issued and debt
+568,032 $ 28,348 $ 96,258
+assumed in connection with business acquisitions
+Non-cash property and equipment additions 10,715 8,846 2,293
+Contingent consideration liabilities — — 5,854
+The accompanying notes are an integral part of the consolidated financial statements. 
+61

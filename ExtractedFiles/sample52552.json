@@ -1,0 +1,70 @@
+[annotation_spec_id: "2504843618724872192"
+display_name: "Company"
+text_extraction {
+  score: 0.9999979138374329
+  text_segment {
+    end_offset: 10
+    content: "HoldCo Inc"
+  }
+}
+, annotation_spec_id: "2470331048240611328"
+display_name: "IncomeStatement"
+text_extraction {
+  score: 0.9525856971740723
+  text_segment {
+    start_offset: 12
+    end_offset: 44
+    content: "Consolidated Statement of Income"
+  }
+}
+, annotation_spec_id: "4810686627938566144"
+display_name: "Year1"
+text_extraction {
+  score: 0.8075692057609558
+  text_segment {
+    start_offset: 60
+    end_offset: 64
+    content: "2017"
+  }
+}
+, annotation_spec_id: "199000609511178240"
+display_name: "Year2"
+text_extraction {
+  score: 0.9649198055267334
+  text_segment {
+    start_offset: 65
+    end_offset: 69
+    content: "2018"
+  }
+}
+, annotation_spec_id: "7116529637152260096"
+display_name: "Year3"
+text_extraction {
+  score: 0.8533134460449219
+  text_segment {
+    start_offset: 70
+    end_offset: 74
+    content: "2019"
+  }
+}
+, annotation_spec_id: "5963608132545413120"
+display_name: "COGS"
+text_extraction {
+  score: 0.9988453388214111
+  text_segment {
+    start_offset: 95
+    end_offset: 113
+    content: "Cost of goods sold"
+  }
+}
+, annotation_spec_id: "3657765123331719168"
+display_name: "GrossProfit"
+text_extraction {
+  score: 0.9999887347221375
+  text_segment {
+    start_offset: 123
+    end_offset: 135
+    content: "Gross Profit"
+  }
+}
+]

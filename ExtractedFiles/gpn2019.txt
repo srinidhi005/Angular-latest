@@ -1,0 +1,134 @@
+
+Page#1
+GLOBAL PAYMENTS INC.
+CONSOLIDATED STATEMENTS OF INCOME
+(in thousands, except per share data)
+Years Ended December 31,
+2019 2018 2017
+Revenues $4,911,892 $3,366,366 $3,975,163
+Operating expenses:
+Cost of service 2,073,803 1,095,014 1,928,037
+Selling, general and administrative 2,046,672 1,534,297 1,488,258
+4,120,475 2,629,311 3,416,295
+Operating income 791,417 737,055 558,868
+Interest and other income 31,413 20,719 8,662
+Interest and other expense (304,905) (195,619) (174,847)
+(273,492) (174,900) (166,185)
+Income before income taxes and equity in income of equity method
+investments 517,925 562,155 392,683
+Income tax (expense) benefit (62,190) (77,488) 101,387
+Income before equity in income of equity method investments 455,735 484,667 494,070
+Equity in income of equity method investments, net of tax 13,541 — —
+Net income 469,276 484,667 494,070
+Less: Net income attributable to noncontrolling interests (38,663) (32,614) (25,645)
+Net income attributable to Global Payments $ 430,613 $ 452,053 $ 468,425
+Earnings per share attributable to Global Payments:
+Basic earnings per share $ 2.17 $ 2.85 $ 3.03
+Diluted earnings per share $ 2.16 $ 2.84 $ 3.01
+See Notes to Consolidated Financial Statements.
+GLOBAL PAYMENTS INC. | 2019 Form 10-K Annual Report – 53
+Page#2
+GLOBAL PAYMENTS INC.
+CONSOLIDATED BALANCE SHEETS
+(in thousands, except share data)
+December 31, December 31,
+2019 2018
+ASSETS
+Current assets:
+Cash and cash equivalents $ 1,678,273 $ 1,210,878
+Accounts receivable, net 895,232 348,400
+Settlement processing assets 1,353,778 1,600,222
+Prepaid expenses and other current assets 439,165 216,708
+Total current assets 4,366,448 3,376,208
+Goodwill 23,759,740 6,341,355
+Other intangible assets, net 13,154,655 2,488,618
+Property and equipment, net 1,382,802 653,542
+Deferred income taxes 6,292 8,128
+Other noncurrent assets 1,810,225 362,923
+Total assets $44,480,162 $13,230,774
+LIABILITIES AND EQUITY
+Current liabilities:
+Settlement lines of credit $ 463,237 $ 700,486
+Current portion of long-term debt 35,137 115,075
+Accounts payable and accrued liabilities 1,822,166 1,176,703
+Settlement processing obligations 1,258,806 1,276,356
+Total current liabilities 3,579,346 3,268,620
+Long-term debt 9,090,364 5,015,168
+Deferred income taxes 3,145,641 585,025
+Other noncurrent liabilities 609,822 175,618
+Total liabilities 16,425,173 9,044,431
+Commitments and contingencies
+Equity:
+Preferred stock, no par value; 5,000,000 shares authorized and none issued — —
+Common stock, no par value; 400,000,000 shares authorized at December 31, 2019 and 200,000,000
+shares authorized at December 31, 2018; 300,225,590 shares issued and outstanding at
+December 31, 2019 and 157,961,982 shares issued and outstanding at December 31, 2018 — —
+Paid-in capital 25,833,307 2,235,167
+Retained earnings 2,333,011 2,066,415
+Accumulated other comprehensive loss (310,571) (310,175)
+Total Global Payments shareholders’ equity 27,855,747 3,991,407
+Noncontrolling interests 199,242 194,936
+Total equity 28,054,989 4,186,343
+Total liabilities and equity $44,480,162 $13,230,774
+See Notes to Consolidated Financial Statements.
+GLOBAL PAYMENTS INC. | 2019 Form 10-K Annual Report – 55
+Page#3
+GLOBAL PAYMENTS INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(in thousands)
+Years Ended December 31,
+2019 2018 2017
+Cash flows from operating activities:
+Net income
+$ 469,276 $ 484,667 $ 494,070
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation and amortization of property and equipment
+211,200 145,128 113,273
+Amortization of acquired intangibles
+667,135 377,685 337,878
+Amortization of capitalized contract costs
+66,086 51,541 45,098
+Share-based compensation expense
+89,634 57,826 39,095
+Provision for operating losses and bad debts
+100,188 43,237 48,443
+Noncash lease expense
+52,612 — —
+Deferred income taxes
+(108,309) (1,451) (250,670)
+Other, net
+(570) (8,025) 44,070
+Changes in operating assets and liabilities, net of the effects of business combinations:
+Accounts receivable (115,528) (33,386) (14,096)
+Settlement processing assets and obligations, net 213,701 83,478 (361,673)
+Prepaid expenses and other assets (159,056) (160,800) (129,427)
+Accounts payable and other liabilities (95,091) 66,182 146,327
+Net cash provided by operating activities
+1,391,278 1,106,082 512,388
+Cash flows from investing activities:
+Acquisitions, net of cash acquired (644,622) (1,259,692) (562,688)
+Capital expenditures (307,868) (213,290) (181,905)
+Proceeds from sale-and-leaseback transaction — — 37,565
+Other, net
+35,404 (3,305) (28,997)
+Net cash used in investing activities
+(917,086) (1,476,287) (736,025)
+Cash flows from financing activities:
+Net (repayments of) borrowings from settlement lines of credit (236,473) 70,783 221,532
+Proceeds from long-term debt 7,203,903 2,774,214 1,994,324
+Repayments of long-term debt (6,484,689) (2,304,314) (1,781,541)
+Payments of debt issuance costs (43,599) (16,345) (9,520)
+Repurchases of common stock (311,383) (208,198) (34,811)
+Proceeds from stock issued under share-based compensation plans 24,514 14,318 10,115
+Common stock repurchased — share-based compensation plans (62,577) (31,510) (31,761)
+Distributions to noncontrolling interests (31,632) (5,686) (9,301)
+Preacquisition dividends paid to former TSYS shareholders (23,240) — —
+Dividends paid (63,498) (6,332) (6,732)
+Net cash (used in) provided by financing activities
+(28,674) 286,930 352,305
+Effect of exchange rate changes on cash 21,877 (41,702) 44,408
+Increase (decrease) in cash and cash equivalents 467,395 (124,977) 173,076
+Cash and cash equivalents, beginning of the period 1,210,878 1,335,855 1,162,779
+Cash and cash equivalents, end of the period $ 1,678,273 $ 1,210,878 $ 1,335,855
+See Notes to Consolidated Financial Statements.
+56 – GLOBAL PAYMENTS INC. | 2019 Form 10-K Annual Report

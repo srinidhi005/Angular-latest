@@ -1,0 +1,126 @@
+
+Page#1
+Table of Contents
+NETFLIX, INC.
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(in thousands, except per share data)
+ 
+ 
+ Year ended December 31,
+ 
+ 2018 2017 2016
+Revenues $ 15,794,341 $ 11,692,713 $ 8,830,669
+Cost of revenues 9,967,538 8,033,000 6,257,462
+Marketing 2,369,469 1,436,281 1,097,519
+Technology and development 1,221,814 953,710 780,232
+General and administrative 630,294 431,043 315,663
+Operating income 1,605,226 838,679 379,793
+Other income (expense):
+Interest expense (420,493) (238,204) (150,114)
+Interest and other income (expense) 41,725 (115,154) 30,828
+Income before income taxes 1,226,458 485,321 260,507
+Provision for (benefit from) income taxes 15,216 (73,608) 73,829
+Net income $ 1,211,242 $ 558,929 $ 186,678
+Earnings per share:
+Basic $ 2.78 $ 1.29 $ 0.44
+Diluted $ 2.68 $ 1.25 $ 0.43
+Weighted-average common shares outstanding:
+Basic 435,374 431,885 428,822
+Diluted 451,244 446,814 438,652
+See accompanying notes to consolidated financial statements.
+40
+Page#2
+Table of Contents
+NETFLIX, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(in thousands)
+Year Ended December 31,
+2018 2017 2016
+Cash flows from operating activities:
+Net income $ 1,211,242 $ 558,929 $ 186,678
+Adjustments to reconcile net income to net cash used in operating activities:
+Additions to streaming content assets (13,043,437) (9,805,763) (8,653,286)
+Change in streaming content liabilities 999,880 900,006 1,772,650
+Amortization of streaming content assets 7,532,088 6,197,817 4,788,498
+Amortization of DVD content assets 41,212 60,657 78,952
+Depreciation and amortization of property, equipment and intangibles 83,157 71,911 57,528
+Stock-based compensation expense 320,657 182,209 173,675
+Excess tax benefits from stock-based compensation — — (65,121)
+Other non-cash items 40,428 57,207 40,909
+Foreign currency remeasurement loss (gain) on long-term debt (73,953) 140,790 —
+Deferred taxes (85,520) (208,688) (46,847)
+Changes in operating assets and liabilities:
+Other current assets (200,192) (234,090) 46,970
+Accounts payable 199,198 74,559 32,247
+Accrued expenses 150,422 114,337 68,706
+Deferred revenue 142,277 177,974 96,751
+Other non-current assets and liabilities 2,062 (73,803) (52,294)
+Net cash used in operating activities (2,680,479) (1,785,948) (1,473,984)
+Cash flows from investing activities:
+Purchases of property and equipment (173,946) (173,302) (107,653)
+Acquisition of DVD content assets (38,586) (53,720) (77,177)
+Other assets (126,588) (6,689) (941)
+Purchases of short-term investments — (74,819) (187,193)
+Proceeds from sale of short-term investments — 320,154 282,484
+Proceeds from maturities of short-term investments — 22,705 140,245
+Net cash provided by (used in) investing activities (339,120) 34,329 49,765
+Cash flows from financing activities:
+Proceeds from issuance of debt 3,961,852 3,020,510 1,000,000
+Issuance costs (35,871) (32,153) (10,700)
+Proceeds from issuance of common stock 124,502 88,378 36,979
+Excess tax benefits from stock-based compensation — — 65,121
+Other financing activities (1,956) 255 230
+Net cash provided by financing activities 4,048,527 3,076,990 1,091,630
+Effect of exchange rate changes on cash, cash equivalents and restricted cash (39,682) 29,848 (9,165)
+Net increase (decrease) in cash, cash equivalents and restricted cash 989,246 1,355,219 (341,754)
+Cash, cash equivalents and restricted cash, beginning of year 2,822,795 1,467,576 1,809,330
+Cash, cash equivalents and restricted cash, end of year $ 3,812,041 $ 2,822,795 $ 1,467,576
+Supplemental disclosure:
+Income taxes paid $ 131,069 $ 113,591 $ 26,806
+Interest paid 375,831 213,313 138,566
+Increase (decrease) in investing activities included in liabilities 2,560 (32,643) 27,504
+See accompanying notes to consolidated financial statements.
+42
+Page#3
+Table of Contents
+NETFLIX, INC.
+CONSOLIDATED BALANCE SHEETS
+(in thousands, except share and per share data)
+ 
+ As of December 31,
+ 
+ 2018 2017
+Assets
+Current assets:
+Cash and cash equivalents $ 3,794,483 $ 2,822,795
+Current content assets, net 5,151,186 4,310,934
+Other current assets 748,466 536,245
+Total current assets 9,694,135 7,669,974
+Non-current content assets, net 14,960,954 10,371,055
+Property and equipment, net 418,281 319,404
+Other non-current assets 901,030 652,309
+Total assets $ 25,974,400 $ 19,012,742
+Liabilities and Stockholders’ Equity
+Current liabilities:
+Current content liabilities $ 4,686,019 $ 4,173,041
+Accounts payable 562,985 359,555
+Accrued expenses 477,417 315,094
+Deferred revenue 760,899 618,622
+Total current liabilities 6,487,320 5,466,312
+Non-current content liabilities 3,759,026 3,329,796
+Long-term debt 10,360,058 6,499,432
+Other non-current liabilities 129,231 135,246
+Total liabilities 20,735,635 15,430,786
+Commitments and contingencies (Note 5)
+Stockholders’ equity:
+Preferred stock, $0.001 par value; 10,000,000 shares authorized at December 31,
+2018 and 2017; no shares issued and outstanding at December 31, 2018 and 2017 — —
+Common stock, $0.001 par value; 4,990,000,000 shares authorized at December 31,
+2018 and December 31, 2017, respectively; 436,598,597 and 433,392,686 issued
+and outstanding at December 31, 2018 and December 31, 2017, respectively 2,315,988 1,871,396
+Accumulated other comprehensive loss (19,582) (20,557)
+Retained earnings 2,942,359 1,731,117
+Total stockholders’ equity 5,238,765 3,581,956
+Total liabilities and stockholders’ equity $ 25,974,400 $ 19,012,742
+See accompanying notes to consolidated financial statements.
+43

@@ -1,0 +1,140 @@
+
+Page#1
+DOVER CORPORATION
+CONSOLIDATED STATEMENTS OF EARNINGS
+(In thousands, except per share figures)
+ Years Ended December 31,
+ 2017 2016 2015
+Revenue $ 7,830,436 $ 6,794,342 $ 6,956,311
+Cost of goods and services 4,940,059 4,322,373 4,388,167
+Gross profit 2,890,377 2,471,969 2,568,144
+Selling, general and administrative expenses 1,975,932 1,757,523 1,647,382
+Operating earnings 914,445 714,446 920,762
+Interest expense 145,208 136,401 131,676
+Interest income (8,502) (6,759) (4,419)
+Gain on sale of businesses (203,138) (96,598) —
+Other expense (income), net 7,034 (7,930) (7,105)
+Earnings before provision for income taxes and discontinued operations 973,843 689,332 800,610
+Provision for income taxes 162,178 180,440 204,729
+Net earnings from continuing operations 811,665 508,892 595,881
+Earnings from discontinued operations, net — — 273,948
+Net earnings $ 811,665 $ 508,892 $ 869,829
+Earnings per share from continuing operations:
+Basic $ 5.21 $ 3.28 $ 3.78
+Diluted $ 5.15 $ 3.25 $ 3.74
+Earnings per share from discontinued operations:
+Basic $ — $ — $ 1.74
+Diluted $ — $ — $ 1.72
+Net earnings per share:
+Basic $ 5.21 $ 3.28 $ 5.52
+Diluted $ 5.15 $ 3.25 $ 5.46
+Weighted average shares outstanding:
+Basic 155,685 155,231 157,619
+Diluted 157,744 156,636 159,172
+Dividends paid per common share $ 1.82 $ 1.72 $ 1.64
+ 
+See Notes to Consolidated Financial Statements
+55
+Page#2
+DOVER CORPORATION
+CONSOLIDATED BALANCE SHEETS
+(In thousands, except share and per share amounts)
+ December 31, 2017 December 31, 2016
+Assets
+Current assets:  
+Cash and cash equivalents $ 753,964 $ 349,146
+Receivables, net of allowances of $39,232 and $22,015 1,385,567 1,265,201
+Inventories 878,635 870,487
+Prepaid and other current assets 188,954 104,357
+Total current assets 3,207,120 2,589,191
+Property, plant and equipment, net 999,772 945,670
+Goodwill 4,591,912 4,562,677
+Intangible assets, net 1,609,927 1,802,923
+Other assets and deferred charges 248,922 215,530
+Total assets $ 10,657,653 $ 10,115,991
+Liabilities and Stockholders' Equity
+Current liabilities:  
+Notes payable and current maturities of long-term debt $ 581,102 $ 414,550
+Accounts payable 979,446 830,318
+Accrued compensation and employee benefits 258,394 226,440
+Accrued insurance 101,910 96,062
+Other accrued expenses 356,099 332,595
+Federal and other income taxes 21,242 40,353
+Total current liabilities 2,298,193 1,940,318
+Long-term debt 2,986,702 3,206,637
+Deferred income taxes 438,841 710,173
+Other liabilities 550,737 459,117
+Stockholders' equity:  
+Preferred stock - $100 par value; 100,000 shares authorized; none issued — —
+Common stock - $1 par value; 500,000,000 shares authorized;
+256,992,261 and 256,537,535 shares issued at December 31, 2017 and
+256,992 256,538
+2016
+Additional paid-in capital 942,485 946,755
+Retained earnings 8,455,501 7,927,795
+Accumulated other comprehensive loss (194,759) (359,326)
+Treasury stock, at cost: 102,168,868 and 101,109,186 shares at
+December 31, 2017 and 2016 (5,077,039) (4,972,016)
+Total stockholders' equity 4,383,180 3,799,746
+Total liabilities and stockholders' equity $ 10,657,653 $ 10,115,991
+See Notes to Consolidated Financial Statements
+57
+Page#3
+DOVER CORPORATION
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(In thousands)
+Years Ended December 31,
+2017 2016 2015
+Operating Activities of Continuing Operations
+Net earnings $ 811,665 $ 508,892 $ 869,829
+Adjustments to reconcile net earnings to cash from operating activities:
+Earnings from discontinued operations, net — — (273,948)
+Depreciation and amortization 394,240 360,739 327,089
+Stock-based compensation 26,528 21,015 30,697
+Gain on sale of businesses (203,138) (96,598) —
+Provision for losses on accounts receivable (net of recoveries) 11,295 10,641 5,946
+Deferred income taxes (170,859) (79,414) (5,916)
+Employee benefit plan expense 13,238 26,492 34,253
+Contributions to employee benefit plans (20,464) (25,691) (21,942)
+Other, net (52,108) (34,718) (2,258)
+Cash effect of changes in assets and liabilities (excluding effects of acquisitions,
+dispositions and foreign exchange):
+Accounts receivable (104,706) (44,649) 37,916
+Inventories (12,557) 25,858 63,129
+Prepaid expenses and other assets (11,136) 2,589 (7,401)
+Accounts payable 124,051 58,695 42,925
+Accrued compensation and employee benefits 29,059 (12,596) (71,090)
+Accrued expenses and other liabilities (34,234) 45,371 (19,765)
+Accrued taxes 20,685 95,349 (60,405)
+Net cash provided by operating activities of continuing operations 821,559 861,975 949,059
+Investing Activities of Continuing Operations
+Additions to property, plant and equipment (196,735) (165,205) (154,251)
+Acquisitions (net of cash and cash equivalents acquired) (36,031) (1,561,737) (567,843)
+Proceeds from sale of property, plant and equipment 15,322 17,749 14,604
+Proceeds from sale of businesses 372,666 206,407 689,314
+Settlement of net investment hedge — — (17,752)
+Other 21,151 (1,057) 1,350
+Net cash provided by (used in) investing activities of continuing operations 176,373 (1,503,843) (34,578)
+Financing Activities of Continuing Operations
+Proceeds from long-term debt — 656,399 394,300
+Proceeds from exercise of share-based awards, including tax benefits — 8,431 4,024
+Change in commercial paper and notes payable, net (183,194) 254,834 (327,000)
+Repayment of long-term debt — (2,017) (300,048)
+Dividends to stockholders (283,959) (268,339) (257,969)
+Purchase of common stock (105,023) — (600,164)
+Payments for employee tax obligations upon exercise of share-based awards (18,443) (15,700) (5,029)
+Other (4,120) — —
+Net cash (used in) provided by financing activities of continuing operations (594,739) 633,608 (1,091,886)
+Cash Flows from Discontinued Operations
+Net cash used in operating activities of discontinued operations — — (113,946)
+Net cash used in investing activities of discontinued operations — — (1,984)
+Net cash used in discontinued operations — — (115,930)
+Effect of exchange rate changes on cash and cash equivalents 1,625 (4,779) (26,061)
+Net increase (decrease) in cash and cash equivalents 404,818 (13,039) (319,396)
+Cash and cash equivalents at beginning of year 349,146 362,185 681,581
+Cash and cash equivalents at end of year $ 753,964 $ 349,146 $ 362,185
+Supplemental information - cash paid during the year for:
+Income taxes $ 337,987 $ 170,394 $ 346,382
+Interest $ 140,863 $ 131,184 $ 128,151
+See Notes to Consolidated Financial Statements
+59

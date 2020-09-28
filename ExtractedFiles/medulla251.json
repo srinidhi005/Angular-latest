@@ -1,0 +1,91 @@
+[annotation_spec_id: "3081304371028295680"
+display_name: "TotalRevenue"
+text_extraction {
+  score: 0.8064892292022705
+  text_segment {
+    start_offset: 1469
+    end_offset: 1477
+    content: "revenues"
+  }
+}
+, annotation_spec_id: "5963608132545413120"
+display_name: "COGS"
+text_extraction {
+  score: 0.9913846850395203
+  text_segment {
+    start_offset: 1569
+    end_offset: 1591
+    content: "Total cost of revenues"
+  }
+}
+, annotation_spec_id: "3657765123331719168"
+display_name: "GrossProfit"
+text_extraction {
+  score: 0.9999988675117493
+  text_segment {
+    start_offset: 1603
+    end_offset: 1615
+    content: "Gross profit"
+  }
+}
+, annotation_spec_id: "5903164679831683072"
+display_name: "SGA"
+text_extraction {
+  score: 0.5477137565612793
+  text_segment {
+    start_offset: 1689
+    end_offset: 1710
+    content: "Selling and marketing"
+  }
+}
+, annotation_spec_id: "440650175552159744"
+display_name: "InterestExpense"
+text_extraction {
+  score: 0.9922232031822205
+  text_segment {
+    start_offset: 1871
+    end_offset: 1887
+    content: "Interest expense"
+  }
+}
+, annotation_spec_id: "8269451141759107072"
+display_name: "EBIT"
+text_extraction {
+  score: 0.997402548789978
+  text_segment {
+    start_offset: 1934
+    end_offset: 1954
+    content: "Loss from operations"
+  }
+}
+, annotation_spec_id: "2504843618724872192"
+display_name: "Company"
+text_extraction {
+  score: 0.9540355801582336
+  text_segment {
+    start_offset: 2205
+    end_offset: 2260
+    content: "TVG\342\200\223Medulla Holdings, LLC, Subsidiaries, and Affiliates"
+  }
+}
+, annotation_spec_id: "2470331048240611328"
+display_name: "IncomeStatement"
+text_extraction {
+  score: 0.9798123240470886
+  text_segment {
+    start_offset: 2261
+    end_offset: 2293
+    content: "Consolidated Statement of Income"
+  }
+}
+, annotation_spec_id: "1351922114118025216"
+display_name: "DandA"
+text_extraction {
+  score: 0.990950345993042
+  text_segment {
+    start_offset: 3478
+    end_offset: 3490
+    content: "Depreciation"
+  }
+}
+]

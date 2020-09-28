@@ -1,0 +1,130 @@
+
+Page#1
+CARTER’S, INC.
+CONSOLIDATED BALANCE SHEETS
+(dollars in thousands, except for share data)
+December 31, January 2,
+2016 2016
+ASSETS
+Current assets:
+Cash and cash equivalents $ 299,358 $ 381,209
+Accounts receivable, net 202,471 207,570
+Finished goods inventories 487,591 469,934
+Prepaid expenses and other current assets 32,180 37,815
+Deferred income taxes 35,486 34,080
+Total current assets 1,057,086 1,130,608
+Property, plant, and equipment, net 385,874 371,704
+Tradenames and other intangible assets, net 308,928 310,848
+Goodwill  176,009 174,874
+Other assets  18,700 15,620
+Total assets  $1,946,597 $2,003,654
+LIABILITIES AND STOCKHOLDERS’ EQUITY
+Current liabilities:
+Accounts payable  $ 158,432 $ 157,648
+Other current liabilities 119,177 105,070
+Total current liabilities 277,609 262,718
+Long-term debt, net  580,376 578,972
+Deferred income taxes  130,656 128,838
+Other long-term liabilities 169,832 158,075
+Total liabilities  1,158,473 1,128,603
+Commitments and contingencies—Note 17
+Stockholders’ equity:
+Preferred stock; par value $.01 per share; 100,000 shares authorized; none issued
+or outstanding at December 31, 2016 and January 2, 2016 — —
+Common stock, voting; par value $.01 per share; 150,000,000 shares authorized;
+48,948,670 and 51,764,309 shares issued and outstanding at December 31, 2016
+and January 2, 2016, respectively 489 518
+Additional paid-in capital — —
+Accumulated other comprehensive loss (34,740) (36,367)
+Retained earnings  822,375 910,900
+Total stockholders’ equity 788,124 875,051
+Total liabilities and stockholders’ equity $1,946,597 $2,003,654
+See accompanying notes to the consolidated financial statements.
+54
+Page#2
+CARTER’S, INC.
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(dollars in thousands, except per share data)
+For the fiscal years ended
+December 31, January 2, January 3,
+2016 2016 2015
+(52 Weeks) (52 Weeks) (53 Weeks)
+Net sales  $3,199,184 $3,013,879 $2,893,868
+Cost of goods sold 1,820,035 1,755,855 1,709,428
+Gross profit 1,379,149 1,258,024 1,184,440
+Selling, general, and administrative expenses 995,406 909,233 890,251
+Royalty income (42,815) (44,066) (39,156)
+Operating income 426,558 392,857 333,345
+Interest expense 27,044 27,031 27,653
+F
+Interest income (563) (500) (403)
+o
+r
+Other expense (income), net 4,007 (1,862) 3,189
+m
+1
+Income before income taxes 396,070 368,188 302,906
+0
+-
+Provision for income taxes 137,964 130,366 108,236 K
+Net income $ 258,106 $ 237,822 $ 194,670
+Basic net income per common share $ 5.13 $ 4.55 $ 3.65
+Diluted net income per common share $ 5.08 $ 4.50 $ 3.62
+Dividend declared and paid per common share $ 1.32 $ 0.88 $ 0.76
+See accompanying notes to the consolidated financial statements.
+55
+Page#3
+CARTER’S, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(dollars in thousands)
+For the fiscal years ended
+December 31, January 2, January 3,
+2016 2016 2015
+(52 Weeks) (52 Weeks) (53 Weeks)
+Cash flows from operating activities:
+Net income $ 258,106 $ 237,822 $ 194,670
+Adjustments to reconcile net income to net cash provided by
+operating activities:
+Depreciation and amortization 71,522 61,982 58,487
+Amortization of tradenames 1,919 6,417 16,437
+Accretion of contingent consideration — 809 1,348
+Amortization of debt issuance costs 1,461 1,603 1,533
+Non-cash stock-based compensation expense 16,847 17,029 17,598
+Unrealized foreign currency exchange loss, net 33 4 2,378
+Income tax benefit from stock-based compensation (4,800) (8,839) (4,700)
+Loss on disposal of property, plant, and equipment 1,167 870 1,157 F
+o
+Deferred income taxes 1,294 8,657 3,911 r
+m
+Effect of changes in operating assets and liabilities:
+1
+0
+Accounts receivable, net 5,041 (23,837) 8,405
+-
+K
+Inventories (17,482) (34,352) (32,151)
+Prepaid expenses and other assets 2,060 (3,496) (2,719)
+Accounts payable and other liabilities 32,061 43,318 16,043
+Net cash provided by operating activities 369,229 307,987 282,397
+Cash flows from investing activities:
+Capital expenditures (88,556) (103,497) (103,453)
+Acquisition of tradenames — — (3,550)
+Proceeds from sale of property, plant, and equipment 216 72 2,271
+Net cash used in investing activities (88,340) (103,425) (104,732)
+Cash flows from financing activities:
+Payments of debt issuance costs — (1,628) (177)
+Borrowings under secured revolving credit facility — 205,586 —
+Payments on secured revolving credit facility — (205,237) —
+Repurchases of common stock (300,445) (110,290) (82,099)
+Payment of contingent consideration — (7,572) (8,901)
+Dividends paid (66,355) (46,028) (40,477)
+Income tax benefit from stock-based compensation 4,800 8,839 4,700
+Withholdings of taxes from vesting of restricted stock (8,673) (12,651) (4,548)
+Proceeds from exercise of stock options 7,166 6,976 9,064
+Net cash used in financing activities (363,507) (162,005) (122,438)
+Net effect of exchange rate changes on cash 767 (1,986) (1,135)
+Net (decrease) increase in cash and cash equivalents (81,851) 40,571 54,092
+Cash and cash equivalents, beginning of fiscal year 381,209 340,638 286,546
+Cash and cash equivalents, end of fiscal year $ 299,358 $ 381,209 $ 340,638
+See accompanying notes to the consolidated financial statements.
+57

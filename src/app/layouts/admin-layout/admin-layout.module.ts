@@ -17,6 +17,7 @@ import {LoginComponent} from "../../pages/login/login.component";
 import { NgbModule } from "@ng-bootstrap/ng-bootstrap";
 import {ProfileComponent} from "../../pages/user/profile.component";
 
+
 @NgModule({
   imports: [
     CommonModule,

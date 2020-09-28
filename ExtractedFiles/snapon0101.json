@@ -1,0 +1,161 @@
+[annotation_spec_id: "4810686627938566144"
+display_name: "Year1"
+text_extraction {
+  score: 0.9999405741691589
+  text_segment {
+    start_offset: 45
+    end_offset: 49
+    content: "2019"
+  }
+}
+, annotation_spec_id: "199000609511178240"
+display_name: "Year2"
+text_extraction {
+  score: 0.9999830722808838
+  text_segment {
+    start_offset: 50
+    end_offset: 54
+    content: "2018"
+  }
+}
+, annotation_spec_id: "7116529637152260096"
+display_name: "Year3"
+text_extraction {
+  score: 0.9999971985816956
+  text_segment {
+    start_offset: 55
+    end_offset: 59
+    content: "2017"
+  }
+}
+, annotation_spec_id: "3081304371028295680"
+display_name: "TotalRevenue"
+text_extraction {
+  score: 0.9999966025352478
+  text_segment {
+    start_offset: 64
+    end_offset: 69
+    content: "sales"
+  }
+}
+, annotation_spec_id: "2651952776963162112"
+display_name: "Currency"
+text_extraction {
+  score: 0.9558345079421997
+  text_segment {
+    start_offset: 70
+    end_offset: 71
+    content: "$"
+  }
+}
+, annotation_spec_id: "5963608132545413120"
+display_name: "COGS"
+text_extraction {
+  score: 0.9999728202819824
+  text_segment {
+    start_offset: 100
+    end_offset: 118
+    content: "Cost of goods sold"
+  }
+}
+, annotation_spec_id: "3657765123331719168"
+display_name: "GrossProfit"
+text_extraction {
+  score: 1.0
+  text_segment {
+    start_offset: 149
+    end_offset: 161
+    content: "Gross profit"
+  }
+}
+, annotation_spec_id: "8269451141759107072"
+display_name: "EBIT"
+text_extraction {
+  score: 0.9765713214874268
+  text_segment {
+    start_offset: 235
+    end_offset: 253
+    content: "Operating earnings"
+  }
+}
+, annotation_spec_id: "8269451141759107072"
+display_name: "EBIT"
+text_extraction {
+  score: 0.9192419648170471
+  text_segment {
+    start_offset: 392
+    end_offset: 410
+    content: "Operating earnings"
+  }
+}
+, annotation_spec_id: "8269451141759107072"
+display_name: "EBIT"
+text_extraction {
+  score: 0.9999986290931702
+  text_segment {
+    start_offset: 453
+    end_offset: 471
+    content: "Operating earnings"
+  }
+}
+, annotation_spec_id: "440650175552159744"
+display_name: "InterestExpense"
+text_extraction {
+  score: 0.9999999403953552
+  text_segment {
+    start_offset: 490
+    end_offset: 506
+    content: "Interest expense"
+  }
+}
+, annotation_spec_id: "5387147380241989632"
+display_name: "EBT"
+text_extraction {
+  score: 0.9992237687110901
+  text_segment {
+    start_offset: 571
+    end_offset: 599
+    content: "Earnings before income taxes"
+  }
+}
+, annotation_spec_id: "775461361814601728"
+display_name: "Taxes"
+text_extraction {
+  score: 0.9987892508506775
+  text_segment {
+    start_offset: 638
+    end_offset: 656
+    content: "Income tax expense"
+  }
+}
+, annotation_spec_id: "7692990389455683584"
+display_name: "NetIncome"
+text_extraction {
+  score: 0.52818763256073
+  text_segment {
+    start_offset: 771
+    end_offset: 783
+    content: "Net earnings"
+  }
+}
+, annotation_spec_id: "2504843618724872192"
+display_name: "Company"
+text_extraction {
+  score: 0.6594475507736206
+  text_segment {
+    start_offset: 1189
+    end_offset: 1194
+    content: "Snap-"
+  }
+}
+, annotation_spec_id: "1351922114118025216"
+display_name: "DandA"
+text_extraction {
+  score: 0.8709656596183777
+  text_segment {
+    start_offset: 3581
+    end_offset: 3593
+    content: "Depreciation"
+  }
+}
+]

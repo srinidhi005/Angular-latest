@@ -1,0 +1,161 @@
+[annotation_spec_id: "2504843618724872192"
+display_name: "Company"
+text_extraction {
+  score: 0.3930842876434326
+  text_segment {
+    start_offset: 138
+    end_offset: 164
+    content: "Co., Inc. and subsidiaries"
+  }
+}
+, annotation_spec_id: "4810686627938566144"
+display_name: "Year1"
+text_extraction {
+  score: 0.9927060604095459
+  text_segment {
+    start_offset: 452
+    end_offset: 456
+    content: "2020"
+  }
+}
+, annotation_spec_id: "2470331048240611328"
+display_name: "IncomeStatement"
+text_extraction {
+  score: 0.9987989068031311
+  text_segment {
+    start_offset: 551
+    end_offset: 583
+    content: "Consolidated Statement of Income"
+  }
+}
+, annotation_spec_id: "2504843618724872192"
+display_name: "Company"
+text_extraction {
+  score: 0.9999462366104126
+  text_segment {
+    start_offset: 584
+    end_offset: 601
+    content: "Merck & Co., Inc."
+  }
+}
+, annotation_spec_id: "3276756856516640768"
+display_name: "Units"
+text_extraction {
+  score: 0.9908928871154785
+  text_segment {
+    start_offset: 649
+    end_offset: 657
+    content: "millions"
+  }
+}
+, annotation_spec_id: "4810686627938566144"
+display_name: "Year1"
+text_extraction {
+  score: 0.9999996423721313
+  text_segment {
+    start_offset: 684
+    end_offset: 688
+    content: "2019"
+  }
+}
+, annotation_spec_id: "199000609511178240"
+display_name: "Year2"
+text_extraction {
+  score: 1.0
+  text_segment {
+    start_offset: 689
+    end_offset: 693
+    content: "2018"
+  }
+}
+, annotation_spec_id: "7116529637152260096"
+display_name: "Year3"
+text_extraction {
+  score: 0.9999995827674866
+  text_segment {
+    start_offset: 694
+    end_offset: 698
+    content: "2017"
+  }
+}
+, annotation_spec_id: "3081304371028295680"
+display_name: "TotalRevenue"
+text_extraction {
+  score: 0.9997771382331848
+  text_segment {
+    start_offset: 699
+    end_offset: 704
+    content: "Sales"
+  }
+}
+, annotation_spec_id: "2651952776963162112"
+display_name: "Currency"
+text_extraction {
+  score: 0.99969482421875
+  text_segment {
+    start_offset: 705
+    end_offset: 706
+    content: "$"
+  }
+}
+, annotation_spec_id: "5963608132545413120"
+display_name: "COGS"
+text_extraction {
+  score: 0.9999922513961792
+  text_segment {
+    start_offset: 758
+    end_offset: 771
+    content: "Cost of sales"
+  }
+}
+, annotation_spec_id: "5903164679831683072"
+display_name: "SGA"
+text_extraction {
+  score: 0.9999356269836426
+  text_segment {
+    start_offset: 793
+    end_offset: 828
+    content: "Selling, general and administrative"
+  }
+}
+, annotation_spec_id: "5387147380241989632"
+display_name: "EBT"
+text_extraction {
+  score: 0.9999153017997742
+  text_segment {
+    start_offset: 991
+    end_offset: 1010
+    content: "Income Before Taxes"
+  }
+}
+, annotation_spec_id: "775461361814601728"
+display_name: "Taxes"
+text_extraction {
+  score: 0.9897264242172241
+  text_segment {
+    start_offset: 1030
+    end_offset: 1045
+    content: "Taxes on Income"
+  }
+}
+, annotation_spec_id: "7692990389455683584"
+display_name: "NetIncome"
+text_extraction {
+  score: 0.9999752044677734
+  text_segment {
+    start_offset: 1064
+    end_offset: 1074
+    content: "Net Income"
+  }
+}
+, annotation_spec_id: "1351922114118025216"
+display_name: "DandA"
+text_extraction {
+  score: 0.9999536871910095
+  text_segment {
+    start_offset: 4455
+    end_offset: 4484
+    content: "Depreciation and amortization"
+  }
+}
+]

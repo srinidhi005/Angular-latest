@@ -1,0 +1,131 @@
+[annotation_spec_id: "4810686627938566144"
+display_name: "Year1"
+text_extraction {
+  score: 0.9999999403953552
+  text_segment {
+    start_offset: 18
+    end_offset: 22
+    content: "2019"
+  }
+}
+, annotation_spec_id: "199000609511178240"
+display_name: "Year2"
+text_extraction {
+  score: 1.0
+  text_segment {
+    start_offset: 23
+    end_offset: 27
+    content: "2018"
+  }
+}
+, annotation_spec_id: "7116529637152260096"
+display_name: "Year3"
+text_extraction {
+  score: 0.9999998807907104
+  text_segment {
+    start_offset: 28
+    end_offset: 32
+    content: "2017"
+  }
+}
+, annotation_spec_id: "5963608132545413120"
+display_name: "COGS"
+text_extraction {
+  score: 0.18201705813407898
+  text_segment {
+    start_offset: 308
+    end_offset: 332
+    content: "Total operating revenues"
+  }
+}
+, annotation_spec_id: "5903164679831683072"
+display_name: "SGA"
+text_extraction {
+  score: 0.9999497532844543
+  text_segment {
+    start_offset: 509
+    end_offset: 544
+    content: "Selling, general and administrative"
+  }
+}
+, annotation_spec_id: "8269451141759107072"
+display_name: "EBIT"
+text_extraction {
+  score: 0.9998868107795715
+  text_segment {
+    start_offset: 1006
+    end_offset: 1029
+    content: "Operating (loss) income"
+  }
+}
+, annotation_spec_id: "440650175552159744"
+display_name: "InterestExpense"
+text_extraction {
+  score: 0.9999112486839294
+  text_segment {
+    start_offset: 1242
+    end_offset: 1258
+    content: "Interest expense"
+  }
+}
+, annotation_spec_id: "5387147380241989632"
+display_name: "EBT"
+text_extraction {
+  score: 0.3981631100177765
+  text_segment {
+    start_offset: 1283
+    end_offset: 1343
+    content: "(Loss) income from continuing operations before income taxes"
+  }
+}
+, annotation_spec_id: "775461361814601728"
+display_name: "Taxes"
+text_extraction {
+  score: 0.6121455430984497
+  text_segment {
+    start_offset: 1376
+    end_offset: 1394
+    content: "Income tax benefit"
+  }
+}
+, annotation_spec_id: "7692990389455683584"
+display_name: "NetIncome"
+text_extraction {
+  score: 0.7447472214698792
+  text_segment {
+    start_offset: 1568
+    end_offset: 1585
+    content: "Net (loss) income"
+  }
+}
+, annotation_spec_id: "2504843618724872192"
+display_name: "Company"
+text_extraction {
+  score: 0.986075222492218
+  text_segment {
+    start_offset: 2591
+    end_offset: 2606
+    content: "EQT CORPORATION"
+  }
+}
+, annotation_spec_id: "2470331048240611328"
+display_name: "IncomeStatement"
+text_extraction {
+  score: 0.42318958044052124
+  text_segment {
+    start_offset: 2624
+    end_offset: 2661
+    content: "STATEMENTS OF CONSOLIDATED OPERATIONS"
+  }
+}
+, annotation_spec_id: "1351922114118025216"
+display_name: "DandA"
+text_extraction {
+  score: 0.7789700627326965
+  text_segment {
+    start_offset: 2978
+    end_offset: 3004
+    content: "Depreciation and depletion"
+  }
+}
+]

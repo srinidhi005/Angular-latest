@@ -1,0 +1,11 @@
+[annotation_spec_id: "1351922114118025216"
+display_name: "DandA"
+text_extraction {
+  score: 0.9959415793418884
+  text_segment {
+    start_offset: 2497
+    end_offset: 2509
+    content: "Depreciation"
+  }
+}
+]

@@ -17,18 +17,18 @@ var http=require('http');
 var request = require('request')
 var kue = require('kue')
 let queue = kue.createQueue();
-var jade=require('jade');
+
 const jsonfile = require('jsonfile')
 var moment = require('moment');
 
 var fs = require('fs');
 const {Storage} = require('@google-cloud/storage');
-const cloudstorage = new Storage();
+const cloudStorage = new Storage();
 const bucketName= 'sample_pdf';
 
 var storage = multer.diskStorage({
   destination: function (req, file, cb) {
-    cb(null, './uploads')
+    cb(null, './ExtractedFiles')
   },
   filename: function (req, file, cb) {
     cb(null, file.originalname)
@@ -47,14 +47,14 @@ var db = require('./models');
 // that the password is correct and then invoke `cb` with a user object, which
 // will be set at `req.user` in route handlers after authentication.
 passport.use(new Strategy(
-    function(email, password, cb) {
+    function(username, password, cb) {
         db.users.findOne({
           where: {
-            email: email
+            username: username
           },
           raw: true
         }).then(user => {
-console.log(user)
+			console.log(user)
           if (!user) { return cb(null, false); }
           if (user.password != password) { return cb(null, false); }
           return cb(null, user);
@@ -63,8 +63,8 @@ console.log(user)
         })
     }
 ));
- 
- 
+  
+  
 // Configure Passport authenticated session persistence.
 //
 // In order to restore authentication state across HTTP requests, Passport needs
@@ -75,7 +75,7 @@ console.log(user)
 passport.serializeUser(function(user, cb) {
   cb(null, user.id);
 });
- 
+  
 passport.deserializeUser(function(id, cb) {
   db.users.findByPk(id).then(data => {
     var user = data.get({plain: true})
@@ -88,15 +88,18 @@ passport.deserializeUser(function(id, cb) {
 var indexRouter = require('./routes/index');
 
 var app = express();
-const port=process.env.PORT || 3010;
+
 // view engine setup
- app.set('view engine', 'jade');
- app.set('view engine', 'ejs');
+
+const port=process.env.PORT || 3010;
+app.set('views', path.join(__dirname, 'views'));
+app.set('view engine', 'jade');
+app.set('view engine', 'ejs');
 app.use(express.static(__dirname + '/dist/'));
 app.use(express.static(__dirname + '/views/'));
 app.use(logger('dev'));
-// app.use('/public' ,express.static('public'))
-app.use(express.static(path.join(__dirname, 'public')));
+
+app.use('/public' ,express.static('public'))
 app.use('/output' ,express.static('output'))
 app.use('/2ExtractionJSON' ,express.static('2ExtractionJSON'))
 app.use(cookieParser());
@@ -108,17 +111,6 @@ app.use(session({
   resave: false,
   saveUninitialized: true,
 }))
-
-app.use(require('express-session')({
-secret: 'rmi insight',
-resave: false,
-saveUninitialized: false
-}))
-
-
-
-
-
 app.use(passport.initialize());
 app.use(passport.session());
 
@@ -126,9 +118,10 @@ app.use('/', indexRouter(passport));
 
 app.post('/upload', upload.single('file'), function (req, res, next) {
   var {company, period} = req.body;
-  var filename = req.file.filename;
-  filename = filename.replace(/&/g,'');
-  var filepath = 'uploads/'+filename
+  // var filename = req.file.filename;
+  var filename = req.body.company + ".pdf";
+  filename = filename.replace(/ /g, '');
+  var filepath = 'ExtractedFiles/'+filename
   fs.renameSync(req.file.path, filepath);
   req.file = Object.assign({}, req.file, {filename: filename, path: filepath})
   db.statement.create({
@@ -138,9 +131,10 @@ app.post('/upload', upload.single('file'), function (req, res, next) {
     period: req.body.period,
     filename: req.file.filename
   }).then(data => {
-    var company = '2ExtractionJSON'//company.replace(/ /g, '_')
+    // company = company.replace(/ /g, '_')
+
     var job = queue.create('pdf', Object.assign({}, req.file, req.body, {statementId: data.get('id')}));
-    var folderName = path.join(__dirname, 'output', company); //company+'-'+period
+    var folderName = path.join(__dirname, 'output', company+'-'+period);
     if (!fs.existsSync(folderName)) {
       fs.mkdirSync(folderName);
     }
@@ -156,13 +150,12 @@ app.post('/upload', upload.single('file'), function (req, res, next) {
     console.log(err)
     res.status(500).status({status: "Internal Server Error"})
   })
-	 
 })
 
 app.post('/doc', function (req, res, next) {
   var validation = function() {
     var {companyName, companyUUID, documentUUID, filePath} = req.body;
-    if ((companyName && companyName != '')  && (companyUUID && companyUUID != '') &&
+    if ((companyName && companyName != '')  && (companyUUID && companyUUID != '') && 
     (documentUUID && documentUUID != '') && (filePath && filePath != '')) {
       return true;
     } else {
@@ -179,7 +172,7 @@ app.post('/doc', function (req, res, next) {
       extension = '.xlsx';
     }
     filename = req.body.documentUUID + extension;
-    var file = fs.createWriteStream('uploads/' + filename);
+    var file = fs.createWriteStream('ExtractedFiles/' + filename);
     https.get(req.body.filePath, function(response) {
       response.pipe(file);
       file.on('finish', function() {
@@ -197,7 +190,7 @@ app.post('/doc', function (req, res, next) {
             console.log(data.get({plain: true}))
             var job = queue.create('pdf', Object.assign({}, req.body, {
               company: req.body.companyName,
-              path: 'uploads/' + filename,
+              path: 'ExtractedFiles/' + filename,
               statementId: data.get('id'),
               filename: filename,
               originalname: filename
@@ -210,31 +203,31 @@ app.post('/doc', function (req, res, next) {
             job.save(function(err, data, data1) {
               if (err) {
                 console.log(err);
-                res.status(500).send({status: "Internal Server Error Level0"});
+                res.status(500).send({status: "Internal Server Error"});
               } else {
                 res.status(200).send({status: "FILE UPLOADED SUCCESSLY"});
               }
             })
           }).catch(err => {
             console.log(err);
-            res.status(500).send({status: "Internal Server Error Level1"});
+            res.status(500).send({status: "Internal Server Error"});
           })
         })
       });
     }).on('error', function(err) {
       console.log(err);
-      fs.unlinkSync(filename);
-      res.status(500).send({status: "Internal Server Error Level2"});
+      //fs.unlinkSync(filename);
+      res.status(500).send({status: "Internal Server Error"});
     })
   } else {
     res.status(400).send({errMsg: "Data is missing"});
   }
 })
 
-/*app.post('/file_data', function(req, res, next) {
+app.post('/file_data', function(req, res, next) {
   var {id, company, documentUUID, period} = req.query;
-  var foldername = '2ExtractionJSON'//company.replace(/ /g, '_');
-  foldername = foldername //+ '-' + (period || 'N');
+  var foldername = company.replace(/ /g, '_');
+  foldername = foldername + '-' + (period || 'N');
   var getPeriodValue = function(value, date) {
     if (typeof value !== 'string') {
       return "";
@@ -370,10 +363,10 @@ app.post('/doc', function (req, res, next) {
       var obj = jsonData[0], filepath = path.join(__dirname, 'output', el);
       if (index == 1) obj = jsonData[1];
       if (index == 2) obj = jsonData[2];
-console.log(filepath);
+	console.log(filepath);	
       promises.push(jsonfile.writeFile (filepath, obj));
-   
-})
+    
+	})
     return Promise.all(promises);
   }).then(() => {
     var promises = [];
@@ -388,7 +381,7 @@ console.log(filepath);
     if (documentUUID && documentUUID != '') {
       return db.statement.findOne({where: {id: id}, raw: true}).then(data => {
         var rmiJson = {
-          "company": data.company,
+          "company": data.company, 
           "units": jsonData[0].units,
           "currency": jsonData[0].currency,
           "period": data.period, // possible values [Y=yearly/M=monthly/Q=quartely]
@@ -411,8 +404,8 @@ console.log(filepath);
     res.status(200).send({status: 'SUCCESS'})
   })
 })
-*/
-/*app.get('/file_output', function(req, res, next) {
+
+app.get('/file_output', function(req, res, next) {
   // var foldername = req.query.file.replace(/ /g, '_');
   var files;
   var foldername =  '2ExtractionJSON'// + '-' + req.query.period;// foldername + '-' + req.query.period;
@@ -488,7 +481,7 @@ console.log(filepath);
         obj.asof = date;
         if (jsonData.type == 'statement_of_income') {
           if (obj.additional) {
-            obj.additional[date] = el.Additional
+            obj.additional[date] = el.Additional 
           } else {
             obj.additional = {[date]: el.Additional};
           }
@@ -555,46 +548,66 @@ console.log(filepath);
         "type":  jsonData.type
       };
     })
-    rimraf.sync(path.join(__dirname, 'output', foldername));
+    //rimraf.sync(path.join(__dirname, 'output', foldername));
     res.status(200).send({data: resp, dataCopy: JSON.stringify(resp)})
   }).catch(err => {
     console.log(err);
     res.status(500).send({status: "Internal Server Error"})
   })
 })
-*/
- //function isLoggedIn(req, res, next) {
- // if (req.isAuthenticated())
-   //    return next();
-   //res.redirect('/');
-//	 res.sendStatus(401);
-// }
 
-//function isLoggedIn() {
- // return function(req, res, next) {
-    // isAuthenticated is set by `deserializeUser()`
-   // if (!req.isAuthenticated || !req.isAuthenticated()) {
-     // res.status(401).send({
-       // success: false,
-       // message: 'You need to be authenticated to access this page!'
-    //  })
-    //} else {
-     // next()
-    //}
- // }
-//}
-
-
-// app.get("/statement",isLoggedIn,function(req,res){
-// res.render('statement');
-// })
- app.use(express.static(__dirname + '/dist/'));
-
-const server = http.createServer(app);
-server.listen(port,()=>console.log("yay! running its UP..."));
-app.get("#/source",function (req,res){
-  res.sendFile(path.join(__dirname));
+app.get("/index",function(req,res){
+	res.render('index');
 })
+app.get("/index2",function(req,res){
+	res.render('index2');
+})
+app.get("/subscribe",function(req,res){
+	res.render('subscribe');
+})
+ 
+app.get("/login",function(req,res){
+    res.render('login');
+})
+app.get("/register",function(req,res){
+    res.render('register');
+})
+app.get("/source",function(req,res){
+    res.render('source');
+})
+
+app.get("/subscribe login",function(req,res){
+    res.render('subscribe login');
+})
+app.get("/charts",function(req,res){
+    res.render('high Charts');
+})
+app.get("/file",function(req,res){
+    res.render('file upload');
+})
+app.get("/excel",function(req,res){
+    res.render('email');
+})
+app.get("/connect",function(req,res){
+    res.render('quickbooks');
+})
+
+app.get("/financial",function(req,res){
+	res.render('financial');
+})
+app.get("/target",function(req,res){
+	res.render('targetvsactual');
+})
+app.get("/actual",function(req,res){
+	res.render('actuals');
+})
+app.get("/adjust",function(req,res){
+	res.render('AdjustAsm');
+})
+app.get("/statement",function(req,res){
+	res.render('statements');
+})
+
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
   next(createError(404));
@@ -613,64 +626,3 @@ app.use(function(err, req, res, next) {
 });
 
 module.exports = app;
-
-
-
-
-
-
-
-// ////////
-var getBackTo = function (req) {
-  var backTo = req.session.backTo || '/';
-  delete req.session.backTo;
-  return backTo;
-};
-
-var getUser = function (req) {
-  var user = req.session.user;
-
-  if (user == null) {
-    throw('Error');
-  } else {
-    return user;
-  }
-};
-
-var getUserOrLogin = function (req, res, next) {
-  var user = req.session.user;
-
- if (user == null) {
-    req.session.backTo = req.originalUrl;
-    res.redirect('/login');
- } else {
-    req.user = user;
-    next();
-  }
-};
-
-var redirectWithMessage = function (message, url, req, res) {
-  req.session.messages = message;
-  res.redirect(url);
-};
-
-// Return 'messages' value or null instead
-var getMessages = function (req) {
-  var messages = req.session.messages || null;
-  delete req.session.messages;
-  return messages;
-};
-
-// Set an error message and redirect
-var redirectWithError = function (error, url, req, res) {
-  req.session.errors = error;
-  res.redirect(url);
-};
-
-// Return 'errors' value or null instead
-var getErrors = function (req) {
-  var errors = req.session.errors || null;
-  delete req.session.errors;
-  return errors;
-};
-

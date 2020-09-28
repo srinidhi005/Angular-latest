@@ -116,7 +116,9 @@
    > tfoot > tr > td{
    
        padding: 12px 7px;
-       vertical-align: middle;
+       padding-left:0px;
+       padding-right:48px;
+      vertical-align: middle;
    }
 
    &.table-shopping tbody tr:last-child td{

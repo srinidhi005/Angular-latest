@@ -1,0 +1,141 @@
+[annotation_spec_id: "4810686627938566144"
+display_name: "Year1"
+text_extraction {
+  score: 0.9308320879936218
+  text_segment {
+    start_offset: 4223
+    end_offset: 4227
+    content: "2019"
+  }
+}
+, annotation_spec_id: "199000609511178240"
+display_name: "Year2"
+text_extraction {
+  score: 0.998966634273529
+  text_segment {
+    start_offset: 4228
+    end_offset: 4232
+    content: "2018"
+  }
+}
+, annotation_spec_id: "7116529637152260096"
+display_name: "Year3"
+text_extraction {
+  score: 0.9858721494674683
+  text_segment {
+    start_offset: 4233
+    end_offset: 4237
+    content: "2017"
+  }
+}
+, annotation_spec_id: "3081304371028295680"
+display_name: "TotalRevenue"
+text_extraction {
+  score: 0.9985033869743347
+  text_segment {
+    start_offset: 4242
+    end_offset: 4247
+    content: "sales"
+  }
+}
+, annotation_spec_id: "5963608132545413120"
+display_name: "COGS"
+text_extraction {
+  score: 0.9999903440475464
+  text_segment {
+    start_offset: 4379
+    end_offset: 4397
+    content: "Cost of goods sold"
+  }
+}
+, annotation_spec_id: "3657765123331719168"
+display_name: "GrossProfit"
+text_extraction {
+  score: 0.9999886155128479
+  text_segment {
+    start_offset: 4512
+    end_offset: 4524
+    content: "Gross profit"
+  }
+}
+, annotation_spec_id: "5903164679831683072"
+display_name: "SGA"
+text_extraction {
+  score: 0.9999678730964661
+  text_segment {
+    start_offset: 4772
+    end_offset: 4817
+    content: "Selling, general, and administrative expenses"
+  }
+}
+, annotation_spec_id: "8269451141759107072"
+display_name: "EBIT"
+text_extraction {
+  score: 0.999968409538269
+  text_segment {
+    start_offset: 4997
+    end_offset: 5013
+    content: "Operating income"
+  }
+}
+, annotation_spec_id: "440650175552159744"
+display_name: "InterestExpense"
+text_extraction {
+  score: 0.9998133182525635
+  text_segment {
+    start_offset: 5122
+    end_offset: 5138
+    content: "Interest expense"
+  }
+}
+, annotation_spec_id: "440650175552159744"
+display_name: "InterestExpense"
+text_extraction {
+  score: 0.9444705247879028
+  text_segment {
+    start_offset: 5248
+    end_offset: 5263
+    content: "Interest income"
+  }
+}
+, annotation_spec_id: "5387147380241989632"
+display_name: "EBT"
+text_extraction {
+  score: 0.9994045495986938
+  text_segment {
+    start_offset: 5591
+    end_offset: 5617
+    content: "Income before income taxes"
+  }
+}
+, annotation_spec_id: "775461361814601728"
+display_name: "Taxes"
+text_extraction {
+  score: 0.9999425411224365
+  text_segment {
+    start_offset: 5710
+    end_offset: 5736
+    content: "Provision for income taxes"
+  }
+}
+, annotation_spec_id: "7692990389455683584"
+display_name: "NetIncome"
+text_extraction {
+  score: 0.9993537068367004
+  text_segment {
+    start_offset: 5828
+    end_offset: 5838
+    content: "Net income"
+  }
+}
+, annotation_spec_id: "2504843618724872192"
+display_name: "Company"
+text_extraction {
+  score: 0.2862669825553894
+  text_segment {
+    start_offset: 10935
+    end_offset: 10944
+    content: "CARTER\342\200\231S,"
+  }
+}
+]

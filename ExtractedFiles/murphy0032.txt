@@ -1,0 +1,147 @@
+
+Page#1
+Murphy USA Inc.
+Consolidated Balance Sheets
+December 31,
+ 
+(Millions of dollars, except share amounts) 2019 2018
+  
+Assets
+  
+Current assets
+Cash and cash equivalents $ 280.3 $ 184.5
+Accounts receivable—trade, less allowance for doubtful accounts of
+$1.2 in 2019 and $1.1 in 2018 172.9 138.8
+Inventories, at lower of cost or market 227.6 221.5
+Prepaid expenses and other current assets 30.0 25.3
+Total current assets 710.8 570.1
+Property, plant and equipment, at cost less accumulated depreciation
+and amortization of $1,079.2 in 2019 and $974.2 in 2018 1,807.3 1,748.2
+Other assets 169.1 42.5
+Total assets $ 2,687.2 $ 2,360.8
+Liabilities and Stockholders' Equity  
+  
+Current liabilities
+Current maturities of long-term debt $ 38.8 $ 21.2
+Trade accounts payable and accrued liabilities 466.2 456.9
+Total current liabilities 505.0 478.1
+Long-term debt, including capitalized lease obligations 999.3 842.1
+Deferred income taxes 216.7 192.2
+Asset retirement obligations 32.8 30.7
+Deferred credits and other liabilities 130.4 10.4
+Total liabilities 1,884.2 1,553.5
+  
+Stockholders' Equity
+ Preferred Stock, par $0.01, (authorized 20,000,000 shares,
+none outstanding) — —
+  
+ Common Stock, par $0.01, (authorized 200,000,000 shares,
+46,767,164 shares issued at December 31, 2019 and 2018, respectively) 0.5 0.5
+Treasury stock (16,307,048 and 14,505,681 shares held at
+December 31, 2019 and 2018, respectively) (1,099.8) (940.3)
+Additional paid in capital (APIC) 538.7 539.0
+Retained earnings 1,362.9 1,208.1
+Accumulated other comprehensive income (AOCI) 0.7 —
+Total stockholders' equity 803.0 807.3
+Total liabilities and stockholders' equity $ 2,687.2 $ 2,360.8
+ 
+See accompanying notes to consolidated financial statements.
+F-5
+Page#2
+Murphy USA Inc.
+Consolidated Income Statements
+ Years Ended December 31,
+(Millions of dollars except per share amounts) 2019 2018 2017
+ 
+Operating Revenues
+Petroleum product sales 1 $ 11,373.8 $ 11,858.4 $ 10,287.9
+Merchandise sales 2,620.1 2,423.0 2,372.7
+Other operating revenues 40.7 81.5 166.0
+Total operating revenues 14,034.6 14,362.9 12,826.6
+ 
+Operating Expenses
+Petroleum product cost of goods sold 1 10,707.4 11,251.1 9,773.2
+Merchandise cost of goods sold 2,200.7 2,022.5 1,991.4
+Station and other operating expenses 559.3 541.3 514.9
+Depreciation and amortization 152.2 134.0 116.9
+Selling, general and administrative 144.6 136.2 141.2
+Accretion of asset retirement obligations 2.1 2.0 1.8
+Total operating expenses 13,766.3 14,087.1 12,539.4
+Net settlement proceeds 0.1 50.4 —
+Gain (loss) on sale of assets 0.1 (1.1) (3.9)
+Income from operations 268.5 325.1 283.3
+ 
+Other income (expense)
+Interest income 3.2 1.5 1.3
+Interest expense (54.9) (52.9) (46.7)
+Loss on early debt extinguishment (14.8) — —
+Other nonoperating income (expense) 0.4 0.2 2.2
+Total other income (expense) (66.1) (51.2) (43.2)
+Income before income taxes 202.4 273.9 240.1
+Income tax expense (benefit) 47.6 60.3 (5.2)
+Net Income $ 154.8 $ 213.6 $ 245.3
+ 
+Basic and Diluted Earnings Per Common Share:
+Basic $ 4.90 $ 6.54 $ 6.85
+Diluted $ 4.86 $ 6.48 $ 6.78
+ 
+Weighted-average shares outstanding (in thousands):
+Basic 31,594 32,674 35,816
+Diluted 31,858 32,983 36,156
+ 
+Supplemental information:
+ 1 Includes excise taxes of: $ 1,933.3 $ 1,838.9 $ 1,973.1
+ 
+See accompanying notes to consolidated financial statements.
+F-6
+Page#3
+Murphy USA Inc.
+Consolidated Statements of Cash Flows
+ 
+ Years Ended December 31,
+(Millions of dollars) 2019 2018 2017
+ 
+Operating Activities
+Net income $ 154.8 $ 213.6 $ 245.3
+Adjustments to reconcile net income to net cash provided by
+ 
+operating activities
+Depreciation and amortization 152.2 134.0 116.9
+Deferred and noncurrent income tax charges (benefits) 23.7 37.9 (50.4)
+Loss on early debt extinguishment 14.8 — —
+Accretion of asset retirement obligations 2.1 2.0 1.8
+Pretax (gains) losses from sale of assets (0.1) 1.1 3.9
+Net decrease (increase) in noncash operating working
+capital (48.7) 2.3 (36.9)
+Other operating activities - net 14.5 7.8 3.0
+Net cash provided by operating activities 313.3 398.7 283.6
+ 
+Investing Activities
+Property additions (204.8) (204.3) (258.3)
+Proceeds from sale of assets 2.5 1.2 0.9
+Other investing activities - net (0.8) (6.0) (4.7)
+Net cash required by investing activities (203.1) (209.1) (262.1)
+ 
+Financing Activities
+Purchase of treasury stock (165.8) (144.4) (206.0)
+Repayments of debt (573.4) (21.3) (131.4)
+Borrowings of debt 743.8 — 338.8
+Early debt extinguishment costs (10.4) — —
+Debt issuance costs (4.1) — (1.1)
+Amounts related to share-based compensation (4.5) (9.4) (5.6)
+Net cash required by financing activities (14.4) (175.1) (5.3)
+Net change in cash, cash equivalents, and restricted cash 95.8 14.5 16.2
+Cash, cash equivalents, and restricted cash at January 1 184.5 170.0 153.8
+Cash, cash equivalents, and restricted cash at December 31 $ 280.3 $ 184.5 $ 170.0
+Reconciliation of Cash, Cash Equivalents and Restricted
+Cash
+Cash and Cash equivalents at beginning of period $ 184.5 $ 170.0 $ 153.8
+Restricted cash at beginning of period — — —
+Cash, cash equivalents, and restricted cash at beginning of
+period $ 184.5 $ 170.0 $ 153.8
+Cash and cash equivalents at end of period $ 280.3 $ 184.5 $ 170.0
+Restricted cash at end of period — — —
+Cash, cash equivalents, and restricted cash at end of period $ 280.3 $ 184.5 $ 170.0
+ 
+See accompanying notes to consolidated financial statements.
+F-8

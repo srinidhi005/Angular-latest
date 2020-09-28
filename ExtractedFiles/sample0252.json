@@ -1,0 +1,30 @@
+[annotation_spec_id: "2504843618724872192"
+display_name: "Company"
+text_extraction {
+  score: 0.9998672604560852
+  text_segment {
+    end_offset: 10
+    content: "HoldCo Inc"
+  }
+}
+, annotation_spec_id: "5963608132545413120"
+display_name: "COGS"
+text_extraction {
+  score: 0.9995832443237305
+  text_segment {
+    start_offset: 95
+    end_offset: 113
+    content: "Cost of goods sold"
+  }
+}
+, annotation_spec_id: "3657765123331719168"
+display_name: "GrossProfit"
+text_extraction {
+  score: 0.9999884963035583
+  text_segment {
+    start_offset: 123
+    end_offset: 135
+    content: "Gross Profit"
+  }
+}
+]

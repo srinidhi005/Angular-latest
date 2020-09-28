@@ -1,0 +1,21 @@
+[annotation_spec_id: "2470331048240611328"
+display_name: "IncomeStatement"
+text_extraction {
+  score: 0.9976305365562439
+  text_segment {
+    start_offset: 22
+    end_offset: 58
+    content: "Consolidated Statement of Operations"
+  }
+}
+, annotation_spec_id: "1351922114118025216"
+display_name: "DandA"
+text_extraction {
+  score: 0.9809865355491638
+  text_segment {
+    start_offset: 9065
+    end_offset: 9116
+    content: "Depreciation, depletion, amortization and accretion"
+  }
+}
+]

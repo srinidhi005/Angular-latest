@@ -1,0 +1,130 @@
+
+Page#1
+ZOETIS INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF INCOME
+Year Ended December 31,
+(MILLIONS OF DOLLARS AND SHARES, EXCEPT PER SHARE DATA) 2018 2017 2016
+Revenue $ 5,825 $ 5,307 $ 4,888
+Costs and expenses:
+Cost of sales(a) 1,911 1,775 1,666
+Selling, general and administrative expenses(a) 1,484 1,334 1,364
+Research and development expenses(a) 432 382 376
+Amortization of intangible assets 117 91 85
+Restructuring charges and certain acquisition-related costs 68 19 5
+Interest expense, net of capitalized interest 206 175 166
+Other (income)/deductions––net (83) 6 (2)
+Income before provision for taxes on income 1,690 1,525 1,228
+Provision for taxes on income 266 663 409
+Net income before allocation to noncontrolling interests 1,424 862 819
+  Less: Net loss attributable to noncontrolling interests (4) (2) (2)
+Net income attributable to Zoetis $ 1,428 $ 864 $ 821
+Earnings per share attributable to Zoetis Inc. stockholders:
+ Basic $ 2.96 $ 1.76 $ 1.66
+ Diluted $ 2.93 $ 1.75 $ 1.65
+Weighted-average common shares outstanding:
+ Basic 483.063 489.918 495.715
+ Diluted 486.898 493.161 498.225
+Dividends declared per common share $ 0.542 $ 0.441 $ 0.390
+(a) Exclusive of amortization of intangible assets, except as disclosed in Note 3. Significant Accounting Policies—Amortization of Intangible Assets, Depreciation and 
+Certain Long-Lived Assets. 
+See Notes to Consolidated Financial Statements, which are an integral part of these statements.
+63 |
+Page#2
+ZOETIS INC. AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS 
+December 31, December 31,
+(MILLIONS OF DOLLARS, EXCEPT PER SHARE DATA) 2018 2017
+Assets
+Cash and cash equivalents(a) $ 1,602 $ 1,564
+Short-term investments 99 —
+Accounts receivable, less allowance for doubtful accounts of $24 in 2018 and $25 in 2017 1,036 998
+Inventories 1,391 1,427
+Other current assets 271 228
+Total current assets 4,399 4,217
+Property, plant and equipment, less accumulated depreciation of $1,599 in 2018 and $1,471 in 2017 1,658 1,435
+Goodwill 2,519 1,510
+Identifiable intangible assets, less accumulated amortization 2,046 1,269
+Noncurrent deferred tax assets 61 80
+Other noncurrent assets 94 75
+Total assets $ 10,777 $ 8,586
+Liabilities and Equity
+Short-term borrowings $ 9 $ —
+Accounts payable 313 261
+Dividends payable 79 61
+Accrued expenses 487 432
+Accrued compensation and related items 266 236
+Income taxes payable 35 60
+Other current liabilities 34 44
+Total current liabilities 1,223 1,094
+Long-term debt, net of discount and issuance costs 6,443 4,953
+Noncurrent deferred tax liabilities 474 380
+Other taxes payable 265 172
+Other noncurrent liabilities 187 201
+Total liabilities 8,592 6,800
+Commitments and contingencies (Note 17)
+Stockholders' equity:
+Preferred stock, $0.01 par value; 1,000,000,000 authorized, none issued — —
+Common stock, $0.01 par value: 6,000,000,000 authorized, 501,891,243 and 501,891,243 shares issued;  
+479,562,326 and 486,130,461 shares outstanding at December 31, 2018 and 2017, respectively 5 5
+Treasury stock, at cost, 22,328,917 and 15,760,782 shares of common stock at December 31, 2018 and 2017,
+respectively (1,487) (852)
+Additional paid-in capital 1,026 1,013
+Retained earnings 3,270 2,109
+Accumulated other comprehensive loss (629) (505)
+Total Zoetis Inc. equity 2,185 1,770
+Equity attributable to noncontrolling interests — 16
+Total equity 2,185 1,786
+Total liabilities and equity $ 10,777 $ 8,586
+(a) As of December 31, 2018, and December 31, 2017, includes $5 million and $6 million, respectively, of restricted cash.
+See Notes to Consolidated Financial Statements, which are an integral part of these statements.
+65 |
+Page#3
+  ZOETIS INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+Year Ended December 31,
+(MILLIONS OF DOLLARS) 2018 2017 2016
+Operating Activities
+Net income before allocation to noncontrolling interests $ 1,424 $ 862 $ 819
+Adjustments to reconcile net income before noncontrolling interests to net cash
+provided by operating activities:
+Depreciation and amortization expense 308 242 240
+Share-based compensation expense 53 44 37
+Asset write-offs and asset impairments 4 3 5
+Net (gain)/loss on sales of assets (42) 11 (26)
+Provision for losses on inventory 54 54 105
+Deferred taxes(a) (112) 127 (55)
+Employee benefit plan contribution from Pfizer Inc. 3 3 3
+Other non-cash adjustments (14) 10 19
+Other changes in assets and liabilities, net of acquisitions and divestitures
+Accounts receivable (67) (50) 15
+Inventories 61 19 (101)
+Other assets (42) (16) (50)
+Accounts payable 37 (10) (28)
+Other liabilities 56 (38) (290)
+Other tax accounts, net 67 85 20
+Net cash provided by operating activities 1,790 1,346 713
+Investing Activities
+Capital expenditures (338) (224) (216)
+Acquisition of Abaxis, net of cash acquired (1,884) — —
+Other acquisitions (114) (82) (88)
+Net proceeds from sales of assets 56 37 90
+Proceeds from maturities and redemptions of investments 28 — —
+Other investing activities (7) (1) —
+Net cash used in investing activities (2,259) (270) (214)
+Financing Activities
+Increase/(decrease) in short-term borrowings, net 8 — (5)
+Principal payments on long-term debt — (750) (400)
+Proceeds from issuance of long-term debt—senior notes, net of discount and fees 1,485 1,231 —
+Payment of contingent consideration related to previously acquired assets (12) (7) (32)
+Share-based compensation-related proceeds, net of taxes paid on withholding shares and excess tax benefits 19 24 25
+Purchases of treasury stock (698) (500) (300)
+Cash dividends paid (243) (206) (188)
+Acquisition of a noncontrolling interest (26) (43) —
+Payment of debt issuance costs — — (3)
+Net cash provided by/(used in) financing activities 533 (251) (903)
+Effect of exchange-rate changes on cash and cash equivalents (26) 12 (23)
+Net increase/(decrease) in cash and cash equivalents 38 837 (427)
+Cash and cash equivalents at beginning of period 1,564 727 1,154
+Cash and cash equivalents at end of period $ 1,602 $ 1,564 $ 727
+See Notes to Consolidated Financial Statements, which are an integral part of these statements.
+67 |

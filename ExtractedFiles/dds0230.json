@@ -1,0 +1,101 @@
+[annotation_spec_id: "199000609511178240"
+display_name: "Year2"
+text_extraction {
+  score: 0.4833883047103882
+  text_segment {
+    start_offset: 4994
+    end_offset: 4998
+    content: "2018"
+  }
+}
+, annotation_spec_id: "199000609511178240"
+display_name: "Year2"
+text_extraction {
+  score: 0.646111249923706
+  text_segment {
+    start_offset: 5011
+    end_offset: 5015
+    content: "2017"
+  }
+}
+, annotation_spec_id: "7116529637152260096"
+display_name: "Year3"
+text_extraction {
+  score: 0.4757663607597351
+  text_segment {
+    start_offset: 5028
+    end_offset: 5032
+    content: "2016"
+  }
+}
+, annotation_spec_id: "5963608132545413120"
+display_name: "COGS"
+text_extraction {
+  score: 0.9999620914459229
+  text_segment {
+    start_offset: 5315
+    end_offset: 5328
+    content: "Cost of sales"
+  }
+}
+, annotation_spec_id: "5903164679831683072"
+display_name: "SGA"
+text_extraction {
+  score: 0.9998936057090759
+  text_segment {
+    start_offset: 5447
+    end_offset: 5491
+    content: "Selling, general and administrative expenses"
+  }
+}
+, annotation_spec_id: "440650175552159744"
+display_name: "InterestExpense"
+text_extraction {
+  score: 0.24863575398921967
+  text_segment {
+    start_offset: 5800
+    end_offset: 5825
+    content: "Interest and debt expense"
+  }
+}
+, annotation_spec_id: "5387147380241989632"
+display_name: "EBT"
+text_extraction {
+  score: 0.9981213212013245
+  text_segment {
+    start_offset: 6220
+    end_offset: 6246
+    content: "Income before income taxes"
+  }
+}
+, annotation_spec_id: "775461361814601728"
+display_name: "Taxes"
+text_extraction {
+  score: 0.6779299378395081
+  text_segment {
+    start_offset: 6410
+    end_offset: 6432
+    content: "Income taxes (benefit)"
+  }
+}
+, annotation_spec_id: "7692990389455683584"
+display_name: "NetIncome"
+text_extraction {
+  score: 0.9925300478935242
+  text_segment {
+    start_offset: 6623
+    end_offset: 6633
+    content: "Net income"
+  }
+}
+, annotation_spec_id: "1351922114118025216"
+display_name: "DandA"
+text_extraction {
+  score: 0.9998259544372559
+  text_segment {
+    start_offset: 7594
+    end_offset: 7623
+    content: "Depreciation and amortization"
+  }
+}
+]

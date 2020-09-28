@@ -1,0 +1,216 @@
+
+Page#1
+Table of Contents
+DISH NETWORK CORPORATION
+CONSOLIDATED BALANCE SHEETS
+(Dollars in thousands, except share amounts)
+ 
+ As  of 
+  December 31,  December 31, 
+  2018 2017 
+ 
+Assets 
+Current Assets: 
+Cash and cash equivalents  $ 887,346  $ 1,479,508 
+Marketable investment securities 1,181,471 501,165 
+Trade accounts receivable, net of allowance for doubtful accounts of $16,966 and $15,511, respectively 639,855 653,948 
+Inventory 290,733 321,008 
+Other current assets 289,800 329,394 
+Total current assets 3,289,205 3,285,023 
+ 
+Noncurrent Assets: 
+Restricted cash, cash equivalents and marketable investment securities 67,597 72,407 
+Property and equipment, net 1,928,180 2,183,661 
+FCC authorizations 24,736,961 23,725,789 
+Other investment securities 118,992 113,460 
+Other noncurrent assets, net 446,077 393,426 
+Total noncurrent assets 27,297,807 26,488,743 
+Total assets  $ 30,587,012  $ 29,773,766 
+ 
+Liabilities and Stockholders' Equity (Deficit) 
+Current Liabilities: 
+Trade accounts payable  $ 233,753  $ 393,305 
+Deferred revenue and other 655,312 709,074 
+Accrued programming 1,474,207 1,571,273 
+Accrued interest 268,479 282,006 
+Other accrued expenses 802,388 803,822 
+Current portion of long-term debt and capital lease obligations 1,341,993 1,068,524 
+Total current liabilities 4,776,132 4,828,004 
+ 
+Long-Term Obligations, Net of Current Portion: 
+Long-term debt and capital lease obligations, net of current portion 13,810,784 15,134,441 
+Deferred tax liabilities 2,474,907 2,019,538 
+Long-term deferred revenue and other long-term liabilities 470,932 470,487 
+Total long-term obligations, net of current portion 16,756,623 17,624,466 
+Total liabilities 21,532,755 22,452,470 
+ 
+Commitments and Contingencies (Note 14) 
+ 
+Redeemable noncontrolling interests (Note 2) 460,068 383,390 
+ 
+Stockholders’ Equity (Deficit): 
+Class A common stock, $.01 par value, 1,600,000,000 shares authorized, 229,448,857 and 228,033,671 shares issued
+and outstanding, respectively 2,295 2,280 
+Class B common stock, $.01 par value, 800,000,000 shares authorized, 238,435,208 shares issued and outstanding 2,384 2,384 
+Additional paid-in capital 3,379,093 3,296,488 
+Accumulated other comprehensive income (loss) (874)  882 
+Accumulated earnings (deficit) 5,212,790 3,635,380 
+Total DISH Network stockholders’ equity (deficit) 8,595,688 6,937,414 
+Noncontrolling interests (1,499)  492 
+Total stockholders’ equity (deficit) 8,594,189 6,937,906 
+Total liabilities and stockholders’ equity (deficit) $ 30,587,012  $ 29,773,766 
+ 
+ 
+The accompanying notes are an integral part of these consolidated financial statements.
+ 
+ 
+ 
+F-4
+ 
+Page#2
+Table of Contents
+DISH NETWORK CORPORATION
+CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE INCOME (LOSS)
+(Dollars in thousands, except per share amounts)
+ 
+ 
+  For the Years Ended December 31, 
+  2018 2017 2016 
+Revenue: 
+Subscriber-related revenue  $ 13,456,088  $ 14,260,412  $ 15,033,939 
+Equipment sales and other revenue 165,214 130,963 178,363 
+Total revenue  13,621,302 14,391,375 15,212,302 
+ 
+Costs and Expenses (exclusive of depreciation shown separately below - Note 8): 
+Subscriber-related expenses 8,544,577 8,919,985 8,913,624 
+Satellite and transmission expenses 576,568 658,017 710,719 
+Cost of sales - equipment and other 145,604 95,116 133,902 
+Subscriber acquisition costs: 
+Cost of sales - subscriber promotion subsidies  50,253 74,145 143,507 
+Other subscriber acquisition costs  292,824 579,272 709,772 
+Subscriber acquisition advertising  426,230 550,844 603,213 
+Total subscriber acquisition costs 769,307 1,204,261 1,456,492 
+General and administrative expenses 725,601 687,054 735,954 
+Litigation expense (Note 14) — 295,695 21,148 
+Depreciation and amortization (Note 8) 712,024 817,564 921,202 
+Impairment of long-lived assets (Note 8) — 145,918 — 
+Total costs and expenses  11,473,681 12,823,610 12,893,041 
+ 
+Operating income (loss) 2,147,621 1,567,765 2,319,261 
+ 
+Other Income (Expense): 
+Interest income 44,759 41,006 31,168 
+Interest expense, net of amounts capitalized (15,006)  (63,172)  (53,141) 
+Other, net 11,801 104,488 119,315 
+Total other income (expense)  41,554 82,322 97,342 
+ 
+Income (loss) before income taxes 2,189,175 1,650,087 2,416,603 
+Income tax (provision) benefit, net (533,684)  515,320 (865,818) 
+Net income (loss) 1,655,491 2,165,407 1,550,785 
+Less: Net income (loss) attributable to noncontrolling interests, net of tax 80,400 66,718 52,846 
+Net income (loss) attributable to DISH Network  $ 1,575,091  $ 2,098,689  $ 1,497,939 
+ 
+Weighted-average common shares outstanding - Class A and B common stock: 
+Basic 467,350 466,021 464,807 
+Diluted 525,832 522,596 484,162 
+ 
+Earnings per share - Class A and B common stock: 
+Basic net income (loss) per share attributable to DISH Network  $ 3.37  $ 4.50  $ 3.22 
+Diluted net income (loss) per share attributable to DISH Network  $ 3.00  $ 4.07  $ 3.15 
+ 
+Comprehensive Income (Loss): 
+Net income (loss)  $ 1,655,491  $ 2,165,407  $ 1,550,785 
+Other comprehensive income (loss): 
+Foreign currency translation adjustments (1,343)  1,027 — 
+Unrealized holding gains (losses) on available-for-sale securities (529)  9,671 3,050 
+Recognition of previously unrealized (gains) losses on available-for-sale securities included in net
+income (loss) (8)  (11,129)  (99,312) 
+Deferred income tax (expense) benefit, net 124 532 35,062 
+Total other comprehensive income (loss), net of tax (1,756)  101 (61,200) 
+Comprehensive income (loss) 1,653,735 2,165,508 1,489,585 
+Less: Comprehensive income (loss) attributable to noncontrolling interests, net of tax 80,400 66,718 52,846 
+Comprehensive income (loss) attributable to DISH Network  $ 1,573,335  $ 2,098,790  $ 1,436,739 
+ 
+  
+ 
+The accompanying notes are an integral part of these consolidated financial statements.
+ 
+ 
+ 
+F-5
+ 
+Page#3
+Table of Contents
+DISH NETWORK CORPORATION
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(In thousands)
+ 
+ 
+ 
+  For the Years Ended December 31, 
+  2018 2017 2016 
+Cash Flows From Operating Activities:
+ 
+ 
+Net income (loss) $ 1,655,491 $ 2,165,407 $ 1,550,785
+Adjustments to reconcile net income (loss) to net cash flows from operating activities: 
+Depreciation and amortization 712,024 817,564 921,202 
+Impairment of long-lived assets — 145,918 — 
+Realized and unrealized losses (gains) on investments (11,908)  (99,997)  (119,092) 
+Non-cash, stock-based compensation 36,261 29,941 13,037 
+Deferred tax expense (benefit) 454,699 (485,973)  506,808 
+Change in long-term deferred revenue and other long-term liabilities (3,303)  29,750 76,203 
+Other, net (70,900)  (29,632)  9,573 
+Changes in current assets and current liabilities, net 
+Trade accounts receivable 14,724 126,848 109,364 
+Allowance for doubtful accounts (1,270)  (2,888)  (4,566) 
+Prepaid and accrued income taxes 93,618 (46,599)  (144,212) 
+Inventory 14,788 37,895 (43,157) 
+Other current assets (46,772)  (63,154)  13,111 
+Trade accounts payable (160,952)  (131,399)  33,976 
+Deferred revenue and other (98,179)  (64,909)  (98,019) 
+Accrued programming and other accrued expenses (70,480)  350,735 29,234 
+Net cash flows from operating activities
+  2,517,841 2,779,507 2,854,247 
+ 
+Cash Flows From Investing Activities:
+ 
+Purchases of marketable investment securities (1,403,890)  (566,373)  (345,210) 
+Sales and maturities of marketable investment securities 730,210 206,272 868,792 
+Settlement of derivative financial instruments — — 562,234 
+Purchases of property and equipment (393,938)  (431,795)  (614,055) 
+Capitalized interest related to FCC authorizations (Note 2) (922,759)  (953,498)  (724,329) 
+Purchases of FCC authorizations, including deposits (Note 14) — (4,711,154)  (1,500,000) 
+Purchases of strategic investments — (90,381) — 
+Other, net 15,104 25,376 15,498 
+Net cash flows from investing activities
+  (1,975,273)  (6,521,553)  (1,737,070) 
+ 
+Cash Flows From Financing Activities:
+ 
+Proceeds from issuance of senior notes — — 2,000,000 
+Proceeds from issuance of convertible notes (Note 9) — 1,000,000 3,000,000 
+Purchases of convertible note hedges (Note 9) — — (635,100) 
+Proceeds from issuance of warrants (Note 9) — — 375,600 
+Redemption and repurchases of senior notes (1,108,489)  (1,074,139)  (1,500,000) 
+Repayment of long-term debt and capital lease obligations (42,767)  (42,422)  (43,521) 
+Payments made to parent of transferred businesses — (7,098)  (34,446) 
+Net proceeds from Class A common stock options exercised and stock issued under the Employee Stock
+Purchase Plan 19,981 28,574 18,625 
+Debt issuance costs — (6,158)  (26,622) 
+Other, net (3,270)  (1,994)  (606) 
+Net cash flows from financing activities
+  (1,134,545)  (103,237)  3,153,930 
+ 
+Net increase (decrease) in cash, cash equivalents, restricted cash and cash equivalents
+  (591,977)  (3,845,283)  4,271,107 
+Cash, cash equivalents, restricted cash and cash equivalents, beginning of period (Note 6) 1,479,901 5,325,184 1,054,077 
+Cash, cash equivalents, restricted cash and cash equivalents, end of period (Note 6)  $ 887,924  $ 1,479,901  $ 5,325,184 
+ 
+ 
+The accompanying notes are an integral part of these consolidated financial statements.
+ 
+ 
+ 
+F-8
+ 

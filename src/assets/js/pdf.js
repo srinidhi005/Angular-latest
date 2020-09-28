@@ -46,6 +46,7 @@ let actualsInput = {
 				actualObj.set(resObject[j].asof,{
 		
 					"totalRevenue":resObject[j].totalrevenue,
+					"revenueGrowth":(resObject[j].revenuepercent).toFixed(1),
 					"p_GrossProfit" : resObject[j].grossprofit, 
 					"p_EBIT" : resObject[j].ebit, 
 					"p_EBITDA" : resObject[j].ebitda, 
@@ -188,6 +189,7 @@ function updateProjection(obj){
 			obj.get(key).p_Ebitmargin = obj.get(key).p_Ebitmargin;
 			obj.get(key).p_Ebitdamargin = obj.get(key).p_Ebitdamargin;
 			obj.get(key).p_NetIM = obj.get(key).p_NetIM;
+			obj.get(key).revenueGrowth=(obj.get(key).revenueGrowth).toFixed(1)
 			//revenueGrowthArray.push(obj.get(key).revenueGrowth);
 			}
 	lastKey = key;
@@ -200,9 +202,10 @@ function appendTotable(){
 	yearsArray.sort();
 	$("#myTable").find("tr:gt(0)").remove();	
 	console.log("yearsarray",yearsArray);
-	var str ='<td style="width:400px;padding-top:10px">&nbsp</td>';
+	var str ='<td style="width:400px;padding: 10px 0px 0px 10px;font-style: italic">(in millions)</td>';
 	for (let i=0;i<yearsArray.length;i++) {
-		str = str +  '<td style="font-weight:bold;text-align:center;font-size:14px;width:85px">'+yearsArray[i]+'</td>';	
+		str = str +  '<td style="font-weight:bold;text-align:right;font-size:14px;width:85px;padding-right:20px">'+yearsArray[i]+'</td>';	
+
 	}
 	
 	$('#myTable tr:last').after('<tr>'+str+'</tr>');
@@ -210,12 +213,24 @@ function appendTotable(){
 		       str='<td style="font-weight:bold;text-align:left;padding-left:10px;font-size:12px;padding-top:16px;">Total Revenue</td>';
 			
 	for (let i=0;i<yearsArray.length;i++) {
-str = str +  '<td style="text-align:right;padding-right:20px;font-weight:bold;font-size:12px;padding-top:16px">'+'$'+formatter.format(actualObj.get(yearsArray[i]).totalRevenue)+'</td>';	
+str = str +  '<td style="text-align:right;padding-right:20px;font-weight:bold;font-size:12px;padding-top:16px;">'+'$'+formatter.format(actualObj.get(yearsArray[i]).totalRevenue)+'</td>';	
 	}
 	
 	$('#myTable tr:last').after('<tr>'+str+'</tr>');
 
-	
+
+	str='<td style="font-style: italic;text-align:left;padding-left:10px;font-size:12px">Revenue Y-O-Y Growth rate</td>';
+	        
+	        for (let i=0;i<yearsArray.length;i++) {
+			                if(i==0){
+						 str = str +  '<td style="font-style: italic;text-align:right;padding-right:20px;font-size:12px"> </td>';
+					}else{
+						        //var num= (actualObj.get(yearsArray[i]).revenueGrowth).toFixed(1);
+					
+						       str = str +  '<td style="font-style: italic;text-align:right;padding-right:20px;font-size:12px">'+actualObj.get(yearsArray[i]).revenueGrowth+'%'+'</td>';
+						             }  }
+						
+						                     $('#myTable tr:last').after('<tr>'+str+'</tr>');
 	
 	str='<td style="text-align:left;padding-left:10px;font-size:12px; padding-top:16px;">(-) Cost of Goods Sold (COGS)</td>';
 	
@@ -237,7 +252,7 @@ str = str +  '<td style="text-align:right;padding-right:20px;font-weight:bold;fo
 	str='<td style="font-style: italic;text-align:left;padding-left:10px;font-size:12px">Gross Margin</td>';
 	
 	for (let i=0;i<yearsArray.length;i++) {
-		str = str +  '<td style="font-style: italic;text-align:right;padding-right:20px;font-size:12px">'+actualObj.get(yearsArray[i]).p_GrossProfitMargin+'%'+'</td>';	
+		str = str +  '<td style="font-style: italic;text-align:right;padding-right:20px;font-size:12px;">'+actualObj.get(yearsArray[i]).p_GrossProfitMargin+'%'+'</td>';	
 	}
 
 	
@@ -270,7 +285,7 @@ str = str +  '<td style="text-align:right;padding-right:20px;font-weight:bold;fo
 	str='<td style="font-style: italic;text-align:left;padding-left:10px;font-size:12px">EBIT Margin</td>';
 	
 	for (let i=0;i<yearsArray.length;i++) {
-		str = str +  '<td style="font-style: italic;text-align:right ;padding-right:20px;font-size:12px">'+actualObj.get(yearsArray[i]).p_Ebitmargin+'%'+'</td>';	
+		str = str +  '<td style="font-style: italic;text-align:right ;padding-right:20px;font-size:12px;">'+actualObj.get(yearsArray[i]).p_Ebitmargin+'%'+'</td>';	
 	}
 
 
@@ -307,7 +322,7 @@ str = str +  '<td style="text-align:right;padding-right:20px;font-weight:bold;fo
 	
 	
 	for (let i=0;i<yearsArray.length;i++) {
-		str = str +  '<td style="text-align:right; font-style:italic;padding-right:20px;font-size:12px">'+actualObj.get(yearsArray[i]).p_Ebitdamargin+'%'+'</td>';	
+		str = str +  '<td style="text-align:right; font-style:italic;padding-right:20px;font-size:12px;">'+actualObj.get(yearsArray[i]).p_Ebitdamargin+'%'+'</td>';	
 	}
 
 	
@@ -359,7 +374,7 @@ str = str +  '<td style="text-align:right;padding-right:20px;font-weight:bold;fo
 		    str='<td style="font-style:italic;text-align:left;padding-left:10px;font-size:12px">EBT Margin</td>';
 	       	
 	       	for (let i=0;i<yearsArray.length;i++) {
-	       		str = str +  '<td style="text-align:right; font-style:italic;padding-right:20px;font-size:12px">'+actualObj.get(yearsArray[i]).p_EBTmargin+'%'+'</td>';	
+	       		str = str +  '<td style="text-align:right; font-style:italic;padding-right:20px;font-size:12px;">'+actualObj.get(yearsArray[i]).p_EBTmargin+'%'+'</td>';	
 			    	}
 
 	
@@ -390,7 +405,7 @@ str = str +  '<td style="text-align:right;padding-right:20px;font-weight:bold;fo
 		str='<td style="font-style: italic;text-align:left;padding-left:10px;font-size:12px">Net Income Margin</td>';
 	
 	for (let i=0;i<yearsArray.length;i++) {
-		str = str +  '<td style="text-align:right; font-style: italic;padding-right:20px;font-size:12px">'+actualObj.get(yearsArray[i]).p_NetIM+'%'+'</td>';	
+		str = str +  '<td style="text-align:right; font-style: italic;padding-right:20px;font-size:12px;">'+actualObj.get(yearsArray[i]).p_NetIM+'%'+'</td>';	
 	}
 
 	

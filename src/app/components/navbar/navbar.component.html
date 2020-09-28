@@ -2,9 +2,13 @@
   <div class=" container-fluid pl-0" >
       <div class="logo d-none d-sm-block">
           <a href="https://rmiinsights.com" class="simple-text logo-mini">
-            <div class="logo-img" style=" margin-top: -12px;width: 150px">
-              <img src="./assets/img/navlogo.png" style="height: 30px;width:150px"/>
-            </div>
+		  
+            <div class="logo-img" style="width:230px;height: 55px;margin-left: -22px;background: white;margin-top: -27px;">
+		    <span style="background:white">
+              <img src="./assets/img/RMI.jpg" style="height: 40px;margin-top: 8px;width:190px;"/>
+		    </span>
+	    </div>
+		 
           </a>
           <a href="https://rmiinsights.com" class="simple-text logo-normal" style="color:white">
          
@@ -38,22 +42,28 @@
       
       <ul class=" navbar-nav ml-auto">
        <li class=" nav-link">
-        
-        <input type="text" class="no-outline" placeholder="My Company" list="companyname" id="compsearch" >
+	       <div style="border-radius: 8px;border: 1px solid #fff;margin: 9px 0px 0px;padding: 4px;">
+		       <i class="fas fa-search" style="color: #fff; font-size: 14px; padding: 0px 5px;"></i>
+        <input type="text" class="no-outline" placeholder="Search Company"style="margin-top:0px !important" list="companyname" id="compsearch" >
         <datalist id="companyname">
           <option value="Nike">
     
         </datalist>
+	       </div>
           </li>
        
          
             
-         
-  <button type="button" class="btn btn-sm btn-primary float-right rmiBtn" [routerLink]="['/addcompany']" data-toggle="modal" data-target="#myModal" id="modalPopUpId">
-    <i class="fas fa-file-upload"></i>   Add Company 
-   </button>
-  
-        <li class=" nav-item" ngbDropdown>
+
+<!--<button type="button" class="btn btn-sm btn-primary float-right rmiBtn" [routerLink]="['/addcompany']" data-toggle="modal" data-target="#myModal" id="modalPopUpId">
+<i class="fas fa-file-upload"></i>   Add Company 
+</button>-->
+<!--<button type="button" class="btn btn-sm btn-primary" [routerLink]="['/addcompany']" data-toggle="modal" data-target="#myModal" id="modalPopUpId">
+	<i class="fa fa-plus"></i><span class="button-text"> Add Company</span>  
+</button>-->
+
+
+<li class=" nav-item" ngbDropdown>
 
           <a
             class=" nav-link"

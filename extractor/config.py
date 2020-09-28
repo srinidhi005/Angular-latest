@@ -1,4 +1,4 @@
-
+#configuration file
 gross_profit=["Gross profit","Gross margin","Gross Profit","Gross Margin"]
 r_and_d_pattern=["Research and development expense"]
 in_process_pattern=["In-process research and development"]

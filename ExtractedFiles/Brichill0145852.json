@@ -1,0 +1,20 @@
+[annotation_spec_id: "2470331048240611328"
+display_name: "IncomeStatement"
+text_extraction {
+  score: 0.9918150305747986
+  text_segment {
+    end_offset: 26
+    content: "Statement of Income (Loss)"
+  }
+}
+, annotation_spec_id: "1351922114118025216"
+display_name: "DandA"
+text_extraction {
+  score: 0.8139756321907043
+  text_segment {
+    start_offset: 2612
+    end_offset: 2641
+    content: "depreciation and amortization"
+  }
+}
+]

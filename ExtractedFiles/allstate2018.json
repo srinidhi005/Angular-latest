@@ -1,0 +1,110 @@
+[annotation_spec_id: "2504843618724872192"
+display_name: "Company"
+text_extraction {
+  score: 0.9973284602165222
+  text_segment {
+    end_offset: 20
+    content: "Financial Statements"
+  }
+}
+, annotation_spec_id: "2504843618724872192"
+display_name: "Company"
+text_extraction {
+  score: 0.9713048338890076
+  text_segment {
+    start_offset: 21
+    end_offset: 62
+    content: "The Allstate Corporation and Subsidiaries"
+  }
+}
+, annotation_spec_id: "2470331048240611328"
+display_name: "IncomeStatement"
+text_extraction {
+  score: 0.9871019721031189
+  text_segment {
+    start_offset: 63
+    end_offset: 100
+    content: "Consolidated Statements of Operations"
+  }
+}
+, annotation_spec_id: "4810686627938566144"
+display_name: "Year1"
+text_extraction {
+  score: 0.999999463558197
+  text_segment {
+    start_offset: 126
+    end_offset: 130
+    content: "2018"
+  }
+}
+, annotation_spec_id: "199000609511178240"
+display_name: "Year2"
+text_extraction {
+  score: 0.9999867677688599
+  text_segment {
+    start_offset: 131
+    end_offset: 135
+    content: "2017"
+  }
+}
+, annotation_spec_id: "7116529637152260096"
+display_name: "Year3"
+text_extraction {
+  score: 0.9795395731925964
+  text_segment {
+    start_offset: 136
+    end_offset: 140
+    content: "2016"
+  }
+}
+, annotation_spec_id: "3081304371028295680"
+display_name: "TotalRevenue"
+text_extraction {
+  score: 0.9999831914901733
+  text_segment {
+    start_offset: 761
+    end_offset: 775
+    content: "Total revenues"
+  }
+}
+, annotation_spec_id: "5387147380241989632"
+display_name: "EBT"
+text_extraction {
+  score: 0.999281108379364
+  text_segment {
+    start_offset: 1647
+    end_offset: 1695
+    content: "Income from operations before income tax expense"
+  }
+}
+, annotation_spec_id: "775461361814601728"
+display_name: "Taxes"
+text_extraction {
+  score: 0.9999970197677612
+  text_segment {
+    start_offset: 1714
+    end_offset: 1732
+    content: "Income tax expense"
+  }
+}
+, annotation_spec_id: "7692990389455683584"
+display_name: "NetIncome"
+text_extraction {
+  score: 0.9999582171440125
+  text_segment {
+    start_offset: 1745
+    end_offset: 1755
+    content: "Net income"
+  }
+}
+, annotation_spec_id: "1351922114118025216"
+display_name: "DandA"
+text_extraction {
+  score: 0.9902202486991882
+  text_segment {
+    start_offset: 5566
+    end_offset: 5592
+    content: "Depreciation, amortization"
+  }
+}
+]

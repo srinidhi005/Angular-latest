@@ -1,0 +1,180 @@
+
+Page#1
+Financial Statements 
+The Allstate Corporation and Subsidiaries
+ 
+Consolidated Statements of Operations
+ 
+Years Ended December 31, 
+($ in millions, except per share data) 2018 2017 2016 
+Revenues 
+Property and casualty insurance premiums (net of reinsurance ceded and 
+indemnification programs of $1,016, $971 and $987) $ 34,048 $ 32,300 $ 31,307 
+Life premiums and contract charges (net of reinsurance ceded of $290, 
+$303 and $309) 2,465 2,378 2,275 
+Other revenue 939 883 865 
+Net investment income 3,240 3,401 3,042 
+Realized capital gains and losses: 
+Total other-than-temporary impairment (“OTTI”) losses (13) (146) (313) 
+OTTI losses reclassified (from) to other comprehensive income ("OCI") (1) (4) 10 
+Net OTTI losses recognized in earnings (14) (150) (303) 
+Sales and valuation changes on equity investments and derivatives (863) 595 213 
+Total realized capital gains and losses (877) 445 (90) 
+Total revenues 39,815 39,407 37,399 
+Costs and expenses 
+Property and casualty insurance claims and claims expense 
+(net of reinsurance ceded and indemnification programs of $1,378, 
+$1,807 and $1,116) 22,839 21,929 22,221 
+Life contract benefits (net of reinsurance ceded of $240, $179 and $208) 1,973 1,923 1,857 
+Interest credited to contractholder funds (net of reinsurance ceded of $24, 
+$25 and $26) 654 690 726 
+Amortization of deferred policy acquisition costs 5,222 4,784 4,550 
+Operating costs and expenses 5,869 5,442 4,939 
+Amortization of purchased intangible assets 105 99 32 
+Restructuring and related charges 83 109 30 
+Goodwill impairment — 125 — 
+Interest expense 332 335 295 
+Total costs and expenses 37,077 35,436 34,650 
+Gain on disposition of operations 6 20 5 
+Income from operations before income tax expense 2,744 3,991 2,754 
+Income tax expense 492 802 877 
+Net income 2,252 3,189 1,877 
+Preferred stock dividends 148 116 116 
+Net income applicable to common shareholders $ 2,104 $ 3,073 $ 1,761 
+Earnings per common share: 
+Net income applicable to common shareholders per common share - Basic $ 6.05 $ 8.49 $ 4.72 
+Weighted average common shares - Basic 347.8 362.0 372.8 
+Net income applicable to common shareholders per common share - Diluted $ 5.96 $ 8.36 $ 4.67 
+Weighted average common shares - Diluted 353.2 367.8 377.3 
+See notes to consolidated financial statements. 
+2018 Annual Report 227 
+Page#2
+Financial Statements 
+The Allstate Corporation and Subsidiaries
+ 
+Consolidated Statements of Financial Position
+ 
+December 31, 
+($ in millions, except par value data) 2018 2017 
+Assets 
+Investments 
+Fixed income securities, at fair value (amortized cost $57,134 and $57,525) $ 57,170 $ 58,992 
+Equity securities, at fair value (cost $4,489 and $5,461) 5,036 6,621 
+Mortgage loans 4,670 4,534 
+Limited partnership interests 7,505 6,740 
+Short-term, at fair value (amortized cost $3,027 and $1,944) 3,027 1,944 
+Other 3,852 3,972 
+Total investments 81,260 82,803 
+Cash 499 617 
+Premium installment receivables, net 6,154 5,786 
+Deferred policy acquisition costs 4,784 4,191 
+Reinsurance and indemnification recoverables, net 9,565 8,921 
+Accrued investment income 600 569 
+Property and equipment, net 1,045 1,072 
+Goodwill 2,530 2,181 
+Other assets 3,007 2,838 
+Separate Accounts 2,805 3,444 
+Total assets $ 112,249 $ 112,422 
+Liabilities 
+Reserve for property and casualty insurance claims and claims expense $ 27,423 $ 26,325 
+Reserve for life-contingent contract benefits 12,208 12,549 
+Contractholder funds 18,371 19,434 
+Unearned premiums 14,510 13,473 
+Claim payments outstanding 1,007 875 
+Deferred income taxes 425 782 
+Other liabilities and accrued expenses 7,737 6,639 
+Long-term debt 6,451 6,350 
+Separate Accounts 2,805 3,444 
+Total liabilities 90,937 89,871 
+Commitments and Contingent Liabilities (Note 7, 8 and 14) 
+Shareholders’ equity 
+Preferred stock and additional capital paid-in, $1 par value, 25 million shares authorized, 79.8 
+thousand and 72.2 thousand issued and outstanding, $1,995 and $1,805 aggregate liquidation 
+1,930 1,746 
+preference 
+Common stock, $.01 par value, 2.0 billion shares authorized and 900 million issued, 332 million and 
+9 9 
+355 million shares outstanding 
+Additional capital paid-in 3,310 3,313 
+Retained income 45,708 43,162 
+Deferred Employee Stock Ownership Plan (“ESOP”) expense (3) (3) 
+Treasury stock, at cost (568 million and 545 million shares) (28,085) (25,982) 
+Accumulated other comprehensive income: 
+Unrealized net capital gains and losses: 
+Unrealized net capital gains and losses on fixed income securities with OTTI 75 85 
+Other unrealized net capital gains and losses (51) 1,981 
+Unrealized adjustment to DAC, DSI and insurance reserves (26) (404) 
+Total unrealized net capital gains and losses (2) 1,662 
+Unrealized foreign currency translation adjustments (64) (9) 
+Unrecognized pension and other postretirement benefit cost (1,491) (1,347) 
+Total accumulated other comprehensive (loss) income ("AOCI") (1,557) 306 
+Total shareholders’ equity 21,312 22,551 
+Total liabilities and shareholders’ equity $ 112,249 $ 112,422 
+See notes to consolidated financial statements. 
+2018 Annual Report 229 
+Page#3
+Financial Statements 
+The Allstate Corporation and Subsidiaries
+ 
+Consolidated Statements of Cash Flows
+ 
+Years Ended December 31, 
+($ in millions) 2018 2017 2016 
+Cash flows from operating activities 
+Net income $ 2,252 $ 3,189 $ 1,877 
+Adjustments to reconcile net income to net cash provided by operating 
+activities: 
+Depreciation, amortization and other non-cash items 511 483 382 
+Realized capital gains and losses 877 (445) 90 
+Gain on disposition of operations (6) (20) (5) 
+Interest credited to contractholder funds 654 690 726 
+Goodwill impairment — 125 — 
+Changes in: 
+Policy benefits and other insurance reserves 469 302 631 
+Unearned premiums 915 463 362 
+Deferred policy acquisition costs (296) (214) (165) 
+Premium installment receivables, net (396) (131) (42) 
+Reinsurance recoverables, net (656) (211) (264) 
+Income taxes (356) (245) 417 
+Other operating assets and liabilities 1,207 328 (16) 
+Net cash provided by operating activities 5,175 4,314 3,993 
+Cash flows from investing activities 
+Proceeds from sales 
+Fixed income securities 33,183 25,341 25,061 
+Equity securities 6,859 6,504 5,546 
+Limited partnership interests 764 1,125 881 
+Other investments 533 274 262 
+Investment collections 
+Fixed income securities 3,466 4,194 4,533 
+Mortgage loans 529 600 501 
+Other investments 488 642 421 
+Investment purchases 
+Fixed income securities (36,960) (31,145) (27,990) 
+Equity securities (5,936) (6,585) (5,950) 
+Limited partnership interests (1,679) (1,440) (1,450) 
+Mortgage loans (664) (646) (646) 
+Other investments (864) (999) (885) 
+Change in short-term investments, net (505) 2,610 (2,446) 
+Change in other investments, net (98) (30) (51) 
+Purchases of property and equipment, net (277) (299) (313) 
+Acquisition of operations (558) (1,356) — 
+Net cash used in investing activities (1,719) (1,210) (2,526) 
+Cash flows from financing activities 
+Proceeds from issuance of long-term debt 498 — 1,236 
+Redemption and repayment of long-term debt (400) — (17) 
+Proceeds from issuance of preferred stock 557 — — 
+Redemption of preferred stock (385) — — 
+Contractholder fund deposits 1,010 1,025 1,049 
+Contractholder fund withdrawals (1,967) (1,890) (2,087) 
+Dividends paid on common stock (614) (525) (486) 
+Dividends paid on preferred stock (134) (116) (116) 
+Treasury stock purchases (2,303) (1,495) (1,337) 
+Shares reissued under equity incentive plans, net 73 135 164 
+Excess tax benefits on share-based payment arrangements — — 32 
+Other 91 (57) 36 
+Net cash used in financing activities (3,574) (2,923) (1,526) 
+Net (decrease) increase in cash (118) 181 (59) 
+Cash at beginning of year 617 436 495 
+Cash at end of year $ 499 $ 617 $ 436 
+See notes to consolidated financial statements. 
+2018 Annual Report 231 

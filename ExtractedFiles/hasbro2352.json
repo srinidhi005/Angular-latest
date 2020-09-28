@@ -1,0 +1,151 @@
+[annotation_spec_id: "4810686627938566144"
+display_name: "Year1"
+text_extraction {
+  score: 0.9999285936355591
+  text_segment {
+    start_offset: 4729
+    end_offset: 4733
+    content: "2019"
+  }
+}
+, annotation_spec_id: "199000609511178240"
+display_name: "Year2"
+text_extraction {
+  score: 0.9928225874900818
+  text_segment {
+    start_offset: 4734
+    end_offset: 4738
+    content: "2018"
+  }
+}
+, annotation_spec_id: "7116529637152260096"
+display_name: "Year3"
+text_extraction {
+  score: 0.7661383748054504
+  text_segment {
+    start_offset: 4739
+    end_offset: 4743
+    content: "2017"
+  }
+}
+, annotation_spec_id: "3081304371028295680"
+display_name: "TotalRevenue"
+text_extraction {
+  score: 0.9292144775390625
+  text_segment {
+    start_offset: 4748
+    end_offset: 4756
+    content: "revenues"
+  }
+}
+, annotation_spec_id: "5963608132545413120"
+display_name: "COGS"
+text_extraction {
+  score: 0.9996647238731384
+  text_segment {
+    start_offset: 4933
+    end_offset: 4946
+    content: "Cost of sales"
+  }
+}
+, annotation_spec_id: "3657765123331719168"
+display_name: "GrossProfit"
+text_extraction {
+  score: 0.3860931396484375
+  text_segment {
+    start_offset: 5733
+    end_offset: 5750
+    content: "cost amortization"
+  }
+}
+, annotation_spec_id: "8269451141759107072"
+display_name: "EBIT"
+text_extraction {
+  score: 0.9992387890815735
+  text_segment {
+    start_offset: 6156
+    end_offset: 6172
+    content: "Operating profit"
+  }
+}
+, annotation_spec_id: "440650175552159744"
+display_name: "InterestExpense"
+text_extraction {
+  score: 0.9998880624771118
+  text_segment {
+    start_offset: 6336
+    end_offset: 6352
+    content: "Interest expense"
+  }
+}
+, annotation_spec_id: "440650175552159744"
+display_name: "InterestExpense"
+text_extraction {
+  score: 0.9905099868774414
+  text_segment {
+    start_offset: 6491
+    end_offset: 6506
+    content: "Interest income"
+  }
+}
+, annotation_spec_id: "440650175552159744"
+display_name: "InterestExpense"
+text_extraction {
+  score: 0.7849091291427612
+  text_segment {
+    start_offset: 6806
+    end_offset: 6827
+    content: "non-operating expense"
+  }
+}
+, annotation_spec_id: "5387147380241989632"
+display_name: "EBT"
+text_extraction {
+  score: 0.9999901652336121
+  text_segment {
+    start_offset: 6936
+    end_offset: 6964
+    content: "Earnings before income taxes"
+  }
+}
+, annotation_spec_id: "775461361814601728"
+display_name: "Taxes"
+text_extraction {
+  score: 0.9859638214111328
+  text_segment {
+    start_offset: 7073
+    end_offset: 7085
+    content: "Income taxes"
+  }
+}
+, annotation_spec_id: "7692990389455683584"
+display_name: "NetIncome"
+text_extraction {
+  score: 0.9998207092285156
+  text_segment {
+    start_offset: 7234
+    end_offset: 7246
+    content: "Net earnings"
+  }
+}
+, annotation_spec_id: "7692990389455683584"
+display_name: "NetIncome"
+text_extraction {
+  score: 0.6937384605407715
+  text_segment {
+    start_offset: 7408
+    end_offset: 7420
+    content: "Net earnings"
+  }
+}
+, annotation_spec_id: "2504843618724872192"
+display_name: "Company"
+text_extraction {
+  score: 0.841508150100708
+  text_segment {
+    start_offset: 7933
+    end_offset: 7944
+    content: "HASBRO, INC"
+  }
+}
+]

@@ -44,7 +44,7 @@ background-color: Transparent;
 							    outline:none;
 }
 
-#sel2{
+#sel2,#sel4{
 
     margin-top:9px;
 	    margin-right:30px;
@@ -148,12 +148,12 @@ background-color: Transparent;
 
 
 
-	  <a href="" id="dashBoardId" class="float-right rmiBtn">
+<!--	  <a href="" id="dashBoardId" class="float-right rmiBtn">
 		    <i class="fas fa-desktop" style="
 			        padding-right: 5px;
 				"></i>
  	    Dashboard
-	    </a>
+</a>-->
         <a href=""  id="addNewScenario" type="button" onclick="myAlertTop()" class="float-right rmiBtn" data-toggle="modal" data-target="#myModal" style="
 	           padding-right: 10px;
 		   padding-top: 10px;
@@ -166,11 +166,27 @@ background-color: Transparent;
         <a href="" id="saveScenario"  type="button"   onclick="myAlertTops()"  class="float-right rmiBtn" data-toggle="modal" data-target="#myModal" style="
 		    padding-right:10px;">
 		<i class="far fa-save" style="padding-right: 5px;"></i>Save Scenario </a>
-	 <a href="" id="metricsbtn" class="float-right">
+	
+       
+
+
+	<select type="button" id="sel4">
+		<option selected disabled value="" style="font-style:italic">Metrics</option>
+		<option value="pl" >P&L</option>
+		<option value="bs">Balance Sheet</option>
+	</select>
+
+
+
+
+
+
+<!--	<a href="" id="metricsbtn" class="float-right">
 		 <i class="fas fa-list-ol" style="padding-right:5px;" aria-hidden="true"></i>
 				                Metrics
 
-						            </a>
+</a>-->
+							    
 
   <a  id="deletebtn" class="float-right rmiBtn" data-toggle="modal" data-target="#popUpModal">
                  <i class="fa fa-trash" style="padding-right:5px;" aria-hidden="true"></i>

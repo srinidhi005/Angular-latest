@@ -11,6 +11,12 @@ import { AppRoutingModule } from "./app-routing.module";
 import { ComponentsModule } from "./components/components.module";
 import { LoginComponent } from './login/login.component';
 import { KpiComponent } from './pages/kpi/kpi.component';
+import { MetricsComponent } from './pages/metrics/metrics.component';
+import { BalancesheetComponent } from './pages/balancesheet/balancesheet.component';
+import { RmitemplateComponent } from './pages/rmitemplate/rmitemplate.component';
+import { PlComponent } from './pages/pl/pl.component';
+import { BsheetComponent } from './pages/bsheet/bsheet.component';
+import { BalancevisualComponent } from './pages/balancevisual/balancevisual.component';
 
 @NgModule({
   imports: [
@@ -23,7 +29,7 @@ import { KpiComponent } from './pages/kpi/kpi.component';
     AppRoutingModule,
     ToastrModule.forRoot()
   ],
-  declarations: [AppComponent, AdminLayoutComponent, LoginComponent, KpiComponent],
+  declarations: [AppComponent, AdminLayoutComponent, LoginComponent, KpiComponent, MetricsComponent, BalancesheetComponent, RmitemplateComponent, PlComponent, BsheetComponent, BalancevisualComponent],
   providers: [],
   bootstrap: [AppComponent],
 	exports:[LoginComponent]

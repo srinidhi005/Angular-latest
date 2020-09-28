@@ -1,0 +1,211 @@
+
+Page#1
+ 
+GoDaddy Inc. 
+Consolidated Balance Sheets 
+(In millions, except shares in thousands and per share amounts) 
+ 
+ 
+ December 31, 
+ 2018 2017
+Assets  
+Current assets: 
+Cash and cash equivalents $ 932.4 $ 582.7
+Short-term investments 18.9 12.3
+Accounts and other receivables 26.4 18.4
+Registry deposits 28.3 34.7
+Prepaid domain name registry fees 363.2 351.5
+Prepaid expenses and other current assets 58.1 59.9
+Total current assets 1,427.3 1,059.5
+Property and equipment, net 299.0 297.9
+Prepaid domain name registry fees, net of current portion 183.6 180.8
+Goodwill 2,948.0 2,859.9
+Intangible assets, net 1,211.5 1,326.0
+Other assets 14.0 14.2
+Total assets $ 6,083.4 $ 5,738.3
+Liabilities and stockholders' equity  
+Current liabilities: 
+Accounts payable $ 61.6 $ 59.6
+Accrued expenses and other current liabilities 414.3 469.6
+Deferred revenue 1,393.7 1,264.8
+Long-term debt 16.6 16.7
+Total current liabilities 1,886.2 1,810.7
+Deferred revenue, net of current portion 623.8 596.8
+Long-term debt, net of current portion 2,394.2 2,410.8
+Payable to related parties pursuant to tax receivable agreements 174.3 153.0
+Other long-term liabilities 63.2 75.0
+Deferred tax liabilities 117.2 145.5
+Commitments and contingencies 
+Stockholders' equity: 
+Preferred stock, $0.001 par value - 50,000 shares authorized; none issued and outstanding — —
+Class A common stock, $0.001 par value - 1,000,000 shares authorized; 168,549 and 132,993 
+0.2 0.1
+shares issued and outstanding as of December 31, 2018 and 2017, respectively
+Class B common stock, $0.001 par value - 500,000 shares authorized; 6,254 and 35,006 shares 
+— —
+issued and outstanding as of December 31, 2018 and 2017, respectively 
+Additional paid-in capital 699.8 484.4
+Retained earnings 164.8 87.7
+Accumulated other comprehensive loss (72.1) (85.7)
+Total stockholders' equity attributable to GoDaddy Inc. 792.7 486.5
+Non-controlling interests 31.8 60.0
+Total stockholders' equity 824.5 546.5
+Total liabilities and stockholders' equity $ 6,083.4 $ 5,738.3
+ 
+See accompanying notes to consolidated financial statements. 
+89 
+Page#2
+GoDaddy Inc. 
+Consolidated Statements of Operations 
+(In millions, except shares in thousands and per share amounts) 
+ Year Ended December 31, 
+ 2018  2017 2016 
+Revenue: 
+Domains $ 1,220.3  $ 1,057.2 $ 927.8
+Hosting and presence 1,017.6  847.9 678.7
+Business applications 422.2  326.8 241.4
+Total revenue 2,660.1  2,231.9 1,847.9
+Costs and operating expenses(1): 
+Cost of revenue (excluding depreciation and amortization) 893.9  775.5 657.8
+Technology and development 434.0  355.8 287.8
+Marketing and advertising 291.4  253.2 228.8
+Customer care 323.1  292.3 242.1
+General and administrative 334.0  282.4 221.2
+Depreciation and amortization 234.1  205.8 160.1
+Total costs and operating expenses 2,510.5  2,165.0 1,797.8
+Operating income 149.6  66.9 50.1
+Interest expense (98.4)  (83.0) (57.2)
+Loss on debt extinguishment —  (7.3) —
+Tax receivable agreements liability adjustment 14.9  123.2 (12.5)
+Other income (expense), net 6.9  7.0 (1.9)
+Income (loss) from continuing operations before income taxes 73.0  106.8 (21.5)
+Benefit (provision) for income taxes 9.0  18.9 (0.4)
+Income (loss) from continuing operations 82.0  125.7 (21.9)
+Income from discontinued operations, net of income taxes (includes $33.2 gain on  
+disposal, net of tax) —  14.1 —
+Net income (loss) 82.0  139.8 (21.9)
+Less: net income (loss) attributable to non-controlling interests 4.9  3.4 (5.4)
+Net income (loss) attributable to GoDaddy Inc. $ 77.1  $ 136.4 $ (16.5)
+Net income (loss) attributable to GoDaddy Inc. per share of Class A common stock—
+basic: 
+Continuing operations $ 0.50  $ 1.17 $ (0.21)
+Discontinued operations —  0.08 —
+Net income (loss) attributable to GoDaddy Inc. $ 0.50  $ 1.25 $ (0.21)
+Net income (loss) attributable to GoDaddy Inc. per share of Class A common stock—
+diluted: 
+Continuing operations $ 0.45  $ 0.71 $ (0.21)
+Discontinued operations —  0.08 —
+Net income (loss) attributable to GoDaddy Inc. $ 0.45  $ 0.79 $ (0.21)
+Weighted-average shares of Class A common stock outstanding: 
+Basic 155,234  108,779 79,835
+Diluted 181,353  177,054 79,835
+ 
+___________________________ 
+ 
+(1) Costs and operating expenses include equity-based compensation expense as follows: 
+  
+Technology and development $ 57.8 $ 37.1 $ 23.2
+  
+Marketing and advertising 10.3 7.3 8.1
+  
+Customer care 6.2 3.6 3.9
+  
+General and administrative 51.2 28.4 21.6
+  
+Total equity-based compensation expense $ 125.5 $ 76.4 $ 56.8
+ 
+See accompanying notes to consolidated financial statements. 
+90 
+Page#3
+GoDaddy Inc. 
+Consolidated Statements of Cash Flows 
+(In millions) 
+ Year Ended December 31, 
+ 2018  2017 2016 
+Operating activities 
+ 
+Net income (loss) $ 82.0 $ 139.8 $ (21.9)
+Adjustments to reconcile net income (loss) to net cash provided by operating activities: 
+ 
+Depreciation and amortization 234.1  205.8 160.1
+ 
+Equity-based compensation 125.5  76.4 56.8
+ 
+Loss on debt extinguishment —  7.3 —
+Deferred taxes (26.2)  (34.5) (3.8)
+Tax receivable agreements liability adjustment (14.9)  (123.2) 12.5
+ 
+Gain on sale of discontinued operations —  (33.2) —
+ 
+Other 14.8  13.3 20.5
+Changes in operating assets and liabilities, net of amounts acquired: 
+ 
+Registry deposits 6.2  (10.1) (1.9)
+Prepaid domain name registry fees (15.9)  (13.5) (22.8)
+Accounts payable (3.4)  (8.4) 19.6
+ 
+Accrued expenses and other current liabilities 14.9  32.6 10.0
+ 
+Deferred revenue 158.0  220.0 160.8
+Other operating assets and liabilities (15.3)  3.3 (3.4)
+ 
+Net cash provided by operating activities 559.8  475.6 386.5
+Investing activities 
+Purchases of short-term investments (24.8)  (28.3) (10.5)
+ 
+Maturities of short-term investments 18.5  22.6 8.4
+Business acquisitions, net of cash acquired (147.2)  (1,876.9) (118.5)
+Purchases of intangible assets (9.3)  (52.0) (1.3)
+Net proceeds from sale of discontinued operations, including post-closing adjustments (4.3)  447.7 —
+Purchases of property and equipment (87.7)  (83.2) (61.5)
+Net cash used in investing activities (254.8)  (1,570.1) (183.4)
+Financing activities 
+Proceeds received from: 
+ 
+Debt issued to finance HEG acquisition —  1,953.1 —
+ 
+Stock option exercises 67.2  61.1 55.0
+ 
+Sales of Class A common stock, net of issuance costs —  22.9 —
+ 
+Issuance of Class A common stock under employee stock purchase plan 21.9  17.4 5.0
+Payments made for: 
+ 
+Repurchases of LLC Units and distributions to holders of LLC Units —  (285.0) (18.8)
+ 
+Repayment of HEG acquisition bridge financing —  (596.6) —
+Repayment of term loans (25.0)  (15.3) (11.0)
+ 
+Financing-related costs —  (39.7) —
+Other financing obligations (17.1)  (10.4) (15.1)
+ 
+Net cash provided by financing activities 47.0  1,107.5 15.1
+Effect of exchange rate changes on cash and cash equivalents (2.3)  3.6 (0.1)
+ 
+Net increase in cash and cash equivalents 349.7  16.6 218.1
+ 
+Cash and cash equivalents, beginning of period 582.7  566.1 348.0
+ 
+Cash and cash equivalents, end of period $ 932.4  $ 582.7 $ 566.1
+Supplemental cash flow information: 
+Cash paid during the period for: 
+94 
+Page#4
+GoDaddy, Inc. 
+Consolidated Statements of Cash Flows (continued) 
+(In millions) 
+ Year Ended December 31, 
+ 2018  2017 2016 
+ 
+Interest on long-term debt, net of swap benefit $ 84.1  $ 88.3 $ 46.5
+ 
+Income taxes, net of refunds received $ 22.8 $ 16.6 $ 4.0
+Supplemental information for non-cash investing and financing activities: 
+ 
+Acquisition date fair value of contingent consideration $ 45.6  $ 14.8 $ 5.6
+ 
+Accrued capital expenditures at period end $ 21.9  $ 7.4 $ 13.1
+ 
+ 
+See accompanying notes to consolidated financial statements. 
+95 

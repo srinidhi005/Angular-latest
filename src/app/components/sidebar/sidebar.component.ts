@@ -18,13 +18,39 @@ export const ROUTES: RouteInfo[] = [
     title: "Add Company",
     icon: "icon-atom",
     class: ""
-  },
+    },
+    {
+    path: "/rmitemplate",
+    title: "RMI Template",
+    icon: "icon-align-center",
+    class: ""
+    },
+   
+    {
+    path: "/pl",
+    title: "RMI Insights Credit Scorecard",
+    icon: "icon-puzzle",
+    class: ""
+    },
+    {
+    path:"/bsheet",
+    title:"Balance Sheet",
+    icon: "icon-atom",
+    class: ""
+    },
   {
     path: "/statement",
     title: "Statements",
     icon: "icon-puzzle-10",
     class: ""
-  },
+    },
+    {
+    path:"/kpi",
+    title:"P&L",
+    icon:"icon-puzzle-10",
+    class:""
+    },
+
   {
     path: "/AdjustAssumption",
     title: "Adjust Assumption",
@@ -42,7 +68,8 @@ export const ROUTES: RouteInfo[] = [
     title: "TargetvActual",
     icon: "icon-single-02",
     class: ""
-  },
+    },
+
  
   {
     path: "/FinancialModel",
